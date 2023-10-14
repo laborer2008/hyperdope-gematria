@@ -1,3 +1,4 @@
+CREATE_GEMATRO_DB
 Solstice
 Solstices
 Summer solstice
