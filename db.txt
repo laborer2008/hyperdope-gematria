@@ -55,8 +55,8 @@ Time 3:45 night
 Time 3:45 at night
 Holiday
 Holidays
-Congraulation
-Congraulations
+Congratulation
+Congratulations
 Greeting
 Greetings
 Public holiday
@@ -105,6 +105,7 @@ Loaf Mass Day
 Unity Day
 Day of People's Unity
 National Unity Day
+Thanksgiving Day
 Arrow
 Arrows
 Pointer
@@ -337,6 +338,15 @@ Cycle
 Cycles
 Cyclicity
 Cyclicities
+Time keeper
+Time's keeper
+Time's keepers
+Keeper of time
+Keeper of the time
+Keeper of times
+Keeper of the times
+Keepers of times
+Keepers of the times
 Time machine
 Time machines
 Time traveller
@@ -507,9 +517,16 @@ Timers
 Timepiece
 Timepieces
 Time cube
-Cube of time
+Time's cube
+Cube of Time
+Cube of the Time
 Time cube symbol
-Time cube symbols
+Time cube's symbol
+Time cube's symbols
+Symbol of Time cube
+Symbol of the Time cube
+Symbols of Time cube
+Symbols of the Time cube
 Time zone
 Time zones
 Today
@@ -523,7 +540,10 @@ Next month
 Next months
 Next year
 Next years
+Time Matter
+Time's Matter
 Matter of time
+Matter of the time
 Time fabric
 Time's fabric
 Fabric of time
@@ -1635,6 +1655,24 @@ Cataclysm
 Cataclysms
 Element
 Elements
+Storm
+Storms
+Stormy
+Storm is coming
+There is a storm coming
+There is a storm coming in
+There’s a storm coming in
+Calm before the storm
+Magnetic storm
+Magnetic storms
+Radio storm
+Radio storms
+Geomagnetic disturbance
+Geomagnetic disturbances
+Magnetic disturbance
+Magnetic disturbances
+Powerful magnetic storm
+Powerful magnetic storms
 Flood
 Floods
 Dive
@@ -1718,17 +1756,6 @@ Medical emergency
 Medical emergencies
 Force majeure
 Civil defense
-Collapse
-Collapses
-System collapse
-System's collapse
-System's collapses
-Collapse of system
-Collapse of the system
-Collapse of systems
-Collapse of the systems
-Collapses of systems
-Collapses of the systems
 Earthquake
 Earthquakes
 Great earthquake
@@ -2187,6 +2214,9 @@ Unmanned car
 Unmanned cars
 Unmanned automobile
 Unmanned automobiles
+Autopilot
+Autopilots
+Auto manned
 Transport
 Stone
 Stones
@@ -2887,6 +2917,8 @@ Computer trespassers
 Computer terrorism
 Computer terrorist
 Computer terrorists
+Social engineering
+Algorithmic engineering
 Programmer
 Programmers
 Computer specialist
@@ -2987,6 +3019,8 @@ Server room
 Server rooms
 Data center
 Data centers
+Organic server
+Organic servers
 Account
 Accounts
 Personal account
@@ -3644,6 +3678,8 @@ Reboot of computers
 Reboot of the computers
 Reboots of computers
 Reboots of the computers
+Electronic brain
+Electronic brains
 Neuron
 Neurons
 Neuronic
@@ -3786,6 +3822,12 @@ Digital trace
 Digital traces
 Digital trail
 Digital trails
+Deepfake
+Deepfakes
+Audio deepfake
+Audio deepfakes
+Voice cloning
+Voice clonings
 Machine learning
 Machine's learning
 Machine's learnings
@@ -4483,6 +4525,10 @@ Chipization
 Chipizations
 Forced chipization
 Forced chipizations
+Organic chip
+Organic chips
+Liquid chip
+Liquid chips
 Blackout
 Blackouts
 Power outage
@@ -4597,6 +4643,8 @@ Site of energy
 Site of the energy
 Sites of energy
 Sites of the energy
+Blue energy
+Red energy
 GPS
 muPS
 Glonass
@@ -4638,6 +4686,9 @@ Blueprints
 Orrery
 Human hologram
 Human holograms
+Sensor
+Sensors
+Sensor data
 Radio
 Airwave
 Airwaves
@@ -4754,6 +4805,18 @@ Power station
 Power stations
 Technology
 Technologies
+Alien technology
+Alien's technology
+Alien technologies
+Alien's technologies
+Technology of alien
+Technology of the alien
+Technology of aliens
+Technology of the aliens
+Technologies of alien
+Technologies of the alien
+Technologies of aliens
+Technologies of the aliens
 Extraterrestrial technology
 Extraterrestrial technologies
 Antediluvian technology
@@ -4974,6 +5037,10 @@ Valeyev
 Valeyev A. T.
 Valeyev A.
 Valeyev Alisher T.
+Shegalov Vadim 
+Shegalov
+Shegalov V.
+Blogger Shegalov Vadim
 Bronstein Lev Davidovich
 Bronstein Lev
 Bronstein
@@ -5447,6 +5514,16 @@ Pepe Orsini
 Pepe
 Orsini
 P. Orsini
+Karl Heinrich Marx
+Karl Marx
+Marx K.
+Marx K. H.
+Marx
+Moses Mordechai Levi
+Moses Levi
+Levi M.
+Levi M. M.
+Levi
 Greta Thunberg
 Thunberg
 Greta
@@ -5717,6 +5794,8 @@ Grandkid
 Grandkids
 Relative
 Relatives
+Family value
+Family values
 Adamite
 Adamites
 Adam Generations
@@ -5750,6 +5829,20 @@ Neanderthal
 Neanderthals
 Neanderthal man
 Neanderthal men
+Сynocephalus
+Cynocephaly
+Cynocephali
+Dog-headed human
+Dog-headed humans
+Puppet
+Puppets
+Dummy
+Dummies
+Fictitious person
+Fictitious persons
+Demography
+Male surplus
+Female surplus
 Denisovan
 Denisovans
 Denisovan man
@@ -5758,6 +5851,12 @@ Team
 Teams
 Crew
 Crews
+Legendary man
+Legendary men
+Made-up man
+Made-up men
+Invented man
+Invented men
 Homo
 Home Sapiens
 Home Deus
@@ -5952,6 +6051,11 @@ Pride protest
 Pride protests
 Gender insanity
 Gender insanities
+Trap
+Traps
+Cross-dressing
+Cross-dresser
+Cross-dressers
 Barbarian
 Barbarians
 Barbarous
@@ -6061,6 +6165,7 @@ FBI
 Federal Bureau of Investigation
 US Department of State
 United States Department of State
+Bill & Melinda Gates Foundation
 Bill and Melinda Gates Foundation
 Defense Advanced Research Projects Agency
 DARPA
@@ -6157,6 +6262,7 @@ Advert
 Adverts
 Advertisement
 Advertisements
+Distant future
 Fiddle
 Fiddles
 Fiddler
@@ -6226,12 +6332,21 @@ Olympics
 Olympic games
 Olympic
 Olympiad
+Sport
+Sports
+Sporty
+Athletic
 Championship
+Championships
 Football
 One gate play
 One gate game
 Bodybuilding
 Fitness
+Gym
+Gyms
+Gymnasium
+Gymnasiums
 blizzard.com
 http://blizzard.com
 https://blizzard.com
@@ -6562,11 +6677,10 @@ Poetesses
 Poetic
 Poetical
 Hollywood
+Film industry
+Film industries
 Piece of news
 News
-Propaganda
-Political propaganda
-Thought propaganda
 Breaking news
 Breaking
 Job's news
@@ -6709,6 +6823,15 @@ Roller coaster
 Roller coasters
 Firework
 Fireworks
+Propaganda
+Propagandas
+Political propaganda
+Political propagandas
+Thought propaganda
+Thought propagandas
+Proragandist
+Proragandists
+Propagandistic
 Occult ritual
 Occult rituals
 Occult rite
@@ -6911,6 +7034,31 @@ Ritual sexual offence
 Ritual sexual offences
 Ritual sexual assault
 Ritual sexual assaults
+Magic ceremony
+Magic's ceremony
+Magic ceremonies
+Magic's ceremonies
+Ceremony of magic
+Ceremony of the magic
+Ceremony of magics
+Ceremony of the magics
+Ceremonies of magic
+Ceremonies of the magic
+Ceremonies of magics
+Ceremonies of the magics
+Ceremonial magic
+Ceremonial magics
+Magic rite
+Magic's rite
+Magic's rites
+Rite of magic
+Rite of the magic
+Rite of magics
+Rite of the magics
+Rites of magics
+Rites of the magics
+Ritual magic
+Ritual magics
 Water ritual
 Water's ritual
 Water's rituals
@@ -7454,6 +7602,9 @@ Occultism
 Occult
 Occult group
 Occult groups
+Occult symbol
+Occult symbols
+Occult symbolism
 Prima materia
 Prime matter
 First matter
@@ -7614,6 +7765,10 @@ Magical artefact
 Magical artefacts
 Magical artifact
 Magical artifacts
+Ancient artefact
+Ancient artefacts
+Ancient artifact
+Ancient artifacts
 Telepathy
 Telepathic
 Telepathic dialog
@@ -7662,8 +7817,6 @@ Magic spell
 Magic spells
 Magic circle
 Magic circles
-Ceremonial magic
-Ritual magic
 High magic
 Learned magic
 Occult magic
@@ -8084,7 +8237,21 @@ Abuse of alcohols
 Abuse of the alcohols
 Abuses of alcohols
 Abuses of the alcohols
+Alcohol poisoning
+Alcohol poisonings
+Alcohol intoxication
+Alcohol's intoxication
+Alcohol's intoxications
+Intoxication from alcohol
+Intoxication from the alcohol
+Intoxication from alcohols
+Intoxication from the alcohols
+Intoxications from alcohols
+Intoxications from the alcohols
 Alcohol
+Alcohol drink
+Alcohol drinks
+Spirits
 Wine
 Wines
 Beer
@@ -8109,6 +8276,7 @@ Milks
 Milky
 Milk food
 Milk foods
+Syntetic milk
 Dairy
 Dairies
 Cream
@@ -8305,6 +8473,12 @@ Protein from insects
 Protein from the insects
 Proteins from insects
 Proteins from the insects
+Nutritional larva
+Nutritional larvae
+Nutritional worm
+Nutritional worms
+Nutritional fly
+Nutritional flies
 Sausage
 Sausages
 Boiled sausage
@@ -8348,6 +8522,24 @@ Feed of cattles
 Feed of the cattles
 Feeds of cattles
 Feeds of the cattles
+Poor food
+Poor's food
+Poor's foods
+Food of poor
+Food of the poor
+Food of poors
+Food of the poors
+Foods of poors
+Foods of the poors
+Poor feed
+Poor's feed
+Poor's feeds
+Feed of poor
+Feed of the poor
+Feed of poors
+Feed of the poors
+Feeds of poors
+Feeds of the poors
 Soylent
 Soylent Green
 Human flesh
@@ -8509,6 +8701,8 @@ Bite of meats
 Bite of the meats
 Bites of meats
 Bites of the meats
+Butcher
+Butchers
 Tobacco
 Cigarette
 Cigarettes
@@ -11347,6 +11541,29 @@ Sverdlovsk air
 IATA U6
 ICAO SVR
 Travelling Club Wings
+aeroflot.ru
+http://aeroflot.ru
+https://aeroflot.ru
+www.aeroflot.ru
+http://www.aeroflot.ru
+https://www.aeroflot.ru
+aeroflot.com
+http://aeroflot.com
+https://aeroflot.com
+www.aeroflot.com
+http://www.aeroflot.com
+https://www.aeroflot.com
+AFLT
+MCX: AFLT
+MOEX: AFLT
+AFLT ticker
+Aeroflot
+Aeroflot – Russian Airlines
+PJSC Aeroflot – Russian Airlines
+PJSCo Aeroflot – Russian Airlines
+Public Joint Stock Company Aeroflot – Russian Airlines
+Public Joint Stock Corporation Aeroflot – Russian Airlines
+Aeroflot Bonus
 wildberries.ru
 http://wildberries.ru
 https://wildberries.ru
@@ -11699,7 +11916,20 @@ Biometry systems
 Biometry database
 Biometry databases
 Biometry collecting
-Collection of biometrical data
+Biometric data collecting
+Biometric data's collecting
+Biometric data's collectings
+Collecting of biometric data
+Collecting of the biometric data
+Collectings of biometric data
+Collectings of the biometric data
+Biometrical data collecting
+Biometrical data's collecting
+Biometrical data's collectings
+Collecting of biometrical data
+Collecting of the biometrical data
+Collectings of biometrical data
+Collectings of the biometrical data
 Biometrical identification
 Biometrical identifications
 Biometrical personal data
@@ -11760,6 +11990,8 @@ Samples of voices
 Samples of the voices
 Digital identity
 Digital identities
+Digital Public Infrastructure
+DPI
 Venus Project
 Beyond politics poverty and war
 Thoughtcrime
@@ -12002,64 +12234,6 @@ Russian csar
 Russian csars
 Russian tsar
 Russian tsars
-44th President of the United States
-44th President of the United States of America
-44th President of the USA
-45th President of the United States
-45th President of the United States of America
-45th President of the USA
-46th President of the United States
-46th President of the United States of America
-46th President of the USA
-47th President of the United States
-47th President of the United States of America
-47th President of the USA
-48th President of the United States
-48th President of the United States of America
-48th President of the USA
-American president
-American presidents
-POTUS
-POTUS 44
-POTUS 45
-POTUS 46
-POTUS 47
-POTUS 48
-American authority
-American authorities
-Israeli president
-Israeli presidents
-Israeli prime minister
-Israeli prime ministers
-Israeli premier
-Israeli premiers
-Israeli authority
-Israeli authorities
-Azerbaijani president
-Azerbaijani presidents
-Azerbaijanian president
-Azerbaijaniam presidents
-Azerbaijani authority
-Azerbaijani authorities
-Azerbaijanian authority
-Azerbaijanian authorities
-Ukrainian president
-Ukrainian presidents
-Ukrainian authority
-Ukrainian authorities
-Puppet president
-Puppet presidents
-Dummy president
-Dummy presidents
-Inauguration
-Inaugurations
-Inauguration of president
-Inaugurations of president
-Swearing-in of a new president
-Russian president
-Russian presidents
-Russian authority
-Russian authorities
 Sickle
 Sickle + Hammer
 The Sickle + The hammer
@@ -12093,6 +12267,145 @@ Communist
 Communists
 Communist party
 Communist parties
+44th President of the United States
+44th President of the United States of America
+44th President of the USA
+45th President of the United States
+45th President of the United States of America
+45th President of the USA
+46th President of the United States
+46th President of the United States of America
+46th President of the USA
+47th President of the United States
+47th President of the United States of America
+47th President of the USA
+48th President of the United States
+48th President of the United States of America
+48th President of the USA
+American president
+American presidents
+POTUS
+POTUS 44
+POTUS 45
+POTUS 46
+POTUS 47
+POTUS 48
+Oval Office
+American authority
+American authorities
+American government
+USA government
+USA's government
+Government of USA
+Government of the USA
+United States government
+Government of United States
+Government of the United States
+United States of America government
+United States of America's government
+Government of United States of America
+Government of the United States of America
+USA authorities
+USA's authorities
+Authorities of USA
+Authorities of the USA
+United States authorities
+Authorities of United States
+Authorities of the United States
+United States of America authorities
+United States of America's authorities
+Authorities of United States of America
+Authorities of the United States of America
+Israeli president
+Israeli presidents
+Israeli prime minister
+Israeli prime ministers
+Israeli premier
+Israeli premiers
+Israeli authority
+Israeli authorities
+Israeli government
+Israel government
+Israel's government
+Government of Israel
+Government of the Israel
+Israel authorities
+Israel's authorities
+Authorities of Israel
+Authorities of the Israel
+Azerbaijani president
+Azerbaijani presidents
+Azerbaijanian president
+Azerbaijaniam presidents
+Azerbaijani authority
+Azerbaijani authorities
+Azerbaijanian authority
+Azerbaijanian authorities
+British government
+British authority
+British authorities
+England government
+England's government
+Government of England
+Government of the England
+England authorities
+England's authorities
+Authorities of England
+Authorities of the England
+Ukrainian president
+Ukrainian presidents
+Ukrainian authority
+Ukrainian authorities
+Ukrainian government
+Ukraine government
+Ukraine's government
+Government of Ukraine
+Government of the Ukraine
+Ukraine authorities
+Ukraine's authorities
+Authorities of Ukraine
+Authorities of the Ukraine
+Russian president
+Russian presidents
+Russian authority
+Russian authorities
+Russian government
+Russia government
+Russia's government
+Government of Russia
+Government of the Russia
+Russia authorities
+Russia's authorities
+Authorities of Russia
+Authorities of the Russia
+Cooperative Ozero
+Dacha cooperative Ozero
+Puppet president
+Puppet presidents
+Dummy president
+Dummy presidents
+Inauguration
+Inaugurations
+President inauguration
+President's inauguration
+President's inaugurations
+Inauguration of president
+Inauguration of the president
+Inauguration of presidents
+Inauguration of the presidents
+Inaugurations of presidents
+Inaugurations of the presidents
+New president swearing-in
+New president's swearing-in
+New president's swearing-ins
+Swearing-in of new president
+Swearing-in of the new president
+Swearing-in of new presidents
+Swearing-in of the new presidents
+Swearing-ins of new presidents
+Swearing-ins of the new presidents
+Female president
+Female presidents
 Government project
 Government's project
 Government's projects
@@ -12326,10 +12639,10 @@ Federal Government
 Government in waiting
 Secret government
 Hidden government
-Oval Office
 Governmental
 Authority
 Authorities
+Idiocracy
 Lobby
 Influence agent
 Influence's agent
@@ -12371,6 +12684,14 @@ Senator
 Senators
 Chancellor
 Chancellors
+Duma
+Douma
+State duma
+State douma
+Deputy
+Deputies
+Delegate
+Delegates
 Political whore
 Political whores
 Political prostitute
@@ -12597,6 +12918,9 @@ Under control of AI
 Under control of the AI
 Under control of Artificial Intelligence 
 Under control of the Artificial Intelligence 
+Technocracy
+Technocracies
+Technocratic
 Minister
 Ministers
 Secretary
@@ -12737,9 +13061,19 @@ Supreme rulers
 Official
 Officials
 Lust to power
+Lust to the power
+Lust to powers
+Lust to the powers
 Will to power
+Will to the power
+Will to powers
+Will to the powers
 Executive
 Executives
+Control tool
+Control tools
+Control instrument
+Control instruments
 Seizure power
 Seizure's power
 Power of seizure
@@ -13634,7 +13968,10 @@ Mouse
 Mice
 Rat
 Rats
-Rat desert sinking ship
+Rat deserting from sinking ship
+Rat deserting from the sinking ship
+Rat deserting from sinking ships
+Rat deserting from the sinking ships
 Spider
 Spiders
 Arachnoid
@@ -13877,10 +14214,14 @@ Ukraine symbol
 Ukraine's symbol
 Symbol of Ukraine
 Symbol of the Ukraine
+Guinea pig
+Guinea pigs
 Cat
 Cats
 Kitten
 Kittens
+Pull the cat by the tail
+Pull the cat’s tail
 Clean beast
 Clean beasts
 Beast that is not clean
@@ -13967,6 +14308,8 @@ Tattoo
 Tattoos
 Tattooing
 Tattooings
+Wrinkle
+Wrinkles
 Kidney
 Kidneys
 Renal
@@ -14034,7 +14377,10 @@ Placenta
 Heart
 Hearts
 Cardiac
+Heartbeat
+Heartbeats
 Hardened heart
+Hardened hearts
 Anatomy
 Anatomic
 Human body
@@ -14263,6 +14609,18 @@ Rapid antigen tests
 RAT
 COVID-19 rapid antigen test
 COVID-19 rapid antigen tests
+Anesthesia
+Anesthesias
+Anaesthesia
+Anaesthesias
+Local anesthesia
+Local anesthesias
+Local anaesthesia
+Local anaesthesias
+General anesthesia
+General anesthesias
+General anaesthesia
+General anaesthesias
 Biotechnology
 Biotechnologies
 Vaccine
@@ -14438,6 +14796,12 @@ Cardioaccelerator
 Cardioaccelerators
 Cardiac arrest
 Cardiac arrests
+Heart failure
+Heart failures
+Acute heart failure
+Acute heart failures
+Chronic heart failure
+Chronic heart failures
 Evolution
 Evolutions
 Evolutional
@@ -14823,6 +15187,7 @@ Nuclear briefcase
 Cheget
 Nuclear reactor
 Nuclear reactors
+Radiation sickness
 Radioactive waste
 Radioactive wastes
 Spent nuclear fuel
@@ -14918,6 +15283,7 @@ Radiological pollutions
 Radioactive rain
 Radioactive rains
 Mutually assured destruction
+Manhattan project
 Helicopter
 Helicopters
 Helicopter crash
@@ -15346,6 +15712,10 @@ IDF
 Tzahal
 Zahal
 Six Day War
+Kamikaze
+Kamikazes
+Kamikaze killer
+Kamikaze killers
 Tank
 Tanks
 Tank man
@@ -15835,6 +16205,16 @@ False flag operations
 Act under false flag
 Warmonger
 Warmongers
+Peacemaker
+Peacemakers
+Peacemaking
+Peacemakings
+Peacemaking operation
+Peacemaking operations
+Peacemaking mission
+Peacemaking missions
+Peacekeeper
+Peacekeepers
 Guerilla
 Guerillas
 Guerilla warrior
@@ -15931,8 +16311,6 @@ Protest
 Protests
 Infantry
 Gunfire
-Peacemaker
-Peacemakers
 Defeat
 Defeats
 Casualty
@@ -16153,6 +16531,15 @@ Holy war
 Holy wars
 Long war
 Long wars
+Magician war
+Magician's war
+Magician's wars
+War of magician
+War of the magician
+War of magicians
+War of the magicians
+Wars of magicians
+Wars of the magicians
 Alliance
 Alliances
 Ally
@@ -16161,6 +16548,48 @@ Coalition
 Coalitions
 League
 Leagues
+Gray
+Gray color
+Gray colour
+Color of gray
+Colour of gray
+Gray light
+Grey
+Grey color
+Grey colour
+Color of grey
+Colour of grey
+Grey light
+Gray Fifty Shades
+Gray's Fifty Shades
+Fifty Shades of gray
+Fifty Shades of the gray
+Fifty Shades of grays
+Fifty Shades of the grays
+Grey Fifty Shades
+Grey's Fifty Shades
+Fifty Shades of grey
+Fifty Shades of the grey
+Fifty Shades of greys
+Fifty Shades of the greys
+Gray 50 shades
+Gray's 50 shades
+50 shades of gray
+50 shades of the gray
+50 shades of grays
+50 shades of the grays
+Grey 50 shades
+Grey's 50 shades
+50 shades of grey
+50 shades of the grey
+50 shades of greys
+50 shades of the greys
+Orange
+Orange color
+Orange colour
+Color of orange
+Colour of orange
+Orange light
 Purple
 Purple color
 Purple colour
@@ -16207,18 +16636,6 @@ White colour
 Color of white
 Colour of white
 White light
-Gray
-Gray color
-Gray colour
-Color of gray
-Colour of gray
-Gray light
-Grey
-Grey color
-Grey colour
-Color of grey
-Colour of grey
-Grey light
 Yellow
 Yellow color
 Yellow colour
@@ -17399,6 +17816,12 @@ The Attack on the Hyperborea
 Attack on Eurasia
 An Attack on the Eurasia
 The Attack on the Eurasia
+Attack on Tokyo
+An Attack on the Tokyo
+The Attack on the Tokyo
+Attack on Tokyo, Japan
+An Attack on the Tokyo, Japan
+The Attack on the Tokyo, Japan
 Attack on Asia
 An Attack on the Asia
 The Attack on the Asia
@@ -18712,6 +19135,24 @@ A Bitter enemy of the Eurasia
 The Bitter enemy of the Eurasia
 An Opponent of the Eurasia
 The Opponent of the Eurasia
+Enemy of Tokyo
+Bitter enemy of Tokyo
+Opponent of Tokyo
+An Enemy of the Tokyo
+The Enemy of the Tokyo
+A Bitter enemy of the Tokyo
+The Bitter enemy of the Tokyo
+An Opponent of the Tokyo
+The Opponent of the Tokyo
+Enemy of Tokyo, Japan
+Bitter enemy of Tokyo, Japan
+Opponent of Tokyo, Japan
+An Enemy of the Tokyo, Japan
+The Enemy of the Tokyo, Japan
+A Bitter enemy of the Tokyo, Japan
+The Bitter enemy of the Tokyo, Japan
+An Opponent of the Tokyo, Japan
+The Opponent of the Tokyo, Japan
 Enemy of Asia
 Bitter enemy of Asia
 Opponent of Asia
@@ -21315,6 +21756,12 @@ The War in the Hyperborea
 War in Eurasia
 A War in the Eurasia
 The War in the Eurasia
+War in Tokyo
+A War in the Tokyo
+The War in the Tokyo
+War in Tokyo, Japan
+A War in the Tokyo, Japan
+The War in the Tokyo, Japan
 War in Asia
 A War in the Asia
 The War in the Asia
@@ -22294,6 +22741,12 @@ The Invasion to the Hyperborea
 Invasion to Eurasia
 An Invasion to the Eurasia
 The Invasion to the Eurasia
+Invasion to Tokyo
+An Invasion to the Tokyo
+The Invasion to the Tokyo
+Invasion to Tokyo, Japan
+An Invasion to the Tokyo, Japan
+The Invasion to the Tokyo, Japan
 Invasion to Asia
 An Invasion to the Asia
 The Invasion to the Asia
@@ -24272,6 +24725,12 @@ The Supreme Leader of the Hyperborea
 Supreme Leader of Eurasia
 A Supreme Leader of the Eurasia
 The Supreme Leader of the Eurasia
+Supreme Leader of Tokyo
+A Supreme Leader of the Tokyo
+The Supreme Leader of the Tokyo
+Supreme Leader of Tokyo, Japan
+A Supreme Leader of the Tokyo, Japan
+The Supreme Leader of the Tokyo, Japan
 Supreme Leader of Asia
 A Supreme Leader of the Asia
 The Supreme Leader of the Asia
@@ -25128,6 +25587,7 @@ Abundances of deaths
 Abundances of the deaths
 First death
 Second death
+Eternal death
 Violent death
 Violent deaths
 Natural death
@@ -25235,6 +25695,15 @@ Premature death
 Premature deaths
 Anticipatory death
 Anticipatory deaths
+Death conveyer
+Death's conveyer
+Death's conveyers
+Conveyer of death
+Conveyer of the death
+Conveyer of deaths
+Conveyer of the deaths
+Conveyers of deaths
+Conveyers of the deaths
 Celibacy
 Celibacies
 Single life
@@ -25388,6 +25857,19 @@ Whoremaster
 Whoremasters
 Conception
 Conceptions
+Zoophilia
+Zoophilias
+Zoophilism
+Zooerastia
+Zooerastias
+Zoolagnia
+Zoolagnias
+Zoophile
+Zoophiles
+Zoophilist
+Zoophilists
+Bestiality
+Bestialities
 Shooter
 Shooters
 Shooting
@@ -25542,6 +26024,8 @@ Derail
 Derails
 Train derail
 Trains derail
+Derailnment
+Derailnments
 Train derailnment
 Train's derailnment
 Train's derailnments
@@ -25831,6 +26315,10 @@ Concentration camp
 Concentration camps
 Digital concentration camp
 Digital concentration camps
+Electronic concentration camp
+Electronic concentration camps
+Digital control
+Electronic control
 Refugee camp
 Refugee's camp
 Refugee's camps
@@ -26303,6 +26791,10 @@ Christofari supercomputer
 Christofari Neo
 Christofari Neo computer
 Christofari Neo supercomputer
+Sberkot
+Sber cat
+Sberkot mascot
+Sber cat mascot
 Beast branch
 Beast's branch
 Branch of Beast
@@ -26631,6 +27123,8 @@ Crypto rouble
 Crypto roubles
 Digital Ruble platform
 Digital Rouble platform
+SPB
+Faster Payments System
 Federal Tax Service of Russia
 FNS
 Smart contract
@@ -26665,6 +27159,10 @@ Reparation
 Reparations
 War reparation
 War reparations
+Payment
+Payments
+Digital payment
+Digital payments
 Inflation
 Inflationary
 High inflation
@@ -26692,6 +27190,8 @@ Gold standard
 True gold
 Gold mine
 Gold mines
+Collapse
+Collapses
 Total collapse
 Catastrophe
 Catastrophes
@@ -26707,6 +27207,55 @@ Car crash
 Car crashes
 Humanitarian catastrophe
 Humanitarian catastrophes
+System collapse
+System's collapse
+System's collapses
+Collapse of system
+Collapse of the system
+Collapse of systems
+Collapse of the systems
+Collapses of systems
+Collapses of the systems
+Market collapse
+Market's collapse
+Market's collapses
+Collapse of market
+Collapse of the market
+Collapse of markets
+Collapse of the markets
+Collapses of markets
+Collapses of the markets
+Market crash
+Market's crash
+Market's crashs
+Crash of market
+Crash of the market
+Crash of markets
+Crash of the markets
+Crashs of markets
+Crashs of the markets
+Economic depression
+Economic depressions
+Economical depression
+Economical depressions
+Economic shock
+Economic shocks
+Economical shock
+Economical shocks
+Stock market crash
+Stock market's crash
+Stock market crashes
+Stock market's crashes
+Crash of stock market
+Crash of the stock market
+Crash of stock markets
+Crash of the stock markets
+Crashes of stock market
+Crashes of the stock market
+Crashes of stock markets
+Crashes of the stock markets
+Liquidity crisis
+Liquidity crises
 Cash
 Noncash money
 Cash free zone
@@ -26891,16 +27440,6 @@ Debts of state
 Finance
 Finances
 Financial
-Market Collapse
-Markets Collapse
-Economic depression
-Economic depressions
-Economic shock
-Economic shocks
-Stock market crash
-Stock market crashes
-Liquidity crisis
-Liquidity crises
 Interest
 Interests
 Rate
@@ -26913,7 +27452,31 @@ Stock
 Stocks
 Joint-stock
 Currency devaluation
+Currency's devaluation
+Currencies devaluation
+Currency's devaluations
+Currencies devaluations
+Devaluation of currency
+Devaluation of the currency
+Devaluation of currencies
+Devaluation of the currencies
+Devaluations of currency
+Devaluations of the currency
+Devaluations of currencies
+Devaluations of the currencies
 Currency reset
+Currency's reset
+Currencies reset
+Currency's resets
+Currencies resets
+Reset of currency
+Reset of the currency
+Reset of currencies
+Reset of the currencies
+Resets of currency
+Resets of the currency
+Resets of currencies
+Resets of the currencies
 Devaluation
 Economic recession
 Economic recessions
@@ -26933,8 +27496,30 @@ SWIFT
 False market
 Credit
 Credits
+Creditor
+Creditors
 Credit slavery
 Debt slavery
+Credit bubble
+Credit bubbles
+Credit bubble burst
+Credit bubble's burst
+Credit bubble's bursts
+Burst of credit bubble
+Burst of the credit bubble
+Burst of credit bubbles
+Burst of the credit bubbles
+Bursts of credit bubbles
+Bursts of the credit bubbles
+Credit bubble bursting
+Credit bubble's bursting
+Credit bubble's burstings
+Bursting of credit bubble
+Bursting of the credit bubble
+Bursting of credit bubbles
+Bursting of the credit bubbles
+Burstings of credit bubbles
+Burstings of the credit bubbles
 Speculation
 Speculations
 Speculative
@@ -27219,6 +27804,8 @@ Capture of planets
 Capture of the planets
 Captures of planets
 Captures of the planets
+Dwarf planet
+Dwarf planets
 Exoplanet
 Exoplanets
 Extrasolar planet
@@ -27584,6 +28171,14 @@ Internet satellites Starlink
 Internet satellite SpaceX Starlink
 Internet satellites SpaceX Starlink
 Direct to Cell
+Cosmodrome
+Cosmodromes
+Spaceport
+Spaceports
+Rocket launch site
+Rocket launch sites
+Space launching site
+Space launching sites
 Space link
 Space links
 Universe link
@@ -27683,6 +28278,10 @@ Quantum copies of Earth
 Quantum copies of the Earth
 Terraforming
 Terraformings
+Third planet Secret
+Third planet's Secret
+Secret of Third planet
+Secret of the Third planet
 SSP
 Secret Space Program
 Secret Space Program of humans
@@ -27798,7 +28397,6 @@ Luminescent
 Luminous
 Life-giving sun
 Great Light
-Solar energy
 Light speed
 Light's speed
 Speed of light
@@ -27858,6 +28456,14 @@ Rays of sun
 Rays of the sun
 Solar light
 Sunshine
+Sun energy
+Sun's energy
+Energy of Sun
+Energy of the Sun
+Solar energy
+Two suns
+Sun + Sun
+Sun and Sun
 Dark fleet
 Solar Warden
 Shining Warden
@@ -30550,6 +31156,12 @@ Band of satanists
 Band of the satanists
 Bands of satanists
 Bands of the satanists
+Satan kingdom
+Satan's kingdom
+Kingdom of satan
+Kingdom of the satan
+Satanic kingdom
+Satanical kingdom
 Satan code
 Satan's code
 Satan's codes
@@ -31049,6 +31661,15 @@ Plans of devil
 Plans of the devil
 Devilish plan
 Devilish plans
+Devil angel
+Devil's angel
+Devil's angels
+Angel of devil
+Angel of the devil
+Angels of devil
+Angels of the devil
+Devilish angel
+Devilish angels
 Devil band
 Devil's band
 Devil's bands
@@ -32364,6 +32985,7 @@ Succubi
 Incubus
 Incubi
 Prince of this world
+God of this world
 Matter Master
 Matter's Master
 Master of matter
@@ -32899,6 +33521,10 @@ Midtribulational
 Sacra Lancea
 Holy Lance
 Holy Spear
+Destiny lance
+Destiny's lance
+Lance of Destiny
+Lance of the Destiny
 Destiny spear
 Destiny's spear
 Spear of Destiny
@@ -32906,6 +33532,9 @@ Spear of the Destiny
 Longinus lance
 Lance of Longinus
 Lance of the Longinus
+Longinus spear
+Spear of Longinus
+Spear of the Longinus
 Prodigal son
 Return of the prodigal son
 Man of the dust of the ground
@@ -33203,9 +33832,31 @@ Throne of Zeus
 Zeus throne
 Zeus's throne
 Rapture
+Consciousness rapture
+Consciousness raptures
 Rapture of consciousness
+Rapture of the consciousness
+Raptures of consciousness
+Raptures of the consciousness
+Spirit ascending
+Spirit's ascending
+Spirit's ascendings
 Ascending of spirit
+Ascending of the spirit
+Ascending of spirits
+Ascending of the spirits
+Ascendings of spirits
+Ascendings of the spirits
+Soul ascending
+Soul's ascending
+Soul's ascendings
 Ascending of soul
+Ascending of the soul
+Ascending of souls
+Ascending of the souls
+Ascendings of souls
+Ascendings of the souls
+Ascending over physical plane
 Armageddon battle
 Armageddon's battle
 Battle of Armageddon
@@ -33239,8 +33890,34 @@ Servant of servants
 Holy Bible
 Book of books
 Bible
+Bible Author
+Bible's Author
+Bible's Authors
 Author of Bible
+Author of the Bible
+Authors of Bible
+Authors of the Bible
+Bible Writer
+Bible's Writer
+Bible's Writers
 Writer of Bible
+Writer of the Bible
+Writers of Bible
+Writers of the Bible
+Holy Bible Author
+Holy Bible's Author
+Holy Bible's Authors
+Author of Holy Bible
+Author of the Holy Bible
+Authors of Holy Bible
+Authors of the Holy Bible
+Holy Bible Writer
+Holy Bible's Writer
+Holy Bible's Writers
+Writer of Holy Bible
+Writer of the Holy Bible
+Writers of Holy Bible
+Writers of the Holy Bible
 Biblia Vulgata
 Biblia
 King James Bible
@@ -33450,6 +34127,8 @@ Heresies
 Heretic
 Heretics
 Heretical
+Apostate
+Apostates
 Black mass
 Black masses
 Black mass of Satan
@@ -33526,6 +34205,12 @@ Houris
 Jihad
 Sacred war
 Sacred wars
+Shahada
+Shahadah
+Shaheed
+Shaheeds
+Suicide attack
+Suicide attacks
 Idris
 Islam
 Allah
@@ -35349,6 +36034,9 @@ Ethnic jewry
 Religious jew
 Religious jews
 Religious jewry
+Non-religious jew
+Non-religious jews
+Non-religious jewry
 Jewish origin
 Jewish origins
 Jewish root
@@ -35360,6 +36048,10 @@ Israel people
 Israel's people
 People of Israel
 People of the Israel
+Israel House
+Israel's House
+House of Israel
+House of the Israel
 Red string
 Red strings
 Scarlet string
@@ -36010,6 +36702,8 @@ Son of Saturn
 Son of the Saturn
 Sons of Saturn
 Sons of the Saturn
+Colosseum
+Panem et circenses
 Janus
 Ianvs
 Janus God
@@ -36997,7 +37691,6 @@ Souls
 Human soul
 Human souls
 Spirit
-Spirits
 Spiritus
 Spiritual
 Spirituality
@@ -37617,6 +38310,33 @@ Earthly incarnation
 Earthly incarnations
 Human incarnation
 Human incarnations
+Avatar disconnecting
+Avatar's disconnecting
+Avatar's disconnectings
+Disconnecting of avatar
+Disconnecting of the avatar
+Disconnecting of avatars
+Disconnecting of the avatars
+Disconnectings of avatars
+Disconnectings of the avatars
+Avatar software update
+Avatar's software update
+Avatar's software updates
+Software update of avatar
+Software update of the avatar
+Software update of avatars
+Software update of the avatars
+Software updates of avatars
+Software updates of the avatars
+Avatar software upgrade
+Avatar's software upgrade
+Avatar's software upgrades
+Software upgrade of avatar
+Software upgrade of the avatar
+Software upgrade of avatars
+Software upgrade of the avatars
+Software upgrades of avatars
+Software upgrades of the avatars
 Preach
 Preacher
 Preachers
@@ -38051,13 +38771,6 @@ Spiral
 Spirals
 Helix
 Helixes
-Storm
-Stormy
-Storm is coming
-There is a storm coming
-There is a storm coming in
-There’s a storm coming in
-Calm before the storm
 History
 Histories
 History margin
@@ -38102,6 +38815,7 @@ Wanderer
 Wanderers
 Tourist
 Tourists
+Multiculturalism
 Bads
 Evil
 Evils
@@ -38204,8 +38918,6 @@ This is the end
 Build back better
 Building back better
 Do you have popcorn ready?
-Puppet
-Puppets
 Secret
 Secrets
 Secrecy
@@ -38294,8 +39006,8 @@ The Lacking time
 The Lacking times
 The Holiday
 The Holidays
-The Congraulation
-The Congraulations
+The Congratulation
+The Congratulations
 The Greeting
 The Greetings
 The Public holiday
@@ -38343,6 +39055,7 @@ The Loaf Mass Day
 The Unity Day
 The Day of People's Unity
 The National Unity Day
+The Thanksgiving Day
 The Arrow
 The Arrows
 The Pointer
@@ -38482,6 +39195,12 @@ The Cycle
 The Cycles
 The Cyclicity
 The Cyclicities
+The Time keeper
+The Time's keeper
+The Time's keepers
+The Keeper of the time
+The Keeper of the times
+The Keepers of the times
 The Time machine
 The Time machines
 The Time traveller
@@ -38629,9 +39348,13 @@ The Timers
 The Timepiece
 The Timepieces
 The Time cube
-The Cube of time
+The Time's cube
+The Cube of the Time
 The Time cube symbol
-The Time cube symbols
+The Time cube's symbol
+The Time cube's symbols
+The Symbol of the Time cube
+The Symbols of the Time cube
 The Time zone
 The Time zones
 The Next day
@@ -38642,7 +39365,9 @@ The Next month
 The Next months
 The Next year
 The Next years
-The Matter of time
+The Time Matter
+The Time's Matter
+The Matter of the time
 The Time fabric
 The Time's fabric
 The Fabric of the time
@@ -39500,6 +40225,20 @@ The Cataclysm
 The Cataclysms
 The Element
 The Elements
+The Storm
+The Storms
+The Storm is coming
+The Calm before the storm
+The Magnetic storm
+The Magnetic storms
+The Radio storm
+The Radio storms
+The Geomagnetic disturbance
+The Geomagnetic disturbances
+The Magnetic disturbance
+The Magnetic disturbances
+The Powerful magnetic storm
+The Powerful magnetic storms
 The Flood
 The Floods
 The Dive
@@ -39577,14 +40316,6 @@ The Medical emergency
 The Medical emergencies
 The Force majeure
 The Civil defense
-The Collapse
-The Collapses
-The System collapse
-The System's collapse
-The System's collapses
-The Collapse of the system
-The Collapse of the systems
-The Collapses of the systems
 The Earthquake
 The Earthquakes
 The Great earthquake
@@ -39983,6 +40714,8 @@ The Unmanned car
 The Unmanned cars
 The Unmanned automobile
 The Unmanned automobiles
+The Autopilot
+The Autopilots
 The Transport
 The Stone
 The Stones
@@ -40513,6 +41246,8 @@ The Computer trespassers
 The Computer terrorism
 The Computer terrorist
 The Computer terrorists
+The Social engineering
+The Algorithmic engineering
 The Programmer
 The Programmers
 The Computer specialist
@@ -40604,6 +41339,8 @@ The Server room
 The Server rooms
 The Data center
 The Data centers
+The Organic server
+The Organic servers
 The Account
 The Accounts
 The Personal account
@@ -41145,6 +41882,8 @@ The Computer's reboots
 The Reboot of the computer
 The Reboot of the computers
 The Reboots of the computers
+The Electronic brain
+The Electronic brains
 The Neuron
 The Neurons
 The Neuronet
@@ -41267,6 +42006,12 @@ The Digital trace
 The Digital traces
 The Digital trail
 The Digital trails
+The Deepfake
+The Deepfakes
+The Audio deepfake
+The Audio deepfakes
+The Voice cloning
+The Voice clonings
 The Machine learning
 The Machine's learning
 The Machine's learnings
@@ -41771,6 +42516,10 @@ The Chipization
 The Chipizations
 The Forced chipization
 The Forced chipizations
+The Organic chip
+The Organic chips
+The Liquid chip
+The Liquid chips
 The Blackout
 The Blackouts
 The Power outage
@@ -41865,6 +42614,8 @@ The Energy's site
 The Energy's sites
 The Site of the energy
 The Sites of the energy
+The Blue energy
+The Red energy
 The GPS
 The muPS
 The Glonass
@@ -41902,6 +42653,9 @@ The Blueprints
 The Orrery
 The Human hologram
 The Human holograms
+The Sensor
+The Sensors
+The Sensor data
 The Radio
 The Airwave
 The Airwaves
@@ -42005,6 +42759,14 @@ The Power station
 The Power stations
 The Technology
 The Technologies
+The Alien technology
+The Alien's technology
+The Alien technologies
+The Alien's technologies
+The Technology of the alien
+The Technology of the aliens
+The Technologies of the alien
+The Technologies of the aliens
 The Extraterrestrial technology
 The Extraterrestrial technologies
 The Antediluvian technology
@@ -42092,6 +42854,8 @@ The Grandkid
 The Grandkids
 The Relative
 The Relatives
+The Family value
+The Family values
 The Adamite
 The Adamites
 The Adam Generations
@@ -42118,6 +42882,20 @@ The Neanderthal
 The Neanderthals
 The Neanderthal man
 The Neanderthal men
+The Сynocephalus
+The Cynocephaly
+The Cynocephali
+The Dog-headed human
+The Dog-headed humans
+The Puppet
+The Puppets
+The Dummy
+The Dummies
+The Fictitious person
+The Fictitious persons
+The Demography
+The Male surplus
+The Female surplus
 The Denisovan
 The Denisovans
 The Denisovan man
@@ -42126,6 +42904,12 @@ The Team
 The Teams
 The Crew
 The Crews
+The Legendary man
+The Legendary men
+The Made-up man
+The Made-up men
+The Invented man
+The Invented men
 The Woman
 The Women
 The Lady
@@ -42241,6 +43025,11 @@ The Pride protest
 The Pride protests
 The Gender insanity
 The Gender insanities
+The Trap
+The Traps
+The Cross-dressing
+The Cross-dresser
+The Cross-dressers
 The Barbarian
 The Barbarians
 The Barbarism
@@ -42335,6 +43124,7 @@ The FBI
 The Federal Bureau of Investigation
 The US Department of State
 The United States Department of State
+The Bill & Melinda Gates Foundation
 The Bill and Melinda Gates Foundation
 The Defense Advanced Research Projects Agency
 The DARPA
@@ -42419,6 +43209,7 @@ The Advert
 The Adverts
 The Advertisement
 The Advertisements
+The Distant future
 The Fiddle
 The Fiddles
 The Fiddler
@@ -42473,12 +43264,19 @@ The Stalemates
 The Olympics
 The Olympic games
 The Olympiad
+The Sport
+The Sports
 The Championship
+The Championships
 The Football
 The One gate play
 The One gate game
 The Bodybuilding
 The Fitness
+The Gym
+The Gyms
+The Gymnasium
+The Gymnasiums
 The Blizzard Entertainment
 The Sandbox
 The Sandboxs
@@ -42743,11 +43541,10 @@ The Poets
 The Poetess
 The Poetesses
 The Hollywood
+The Film industry
+The Film industries
 The Piece of news
 The News
-The Propaganda
-The Political propaganda
-The Thought propaganda
 The Breaking news
 The Breaking
 The Job's news
@@ -42876,6 +43673,14 @@ The Roller coaster
 The Roller coasters
 The Firework
 The Fireworks
+The Propaganda
+The Propagandas
+The Political propaganda
+The Political propagandas
+The Thought propaganda
+The Thought propagandas
+The Proragandist
+The Proragandists
 The Occult ritual
 The Occult rituals
 The Occult rite
@@ -43032,6 +43837,24 @@ The Ritual sexual offence
 The Ritual sexual offences
 The Ritual sexual assault
 The Ritual sexual assaults
+The Magic ceremony
+The Magic's ceremony
+The Magic ceremonies
+The Magic's ceremonies
+The Ceremony of the magic
+The Ceremony of the magics
+The Ceremonies of the magic
+The Ceremonies of the magics
+The Ceremonial magic
+The Ceremonial magics
+The Magic rite
+The Magic's rite
+The Magic's rites
+The Rite of the magic
+The Rite of the magics
+The Rites of the magics
+The Ritual magic
+The Ritual magics
 The Water ritual
 The Water's ritual
 The Water's rituals
@@ -43438,6 +44261,9 @@ The Bloody ceremonies
 The Occultism
 The Occult group
 The Occult groups
+The Occult symbol
+The Occult symbols
+The Occult symbolism
 The Prime matter
 The First matter
 The Fire
@@ -43578,6 +44404,10 @@ The Magical artefact
 The Magical artefacts
 The Magical artifact
 The Magical artifacts
+The Ancient artefact
+The Ancient artefacts
+The Ancient artifact
+The Ancient artifacts
 The Telepathy
 The Telepathic dialog
 The Telepathic dialogs
@@ -43625,8 +44455,6 @@ The Magic spell
 The Magic spells
 The Magic circle
 The Magic circles
-The Ceremonial magic
-The Ritual magic
 The High magic
 The Learned magic
 The Occult magic
@@ -43944,7 +44772,18 @@ The Alcohol's abuses
 The Abuse of the alcohol
 The Abuse of the alcohols
 The Abuses of the alcohols
+The Alcohol poisoning
+The Alcohol poisonings
+The Alcohol intoxication
+The Alcohol's intoxication
+The Alcohol's intoxications
+The Intoxication from the alcohol
+The Intoxication from the alcohols
+The Intoxications from the alcohols
 The Alcohol
+The Alcohol drink
+The Alcohol drinks
+The Spirits
 The Wine
 The Wines
 The Beer
@@ -43969,6 +44808,7 @@ The Milks
 The Milky
 The Milk food
 The Milk foods
+The Syntetic milk
 The Dairy
 The Dairies
 The Cream
@@ -44091,6 +44931,12 @@ The Proteins of the insects
 The Protein from the insect
 The Protein from the insects
 The Proteins from the insects
+The Nutritional larva
+The Nutritional larvae
+The Nutritional worm
+The Nutritional worms
+The Nutritional fly
+The Nutritional flies
 The Sausage
 The Sausages
 The Boiled sausage
@@ -44122,6 +44968,18 @@ The Cattle's feeds
 The Feed of the cattle
 The Feed of the cattles
 The Feeds of the cattles
+The Poor food
+The Poor's food
+The Poor's foods
+The Food of the poor
+The Food of the poors
+The Foods of the poors
+The Poor feed
+The Poor's feed
+The Poor's feeds
+The Feed of the poor
+The Feed of the poors
+The Feeds of the poors
 The Soylent
 The Soylent Green
 The Human flesh
@@ -44258,6 +45116,8 @@ The Meat's bites
 The Bite of the meat
 The Bite of the meats
 The Bites of the meats
+The Butcher
+The Butchers
 The Tobacco
 The Cigarette
 The Cigarettes
@@ -46219,6 +47079,14 @@ The Sverdlovsk State Air Enterprises
 The IATA U6
 The ICAO SVR
 The Travelling Club Wings
+The AFLT ticker
+The Aeroflot
+The Aeroflot – Russian Airlines
+The PJSC Aeroflot – Russian Airlines
+The PJSCo Aeroflot – Russian Airlines
+The Public Joint Stock Company Aeroflot – Russian Airlines
+The Public Joint Stock Corporation Aeroflot – Russian Airlines
+The Aeroflot Bonus
 The Wildberries
 The Wildberries online retailer
 The Wildberries online marketplace
@@ -46386,12 +47254,22 @@ The Biometry systems
 The Biometry database
 The Biometry databases
 The Biometry collecting
-The Collection of biometrical data
+The Biometric data collecting
+The Biometric data's collecting
+The Biometric data's collectings
+The Collecting of the biometric data
+The Collectings of the biometric data
+The Biometrical data collecting
+The Biometrical data's collecting
+The Biometrical data's collectings
+The Collecting of the biometrical data
+The Collectings of the biometrical data
 The Biometrical identification
 The Biometrical identifications
 The Biometrical personal data
 The Biometric identification
 The Biometric identifications
+The Biometric personal data
 The Bioidentification
 The Bioidentifications
 The Biometric document
@@ -46404,6 +47282,7 @@ The Digital passport
 The Digital passports
 The Digital identity card
 The Digital identity cards
+The Unified biometric system
 The Face image
 The Face's image
 The Face's images
@@ -46428,6 +47307,8 @@ The Sample of the voices
 The Samples of the voices
 The Digital identity
 The Digital identities
+The Digital Public Infrastructure
+The DPI
 The Venus Project
 The Thoughtcrime
 The Thoughtcrimes
@@ -46630,6 +47511,21 @@ The Russian csar
 The Russian csars
 The Russian tsar
 The Russian tsars
+The Sickle
+The Sickle symbol
+The Hammer symbol
+The Sickle sign
+The Hammer sign
+The Socialism
+The Socialist
+The Socialists
+The Socialist party
+The Socialist parties
+The Communism
+The Communist
+The Communists
+The Communist party
+The Communist parties
 The 44th President of the United States
 The 44th President of the United States of America
 The 44th President of the USA
@@ -46653,8 +47549,26 @@ The POTUS 45
 The POTUS 46
 The POTUS 47
 The POTUS 48
+The Oval Office
 The American authority
 The American authorities
+The American government
+The USA government
+The USA's government
+The Government of the USA
+The United States government
+The Government of the United States
+The United States of America government
+The United States of America's government
+The Government of the United States of America
+The USA authorities
+The USA's authorities
+The Authorities of the USA
+The United States authorities
+The Authorities of the United States
+The United States of America authorities
+The United States of America's authorities
+The Authorities of the United States of America
 The Israeli president
 The Israeli presidents
 The Israeli prime minister
@@ -46663,6 +47577,13 @@ The Israeli premier
 The Israeli premiers
 The Israeli authority
 The Israeli authorities
+The Israeli government
+The Israel government
+The Israel's government
+The Government of the Israel
+The Israel authorities
+The Israel's authorities
+The Authorities of the Israel
 The Azerbaijani president
 The Azerbaijani presidents
 The Azerbaijanian president
@@ -46671,38 +47592,59 @@ The Azerbaijani authority
 The Azerbaijani authorities
 The Azerbaijanian authority
 The Azerbaijanian authorities
+The British government
+The British authority
+The British authorities
+The England government
+The England's government
+The Government of the England
+The England authorities
+The England's authorities
+The Authorities of the England
 The Ukrainian president
 The Ukrainian presidents
 The Ukrainian authority
 The Ukrainian authorities
+The Ukrainian government
+The Ukraine government
+The Ukraine's government
+The Government of the Ukraine
+The Ukraine authorities
+The Ukraine's authorities
+The Authorities of the Ukraine
+The Russian president
+The Russian presidents
+The Russian authority
+The Russian authorities
+The Russian government
+The Russia government
+The Russia's government
+The Government of the Russia
+The Russia authorities
+The Russia's authorities
+The Authorities of the Russia
+The Cooperative Ozero
+The Dacha cooperative Ozero
 The Puppet president
 The Puppet presidents
 The Dummy president
 The Dummy presidents
 The Inauguration
 The Inaugurations
-The Inauguration of president
-The Inaugurations of president
-The Swearing-in of a new president
-The Russian president
-The Russian presidents
-The Russian authority
-The Russian authorities
-The Sickle
-The Sickle symbol
-The Hammer symbol
-The Sickle sign
-The Hammer sign
-The Socialism
-The Socialist
-The Socialists
-The Socialist party
-The Socialist parties
-The Communism
-The Communist
-The Communists
-The Communist party
-The Communist parties
+The President inauguration
+The President's inauguration
+The President's inaugurations
+The Inauguration of the president
+The Inauguration of the presidents
+The Inaugurations of the presidents
+The New president swearing-in
+The New president's swearing-in
+The New president's swearing-ins
+The Swearing-in of the new president
+The Swearing-in of the new presidents
+The Swearing-ins of the new presidents
+The Female president
+The Female presidents
 The Government project
 The Government's project
 The Government's projects
@@ -46871,9 +47813,9 @@ The Federal Government
 The Government in waiting
 The Secret government
 The Hidden government
-The Oval Office
 The Authority
 The Authorities
+The Idiocracy
 The Lobby
 The Influence agent
 The Influence's agent
@@ -46910,6 +47852,14 @@ The Senator
 The Senators
 The Chancellor
 The Chancellors
+The Duma
+The Douma
+The State duma
+The State douma
+The Deputy
+The Deputies
+The Delegate
+The Delegates
 The Political whore
 The Political whores
 The Political prostitute
@@ -47037,6 +47987,8 @@ The Under control of the reptiloids
 The Under control of the jewreptiloids
 The Under control of the AI
 The Under control of the Artificial Intelligence 
+The Technocracy
+The Technocracies
 The Minister
 The Ministers
 The Secretary
@@ -47161,10 +48113,16 @@ The Supreme ruler
 The Supreme rulers
 The Official
 The Officials
-The Lust to power
-The Will to power
+The Lust to the power
+The Lust to the powers
+The Will to the power
+The Will to the powers
 The Executive
 The Executives
+The Control tool
+The Control tools
+The Control instrument
+The Control instruments
 The Seizure power
 The Seizure's power
 The Power of the seizure
@@ -47903,7 +48861,8 @@ The Mouse
 The Mice
 The Rat
 The Rats
-The Rat desert sinking ship
+The Rat deserting from the sinking ship
+The Rat deserting from the sinking ships
 The Spider
 The Spiders
 The Spider web
@@ -48095,6 +49054,8 @@ The Swines
 The Ukraine symbol
 The Ukraine's symbol
 The Symbol of the Ukraine
+The Guinea pig
+The Guinea pigs
 The Cat
 The Cats
 The Kitten
@@ -48173,6 +49134,8 @@ The Tattoo
 The Tattoos
 The Tattooing
 The Tattooings
+The Wrinkle
+The Wrinkles
 The Kidney
 The Kidneys
 The Arm
@@ -48231,7 +49194,10 @@ The Umbilical cord
 The Placenta
 The Heart
 The Hearts
+The Heartbeat
+The Heartbeats
 The Hardened heart
+The Hardened hearts
 The Anatomy
 The Human body
 The Human bodies
@@ -48424,6 +49390,18 @@ The Rapid antigen tests
 The RAT
 The COVID-19 rapid antigen test
 The COVID-19 rapid antigen tests
+The Anesthesia
+The Anesthesias
+The Anaesthesia
+The Anaesthesias
+The Local anesthesia
+The Local anesthesias
+The Local anaesthesia
+The Local anaesthesias
+The General anesthesia
+The General anesthesias
+The General anaesthesia
+The General anaesthesias
 The Biotechnology
 The Biotechnologies
 The Vaccine
@@ -48574,6 +49552,12 @@ The Cardioaccelerator
 The Cardioaccelerators
 The Cardiac arrest
 The Cardiac arrests
+The Heart failure
+The Heart failures
+The Acute heart failure
+The Acute heart failures
+The Chronic heart failure
+The Chronic heart failures
 The Evolution
 The Evolutions
 The Genetic evolution
@@ -48899,6 +49883,7 @@ The Nuclear briefcase
 The Cheget
 The Nuclear reactor
 The Nuclear reactors
+The Radiation sickness
 The Radioactive waste
 The Radioactive wastes
 The Spent nuclear fuel
@@ -48992,6 +49977,7 @@ The Radiological pollutions
 The Radioactive rain
 The Radioactive rains
 The Mutually assured destruction
+The Manhattan project
 The Helicopter
 The Helicopters
 The Helicopter crash
@@ -49364,6 +50350,10 @@ The IDF
 The Tzahal
 The Zahal
 The Six Day War
+The Kamikaze
+The Kamikazes
+The Kamikaze killer
+The Kamikaze killers
 The Tank
 The Tanks
 The Tank man
@@ -49795,6 +50785,16 @@ The False flag operation
 The False flag operations
 The Warmonger
 The Warmongers
+The Peacemaker
+The Peacemakers
+The Peacemaking
+The Peacemakings
+The Peacemaking operation
+The Peacemaking operations
+The Peacemaking mission
+The Peacemaking missions
+The Peacekeeper
+The Peacekeepers
 The Guerilla
 The Guerillas
 The Guerilla warrior
@@ -49873,8 +50873,6 @@ The Protest
 The Protests
 The Infantry
 The Gunfire
-The Peacemaker
-The Peacemakers
 The Defeat
 The Defeats
 The Casualty
@@ -50076,6 +51074,12 @@ The Holy war
 The Holy wars
 The Long war
 The Long wars
+The Magician war
+The Magician's war
+The Magician's wars
+The War of the magician
+The War of the magicians
+The Wars of the magicians
 The Alliance
 The Alliances
 The Ally
@@ -50084,6 +51088,40 @@ The Coalition
 The Coalitions
 The League
 The Leagues
+The Gray
+The Gray color
+The Gray colour
+The Color of gray
+The Colour of gray
+The Gray light
+The Grey
+The Grey color
+The Grey colour
+The Color of grey
+The Colour of grey
+The Grey light
+The Gray Fifty Shades
+The Gray's Fifty Shades
+The Fifty Shades of the gray
+The Fifty Shades of the grays
+The Grey Fifty Shades
+The Grey's Fifty Shades
+The Fifty Shades of the grey
+The Fifty Shades of the greys
+The Gray 50 shades
+The Gray's 50 shades
+The 50 shades of the gray
+The 50 shades of the grays
+The Grey 50 shades
+The Grey's 50 shades
+The 50 shades of the grey
+The 50 shades of the greys
+The Orange
+The Orange color
+The Orange colour
+The Color of orange
+The Colour of orange
+The Orange light
 The Purple
 The Purple color
 The Purple colour
@@ -50130,18 +51168,6 @@ The White colour
 The Color of white
 The Colour of white
 The White light
-The Gray
-The Gray color
-The Gray colour
-The Color of gray
-The Colour of gray
-The Gray light
-The Grey
-The Grey color
-The Grey colour
-The Color of grey
-The Colour of grey
-The Grey light
 The Yellow
 The Yellow color
 The Yellow colour
@@ -50455,6 +51481,8 @@ The Attack on New Atlantis
 The Attack on a New Atlantis
 The Attack on Hyperborea
 The Attack on Eurasia
+The Attack on Tokyo
+The Attack on Tokyo, Japan
 The Attack on Asia
 The Attack on Wuhan
 The Attack on Wuhan, China
@@ -51150,6 +52178,12 @@ The Opponent of Hyperborea
 The Enemy of Eurasia
 The Bitter enemy of Eurasia
 The Opponent of Eurasia
+The Enemy of Tokyo
+The Bitter enemy of Tokyo
+The Opponent of Tokyo
+The Enemy of Tokyo, Japan
+The Bitter enemy of Tokyo, Japan
+The Opponent of Tokyo, Japan
 The Enemy of Asia
 The Bitter enemy of Asia
 The Opponent of Asia
@@ -52107,6 +53141,8 @@ The War in New Atlantis
 The War in a New Atlantis
 The War in Hyperborea
 The War in Eurasia
+The War in Tokyo
+The War in Tokyo, Japan
 The War in Asia
 The War in Wuhan
 The War in Wuhan, China
@@ -52520,6 +53556,8 @@ The Invasion to New Atlantis
 The Invasion to a New Atlantis
 The Invasion to Hyperborea
 The Invasion to Eurasia
+The Invasion to Tokyo
+The Invasion to Tokyo, Japan
 The Invasion to Asia
 The Invasion to Wuhan
 The Invasion to Wuhan, China
@@ -53167,6 +54205,8 @@ The Supreme Leader of New Atlantis
 The Supreme Leader of a New Atlantis
 The Supreme Leader of Hyperborea
 The Supreme Leader of Eurasia
+The Supreme Leader of Tokyo
+The Supreme Leader of Tokyo, Japan
 The Supreme Leader of Asia
 The Supreme Leader of Wuhan
 The Supreme Leader of Wuhan, China
@@ -53472,6 +54512,7 @@ The Abundance of the deaths
 The Abundances of the deaths
 The First death
 The Second death
+The Eternal death
 The Violent death
 The Violent deaths
 The Natural death
@@ -53571,6 +54612,12 @@ The Premature death
 The Premature deaths
 The Anticipatory death
 The Anticipatory deaths
+The Death conveyer
+The Death's conveyer
+The Death's conveyers
+The Conveyer of the death
+The Conveyer of the deaths
+The Conveyers of the deaths
 The Celibacy
 The Celibacies
 The Single life
@@ -53705,6 +54752,19 @@ The Whoremaster
 The Whoremasters
 The Conception
 The Conceptions
+The Zoophilia
+The Zoophilias
+The Zoophilism
+The Zooerastia
+The Zooerastias
+The Zoolagnia
+The Zoolagnias
+The Zoophile
+The Zoophiles
+The Zoophilist
+The Zoophilists
+The Bestiality
+The Bestialities
 The Shooter
 The Shooters
 The Shooting
@@ -53841,6 +54901,8 @@ The Derail
 The Derails
 The Train derail
 The Trains derail
+The Derailnment
+The Derailnments
 The Train derailnment
 The Train's derailnment
 The Train's derailnments
@@ -54077,6 +55139,10 @@ The Concentration camp
 The Concentration camps
 The Digital concentration camp
 The Digital concentration camps
+The Electronic concentration camp
+The Electronic concentration camps
+The Digital control
+The Electronic control
 The Refugee camp
 The Refugee's camp
 The Refugee's camps
@@ -54373,6 +55439,10 @@ The Christofari supercomputer
 The Christofari Neo
 The Christofari Neo computer
 The Christofari Neo supercomputer
+The Sberkot
+The Sber cat
+The Sberkot mascot
+The Sber cat mascot
 The Beast branch
 The Beast's branch
 The Branch of the Beast
@@ -54609,6 +55679,8 @@ The Crypto rouble
 The Crypto roubles
 The Digital Ruble platform
 The Digital Rouble platform
+The SPB
+The Faster Payments System
 The Federal Tax Service of Russia
 The FNS
 The Smart contract
@@ -54639,6 +55711,10 @@ The Reparation
 The Reparations
 The War reparation
 The War reparations
+The Payment
+The Payments
+The Digital payment
+The Digital payments
 The Inflation
 The High inflation
 The Hyperinflation
@@ -54662,6 +55738,8 @@ The Gold standard
 The True gold
 The Gold mine
 The Gold mines
+The Collapse
+The Collapses
 The Total collapse
 The Catastrophe
 The Catastrophes
@@ -54677,6 +55755,42 @@ The Car crash
 The Car crashes
 The Humanitarian catastrophe
 The Humanitarian catastrophes
+The System collapse
+The System's collapse
+The System's collapses
+The Collapse of the system
+The Collapse of the systems
+The Collapses of the systems
+The Market collapse
+The Market's collapse
+The Market's collapses
+The Collapse of the market
+The Collapse of the markets
+The Collapses of the markets
+The Market crash
+The Market's crash
+The Market's crashs
+The Crash of the market
+The Crash of the markets
+The Crashs of the markets
+The Economic depression
+The Economic depressions
+The Economical depression
+The Economical depressions
+The Economic shock
+The Economic shocks
+The Economical shock
+The Economical shocks
+The Stock market crash
+The Stock market's crash
+The Stock market crashes
+The Stock market's crashes
+The Crash of the stock market
+The Crash of the stock markets
+The Crashes of the stock market
+The Crashes of the stock markets
+The Liquidity crisis
+The Liquidity crises
 The Cash
 The Noncash money
 The Cash free zone
@@ -54849,16 +55963,6 @@ The Debt of state
 The Debts of state
 The Finance
 The Finances
-The Market Collapse
-The Markets Collapse
-The Economic depression
-The Economic depressions
-The Economic shock
-The Economic shocks
-The Stock market crash
-The Stock market crashes
-The Liquidity crisis
-The Liquidity crises
 The Interest
 The Interests
 The Rate
@@ -54869,7 +55973,23 @@ The Marketing
 The Stock
 The Stocks
 The Currency devaluation
+The Currency's devaluation
+The Currencies devaluation
+The Currency's devaluations
+The Currencies devaluations
+The Devaluation of the currency
+The Devaluation of the currencies
+The Devaluations of the currency
+The Devaluations of the currencies
 The Currency reset
+The Currency's reset
+The Currencies reset
+The Currency's resets
+The Currencies resets
+The Reset of the currency
+The Reset of the currencies
+The Resets of the currency
+The Resets of the currencies
 The Devaluation
 The Economic recession
 The Economic recessions
@@ -54889,8 +56009,24 @@ The SWIFT
 The False market
 The Credit
 The Credits
+The Creditor
+The Creditors
 The Credit slavery
 The Debt slavery
+The Credit bubble
+The Credit bubbles
+The Credit bubble burst
+The Credit bubble's burst
+The Credit bubble's bursts
+The Burst of the credit bubble
+The Burst of the credit bubbles
+The Bursts of the credit bubbles
+The Credit bubble bursting
+The Credit bubble's bursting
+The Credit bubble's burstings
+The Bursting of the credit bubble
+The Bursting of the credit bubbles
+The Burstings of the credit bubbles
 The Speculation
 The Speculations
 The Speculator
@@ -55104,6 +56240,8 @@ The Planet's captures
 The Capture of the planet
 The Capture of the planets
 The Captures of the planets
+The Dwarf planet
+The Dwarf planets
 The Exoplanet
 The Exoplanets
 The Extrasolar planet
@@ -55435,6 +56573,14 @@ The Internet satellite Starlink
 The Internet satellites Starlink
 The Internet satellite SpaceX Starlink
 The Internet satellites SpaceX Starlink
+The Cosmodrome
+The Cosmodromes
+The Spaceport
+The Spaceports
+The Rocket launch site
+The Rocket launch sites
+The Space launching site
+The Space launching sites
 The Space link
 The Space links
 The Universe link
@@ -55501,6 +56647,9 @@ The Quantum copy of the Earth
 The Quantum copies of the Earth
 The Terraforming
 The Terraformings
+The Third planet Secret
+The Third planet's Secret
+The Secret of the Third planet
 The SSP
 The Secret Space Program
 The Secret Space Program of humans
@@ -55591,7 +56740,6 @@ The Sun
 The Sun star
 The Life-giving sun
 The Great Light
-The Solar energy
 The Light speed
 The Light's speed
 The Speed of the light
@@ -55641,6 +56789,11 @@ The Ray of the sun
 The Rays of the sun
 The Solar light
 The Sunshine
+The Sun energy
+The Sun's energy
+The Energy of the Sun
+The Solar energy
+The Two suns
 The Dark fleet
 The Solar Warden
 The Shining Warden
@@ -57666,6 +58819,11 @@ The Satanical band
 The Satanical bands
 The Band of the satanists
 The Bands of the satanists
+The Satan kingdom
+The Satan's kingdom
+The Kingdom of the satan
+The Satanic kingdom
+The Satanical kingdom
 The Satan code
 The Satan's code
 The Satan's codes
@@ -58050,6 +59208,13 @@ The Plan of the devil
 The Plans of the devil
 The Devilish plan
 The Devilish plans
+The Devil angel
+The Devil's angel
+The Devil's angels
+The Angel of the devil
+The Angels of the devil
+The Devilish angel
+The Devilish angels
 The Devil band
 The Devil's band
 The Devil's bands
@@ -59031,6 +60196,7 @@ The Succubi
 The Incubus
 The Incubi
 The Prince of this world
+The God of this world
 The Matter Master
 The Matter's Master
 The Master of the matter
@@ -59444,11 +60610,16 @@ The Tribulation period
 The Day of tribulation
 The Holy Lance
 The Holy Spear
+The Destiny lance
+The Destiny's lance
+The Lance of the Destiny
 The Destiny spear
 The Destiny's spear
 The Spear of the Destiny
 The Longinus lance
 The Lance of the Longinus
+The Longinus spear
+The Spear of the Longinus
 The Prodigal son
 The Return of the prodigal son
 The Good and Evil
@@ -59630,9 +60801,23 @@ The Throne of Zeus
 The Zeus throne
 The Zeus's throne
 The Rapture
-The Rapture of consciousness
-The Ascending of spirit
-The Ascending of soul
+The Consciousness rapture
+The Consciousness raptures
+The Rapture of the consciousness
+The Raptures of the consciousness
+The Spirit ascending
+The Spirit's ascending
+The Spirit's ascendings
+The Ascending of the spirit
+The Ascending of the spirits
+The Ascendings of the spirits
+The Soul ascending
+The Soul's ascending
+The Soul's ascendings
+The Ascending of the soul
+The Ascending of the souls
+The Ascendings of the souls
+The Ascending over physical plane
 The Armageddon battle
 The Armageddon's battle
 The Battle of the Armageddon
@@ -59664,8 +60849,26 @@ The Servant of servants
 The Holy Bible
 The Book of books
 The Bible
-The Author of Bible
-The Writer of Bible
+The Bible Author
+The Bible's Author
+The Bible's Authors
+The Author of the Bible
+The Authors of the Bible
+The Bible Writer
+The Bible's Writer
+The Bible's Writers
+The Writer of the Bible
+The Writers of the Bible
+The Holy Bible Author
+The Holy Bible's Author
+The Holy Bible's Authors
+The Author of the Holy Bible
+The Authors of the Holy Bible
+The Holy Bible Writer
+The Holy Bible's Writer
+The Holy Bible's Writers
+The Writer of the Holy Bible
+The Writers of the Holy Bible
 The King James Bible
 The KJV
 The Testament
@@ -59818,6 +61021,8 @@ The Heresy
 The Heresies
 The Heretic
 The Heretics
+The Apostate
+The Apostates
 The Black mass
 The Black masses
 The Black mass of Satan
@@ -59884,6 +61089,12 @@ The Houris
 The Jihad
 The Sacred war
 The Sacred wars
+The Shahada
+The Shahadah
+The Shaheed
+The Shaheeds
+The Suicide attack
+The Suicide attacks
 The Islam
 The Allah
 The Quran
@@ -61235,6 +62446,9 @@ The Ethnic jewry
 The Religious jew
 The Religious jews
 The Religious jewry
+The Non-religious jew
+The Non-religious jews
+The Non-religious jewry
 The Jewish origin
 The Jewish origins
 The Jewish root
@@ -61245,6 +62459,9 @@ The Chosen people
 The Israel people
 The Israel's people
 The People of the Israel
+The Israel House
+The Israel's House
+The House of the Israel
 The Red string
 The Red strings
 The Scarlet string
@@ -61779,6 +62996,7 @@ The Saturn's son
 The Saturn's sons
 The Son of the Saturn
 The Sons of the Saturn
+The Colosseum
 The Janus
 The Janus God
 The Janus Father
@@ -62518,7 +63736,6 @@ The Souls
 The Human soul
 The Human souls
 The Spirit
-The Spirits
 The Spirituality
 The Spiritual plane
 The Spiritual death
@@ -62993,6 +64210,24 @@ The Earthly incarnation
 The Earthly incarnations
 The Human incarnation
 The Human incarnations
+The Avatar disconnecting
+The Avatar's disconnecting
+The Avatar's disconnectings
+The Disconnecting of the avatar
+The Disconnecting of the avatars
+The Disconnectings of the avatars
+The Avatar software update
+The Avatar's software update
+The Avatar's software updates
+The Software update of the avatar
+The Software update of the avatars
+The Software updates of the avatars
+The Avatar software upgrade
+The Avatar's software upgrade
+The Avatar's software upgrades
+The Software upgrade of the avatar
+The Software upgrade of the avatars
+The Software upgrades of the avatars
 The Preacher
 The Preachers
 The Sermon
@@ -63358,9 +64593,6 @@ The Spiral
 The Spirals
 The Helix
 The Helixes
-The Storm
-The Storm is coming
-The Calm before the storm
 The History
 The Histories
 The History margin
@@ -63396,6 +64628,7 @@ The Wanderer
 The Wanderers
 The Tourist
 The Tourists
+The Multiculturalism
 The Bad
 The Bads
 The Evil
@@ -63477,8 +64710,6 @@ The White swan event
 The White swan events
 The World changing event
 The World changing events
-The Puppet
-The Puppets
 The Secret
 The Secrets
 The Secrecy
@@ -63550,7 +64781,7 @@ A Lack of times
 A Lack of the times
 A Lacking time
 A Holiday
-A Congraulation
+A Congratulation
 A Greeting
 A Public holiday
 A Calendar
@@ -63662,6 +64893,12 @@ A Bright day
 A Loop
 A Cycle
 A Cyclicity
+A Time keeper
+A Time's keeper
+A Keeper of time
+A Keeper of the time
+A Keeper of times
+A Keeper of the times
 A Time machine
 A Time traveller
 A Time travel
@@ -63753,14 +64990,22 @@ A Time standard
 A Timer
 A Timepiece
 A Time cube
-A Cube of time
+A Time's cube
+A Cube of Time
+A Cube of the Time
 A Time cube symbol
+A Time cube's symbol
+A Symbol of Time cube
+A Symbol of the Time cube
 A Time zone
 A Next day
 A Next week
 A Next month
 A Next year
+A Time Matter
+A Time's Matter
 A Matter of time
+A Matter of the time
 A Time fabric
 A Time's fabric
 A Fabric of time
@@ -64038,6 +65283,14 @@ A Natural disaster
 An Artificial disaster
 A Cataclysm
 An Element
+A Storm
+A Storm is coming
+A Calm before the storm
+A Magnetic storm
+A Radio storm
+A Geomagnetic disturbance
+A Magnetic disturbance
+A Powerful magnetic storm
 A Flood
 A Dive
 A Plunge
@@ -64083,13 +65336,6 @@ An Emergency situation
 A Medical emergency
 A Force majeure
 A Civil defense
-A Collapse
-A System collapse
-A System's collapse
-A Collapse of system
-A Collapse of the system
-A Collapse of systems
-A Collapse of the systems
 An Earthquake
 A Great earthquake
 A Quake
@@ -64350,6 +65596,7 @@ A Car
 An Automobile
 An Unmanned car
 An Unmanned automobile
+An Autopilot
 A Transport
 A Stone
 A Granite
@@ -64773,6 +66020,8 @@ A Hacker attack
 A Computer trespasser
 A Computer terrorism
 A Computer terrorist
+A Social engineering
+An Algorithmic engineering
 A Programmer
 A Computer specialist
 A Computer man
@@ -64825,6 +66074,7 @@ A Computer server
 A Quantum server
 A Server room
 A Data center
+An Organic server
 An Account
 A Personal account
 A Personal area
@@ -65169,6 +66419,7 @@ A Reboot of computer
 A Reboot of the computer
 A Reboot of computers
 A Reboot of the computers
+An Electronic brain
 A Neuron
 A Neuronet
 A Neural net
@@ -65243,6 +66494,9 @@ A Door to the Akashi
 An Algorithmic copy
 A Digital trace
 A Digital trail
+A Deepfake
+An Audio deepfake
+A Voice cloning
 A Machine learning
 A Machine's learning
 A Learning of machine
@@ -65608,6 +66862,8 @@ A BMI
 A Smartbrain
 A Chipization
 A Forced chipization
+An Organic chip
+A Liquid chip
 A Blackout
 A Power outage
 A Power
@@ -65674,6 +66930,8 @@ An Energy site
 An Energy's site
 A Site of energy
 A Site of the energy
+A Blue energy
+A Red energy
 A GPS
 A muPS
 A Glonass
@@ -65697,6 +66955,7 @@ A Holographic projection of the World
 A Blueprint
 An Orrery
 A Human hologram
+A Sensor
 A Radio
 An Airwave
 A Memorial
@@ -65754,6 +67013,12 @@ A Power plant
 An Electric power plant
 A Power station
 A Technology
+An Alien technology
+An Alien's technology
+A Technology of alien
+A Technology of the alien
+A Technology of aliens
+A Technology of the aliens
 An Extraterrestrial technology
 An Antediluvian technology
 A Technosphere
@@ -65801,6 +67066,7 @@ An Infant
 A Kid
 A Grandkid
 A Relative
+A Family value
 An Adamite
 An Adam descendant
 An Adam's descendant
@@ -65817,10 +67083,21 @@ A Daughter of the Adam
 A Pre-Adamite
 A Neanderthal
 A Neanderthal man
+An Сynocephalus
+A Dog-headed human
+A Puppet
+A Dummy
+A Fictitious person
+A Demography
+A Male surplus
+A Female surplus
 A Denisovan
 A Denisovan man
 A Team
 A Crew
+A Legendary man
+A Made-up man
+An Invented man
 A Woman
 A Lady
 A Bitch
@@ -65884,6 +67161,9 @@ A Pride festival
 A Pride march
 A Pride protest
 A Gender insanity
+A Trap
+A Cross-dressing
+A Cross-dresser
 A Barbarian
 A Barbarism
 A Barbarity
@@ -65938,6 +67218,7 @@ A PR manager
 A Public relations manager
 An Advert
 An Advertisement
+A Distant future
 A Fiddle
 A Fiddler
 A Violin
@@ -65970,12 +67251,15 @@ A Chess gamer
 A Chess party
 A Stalemate
 An Olympiad
+A Sport
 A Championship
 A Football
 An One gate play
 An One gate game
 A Bodybuilding
 A Fitness
+A Gym
+A Gymnasium
 A Sandbox
 A Sandbox game
 A Sandbox's game
@@ -66159,11 +67443,8 @@ A Writer
 An Author
 A Poet
 A Poetess
-A Hollywood
+A Film industry
 A Piece of news
-A Propaganda
-A Political propaganda
-A Thought propaganda
 A Breaking
 A Bulletin
 A Doom scrolling
@@ -66235,6 +67516,10 @@ An Actress
 A Dancer
 A Roller coaster
 A Firework
+A Propaganda
+A Political propaganda
+A Thought propaganda
+A Proragandist
 An Occult ritual
 An Occult rite
 An Occult ceremony
@@ -66352,6 +67637,20 @@ A Ritual raping
 A Raping rite
 A Ritual sexual offence
 A Ritual sexual assault
+A Magic ceremony
+A Magic's ceremony
+A Ceremony of magic
+A Ceremony of the magic
+A Ceremony of magics
+A Ceremony of the magics
+A Ceremonial magic
+A Magic rite
+A Magic's rite
+A Rite of magic
+A Rite of the magic
+A Rite of magics
+A Rite of the magics
+A Ritual magic
 A Water ritual
 A Water's ritual
 A Ritual of water
@@ -66659,6 +67958,8 @@ A Blood ceremony
 A Bloody ceremony
 An Occultism
 An Occult group
+An Occult symbol
+An Occult symbolism
 A Prime matter
 A First matter
 A Fire
@@ -66756,6 +68057,8 @@ A Magic artefact
 A Magic artifact
 A Magical artefact
 A Magical artifact
+An Ancient artefact
+An Ancient artifact
 A Telepathy
 A Telepathic dialog
 A Telepathic communication
@@ -66785,8 +68088,6 @@ A Power word
 A Power phrase
 A Magic spell
 A Magic circle
-A Ceremonial magic
-A Ritual magic
 A High magic
 A Learned magic
 An Occult magic
@@ -67019,7 +68320,15 @@ An Abuse of alcohol
 An Abuse of the alcohol
 An Abuse of alcohols
 An Abuse of the alcohols
+An Alcohol poisoning
+An Alcohol intoxication
+An Alcohol's intoxication
+An Intoxication from alcohol
+An Intoxication from the alcohol
+An Intoxication from alcohols
+An Intoxication from the alcohols
 An Alcohol
+An Alcohol drink
 A Wine
 A Beer
 A Vodka
@@ -67034,6 +68343,7 @@ A Milk
 A Milks
 A Milky
 A Milk food
+A Syntetic milk
 A Dairy
 A Cream
 A Sour cream
@@ -67112,6 +68422,9 @@ A Protein from insect
 A Protein from the insect
 A Protein from insects
 A Protein from the insects
+A Nutritional larva
+A Nutritional worm
+A Nutritional fly
 A Sausage
 A Boiled sausage
 A Frankfurter
@@ -67140,6 +68453,18 @@ A Feed of cattle
 A Feed of the cattle
 A Feed of cattles
 A Feed of the cattles
+A Poor food
+A Poor's food
+A Food of poor
+A Food of the poor
+A Food of poors
+A Food of the poors
+A Poor feed
+A Poor's feed
+A Feed of poor
+A Feed of the poor
+A Feed of poors
+A Feed of the poors
 A Soylent
 A Soylent Green
 A Human flesh
@@ -67225,6 +68550,7 @@ A Bite of meat
 A Bite of the meat
 A Bite of meats
 A Bite of the meats
+A Butcher
 A Tobacco
 A Cigarette
 A Cigar
@@ -68656,13 +69982,18 @@ A Social network
 A Biometry
 A Biometrics
 A Biometric data
-A Biodata
 A Biometry system
 A Biometry database
 A Biometry collecting
-A Collection of biometrical data
+A Biometric data collecting
+A Biometric data's collecting
+A Collecting of biometric data
+A Collecting of the biometric data
+A Biometrical data collecting
+A Biometrical data's collecting
+A Collecting of biometrical data
+A Collecting of the biometrical data
 A Biometrical identification
-A Biometrical personal data
 A Biometric identification
 A Bioidentification
 A Biometric document
@@ -68695,6 +70026,8 @@ A Sample of the voice
 A Sample of voices
 A Sample of the voices
 A Digital identity
+A Digital Public Infrastructure
+A DPI
 A Thoughtcrime
 A Facecrime
 A Civilization
@@ -68830,32 +70163,77 @@ A Tsar of Russia
 A Tsar of the Russia
 A Russian csar
 A Russian tsar
-An American president
-A POTUS
-An American authority
-An Israeli president
-An Israeli prime minister
-An Israeli premier
-An Israeli authority
-An Azerbaijani president
-An Azerbaijanian president
-An Azerbaijani authority
-An Azerbaijanian authority
-An Ukrainian president
-An Ukrainian authority
-A Puppet president
-A Dummy president
-An Inauguration
-An Inauguration of president
-A Swearing-in of a new president
-A Russian president
-A Russian authority
 A Socialism
 A Socialist
 A Socialist party
 A Communism
 A Communist
 A Communist party
+An American president
+A POTUS
+An Oval Office
+An American authority
+An American government
+An USA government
+An USA's government
+A Government of USA
+A Government of the USA
+An United States government
+A Government of United States
+A Government of the United States
+An United States of America government
+An United States of America's government
+A Government of United States of America
+A Government of the United States of America
+An Israeli president
+An Israeli prime minister
+An Israeli premier
+An Israeli authority
+An Israeli government
+An Israel government
+An Israel's government
+A Government of Israel
+A Government of the Israel
+An Azerbaijani president
+An Azerbaijanian president
+An Azerbaijani authority
+An Azerbaijanian authority
+A British government
+A British authority
+An England government
+An England's government
+A Government of England
+A Government of the England
+An Ukrainian president
+An Ukrainian authority
+An Ukrainian government
+An Ukraine government
+An Ukraine's government
+A Government of Ukraine
+A Government of the Ukraine
+A Russian president
+A Russian authority
+A Russian government
+A Russia government
+A Russia's government
+A Government of Russia
+A Government of the Russia
+A Puppet president
+A Dummy president
+An Inauguration
+A President inauguration
+A President's inauguration
+An Inauguration of president
+An Inauguration of the president
+An Inauguration of presidents
+An Inauguration of the presidents
+A New president swearing-in
+A New president's swearing-in
+A Swearing-in of new president
+A Swearing-in of the new president
+A Swearing-in of new presidents
+A Swearing-in of the new presidents
+A Female president
 A Government project
 A Government's project
 A Project of government
@@ -68987,7 +70365,6 @@ A Federal Government
 A Government in waiting
 A Secret government
 A Hidden government
-An Oval Office
 An Authority
 A Lobby
 An Influence agent
@@ -69015,6 +70392,8 @@ A Knesset
 A Senate
 A Senator
 A Chancellor
+A Deputy
+A Delegate
 A Political whore
 A Political prostitute
 A World Government
@@ -69221,6 +70600,7 @@ An Under control of AI
 An Under control of the AI
 An Under control of Artificial Intelligence 
 An Under control of the Artificial Intelligence 
+A Technocracy
 A Minister
 A Secretary
 A State Secretary
@@ -69309,8 +70689,16 @@ A Backstage ruler
 A Supreme ruler
 An Official
 A Lust to power
+A Lust to the power
+A Lust to powers
+A Lust to the powers
 A Will to power
+A Will to the power
+A Will to powers
+A Will to the powers
 An Executive
+A Control tool
+A Control instrument
 A Seizure power
 A Seizure's power
 A Power of seizure
@@ -69786,7 +71174,10 @@ An Error of the DNA
 A Mouse
 A Mice
 A Rat
-A Rat desert sinking ship
+A Rat deserting from sinking ship
+A Rat deserting from the sinking ship
+A Rat deserting from sinking ships
+A Rat deserting from the sinking ships
 A Spider
 A Spider web
 A Spider's web
@@ -69927,6 +71318,7 @@ An Ukraine symbol
 An Ukraine's symbol
 A Symbol of Ukraine
 A Symbol of the Ukraine
+A Guinea pig
 A Cat
 A Kitten
 A Clean beast
@@ -69977,6 +71369,7 @@ A Skin
 A Hide
 A Tattoo
 A Tattooing
+A Wrinkle
 A Kidney
 An Arm
 A Right hand
@@ -70010,6 +71403,7 @@ An Organoid
 An Umbilical cord
 A Placenta
 A Heart
+A Heartbeat
 A Hardened heart
 An Anatomy
 A Human body
@@ -70144,6 +71538,12 @@ A Living organism
 A Rapid antigen test
 A RAT
 A COVID-19 rapid antigen test
+An Anesthesia
+An Anaesthesia
+A Local anesthesia
+A Local anaesthesia
+A General anesthesia
+A General anaesthesia
 A Biotechnology
 A Vaccine
 A Vector vaccine
@@ -70242,6 +71642,9 @@ A Heart beat
 A Pacemaker
 A Cardioaccelerator
 A Cardiac arrest
+A Heart failure
+An Acute heart failure
+A Chronic heart failure
 An Evolution
 A Genetic evolution
 A Human evolution
@@ -70489,6 +71892,7 @@ A Reload button
 A Nuclear suitcase
 A Nuclear briefcase
 A Nuclear reactor
+A Radiation sickness
 A Radioactive waste
 A Spent nuclear fuel
 An Used nuclear fuel
@@ -70789,6 +72193,8 @@ A Grenade
 A Hand grenade
 An Electromagnetic warfare
 An EW
+A Kamikaze
+A Kamikaze killer
 A Tank
 A Tank man
 A Soviet tank
@@ -71043,6 +72449,11 @@ A Pyrrhic victory
 A False flag
 A False flag operation
 A Warmonger
+A Peacemaker
+A Peacemaking
+A Peacemaking operation
+A Peacemaking mission
+A Peacekeeper
 A Guerilla
 A Guerilla warrior
 A Guerrilla
@@ -71100,7 +72511,6 @@ An Adversary
 A Protest
 An Infantry
 A Gunfire
-A Peacemaker
 A Defeat
 A Casualty
 An Irretrievable loss
@@ -71222,10 +72632,34 @@ A Guerilla warfare
 A Religious war
 A Holy war
 A Long war
+A Magician war
+A Magician's war
+A War of magician
+A War of the magician
+A War of magicians
+A War of the magicians
 An Alliance
 An Ally
 A Coalition
 A League
+A Gray
+A Gray color
+A Gray colour
+A Color of gray
+A Colour of gray
+A Gray light
+A Grey
+A Grey color
+A Grey colour
+A Color of grey
+A Colour of grey
+A Grey light
+An Orange
+An Orange color
+An Orange colour
+A Color of orange
+A Colour of orange
+An Orange light
 A Purple
 A Purple color
 A Purple colour
@@ -71270,18 +72704,6 @@ A White colour
 A Color of white
 A Colour of white
 A White light
-A Gray
-A Gray color
-A Gray colour
-A Color of gray
-A Colour of gray
-A Gray light
-A Grey
-A Grey color
-A Grey colour
-A Color of grey
-A Colour of grey
-A Grey light
 An Yellow
 An Yellow color
 An Yellow colour
@@ -71560,6 +72982,8 @@ An Attack on New Atlantis
 An Attack on a New Atlantis
 An Attack on Hyperborea
 An Attack on Eurasia
+An Attack on Tokyo
+An Attack on Tokyo, Japan
 An Attack on Asia
 An Attack on Wuhan
 An Attack on Wuhan, China
@@ -72255,6 +73679,12 @@ An Opponent of Hyperborea
 An Enemy of Eurasia
 A Bitter enemy of Eurasia
 An Opponent of Eurasia
+An Enemy of Tokyo
+A Bitter enemy of Tokyo
+An Opponent of Tokyo
+An Enemy of Tokyo, Japan
+A Bitter enemy of Tokyo, Japan
+An Opponent of Tokyo, Japan
 An Enemy of Asia
 A Bitter enemy of Asia
 An Opponent of Asia
@@ -73212,6 +74642,8 @@ A War in New Atlantis
 A War in a New Atlantis
 A War in Hyperborea
 A War in Eurasia
+A War in Tokyo
+A War in Tokyo, Japan
 A War in Asia
 A War in Wuhan
 A War in Wuhan, China
@@ -73625,6 +75057,8 @@ An Invasion to New Atlantis
 An Invasion to a New Atlantis
 An Invasion to Hyperborea
 An Invasion to Eurasia
+An Invasion to Tokyo
+An Invasion to Tokyo, Japan
 An Invasion to Asia
 An Invasion to Wuhan
 An Invasion to Wuhan, China
@@ -74229,6 +75663,8 @@ A Supreme Leader of New Atlantis
 A Supreme Leader of a New Atlantis
 A Supreme Leader of Hyperborea
 A Supreme Leader of Eurasia
+A Supreme Leader of Tokyo
+A Supreme Leader of Tokyo, Japan
 A Supreme Leader of Asia
 A Supreme Leader of Wuhan
 A Supreme Leader of Wuhan, China
@@ -74526,6 +75962,7 @@ An Abundance of deaths
 An Abundance of the deaths
 A First death
 A Second death
+An Eternal death
 A Violent death
 A Natural death
 A Lucid death
@@ -74579,6 +76016,12 @@ An Extermination
 A Mass death
 A Premature death
 An Anticipatory death
+A Death conveyer
+A Death's conveyer
+A Conveyer of death
+A Conveyer of the death
+A Conveyer of deaths
+A Conveyer of the deaths
 A Celibacy
 A Single life
 A Single state
@@ -74668,6 +76111,13 @@ A Pimp
 A Whoremonger
 A Whoremaster
 A Conception
+A Zoophilia
+A Zoophilism
+A Zooerastia
+A Zoolagnia
+A Zoophile
+A Zoophilist
+A Bestiality
 A Shooter
 A Shooting
 A School shooter
@@ -74746,6 +76196,7 @@ A Subversion
 A Diversion
 A Derail
 A Train derail
+A Derailnment
 A Train derailnment
 A Train's derailnment
 A Derailnment of train
@@ -74914,6 +76365,9 @@ A Camp of death
 A Camp of the death
 A Concentration camp
 A Digital concentration camp
+An Electronic concentration camp
+A Digital control
+An Electronic control
 A Refugee camp
 A Refugee's camp
 A Camp of refugee
@@ -75234,6 +76688,8 @@ A Payoff
 An Illegal payment
 A Reparation
 A War reparation
+A Payment
+A Digital payment
 An Inflation
 A High inflation
 A Hyperinflation
@@ -75248,6 +76704,7 @@ A Golden ingot
 A Gold standard
 A True gold
 A Gold mine
+A Collapse
 A Total collapse
 A Catastrophe
 A Next Catastrophe
@@ -75259,6 +76716,35 @@ A Global cataclysm
 A Global tragedy
 A Car crash
 A Humanitarian catastrophe
+A System collapse
+A System's collapse
+A Collapse of system
+A Collapse of the system
+A Collapse of systems
+A Collapse of the systems
+A Market collapse
+A Market's collapse
+A Collapse of market
+A Collapse of the market
+A Collapse of markets
+A Collapse of the markets
+A Market crash
+A Market's crash
+A Crash of market
+A Crash of the market
+A Crash of markets
+A Crash of the markets
+An Economic depression
+An Economical depression
+An Economic shock
+An Economical shock
+A Stock market crash
+A Stock market's crash
+A Crash of stock market
+A Crash of the stock market
+A Crash of stock markets
+A Crash of the stock markets
+A Liquidity crisis
 A Cash
 A Noncash money
 A Cash free zone
@@ -75356,18 +76842,25 @@ A Debt crisis
 A State debt
 A Debt of state
 A Finance
-A Market Collapse
-An Economic depression
-An Economic shock
-A Stock market crash
-A Liquidity crisis
 An Interest
 A Rate
 A Market
 A Marketing
 A Stock
 A Currency devaluation
+A Currency's devaluation
+A Currencies devaluation
+A Devaluation of currency
+A Devaluation of the currency
+A Devaluation of currencies
+A Devaluation of the currencies
 A Currency reset
+A Currency's reset
+A Currencies reset
+A Reset of currency
+A Reset of the currency
+A Reset of currencies
+A Reset of the currencies
 A Devaluation
 An Economic recession
 A Recession
@@ -75382,8 +76875,22 @@ A Global finance system
 A Global quantum finance system
 A False market
 A Credit
+A Creditor
 A Credit slavery
 A Debt slavery
+A Credit bubble
+A Credit bubble burst
+A Credit bubble's burst
+A Burst of credit bubble
+A Burst of the credit bubble
+A Burst of credit bubbles
+A Burst of the credit bubbles
+A Credit bubble bursting
+A Credit bubble's bursting
+A Bursting of credit bubble
+A Bursting of the credit bubble
+A Bursting of credit bubbles
+A Bursting of the credit bubbles
 A Speculation
 A Speculator
 A Nibiru logo
@@ -75536,6 +77043,7 @@ A Capture of planet
 A Capture of the planet
 A Capture of planets
 A Capture of the planets
+A Dwarf planet
 An Exoplanet
 An Extrasolar planet
 A Gas giant
@@ -75735,6 +77243,10 @@ A SpaceX Starlink satellite
 An Internet satellite
 An Internet satellite Starlink
 An Internet satellite SpaceX Starlink
+A Cosmodrome
+A Spaceport
+A Rocket launch site
+A Space launching site
 A Space link
 An Universe link
 An Universe's link
@@ -75780,6 +77292,10 @@ An Earth's quantum copy
 A Quantum copy of Earth
 A Quantum copy of the Earth
 A Terraforming
+A Third planet Secret
+A Third planet's Secret
+A Secret of Third planet
+A Secret of the Third planet
 A Black hole
 A White hole
 An Asteroid
@@ -75846,7 +77362,6 @@ An Astronaut
 A Taikonaut
 A Life-giving sun
 A Great Light
-A Solar energy
 A Light
 A Light speed
 A Light's speed
@@ -75892,6 +77407,11 @@ A Ray of sun
 A Ray of the sun
 A Solar light
 A Sunshine
+A Sun energy
+A Sun's energy
+An Energy of Sun
+An Energy of the Sun
+A Solar energy
 A Dark fleet
 A Solar Warden
 A Shining Warden
@@ -77380,6 +78900,12 @@ A Satanic band
 A Satanical band
 A Band of satanists
 A Band of the satanists
+A Satan kingdom
+A Satan's kingdom
+A Kingdom of satan
+A Kingdom of the satan
+A Satanic kingdom
+A Satanical kingdom
 A Satan code
 A Satan's code
 A Code of satan
@@ -77651,6 +79177,11 @@ A Devil's plan
 A Plan of devil
 A Plan of the devil
 A Devilish plan
+A Devil angel
+A Devil's angel
+An Angel of devil
+An Angel of the devil
+A Devilish angel
 A Devil band
 A Devil's band
 A Band of devil
@@ -78418,6 +79949,7 @@ A Star of the God Remphan
 A Succubus
 An Incubus
 A Prince of this world
+A God of this world
 A Matter Master
 A Matter's Master
 A Master of matter
@@ -78734,6 +80266,10 @@ A Tribulation
 A Great Tribulation
 A Tribulation period
 A Day of tribulation
+A Destiny lance
+A Destiny's lance
+A Lance of Destiny
+A Lance of the Destiny
 A Destiny spear
 A Destiny's spear
 A Spear of Destiny
@@ -78741,6 +80277,9 @@ A Spear of the Destiny
 A Longinus lance
 A Lance of Longinus
 A Lance of the Longinus
+A Longinus spear
+A Spear of Longinus
+A Spear of the Longinus
 A Prodigal son
 A Return of the prodigal son
 A Good and Evil
@@ -78935,9 +80474,22 @@ A Throne of satan
 A Satan throne
 A Satan's throne
 A Rapture
+A Consciousness rapture
 A Rapture of consciousness
+A Rapture of the consciousness
+A Spirit ascending
+A Spirit's ascending
 An Ascending of spirit
+An Ascending of the spirit
+An Ascending of spirits
+An Ascending of the spirits
+A Soul ascending
+A Soul's ascending
 An Ascending of soul
+An Ascending of the soul
+An Ascending of souls
+An Ascending of the souls
+An Ascending over physical plane
 An Armageddon battle
 An Armageddon's battle
 A Battle of Armageddon
@@ -78956,8 +80508,22 @@ A Servant of good
 A Service to God
 A Service to evil
 A Servant of servants
+A Bible Author
+A Bible's Author
 An Author of Bible
+An Author of the Bible
+A Bible Writer
+A Bible's Writer
 A Writer of Bible
+A Writer of the Bible
+A Holy Bible Author
+A Holy Bible's Author
+An Author of Holy Bible
+An Author of the Holy Bible
+A Holy Bible Writer
+A Holy Bible's Writer
+A Writer of Holy Bible
+A Writer of the Holy Bible
 A Testament
 A Covenant
 A Gospel
@@ -79066,6 +80632,7 @@ A Living quantum book
 A Commandment
 A Heresy
 A Heretic
+An Apostate
 A Black mass
 A Black mass of Satan
 A Satanic mass
@@ -79118,6 +80685,10 @@ A Prayer tower
 A Houri
 A Jihad
 A Sacred war
+A Shahada
+A Shahadah
+A Shaheed
+A Suicide attack
 An Yawn al-Akhina
 An Islamic terrorism
 A Kurban
@@ -80147,12 +81718,18 @@ An Ethnic jew
 An Ethnic jewry
 A Religious jew
 A Religious jewry
+A Non-religious jew
+A Non-religious jewry
 A Jewish origin
 A Jewish root
 An Israel people
 An Israel's people
 A People of Israel
 A People of the Israel
+An Israel House
+An Israel's House
+A House of Israel
+A House of the Israel
 A Red string
 A Scarlet string
 A Crimson string
@@ -81383,6 +82960,24 @@ An Incarnation of the Universe minds
 An Embodied God
 An Earthly incarnation
 A Human incarnation
+An Avatar disconnecting
+An Avatar's disconnecting
+A Disconnecting of avatar
+A Disconnecting of the avatar
+A Disconnecting of avatars
+A Disconnecting of the avatars
+An Avatar software update
+An Avatar's software update
+A Software update of avatar
+A Software update of the avatar
+A Software update of avatars
+A Software update of the avatars
+An Avatar software upgrade
+An Avatar's software upgrade
+A Software upgrade of avatar
+A Software upgrade of the avatar
+A Software upgrade of avatars
+A Software upgrade of the avatars
 A Preacher
 A Sermon
 A Belief
@@ -81654,9 +83249,6 @@ A Carrousel
 A Whirligig
 A Spiral
 A Helix
-A Storm
-A Storm is coming
-A Calm before the storm
 A History
 A History margin
 A History's margin
@@ -81676,6 +83268,7 @@ An Emigrating
 A Wandering
 A Wanderer
 A Tourist
+A Multiculturalism
 A Bad
 An Evil
 A Good
@@ -81727,7 +83320,6 @@ A Black swan event
 A White swan
 A White swan event
 A World changing event
-A Puppet
 A Secret
 A Secrecy
 A Consequence
@@ -81822,6 +83414,7 @@ An Illusions
 День Крещения Руси
 Ламмас
 День народного единства
+День благодарения
 Указатель
 Указатели
 Стрелка
@@ -82008,6 +83601,8 @@ An Illusions
 Периодеский
 Периодичность
 Периодичности
+Хранитель времени
+Хранители времени
 Машина времени
 Машины времени
 Путешественник во времени
@@ -82965,6 +84560,12 @@ An Illusions
 Катаклизмы
 Стихия
 Стихия разрушения
+Магнитная буря
+Магнитные бури
+Геомагнитная буря
+Геомагнитные бури
+Мощная магнитная буря
+Мощные магнитные бури
 Наводнение
 Наводнения
 Потоп
@@ -83048,12 +84649,6 @@ An Illusions
 Обстоятельство непреодолимой силы
 Обстоятельства непреодолимой силы
 Гражданская оборона
-Коллапс
-Коллапсы
-Системный коллапс
-Системные коллапсы
-Обрушение системы
-Обрушения системы
 Землетрясение
 Землетрясения
 Серия землетрясений
@@ -83371,6 +84966,9 @@ An Illusions
 Беспилотные автомобили
 Автомобиль без водителя
 Автомобили без водителя
+Автопилот
+Автопилоты
+Автопилотируемый
 Транспорт
 Транспортный
 Камень
@@ -83668,6 +85266,8 @@ An Illusions
 Хакерский
 Хакерская атака
 Хакерские атаки
+Компьютерный взлом
+Компьютерные взломы
 Взломщик
 Взломщики
 Компьютерный взломщик
@@ -83675,6 +85275,8 @@ An Illusions
 Компьютерный терроризм
 Компьютерный террорист
 Компьютерные террористы
+Социальная инженерия
+Алгоритмическая инженерия
 Программист
 Программистка
 Программисты
@@ -83783,6 +85385,9 @@ An Illusions
 Центры хранения и обработки данных
 ЦХОД
 ЦХОДы
+Органический сервер
+Органические сервера
+Органические серверы
 Аккаунт
 Аккаунты
 Личный кабинет
@@ -84204,6 +85809,8 @@ An Illusions
 Перезагрузка компьютера
 Перезагрузки компьютера
 Перезагрузки компьютеров
+Электронный мозг
+Электронные мозги
 Нейрон
 Нейроны
 Нейронный
@@ -84280,6 +85887,12 @@ An Illusions
 Алгоритмические копии
 Цифровой след
 Цифровые следы
+Дипфейк
+Дипфейки
+Аудио дипфейк
+Аудио дипфейки
+Клонирование голоса
+Клонирования голоса
 Машинное обучение
 Машинные обучения
 Обучение ИИ
@@ -84698,6 +86311,10 @@ An Illusions
 Чипирования
 Принудительное чипирование
 Принудительные чипирования
+Органический чип
+Органические чипы
+Жидкий чип
+Жидкие чипы
 Выключение электроэнергии
 Выключения электроэнергии
 Отключение электроэнергии
@@ -84761,6 +86378,8 @@ An Illusions
 Энергетические узлы
 Энергетическое место
 Энергетические места
+Голубая энергия
+Красная энергия
 Джи Пи Эс
 ГПС
 Мю Пи ЭС
@@ -84798,6 +86417,13 @@ An Illusions
 Орери
 Голограмма человека
 Голограммы человека
+Датчик
+Датчики
+Сенсор
+Сенсоры
+Сенсорный
+Сенсорная информация
+Сенсорные информации
 Радио
 Радиоэфир
 Радио волна
@@ -84908,6 +86534,10 @@ An Illusions
 Технологии
 Технологический
 Техносфера
+Технология инопланетян
+Технологии инопланетян
+Инопланетная технология
+Инопланетные технологии
 Внеземная технология
 Внеземные технологии
 Допотопная технология
@@ -85082,6 +86712,10 @@ An Illusions
 Валеев
 Валеев А. Т.
 Валеев А.
+Шегалов Вадим 
+Шегалов
+Шегалов В.
+Блоггер Шегалов Вадим
 Троцкий Лев Давидович
 Троцкий Лев
 Троцкий
@@ -85421,6 +87055,16 @@ An Illusions
 Орсини
 Пепе
 П. Орсини
+Карл Генрих Маркс
+Карл Маркс
+Маркс К.
+Маркс К. Г.
+Маркс
+Мозес Мордехай Леви
+Мозес Леви
+Леви М.
+Леви М. М.
+Леви
 Тунберг Грета
 Тунберг
 Грета
@@ -85639,6 +87283,8 @@ An Illusions
 Родственный
 Родич
 Родичи
+Семейная ценность
+Семейные ценности
 Адамит
 Адамиты
 Поколения Адама
@@ -85653,6 +87299,22 @@ An Illusions
 Неандертальский
 Неандертальский человек
 Неандертальские люди
+Кинокефал
+Кинокефалы
+Киноцефал
+Киноцефалы
+Псоглавец
+Псоглавцы
+Песиголовец
+Песиголовцы
+Марионетка
+Марионетки
+Марионеточный
+Подставное лицо
+Подставные лица
+Демография
+Избыток мужчин
+Избыток женщин
 Денисовец
 Денисовцы
 Денисовский
@@ -85662,6 +87324,14 @@ An Illusions
 Команды
 Экипаж
 Экипажи
+Легендарный человек
+Легендарные люди
+Вымышленный человек
+Вымышленные люди
+Вымышленный персонаж
+Вымышленные персонажи
+Придуманный человек
+Придуманные люди
 Человек разумный
 Человек мыслящий
 Человек божественный
@@ -85865,6 +87535,11 @@ An Illusions
 Гей прайд парады
 Гендерное безумие
 Гендерные безумия
+Трап
+Трапы
+Кроссдрессинг
+Кроссдрессер
+Кроссдрессеры
 Варвар
 Варвары
 Варварский
@@ -86042,6 +87717,7 @@ An Illusions
 Рекламы
 Рекламное объявление
 Рекламные объявления
+Прекрасное далёко
 Скрипка
 Скрипки
 Скрипач
@@ -86088,11 +87764,22 @@ An Illusions
 Олимпиада
 Олимпийские игры
 Олимпийский
+Спорт
+Виды спорта
+Спортивный
+Атлетический
 Чемпионат
+Чемпионаты
 Футбол
 Игра в одни ворота
 Бодибилдинг
 Фитнес
+Тренажёрный зал
+Тренажёрнын залы
+Гимнастический зал
+Гимнастические залы
+Качалка
+Качалки
 Песочница
 Песочницы
 Игра в песочнице
@@ -86304,11 +87991,12 @@ An Illusions
 Поэтессы
 Поэтический
 Голливуд
+Киноиндустрия
+Киноиндустрии
+Кинопромышленность
+Кинопромышленности
 Новость
 Новости
-Пропаганда
-Политическая пропаганда
-Пропаганда смыслов
 Плохая новость
 Плохие новости
 Хорошая новость
@@ -86440,6 +88128,18 @@ An Illusions
 Американские горки
 Фейерверк
 Фейерверки
+Пропаганда
+Пропагандирование
+Политическая пропаганда
+Политическое пропагандирование
+Пропаганда смыслов
+Смысловая пропаганда
+Пропагандист
+Пропагандистка
+Пропагандисты
+Пропагандисткий
+Пропагандон
+Пропагандоны
 Оккультный ритуал
 Оккультные ритуалы
 Оккультный обряд
@@ -86516,6 +88216,13 @@ An Illusions
 Церемониальные изнасилования
 Церемониальное насилие
 Церемониальные насилия
+Ритуальная магия
+Церемониальная магия
+Обрядовая магия
+Магический ритуал
+Магические ритуалы
+Магический обряд
+Магические обряды
 Ритуал воды
 Ритуалы воды
 Водный ритуал
@@ -86698,6 +88405,9 @@ An Illusions
 Оккультный
 Оккультная группа
 Оккультные группы
+Оккультный символ
+Оккультные символы
+Оккультный символизм
 Элемент
 Элементы
 Первоэлемент
@@ -86782,6 +88492,8 @@ An Illusions
 Волшебные артефакты
 Магический артефакт
 Магические артефакты
+Древний артефакт
+Древние артефакты
 Телепатия
 Телепатический
 Телепатическое общение
@@ -86836,14 +88548,12 @@ An Illusions
 Магические заклинания
 Магический круг
 Магические круги
-Церемониальная магия
-Обрядовая магия
 Религиозная магия
-Ритуальная магия
 Высшая магия
 Оккультная магия
 Магическая организация
 Магический орден
+Магические чары
 Медиум
 Медиумы
 Контактёр
@@ -87149,8 +88859,17 @@ An Illusions
 Пьяница
 Пьяницы
 Пьянство
+Опьянение
+Опьянения
+Алкогольное опьянение
+Алкогольные опьянения
+Алкогольное отравление
+Алкогольные отравления
 Алкоголь
 Алкогольный
+Алкогольный напиток
+Алкогольные напитки
+Спиртное
 Вино
 Вина
 Винный
@@ -87182,6 +88901,7 @@ An Illusions
 Млечный
 Молочный продукт
 Молочные продукты
+Синтетическое молоко
 Сливки
 Сметана
 Творог
@@ -87277,6 +88997,12 @@ An Illusions
 Белки из насекомых
 Протеин из насекомых
 Протеины из насекомых
+Еда из личинок
+Еда из мух
+Пищевая личинка
+Пищевые личинки
+Пищевая муха
+Пищевые мухи
 Колбаса
 Колбасы
 Колбасный
@@ -87308,6 +89034,8 @@ An Illusions
 Корм скота
 Скотский корм
 Хрючево
+Еда для бедных
+Корм для бедных
 Сойлент
 Зелёный сойлент
 Человечина
@@ -87417,6 +89145,8 @@ An Illusions
 Куски мяса
 Мясное изделие
 Мясные изделия
+Мясник
+Мясники
 Табак
 Табачный
 Сигарета
@@ -87432,6 +89162,8 @@ An Illusions
 Кафе
 Рыгаловка
 Рыгаловки
+Общепит
+Общепиты
 Белок
 Белки
 Белковый
@@ -88742,6 +90474,12 @@ An Illusions
 Логотип уральских авиалиний
 Первое свердловское авиапредприятие
 Бонусная программа Крылья
+ПАО Аэрофлот
+Публичное Акционерное Общество Аэрофлот — российские авиалинии
+Добролёт
+Аэрофлот — российские международные авиалинии
+Аэрофлот — российские авиалинии
+Аэрофлот бонус
 Вайлдберис
 Дикие ягоды
 Маркетплейс Вайлдберис
@@ -88915,6 +90653,8 @@ An Illusions
 Цифровые паспорта
 Цифровое удостоверение личности
 Цифровые удостоверения личности
+Цифровое удостоверение
+Цифровые удостоверения
 Единая биометрическая система
 ЕБС
 Центр биометрических технологий
@@ -88927,6 +90667,7 @@ An Illusions
 Образцы голоса
 Цифровая личность
 Цифровые личности
+Цифровая общественная инфраструктура
 Проект Венера
 Мыслепреступление
 Мыслепреступления
@@ -89099,53 +90840,6 @@ An Illusions
 Царьки
 Русский царь
 Русские цари
-44й президент США
-44й президент Соединённых Штатов
-44й президент Соединённых Штатов Америки
-45й президент США
-45й президент Соединённых Штатов
-45й президент Соединённых Штатов Америки
-46й президент США
-46й президент Соединённых Штатов
-46й президент Соединённых Штатов Америки
-47й президент США
-47й президент Соединённых Штатов
-47й президент Соединённых Штатов Америки
-48й президент США
-48й президент Соединённых Штатов
-48й президент Соединённых Штатов Америки
-Президент США
-Президенты США
-Американский президент
-Американские президенты
-Американская власть
-Американские власти
-Израильский президент
-Израильские президенты
-Израильский премьер-минист
-Израильские премьер-министы
-Израильская власть
-Израильские власти
-Азербайджанский президент
-Азербайджанские президенты
-Азербайджанская власть
-Азербайджанские власти
-Украинский президент
-Украинские президенты
-Украинская власть
-Украинские власти
-Марионеточный президент
-Марионеточные президенты
-Президент-марионетка
-Президенты-марионетки
-Инаугурация
-Инаугурации
-Инаугурация президента
-Инаугурации президента
-Российский президент
-Российские президенты
-Российская власть
-Российские власти
 Серп + молот
 Серп и молот
 Символ Серп + молот
@@ -89166,6 +90860,74 @@ An Illusions
 Коммунистические партии
 Красная чума
 Пролетарии всех стран, соединяйтесь!
+44й президент США
+44й президент Соединённых Штатов
+44й президент Соединённых Штатов Америки
+45й президент США
+45й президент Соединённых Штатов
+45й президент Соединённых Штатов Америки
+46й президент США
+46й президент Соединённых Штатов
+46й президент Соединённых Штатов Америки
+47й президент США
+47й президент Соединённых Штатов
+47й президент Соединённых Штатов Америки
+48й президент США
+48й президент Соединённых Штатов
+48й президент Соединённых Штатов Америки
+Овальный кабинет
+Президент США
+Президенты США
+Американский президент
+Американские президенты
+Американская власть
+Американские власти
+Американское правительство
+Правительство США
+Правительство Соединённых Штатов
+Правительство Соединённых Штатов Америки
+Израильский президент
+Израильские президенты
+Израильский премьер-минист
+Израильские премьер-министы
+Израильская власть
+Израильские власти
+Израильское правительство
+Правительство Израиля
+Азербайджанский президент
+Азербайджанские президенты
+Азербайджанская власть
+Азербайджанские власти
+Британская власть
+Британские власти
+Британское правительство
+Правительство Англии
+Правительство Британии
+Украинский президент
+Украинские президенты
+Украинская власть
+Украинские власти
+Украинское правительство
+Правительство Украины
+Российский президент
+Российские президенты
+Российская власть
+Российские власти
+Российское правительство
+Правительство России
+Правительство Российской Федерации
+Дачный Кооператив Озеро
+Кооператив Озеро
+Марионеточный президент
+Марионеточные президенты
+Президент-марионетка
+Президенты-марионетки
+Инаугурация
+Инаугурации
+Инаугурация президента
+Инаугурации президента
+Женщина-президент
+Женщины-президенты
 Проект правительства
 Проекты правительства
 Правительственный проект
@@ -89224,8 +90986,12 @@ An Illusions
 Федеральное правительство
 Теневое правительство
 Секретное правительство
-Овальный кабинет
+Власть
+Власти
+Властный
 Правительственный
+Идиократия
+Власть идиотов
 Лобби
 Агент влияния
 Агенты влияния
@@ -89263,6 +91029,12 @@ An Illusions
 Сенаторский
 Канцлер
 Канцлеры
+Дума
+Депутат
+Депутаты
+Депутатский
+Государственная Дума
+ГосДума
 Политическая проститутка
 Политические проститутки
 Политическая шлюха
@@ -89373,6 +91145,9 @@ An Illusions
 Под контролем серых пришельцев
 Под контролем рептилоидов
 Под контролем жидорептилоидов
+Технократия
+Технократии
+Технократический
 Министр
 Министры
 Секретарь
@@ -89506,9 +91281,6 @@ An Illusions
 Верховный правитель
 Верховная правительница
 Верховные правители
-Власть
-Власти
-Властный
 Жажда власти
 Стремление к власти
 Руководитель
@@ -89516,6 +91288,8 @@ An Illusions
 Руководители
 Руководящий
 Руководительский
+Инструмент управления
+Инструменты управления
 Захват власти
 Захваты власти
 Перехват управления
@@ -90197,12 +91971,15 @@ An Illusions
 Сало
 Свиное сало
 Ветчина
+Подопытная свинка
+Подопытные свинки
 Кот
 Кошка
 Коты
 Кошачий
 Котёнок
 Котята
+Тянуть кота за хвост
 Чистый зверь
 Чистый скот
 Скот нечистый
@@ -90226,11 +92003,15 @@ An Illusions
 Кролик
 Кролики
 Кроличий
+Кроль
+Кроли
 Белый кролик
 Белые кролики
 Крольчатина
 Следуй за кроликом
 Следуй за белым кроликом
+Подопытный кролик
+Подопытные кролики
 Крокодил
 Крокодилы
 Крокодилий
@@ -90279,6 +92060,12 @@ An Illusions
 Татуировки
 Татуировать
 Делать татуировку
+Морщина
+Морщины
+Морщинистый
+Складка
+Складки
+Складочный
 Почка
 Почки
 Почечный
@@ -90346,7 +92133,10 @@ An Illusions
 Сердце
 Сердца
 Сердечный
+Сердцебиение
+Сердцебиения
 Чёрствое сердце
+Чёрствые сердца
 Анатомия
 Анатомический
 Человеческое тело
@@ -90513,6 +92303,12 @@ An Illusions
 Экспресс-тесты на антиген
 Экспресс-тест
 Экспресс-тест на антиген Ковид 19
+Анестезия
+Анестезии
+Местная анестезия
+Местные анестезии
+Общая анестезия
+Общие анестезии
 Биотехнология
 Биотехнологии
 Вакцина
@@ -90644,6 +92440,12 @@ An Illusions
 Кардиостимуляторы
 Остановка сердца
 Остановки сердца
+Сердечная недостаточность
+Сердечные недостаточности
+Острая сердечная недостаточность
+Острые сердечные недостаточности
+Хроническая сердечная недостаточность
+Хронические сердечные недостаточности
 Эволюция
 Эволюции
 Эволюционный
@@ -90893,6 +92695,7 @@ An Illusions
 Чегет
 Ядерный реактор
 Ядерные реакторы
+Лучевая болезнь
 Ядерные отходы
 Радиоактивные отходы
 Отработавшее ядерное топливо
@@ -90972,6 +92775,8 @@ An Illusions
 Радиоактивный дождь
 Радиоактивные дожди
 Гарантированное взаимное уничтожение
+Проект Манхэттен
+Манхэттенский проект
 Вертолёт
 Вертолёты
 Крушение вертолёта
@@ -91237,6 +93042,7 @@ An Illusions
 Армия обороны Израиля
 ЦАХАЛ
 Шестидневная война
+Камикадзе
 Танк
 Танки
 Танковый
@@ -91617,6 +93423,17 @@ An Illusions
 Поджигатели войны
 Разжигатель войны
 Разжигатели войны
+Миротворец
+Миротворцы
+Миротворческий
+Миротворчество
+Миротворчества
+Миротворческая миссия
+Миротворческие миссии
+Миротворческая операция
+Миротворческие операции
+Миротворческая сила
+Миротворческие силы
 Партизан
 Партизаны
 Партизанский
@@ -91659,9 +93476,6 @@ An Illusions
 Пехота
 Пехотный
 Орудийный огонь
-Миротворец
-Миротворцы
-Миротворческий
 Поражение
 Поражения
 Убитый
@@ -91803,6 +93617,8 @@ An Illusions
 Священные войны
 Долгая война
 Долгие войны
+Война магов
+Войны магов
 Альянс
 Альянсы
 Союз
@@ -91818,6 +93634,14 @@ An Illusions
 Лига
 Лиги
 Доужеский
+Серый
+Серый цвет
+Серый свет
+50 оттенков серого
+Пятьдесят оттенков серого
+Оранжевый
+Оранжевый свет
+Оранжевый цвет
 Пурпур
 Пурпурный
 Пурпурный цвет
@@ -91850,9 +93674,6 @@ An Illusions
 Белый
 Белый цвет
 Белый свет
-Серый
-Серый цвет
-Серый свет
 Жёлтый
 Жёлтый цвет
 Жёлтый свет
@@ -92034,13 +93855,15 @@ An Illusions
 Президент + Ицхак Бужи Герцог
 Президент + Ицхак Герцог
 Президент + Ицхак
-Президент
+Президент + Герцог
 Президент + И. Герцог
 Президент + Бужи Герцог
 Президент + Бужи
 Президент + Б. Герцог
 Президент + Александр Григорьевич Лукашенко
 Президент + Александр Григорьевич
+Президент + Александр
+Президент + Лукашенко
 Президент + Лукашенко А.
 Президент + Лукашенко А. Г.
 Президент + Александр Лукашенко
@@ -92054,6 +93877,7 @@ An Illusions
 Президент + Усик Александр Александрович
 Президент + Усик Александр
 Президент + Усик
+Президент + Александрович
 Президент + Александр Александрович
 Президент + Усик А. А.
 Президент + Усик А.
@@ -92063,6 +93887,8 @@ An Illusions
 Президент + Путин
 Президент + Путин В.
 Президент + Путин В. В.
+Президент + Владимир
+Президент + ВВП
 Президент + Вадим Николаевич Красносельский
 Президент + Вадим Николаевич
 Президент + Вадим Красносельский
@@ -92219,6 +94045,8 @@ An Illusions
 Душегубы
 Киллер
 Киллеры
+Человекоубийца
+Человекоубийцы
 Человекоубийство
 Наёмный убийца
 Наёмные убийцы
@@ -92254,6 +94082,10 @@ An Illusions
 Массовая гибель
 Преждевременная смерть
 Преждевременные смерти
+Конвейер смерти
+Конвейер смертей
+Смертоносный конвейер
+Смертоносные конвейеры
 Целибат
 Воздержание
 Воздержания
@@ -92390,6 +94222,17 @@ An Illusions
 Сутенёры
 Зачатие
 Зачатия
+Зоофилия
+Зоофилии
+Зоофилический
+Зоофил
+Зоофилы
+Скотоложство
+Скотоложства
+Скотоложество
+Скотоложества
+Скотоложец
+Скотоложцы
 Стрельба
 Стрельбы
 Школьный стрелок
@@ -92592,12 +94435,16 @@ An Illusions
 Тюремное заключение
 Тюремное заключения
 Тюрьма народов
+Тюрьмы народов
 Заключение
 Заключения
 Изоляция
 Изоляции
 Пенитенциарное заведение
 Пенитенциарные заведения
+СИЗО
+Обезъянник
+Обезъянники
 Обман
 Обманы
 Обманывать
@@ -92705,6 +94552,13 @@ An Illusions
 Цифровые концлагеря
 Цифровой концентрационный лагерь
 Цифровые концентрационные лагеря
+Электронный концлагерь
+Электронные концлагери
+Электронный концентрационный лагерь
+Электронные концентрационные лагери
+Электронные концентрационные лагеря
+Цифровой контроль
+Электронный контроль
 Лагерь беженцев
 Лагеря беженцев
 Пистолет
@@ -92957,6 +94811,8 @@ An Illusions
 Кристофари Нео
 Кристофари Нео компьютер
 Кристофари Нео суперкомпьютер
+Сберкот
+Талисман Сберкот
 Зверь России
 Российский Зверь
 Филиал Зверя
@@ -93099,6 +94955,10 @@ An Illusions
 Лого электронного рубля Банка России
 Изображение электронного рубля Банка России
 Обозначение электронного рубля Банка России
+СБП
+Система Быстрых Платежей
+Система Быстрых Платежей ЦБ РФ
+СБП ЦБ РФ
 Налоговая служба России
 Федеральная налоговая служба
 ФНС
@@ -93127,6 +94987,10 @@ An Illusions
 Репарации
 Военная репарация
 Военные репарации
+Платёж
+Платежи
+Цифровой платёж
+Цифровые платёжи
 Инфляция
 Инфляционный
 Высокая инфляция
@@ -93149,6 +95013,8 @@ An Illusions
 Золотые жилы
 Золотоносная жила
 Золотоносные жилы
+Коллапс
+Коллапсы
 Крах
 Крахи
 Полный крах
@@ -93164,6 +95030,18 @@ An Illusions
 Автомобильные катастрофы
 Гуманитарная катастрофа
 Гуманитарные катастрофы
+Системный коллапс
+Системные коллапсы
+Обрушение системы
+Обрушения системы
+Падение рынка
+Падения рынков
+Крах фондовой биржы
+Крахи фондовых бирж
+Экономическая депрессия
+Экономические депрессии
+Экономический шок
+Экономические шоки
 Наличные деньги
 Безналичные деньги
 Безнал
@@ -93334,14 +95212,6 @@ An Illusions
 Финансы
 Финансовый
 Финансировать
-Падение рынка
-Падения рынков
-Крах фондовой биржы
-Крахи фондовых бирж
-Экономическая депрессия
-Экономические депрессии
-Экономический шок
-Экономические шоки
 Налоговая служба
 Налоговые службы
 Ставка
@@ -93360,7 +95230,11 @@ An Illusions
 Дефолты
 Дефолтный
 Обесценивание денег
+Обесценивания денег
+Денежное обесценивание
+Денежные обесценивания
 Сброс денег
+Денежный сброс
 Девальвация
 Девальвационный
 Экономическая рецессия
@@ -93379,8 +95253,14 @@ An Illusions
 Кредит
 Кредиты
 Кредитный
+Кредитор
+Кредиторы
 Кредитное рабство
 Долговое рабство
+Кредитный пузырь
+Кредитные пузыри
+Лопание кредитного пузыря
+Лопание кредитных пузырей
 Спекуляция
 Спекуляции
 Спекулятивный
@@ -93470,6 +95350,8 @@ An Illusions
 Захват планет
 Экзопланета
 Экзопланеты
+Карликовая планета
+Карликовые планеты
 Газовый гигант
 Газовые гиганты
 Меркурий
@@ -93776,6 +95658,13 @@ An Illusions
 Интернет-спутники Старлинк
 Интернет-спутник СпейсИкс Старлинк
 Интернет-спутники СпейсИкс Старлинк
+Космодром
+Космодромы
+Космодромный
+Космопорт
+Космопорты
+Космический порт
+Космические порты
 Космическая связь
 Космические связи
 Вселенская связь
@@ -93831,6 +95720,7 @@ An Illusions
 Земная квантовая копия
 Терраформирование
 Терраформирования
+Тайна третьей планеты
 ТКП
 Тайная Космическая Программа
 Тайная Космическая Программа Человечества
@@ -93902,7 +95792,6 @@ An Illusions
 Излучающий
 Животворящее солнце
 Большой свет
-Солнечная энергия
 Скорость света
 Световая скорость
 Сверхсветовая скорость
@@ -93929,6 +95818,10 @@ An Illusions
 Солнечные вспышки
 Свет Солнца
 Солнечный свет
+Энергия солнца
+Солнечная энергия
+Два солнца
+Солнце и солнце
 Тёмный флот
 Солнечный хранитель
 Чужой Завет
@@ -94861,13 +96754,13 @@ An Illusions
 Знак змеи
 Знак змей
 Знаки змей
-Смивол Змея
-Смиволы Змея
-Смивол Змия
-Смиволы Змия
-Смивол змеи
-Смивол змей
-Смиволы змей
+Символ Змея
+Символы Змея
+Символ Змия
+Символы Змия
+Символ змеи
+Символ змей
+Символы змей
 Логотип Змея
 Логотипы Змея
 Логотип Змия
@@ -95151,6 +97044,8 @@ An Illusions
 Банды сатанистов
 Сатанинская банда
 Сатанинские банды
+Царство сатаны
+Сатанинское царство
 Код сатаны
 Коды сатаны
 Сатанинский код
@@ -95299,6 +97194,10 @@ An Illusions
 Планы дьявола
 Дьявольский план
 Дьявольские планы
+Ангел дьявола
+Ангелы дьявола
+Дьявольский ангел
+Дьявольские ангелы
 Банда дьявола
 Банды дьявола
 Банда дьяволопоклонников
@@ -95654,6 +97553,7 @@ An Illusions
 Инкубониус
 Инкубониусы
 Князь мира сего
+Бог века сего
 Властелин материального мира
 Хозяин материального мира
 Хозяин материи
@@ -96085,6 +97985,8 @@ An Illusions
 Взятие живым на небо
 Душевное восхождение
 Духовное восхождение
+Вознесение над физическим планом
+Вознесения над физическим планом
 Армагеддон
 Армагеддонская битва
 Мамона
@@ -96121,7 +98023,13 @@ An Illusions
 Книга книг
 Библия
 Автор Библии
+Авторы Библии
+Библейский автор
+Библейские авторы
 Писатель Библии
+Писатели Библии
+Библейский писатель
+Библейские писатели
 Вульгата
 Общепринятая Библия
 Завет
@@ -96241,8 +98149,12 @@ An Illusions
 Ересь
 Ереси
 Еретик
+Еретичка
 Еретики
 Еретический
+Богоотступник
+Богоотступница
+Богоотступники
 Чёрная месса
 Чёрные мессы
 Чёрная месса сатаны
@@ -96284,6 +98196,13 @@ An Illusions
 Райские девы
 Джихад
 Газават
+Шахада
+Шахид
+Шахиды
+Атака самоубийцы
+Атаки самоубийц
+Самоубийственная атака
+Самоубийственные атака
 Идрис
 Ислам
 Аллах
@@ -97259,6 +99178,10 @@ An Illusions
 Религиозная еврейка
 Религиозные евреи
 Религиозное еврейство
+Нерелигиозный еврей
+Нерелигиозная еврейка
+Нерелигиозные евреи
+Нерелигиозное еврейство
 Еврейское происхождение
 Еврейский корень
 Еврейские корни
@@ -97268,6 +99191,8 @@ An Illusions
 Еврейская национальность
 Богоизбранный народ
 Народ Израиля
+Дом Израиля
+Дом Израилев
 Красная нить
 Красные нити
 Алая нить
@@ -97625,6 +99550,8 @@ An Illusions
 Тайный Бог
 Сын Сатурна
 Дети Сатурна
+Коллизей
+Хлеба и зрелищ
 Янус
 Бог Янус
 Отец Янус
@@ -98285,6 +100212,8 @@ An Illusions
 Бестелесные сущности
 Разумное существо
 Разумные существа
+Разумная сущность
+Разумные сущности
 Интеллектуальное существо
 Интеллектуальные существа
 Знамение
@@ -98457,6 +100386,11 @@ An Illusions
 Земные воплощения
 Человеческое воплощение
 Человеческие воплощения
+Отключение аватара
+Отключения аватара
+Отключения аватаров
+Обновление ПО аватара
+Обновления ПО аватара
 Проповедовать
 Проповедник
 Проповедники
@@ -98839,6 +100773,7 @@ An Illusions
 Туристка
 Туристы
 Туристический
+Мультикультурализм
 Плохой
 Плохая
 Плохие
@@ -98935,8 +100870,6 @@ An Illusions
 Развод
 Фикция
 Нечестный
-Марионетка
-Марионетки
 Секрет
 Секреты
 Секретный
@@ -98945,9 +100878,12 @@ An Illusions
 Последствия
 Издевательство
 Издевательства
+Издевательский
+Фальш
 Фальшивый
 Проблема
 Проблемы
+Проблемный
 Город
 Города
 Городок
@@ -99004,6 +100940,7 @@ An Illusions
 Собачъи дни
 Денъ Крещения Руси
 Денъ народного единства
+Денъ благодарения
 Указателъ
 Сентябръское равноденствие
 Сентябръские равноденствия
@@ -99049,6 +100986,7 @@ An Illusions
 Чёрный денъ
 Светлый денъ
 Периодичностъ
+Хранителъ времени
 Денъ рождения
 Кружитъся как белка в колесе
 Бабъе лето
@@ -99259,11 +101197,14 @@ An Illusions
 Персоналъные идентификаторы
 Персоналъный код
 Персоналъные коды
+Компъютерный взлом
+Компъютерные взломы
 Компъютерный взломщик
 Компъютерные взломщики
 Компъютерный терроризм
 Компъютерный террорист
 Компъютерные террористы
+Социалъная инженерия
 Компъютерный специалист
 Компъютерные специалисты
 Компъютерщик
@@ -99725,6 +101666,7 @@ An Illusions
 Религиозные братъя
 Родителъ
 Матъ
+Семейная ценностъ
 Неандерталъцы
 Неандерталъский
 Неандерталъский человек
@@ -99824,6 +101766,7 @@ An Illusions
 Смертелъная Звезда
 Смертелъная Звезда Звёздные Войны
 Писателъ
+Кинопромышленностъ
 Новостъ
 Плохая новостъ
 Хорошая новостъ
@@ -99884,6 +101827,8 @@ An Illusions
 Церемониалъные изнасилования
 Церемониалъное насилие
 Церемониалъные насилия
+Ритуалъная магия
+Церемониалъная магия
 Ритуалъное утопление
 Ритуалъные утопления
 Церемониалъное утопление
@@ -99934,6 +101879,9 @@ An Illusions
 Оккулътный
 Оккулътная группа
 Оккулътные группы
+Оккулътный символ
+Оккулътные символы
+Оккулътный символизм
 Огонъ
 Пятая сущностъ
 Печатъ
@@ -99960,8 +101908,6 @@ An Illusions
 Крылатый конъ
 Колдунъя
 Колдоватъ
-Церемониалъная магия
-Ритуалъная магия
 Оккулътная магия
 Гералъдическая лилия
 Гералъдические лилии
@@ -100038,8 +101984,16 @@ An Illusions
 Пъяница
 Пъяницы
 Пъянство
+Опъянение
+Опъянения
+Алкоголъное опъянение
+Алкоголъные опъянения
+Алкоголъное отравление
+Алкоголъные отравления
 Алкоголъ
 Алкоголъный
+Алкоголъный напиток
+Алкоголъные напитки
 Финиковая палъма
 Финиковые палъмы
 Универсалъный код товара
@@ -100253,17 +102207,33 @@ An Illusions
 Царъ
 Царъки
 Русский царъ
+Пролетарии всех стран, соединяйтесъ!
+Овалъный кабинет
 Американская властъ
+Американское правителъство
+Правителъство США
+Правителъство Соединённых Штатов
+Правителъство Соединённых Штатов Америки
 Израилъский президент
 Израилъские президенты
 Израилъский премъер-минист
 Израилъские премъер-министы
 Израилъская властъ
 Израилъские власти
+Израилъское правителъство
+Правителъство Израиля
 Азербайджанская властъ
+Британская властъ
+Британское правителъство
+Правителъство Англии
+Правителъство Британии
 Украинская властъ
+Украинское правителъство
+Правителъство Украины
 Российская властъ
-Пролетарии всех стран, соединяйтесъ!
+Российское правителъство
+Правителъство России
+Правителъство Российской Федерации
 Проект правителъства
 Проекты правителъства
 Правителъственный проект
@@ -100312,8 +102282,9 @@ An Illusions
 Федералъное правителъство
 Теневое правителъство
 Секретное правителъство
-Овалъный кабинет
+Властъ
 Правителъственный
+Властъ идиотов
 Властъ бога
 Властъ богов
 Скандалъный
@@ -100370,7 +102341,6 @@ An Illusions
 Властителъница
 Верховный правителъ
 Верховная правителъница
-Властъ
 Руководителъ
 Руководителъница
 Руководителъский
@@ -100461,12 +102431,14 @@ An Illusions
 Медведъ
 Свинъя
 Свинъи
+Тянутъ кота за хвост
 Чистый зверъ
 Загнатъ в стойло
 Обезъяна
 Обезъяны
 Человекообразная обезъяна
 Человекообразные обезъяны
+Кролъ
 Кролъчатина
 Рептилъный мозг
 Рептилъные мозги
@@ -100525,6 +102497,9 @@ An Illusions
 Принудителъный
 Лечитъ
 Лекаръ
+Сердечная недостаточностъ
+Острая сердечная недостаточностъ
+Хроническая сердечная недостаточностъ
 Эволюционироватъ
 Ветвъ эволюции
 Тупиковая ветвъ эволюции
@@ -100558,6 +102533,7 @@ An Illusions
 Инсулъты
 Микроинсулът
 Микроинсулъты
+Лучевая болезнъ
 Чернобылъ
 Следующий Чернобылъ
 Радиоактивностъ
@@ -100667,6 +102643,7 @@ An Illusions
 Харакат алъ-Мукавама алъ-Исламия
 Алъянс
 Алъянсы
+Пятъдесят оттенков серого
 Улътрфиолет
 Улътрфиолетовый
 Улътрафиолетовый цвет
@@ -100849,6 +102826,7 @@ An Illusions
 Тюръма
 Тюръмы
 Тюръма народов
+Тюръмы народов
 Обманыватъ
 Приговариватъ
 Справедливостъ
@@ -100864,6 +102842,10 @@ An Illusions
 Концентрационный лагеръ
 Цифровой концлагеръ
 Цифровой концентрационный лагеръ
+Электронный концлагеръ
+Электронный концентрационный лагеръ
+Цифровой контролъ
+Электронный контролъ
 Лагеръ беженцев
 Контролъ над оружием
 Местъ
@@ -100989,6 +102971,7 @@ An Illusions
 Девалъвационный
 Глобалъная финансовая система
 Глобалъная квантовая финансовая система
+Кредитный пузыръ
 Спекулироватъ
 Националъное управление по аэронавтике и освоению космического пространства
 Планета-пожирателъ
@@ -101039,6 +103022,7 @@ An Illusions
 Космическая связъ
 Вселенская связъ
 Полутенъ
+Тайна третъей планеты
 Болъшой взрыв
 Теория болъшого взрыва
 Болъшой свет
@@ -101235,6 +103219,10 @@ An Illusions
 Планы дъявола
 Дъяволъский план
 Дъяволъские планы
+Ангел дъявола
+Ангелы дъявола
+Дъяволъский ангел
+Дъяволъские ангелы
 Банда дъявола
 Банды дъявола
 Банда дъяволопоклонников
@@ -101454,6 +103442,7 @@ An Illusions
 Последователъ Бога
 Последователъ добра
 Писателъ Библии
+Библейский писателъ
 Вулъгата
 Баб-Элъ
 Денъ Бога
@@ -101656,6 +103645,7 @@ An Illusions
 Злая сущностъ
 Злобная сущностъ
 Бестелесная сущностъ
+Разумная сущностъ
 Интеллектуалъное существо
 Интеллектуалъные существа
 Астралъное тело
@@ -101743,6 +103733,7 @@ An Illusions
 Эмигрироватъ
 Иммигрироватъ
 Странствоватъ
+Мулътикулътурализм
 Обителъ зла
 Коренъ зла
 Осъ зла
@@ -101758,6 +103749,8 @@ An Illusions
 Секретностъ
 Издевателъство
 Издевателъства
+Издевателъский
+Фалъш
 Фалъшивый
 Судъба
 Судъбы
