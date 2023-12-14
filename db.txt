@@ -386,11 +386,20 @@ Keeper of the times
 Keepers of times
 Keepers of the times
 Time machine
-Time machines
+Time's machine
+Time's machines
+Machine of time
+Machine of the time
+Machines of time
+Machines of the time
+Time traveler
+Time travelers
 Time traveller
 Time travellers
 Time travel
 Time travels
+Time traveling
+Time travelings
 Time travelling
 Time travellings
 Travel of time
@@ -409,6 +418,14 @@ Traveling in time
 Traveling in the time
 Travelings in time
 Travelings in the time
+Travelling of time
+Travelling of the time
+Travellings of time
+Travellings of the time
+Travelling in time
+Travelling in the time
+Travellings in time
+Travellings in the time
 Birthday
 Birthdays
 Birthday code
@@ -889,6 +906,45 @@ Sanna Marin
 Sanna
 S. Marin
 Sanna Mirella Marin
+Medvedev
+Medvedev D. A.
+Medvedev D.
+Dmitry Anatolyevich Medvedev
+Dmitry Medvedev
+Dmitry
+Dmitry Anatolyevich
+Anatolyevich
+Medvedev Dmitry A.
+Dmitriy Anatolyevich Medvedev
+Dmitriy Medvedev
+Dmitriy
+Dmitriy Anatolyevich
+Medvedev Dmitriy A.
+Dmitrii Anatolyevich Medvedev
+Dmitrii Medvedev
+Dmitrii
+Dmitrii Anatolyevich
+Medvedev Dmitrii A.
+Mendel David Aaronovich
+Mendel David
+Mendel
+David Aaronovich
+Aaronovich
+David
+Mendel D. A.
+Mendel David A.
+Mendel D.
+Putin
+Putin V.
+Putin V. V.
+Vladimir Putin
+Vladimir V. Putin
+Vladimir
+Vladimir Vladimirovich Putin
+Vladimir Vladimirovich
+Vladimirovich
+VVP
+Who is mister Putin?
 Lukashenko
 Lukashenko A.
 Lukashenko A. G.
@@ -925,17 +981,6 @@ Oleksandr Oleksandrovych
 Usyk O. O.
 Usyk O.
 Usyk Oleksandr O.
-Putin
-Putin V.
-Putin V. V.
-Vladimir Putin
-Vladimir V. Putin
-Vladimir
-Vladimir Vladimirovich Putin
-Vladimir Vladimirovich
-Vladimirovich
-VVP
-Who is mister Putin?
 Krasnoselsky
 Vadim
 Krasnoselsky V.
@@ -1506,6 +1551,52 @@ Antirussian
 Siberia
 Novosibirsk
 Novosibirsk, Russia
+Kremlin
+kremlin.ru
+http://kremlin.ru
+https://kremlin.ru
+www.kremlin.ru
+http://www.kremlin.ru
+https://www.kremlin.ru
+Site kremlin.ru
+Site http://kremlin.ru
+Site https://kremlin.ru
+Site www.kremlin.ru
+Site http://www.kremlin.ru
+Site https://www.kremlin.ru
+Moscow Kremlin
+Kremlin clan
+A Kremlin clan
+The Kremlin clan
+Kremlin's clan
+A Kremlin's clan
+The Kremlin's clan
+Kremlin's clans
+The Kremlin's clans
+Clan of Kremlin
+A Clan of Kremlin
+Clan of the Kremlin
+A Clan of the Kremlin
+The Clan of the Kremlin
+Clans of Kremlin
+Clans of the Kremlin
+The Clans of the Kremlin
+Kremlin tower
+A Kremlin tower
+The Kremlin tower
+Kremlin's tower
+A Kremlin's tower
+The Kremlin's tower
+Kremlin's towers
+The Kremlin's towers
+Tower of Kremlin
+A Tower of Kremlin
+Tower of the Kremlin
+A Tower of the Kremlin
+The Tower of the Kremlin
+Towers of Kremlin
+Towers of the Kremlin
+The Towers of the Kremlin
 Kaliningrad
 Kaliningrad, Russia
 Kaliningrad oblast
@@ -1524,19 +1615,6 @@ The Russia's people
 People of Russia
 People of the Russia
 The People of the Russia
-Kremlin
-kremlin.ru
-http://kremlin.ru
-https://kremlin.ru
-www.kremlin.ru
-http://www.kremlin.ru
-https://www.kremlin.ru
-Site kremlin.ru
-Site http://kremlin.ru
-Site https://kremlin.ru
-Site www.kremlin.ru
-Site http://www.kremlin.ru
-Site https://www.kremlin.ru
 Russian world
 Khazaria
 New Khazaria
@@ -2545,6 +2623,8 @@ Drug baron
 Drug barons
 Narcotics nobility
 Narcotics nobilities
+Withdrawal pain
+Withdrawal pains
 Narcotic
 Narcotics
 Drug
@@ -3654,6 +3734,8 @@ Digital data
 Analog data
 Key
 Keys
+Keyboard
+Keyboards
 Code
 Codes
 Access code
@@ -3705,6 +3787,8 @@ Cloud computing
 Cloud computings
 Cloud memory
 Cloud supermemory
+Cloud service
+Cloud services
 Cyber attack
 Cyber attacks
 Major cyber attack
@@ -4631,6 +4715,8 @@ Biological robot
 Biological robots
 Biologic robot
 Biologic robots
+Biobot
+Biobots
 Cloned biorobot
 Cloned biorobots
 Cloned biological robot
@@ -4668,6 +4754,8 @@ Humanoid robot
 Humanoid robots
 Humanoid
 Humanoids
+Robotic humanoid
+Robotic humanoids
 Humanlike robot
 Humanlike robots
 Humanlike
@@ -5130,6 +5218,8 @@ Bio implant
 Bio implants
 Biological implant
 Biological implants
+Brain implant
+Brain implants
 Mind update
 Mind's update
 Mind's updates
@@ -5581,7 +5671,6 @@ Harari Y.
 Harari Y. N.
 Gilgamesh
 David Ben Gurion
-David
 Ben Gurion
 D. Ben Gurion
 Mohammed bin Salman Al Saud
@@ -5710,7 +5799,6 @@ Reznikov Y. Oleksii
 Utkin Dmitry Valerievich
 Utkin Dmitry
 Utkin
-Dmitry
 Valerievich
 Dmitry Valerievich
 Utkin D. V.
@@ -5718,7 +5806,6 @@ Utkin D.
 Utkin Dmitry V.
 Utkin Dmitriy Valerievich
 Utkin Dmitriy
-Dmitriy
 Dmitriy Valerievich
 Utkin Dmitriy V.
 Mr. Wagner
@@ -6000,31 +6087,6 @@ Navalnyy Alexei
 Navalnyy Alexei A.
 Navalny Alexei Anatoliiovych
 Alexei Anatoliiovych
-Medvedev
-Medvedev D. A.
-Medvedev D.
-Dmitry Anatolyevich Medvedev
-Dmitry Medvedev
-Dmitry Anatolyevich
-Anatolyevich
-Medvedev Dmitry A.
-Dmitriy Anatolyevich Medvedev
-Dmitriy Medvedev
-Dmitriy Anatolyevich
-Medvedev Dmitriy A.
-Dmitrii Anatolyevich Medvedev
-Dmitrii Medvedev
-Dmitrii
-Dmitrii Anatolyevich
-Medvedev Dmitrii A.
-Mendel David Aaronovich
-Mendel David
-Mendel
-David Aaronovich
-Aaronovich
-Mendel D. A.
-Mendel David A.
-Mendel D.
 Leonid Pasechnik
 Pasechnik
 Pasechnik L.
@@ -6797,12 +6859,29 @@ Bad friends
 Family
 Families
 Familial
+Family man
+Family woman
+Family person
+Family human
+Family fellow
+Family girl
+Family boy
+Family men
+Family women
+Family persons
+Family humans
+Family fellows
+Family people
+Family girls
+Family boys
 Young
 Young family
 Young families
 Large
 Large family
 Large families
+Social unit
+Social units
 Brother
 Brothers
 Fraternal
@@ -6850,6 +6929,8 @@ Relative
 Relatives
 Family value
 Family values
+Traditional value
+Traditional values
 Adamite
 Adamites
 Adam Generations
@@ -7026,6 +7107,7 @@ Dummies
 Fictitious person
 Fictitious persons
 Demography
+Demographic
 Male surplus
 Female surplus
 Birth rate
@@ -7064,6 +7146,14 @@ Decrease of populations
 Decrease of the populations
 Decreases of populations
 Decreases of the populations
+Demographic pit
+Demographic pits
+Demographic crisis
+Demographic crises
+Maternity capital
+Maternity capitals
+Family capital
+Family capitals
 Denisovan
 Denisovan man
 Denisovan woman
@@ -7910,6 +8000,12 @@ Mutual protection
 Mutual protections
 Solidarity
 Solidarities
+Corporation
+Corporations
+Corporate
+Corporative
+State corporation
+State corporations
 Hezbollah
 Party of Allah
 Party of God
@@ -7947,9 +8043,6 @@ Directorate-General for External Security
 DGSE
 G7
 Group of Seven
-Corporation
-Corporations
-Corporate
 AUKUS
 Australia, United Kingdom, United States
 IAEA
@@ -7978,9 +8071,34 @@ Digital Dollar
 Digital Dollars
 USD
 US dollar
-US dollars
+US's dollar
+US's dollars
+Dollar of US
+Dollar of the US
+Dollars of US
+Dollars of the US
 USA dollar
-USA dollars
+USA's dollar
+USA's dollars
+Dollar of USA
+Dollar of the USA
+Dollars of USA
+Dollars of the USA
+United States dollar
+United States dollars
+Dollar of United States
+Dollar of the United States
+Dollars of United States
+Dollars of the United States
+United States of America dollar
+United States of America's dollar
+United States of America's dollars
+Dollar of United States of America
+Dollar of the United States of America
+Dollars of United States of America
+Dollars of the United States of America
+American dollar
+American dollars
 Crypto dollar
 Crypto dollars
 Petrodollar
@@ -8755,6 +8873,28 @@ JSC RusAg
 JSCo RusAg
 Joint Stock Company RusAg
 Joint Stock Corporation RusAg
+bbr.ru
+http://bbr.ru
+https://bbr.ru
+www.bbr.ru
+http://www.bbr.ru
+https://www.bbr.ru
+Site bbr.ru
+Site http://bbr.ru
+Site https://bbr.ru
+Site www.bbr.ru
+Site http://www.bbr.ru
+Site https://www.bbr.ru
+BBR
+JSC BBR
+JSCo BBR
+Joint Stock Company BBR
+Joint Stock Corporation BBR
+BBR Bank
+JSC BBR Bank
+JSCo BBR Bank
+Joint Stock Company BBR Bank
+Joint Stock Corporation BBR Bank
 gebank.ru
 http://gebank.ru
 https://gebank.ru
@@ -8973,6 +9113,10 @@ Payoffs
 Illegal payment
 Illegal payments
 Hush money
+Bribetaker
+Bribetakers
+Grafter
+Grafters
 Reparation
 Reparations
 War reparation
@@ -9024,9 +9168,63 @@ Inflationary
 High inflation
 Hyperinflation
 Hyperinflationary
+Prices increase
+Prices increases
+Increase in prices
+Increase in the prices
+Increases in prices
+Increases in the prices
+Prices rise
+Prices rises
+Rise in prices
+Rise in the prices
+Rises in prices
+Rises in the prices
+Prices uplift
+Prices uplifts
+Uplift in prices
+Uplift in the prices
+Uplifts in prices
+Uplifts in the prices
+Prices hike
+Prices hikes
+Hike in prices
+Hike in the prices
+Hikes in prices
+Hikes in the prices
 Deflation
 Deflationary
 Disinflationary
+Prices cut
+Prices cuts
+Cut in prices
+Cut in the prices
+Cuts in prices
+Cuts in the prices
+Prices fall
+Prices falls
+Fall in prices
+Fall in the prices
+Falls in prices
+Falls in the prices
+Prices reduction
+Prices reductions
+Reduction in prices
+Reduction in the prices
+Reductions in prices
+Reductions in the prices
+Prices decline
+Prices declines
+Decline in prices
+Decline in the prices
+Declines in prices
+Declines in the prices
+Price abatement
+Price abatements
+Price cut
+Price cuts
+Price deflation
+Price deflations
 Face Pay
 SelfieToPay
 Gold
@@ -9073,10 +9271,17 @@ Next Catastrophe
 Crash
 Crashes
 Planetary catastrophe
+Planetary catastrophes
 Global catastrophe
+Global catastrophes
 Worldwide catastrophe
+Worldwide catastrophes
 Global cataclysm
+Global cataclysms
 Global tragedy
+Global tragedies
+Big tragedy
+Big tragedies
 Car crash
 Car crashes
 Humanitarian catastrophe
@@ -9169,7 +9374,6 @@ Currency
 Currencies
 Currency symbol
 Currency symbols
-Global currency
 One world currency
 Fiat money
 Fiat currency
@@ -9187,6 +9391,10 @@ Abundance of money
 Abundance of the money
 Abundances of money
 Abundances of the money
+World currency
+Supranational currency
+Global currency
+Reserve currency
 Job
 Jobs
 Worker
@@ -9260,8 +9468,22 @@ Expensive labour forces
 Manpower
 Cashback
 Time is money
-Stock Exchange
-Stock Exchanges
+Stock exchange
+Stock exchanges
+International Stock exchange
+International Stock exchanges
+Share market
+Share markets
+International Share market
+International Share markets
+Securities market
+Securities markets
+International Securities market
+International Securities markets
+Stock market
+Stock markets
+International Stock market
+International Stock markets
 Business card
 Business cards
 Visiting card
@@ -9280,6 +9502,8 @@ Time of crisis
 Time of the crisis
 Times of crisis
 Times of the crisis
+Financial storm
+Financial storms
 Bank
 Banks
 Banking
@@ -9358,6 +9582,16 @@ Excise duties
 Excise tax
 Excise taxes
 Excisable
+Laundering
+Launderings
+Money laundering
+Money launderings
+Dirty cash
+Dirty money
+Ill-gotten cash
+Ill-gotten money
+Legal cash
+Legal money
 Business
 Businesses
 Shady business
@@ -9375,6 +9609,10 @@ Corporate client
 Corporate clients
 Individual client
 Individual clients
+Economic security
+Economic securities
+Financial security
+Financial securities
 Bank account
 Bank accounts
 Offshore account
@@ -9533,6 +9771,8 @@ Creditor
 Creditors
 Credit slavery
 Debt slavery
+Irrevocable credit
+Irrevocable credits
 Credit bubble
 Credit bubbles
 Credit bubble burst
@@ -9575,6 +9815,27 @@ Consumed
 Dispensable
 Active storage
 Active storages
+Estate
+Estates
+Estate property
+Estate properties
+Fixed property
+Fixed properties
+Realty
+Realties
+Property
+Properties
+Tenement
+Tenements
+Immovable estate
+Immovable estates
+Real estate
+Real estates
+Fixed assets
+Fixed assetses
+Real assets
+Real assetses
+Immovables
 Speculation
 Speculations
 Speculative
@@ -10285,6 +10546,8 @@ Presswoman
 Presswomen
 Media project
 Media projects
+Museum
+Museums
 Rock star
 Rock stars
 Film star
@@ -10361,6 +10624,7 @@ False report
 False reports
 Canard
 Canards
+Fake news
 Circus
 Circuses
 Circus show
@@ -10512,6 +10776,10 @@ Talking head
 Talking heads
 Opinion leader
 Opinion leaders
+Information dump
+Information dumps
+Info dump
+Info dumps
 Declaration
 Declarations
 Intent declaration
@@ -10599,6 +10867,12 @@ Barrack
 Barracks
 Bunk house
 Bunk houses
+Carpet
+Carpets
+Calling on carpet
+Calling on the carpet
+Callings on carpet
+Callings on the carpet
 Homeless
 Homeless man
 Homeless woman
@@ -12598,13 +12872,22 @@ Astral being
 Astral beings
 Astral double
 Astral doubles
+Astral god
+Astral gods
+Astral goddess
+Astral goddesses
 Out-of-Body Experience
 OBE
+Aura
+Auras
 Energo field
 Energo fields
 Bio field
 Bio fields
-Aura
+Biologic field
+Biologic fields
+Biological field
+Biological fields
 Morphogenetic field
 Morphogenetic fields
 Dragon
@@ -13011,6 +13294,32 @@ Witches of sabbaths
 Witches of the sabbaths
 Black sabbath
 Black sabbaths
+Witch hunt
+Witch's hunt
+Witches hunt
+Witch's hunts
+Witches hunts
+Hunt of witch
+Hunt of the witch
+Hunt of witches
+Hunt of the witches
+Hunts of witch
+Hunts of the witch
+Hunts of witches
+Hunts of the witches
+Witch hunting
+Witch's hunting
+Witches hunting
+Witch's huntings
+Witches huntings
+Hunting of witch
+Hunting of the witch
+Hunting of witches
+Hunting of the witches
+Huntings of witch
+Huntings of the witch
+Huntings of witches
+Huntings of the witches
 Griffin
 Griffins
 Griffon
@@ -13457,8 +13766,6 @@ Pastry
 Pastries
 Biscuit
 Biscuits
-Cake
-Cakes
 Tart
 Tarts
 Pie
@@ -13486,8 +13793,23 @@ Great famines
 Fasting
 Fastings
 Fast
+Lenten
+Lent
+Great Lent
+Great Fast
+Lenten fast
+Lenten period 
 Food shortage
 Food shortages
+Lenten food
+Lenten foods
+Lenten meal
+Lenten meals
+Lean
+Lean food
+Lean foods
+Lean meal
+Lean meals
 Artificial hunger
 Artificial hungers
 Artificial famine
@@ -13617,6 +13939,8 @@ Chunk honey
 Comb honey
 Comb
 Combs
+Cake
+Cakes
 Cake cherry
 Cake's cherry
 Cake cherries
@@ -14618,6 +14942,20 @@ Agents of Matrix
 Agents of the Matrix
 Computer Matrix
 Computer Matrixes
+Matrix name
+Matrix's name
+Matrix's names
+Name of Matrix
+Name of the Matrix
+Names of Matrix
+Names of the Matrix
+Matrix of illusion name
+Matrix of illusion's name
+Matrix of illusion's names
+Name of Matrix of illusion
+Name of the Matrix of illusion
+Names of Matrix of illusion
+Names of the Matrix of illusion
 Ukraine illuminat
 Ukraine illuminati
 Ukraine's illuminat
@@ -16921,6 +17259,10 @@ Twitter clone
 Twitter's clone
 Clone of Twitter
 Clone of the Twitter
+Tesla Optimus
+Tesla Bot
+Optis
+Tesla Optis
 tesla.com
 http://tesla.com
 https://tesla.com
@@ -17705,6 +18047,12 @@ Russian csar
 Russian csars
 Russian tsar
 Russian tsars
+Tsarina
+Tsarinas
+Tzarina
+Tzarinas
+Czarina
+Czarinas
 Gulag
 Gulags
 Chief Administration of Corrective Labour Camps
@@ -18660,6 +19008,12 @@ Senate
 Senates
 Senator
 Senators
+Congress
+Congresses
+Congressman
+Congressmen
+Congresswoman
+Congresswomen
 Chancellor
 Chancellors
 Political whore
@@ -18714,13 +19068,10 @@ Top of pyramid of power
 Top of the pyramid of power
 United World
 United World Power
-World domination.
-World's domination.
-World's domination.s
-Domination. on World
-Domination. on the World
-Domination.s on World
-Domination.s on the World
+World domination
+World's domination
+Domination on World
+Domination on the World
 Power over World
 Power over the World
 World Government puppet
@@ -18753,6 +19104,10 @@ Oligarches
 Oligarchial
 Oligarchal
 Oligarchy
+Tycoon
+Tycoons
+Magnate
+Magnates
 Ruled by mason
 Ruled by the mason
 Ruled by masons
@@ -19251,6 +19606,8 @@ State-to-state relations
 State-to-state relationship
 Diplomatic failure
 Diplomatic failures
+Diplomatic note
+Diplomatic notes
 Populism
 Opposition
 Oppositions
@@ -19564,6 +19921,8 @@ Psychical experiment
 Psychical experiments
 Psychical problem
 Psychical problems
+Psychical illness
+Psychical illnesses
 Shock
 Shocks
 Shocking
@@ -20598,6 +20957,49 @@ Error of DNA
 Error of the DNA
 Errors of DNA
 Errors of the DNA
+Prothetic
+Prothetics
+Prosthetic
+Prosthetic device
+Prosthetic devices
+Prosthetic appliance
+Prosthetic appliances
+Prosthesis
+Prostheses
+Artificial limb
+Artificial limbs
+Crutch
+Crutches
+Crutches pair
+Crutches pairs
+Pair of crutches
+Pair of the crutches
+Pairs of crutches
+Pairs of the crutches
+Cane
+Canes
+Walking stick
+Walking sticks
+Cripple
+Cripples
+Invalid
+Invalids
+Disabled
+Disabled man
+Disabled woman
+Disabled person
+Disabled human
+Disabled fellow
+Disabled girl
+Disabled boy
+Disabled men
+Disabled women
+Disabled persons
+Disabled humans
+Disabled fellows
+Disabled people
+Disabled girls
+Disabled boys
 Salmon
 Salmons
 Fish
@@ -20695,6 +21097,12 @@ Eagles
 Aquiline
 Lamb
 Lambs
+Yeanling
+Yeanlings
+Eanling
+Eanlings
+Hogling
+Hoglings
 Holy Lamb
 God lamb
 God's lamb
@@ -20777,6 +21185,18 @@ Milch cows
 Beef
 Sacred cow
 Sacred cows
+Bull
+Bulls
+Bullock
+Bullocks
+Bull calf
+Bull calves
+Ox
+Oxes
+Neat
+Neats
+Steer
+Steers
 Milking
 Milkings
 Milker
@@ -20830,6 +21250,8 @@ Octopus
 Octopuses
 Goat
 Goats
+Goatling
+Goatlings
 Greatest Of All Time
 He-goat
 He-goats
@@ -20990,6 +21412,26 @@ Hamster
 Hamsters
 Internet hamster
 Internet hamsters
+Marmot
+Marmots
+Marmot Day
+Marmot's Day
+Marmot's Days
+Day of Marmot
+Day of the Marmot
+Days of Marmot
+Days of the Marmot
+Woodchuck
+Woodchucks
+Groundhog
+Groundhogs
+Groundhog Day
+Groundhog's Day
+Groundhog's Days
+Day of Groundhog
+Day of the Groundhog
+Days of Groundhog
+Days of the Groundhog
 Animal
 Animals
 Wild animal
@@ -21267,6 +21709,12 @@ Arm
 Arms
 Right hand
 Right arm
+Multihanded
+Single-handed
+Siggle-arm
+Unimanual
+One-armed
+One-handed
 Thymus
 Thymuses
 Thymus gland
@@ -21298,6 +21746,7 @@ Smart head
 Smart heads
 Penis
 Penises
+Penes
 Phallus
 Phalli
 Phallic
@@ -21718,10 +22167,42 @@ Estrogen
 Estrogens
 Phytoestrogen
 Phytoestrogens
+Steroid
+Steroids
+Steroid hormone
+Steroid hormones
+Steroid use
+Steroid's use
+Steroid's uses
+Use of steroid
+Use of the steroid
+Use of steroids
+Use of the steroids
+Uses of steroids
+Uses of the steroids
+Steroid using
+Steroid usings
+Steroid abuse
+Steroid's abuse
+Steroid's abuses
+Abuse of steroid
+Abuse of the steroid
+Abuse of steroids
+Abuse of the steroids
+Abuses of steroids
+Abuses of the steroids
+Steroid abusing
+Steroid abusings
 Pest
 Pests
+Energy parasite
+Energy parasites
 Energetic parasite
 Energetic parasites
+Energy parasitism
+Social parasite
+Social parasites
+Social parasitism
 Gender
 Genders
 Neuter
@@ -21977,26 +22458,6 @@ Armies of zombie
 Armies of the zombie
 Armies of zombies
 Armies of the zombies
-Cripple
-Cripples
-Invalid
-Invalids
-Disabled
-Disabled man
-Disabled woman
-Disabled person
-Disabled human
-Disabled fellow
-Disabled girl
-Disabled boy
-Disabled men
-Disabled women
-Disabled persons
-Disabled humans
-Disabled fellows
-Disabled people
-Disabled girls
-Disabled boys
 Treatment
 Treatments
 Treat
@@ -22230,6 +22691,25 @@ Bioincubator
 Bioincubators
 Bioreactor
 Bioreactors
+Dispensary
+Dispensaries
+Clinical examination
+Clinical examinations
+Medical examination
+Medical examinations
+Profilactic medical examination
+Profilactic medical examinations
+Mass health examination
+Mass health examinations
+Population medical examination
+Population's medical examination
+Population's medical examinations
+Medical examination of population
+Medical examination of the population
+Medical examination of populations
+Medical examination of the populations
+Medical examinations of populations
+Medical examinations of the populations
 Cancer
 Oncology
 Oncological
@@ -22788,6 +23268,8 @@ Rebellion
 Rebellions
 Coup
 Coups
+Сoup d'etat
+Сoups d'etat
 Revolt
 Revolts
 Wagner revolt
@@ -22827,6 +23309,8 @@ Vessel
 Vessels
 Ship
 Ships
+Sinking ship
+Sinking ships
 Yacht
 Yachts
 Sailboat
@@ -23134,7 +23618,6 @@ Epicentrum
 Epicenter
 Ground Zero
 Alien invasion
-Alien invasions
 Aliens invasion
 Aliens invasions
 Invasion of aliens
@@ -23448,6 +23931,10 @@ Blow-ups
 Blowing up
 Bomb
 Bombs
+Bombing
+Bombings
+Carpet bombing
+Carpet bombings
 Humanitarian
 Humanitarian aid
 Humanitarian aids
@@ -23568,6 +24055,12 @@ Powerful army
 Powerful armies
 Strong army
 Strong armies
+Regular army
+Regular armies
+Standing army
+Standing armies
+Nonregular army
+Nonregular armies
 One world army
 Ukrainian army
 Ukraine army
@@ -23708,6 +24201,8 @@ Execution by sledgehammers
 Execution by the sledgehammers
 Executions by sledgehammers
 Executions by the sledgehammers
+Military security
+Military securities
 Defeat
 Defeats
 Military defeat
@@ -23835,6 +24330,24 @@ Lacking of peace
 Lacking of the peace
 Lackings of peace
 Lackings of the peace
+Conflict adjustment
+Conflict's adjustment
+Conflict's adjustments
+Adjustment of conflict
+Adjustment of the conflict
+Adjustment of conflicts
+Adjustment of the conflicts
+Adjustments of conflicts
+Adjustments of the conflicts
+Confilct settlement
+Confilct's settlement
+Confilct's settlements
+Settlement of confilct
+Settlement of the confilct
+Settlement of confilcts
+Settlement of the confilcts
+Settlements of confilcts
+Settlements of the confilcts
 Invasion
 Invasions
 American invasion
@@ -24123,6 +24636,8 @@ Merchants of death
 Merchants of the death
 Squadron
 Squadrons
+Assault detachment
+Assault detachments
 Liberation
 Liberations
 Militarism
@@ -24713,14 +25228,41 @@ Schoolchild
 Schoolchildren
 Classmate
 Classmates
+College
+Colleges
 University
 Universities
+Institute
+Institutes
+Higher education institute
+Higher education's institute
+Higher education's institutes
+Institute of higher education
+Institute of the higher education
+Institute of higher educations
+Institute of the higher educations
+Institutes of higher educations
+Institutes of the higher educations
 Professor
 Professors
 Education
+Educations
 Quality education
+Quality educations
+Primary education
+Primary educations
+Elementary education
+Elementary educations
+Middle education
+Middle educations
+Higher education
+Higher educations
 Educator
 Educators
+Lecture
+Lectures
+Tutor
+Tutors
 Logic
 Logics
 Logical
@@ -24907,6 +25449,342 @@ Rossiya President Vladimir Vladimirovich Putin
 President of Rossiya VVP
 President of the Rossiya VVP
 Rossiya President VVP
+President of Russia Medvedev
+President of the Russia Medvedev
+Russia President Medvedev
+President of Russia Medvedev D. A.
+President of the Russia Medvedev D. A.
+Russia President Medvedev D. A.
+President of Russia Medvedev D.
+President of the Russia Medvedev D.
+Russia President Medvedev D.
+President of Russia Dmitry Anatolyevich Medvedev
+President of the Russia Dmitry Anatolyevich Medvedev
+Russia President Dmitry Anatolyevich Medvedev
+President of Russia Dmitry Medvedev
+President of the Russia Dmitry Medvedev
+Russia President Dmitry Medvedev
+President of Russia Dmitry
+President of the Russia Dmitry
+Russia President Dmitry
+President of Russia Dmitry Anatolyevich
+President of the Russia Dmitry Anatolyevich
+Russia President Dmitry Anatolyevich
+President of Russia Anatolyevich
+President of the Russia Anatolyevich
+Russia President Anatolyevich
+President of Russia Medvedev Dmitry A.
+President of the Russia Medvedev Dmitry A.
+Russia President Medvedev Dmitry A.
+President of Russia Dmitriy Anatolyevich Medvedev
+President of the Russia Dmitriy Anatolyevich Medvedev
+Russia President Dmitriy Anatolyevich Medvedev
+President of Russia Dmitriy Medvedev
+President of the Russia Dmitriy Medvedev
+Russia President Dmitriy Medvedev
+President of Russia Dmitriy
+President of the Russia Dmitriy
+Russia President Dmitriy
+President of Russia Dmitriy Anatolyevich
+President of the Russia Dmitriy Anatolyevich
+Russia President Dmitriy Anatolyevich
+President of Russia Medvedev Dmitriy A.
+President of the Russia Medvedev Dmitriy A.
+Russia President Medvedev Dmitriy A.
+President of Russia Dmitrii Anatolyevich Medvedev
+President of the Russia Dmitrii Anatolyevich Medvedev
+Russia President Dmitrii Anatolyevich Medvedev
+President of Russia Dmitrii Medvedev
+President of the Russia Dmitrii Medvedev
+Russia President Dmitrii Medvedev
+President of Russia Dmitrii
+President of the Russia Dmitrii
+Russia President Dmitrii
+President of Russia Dmitrii Anatolyevich
+President of the Russia Dmitrii Anatolyevich
+Russia President Dmitrii Anatolyevich
+President of Russia Medvedev Dmitrii A.
+President of the Russia Medvedev Dmitrii A.
+Russia President Medvedev Dmitrii A.
+President of Russia Mendel David Aaronovich
+President of the Russia Mendel David Aaronovich
+Russia President Mendel David Aaronovich
+President of Russia Mendel David
+President of the Russia Mendel David
+Russia President Mendel David
+President of Russia Mendel
+President of the Russia Mendel
+Russia President Mendel
+President of Russia David Aaronovich
+President of the Russia David Aaronovich
+Russia President David Aaronovich
+President of Russia Aaronovich
+President of the Russia Aaronovich
+Russia President Aaronovich
+President of Russia David
+President of the Russia David
+Russia President David
+President of Russia Mendel D. A.
+President of the Russia Mendel D. A.
+Russia President Mendel D. A.
+President of Russia Mendel David A.
+President of the Russia Mendel David A.
+Russia President Mendel David A.
+President of Russia Mendel D.
+President of the Russia Mendel D.
+Russia President Mendel D.
+President of Russian Federation Medvedev
+President of the Russian Federation Medvedev
+Russian Federation President Medvedev
+President of Russian Federation Medvedev D. A.
+President of the Russian Federation Medvedev D. A.
+Russian Federation President Medvedev D. A.
+President of Russian Federation Medvedev D.
+President of the Russian Federation Medvedev D.
+Russian Federation President Medvedev D.
+President of Russian Federation Dmitry Anatolyevich Medvedev
+President of the Russian Federation Dmitry Anatolyevich Medvedev
+Russian Federation President Dmitry Anatolyevich Medvedev
+President of Russian Federation Dmitry Medvedev
+President of the Russian Federation Dmitry Medvedev
+Russian Federation President Dmitry Medvedev
+President of Russian Federation Dmitry
+President of the Russian Federation Dmitry
+Russian Federation President Dmitry
+President of Russian Federation Dmitry Anatolyevich
+President of the Russian Federation Dmitry Anatolyevich
+Russian Federation President Dmitry Anatolyevich
+President of Russian Federation Anatolyevich
+President of the Russian Federation Anatolyevich
+Russian Federation President Anatolyevich
+President of Russian Federation Medvedev Dmitry A.
+President of the Russian Federation Medvedev Dmitry A.
+Russian Federation President Medvedev Dmitry A.
+President of Russian Federation Dmitriy Anatolyevich Medvedev
+President of the Russian Federation Dmitriy Anatolyevich Medvedev
+Russian Federation President Dmitriy Anatolyevich Medvedev
+President of Russian Federation Dmitriy Medvedev
+President of the Russian Federation Dmitriy Medvedev
+Russian Federation President Dmitriy Medvedev
+President of Russian Federation Dmitriy
+President of the Russian Federation Dmitriy
+Russian Federation President Dmitriy
+President of Russian Federation Dmitriy Anatolyevich
+President of the Russian Federation Dmitriy Anatolyevich
+Russian Federation President Dmitriy Anatolyevich
+President of Russian Federation Medvedev Dmitriy A.
+President of the Russian Federation Medvedev Dmitriy A.
+Russian Federation President Medvedev Dmitriy A.
+President of Russian Federation Dmitrii Anatolyevich Medvedev
+President of the Russian Federation Dmitrii Anatolyevich Medvedev
+Russian Federation President Dmitrii Anatolyevich Medvedev
+President of Russian Federation Dmitrii Medvedev
+President of the Russian Federation Dmitrii Medvedev
+Russian Federation President Dmitrii Medvedev
+President of Russian Federation Dmitrii
+President of the Russian Federation Dmitrii
+Russian Federation President Dmitrii
+President of Russian Federation Dmitrii Anatolyevich
+President of the Russian Federation Dmitrii Anatolyevich
+Russian Federation President Dmitrii Anatolyevich
+President of Russian Federation Medvedev Dmitrii A.
+President of the Russian Federation Medvedev Dmitrii A.
+Russian Federation President Medvedev Dmitrii A.
+President of Russian Federation Mendel David Aaronovich
+President of the Russian Federation Mendel David Aaronovich
+Russian Federation President Mendel David Aaronovich
+President of Russian Federation Mendel David
+President of the Russian Federation Mendel David
+Russian Federation President Mendel David
+President of Russian Federation Mendel
+President of the Russian Federation Mendel
+Russian Federation President Mendel
+President of Russian Federation David Aaronovich
+President of the Russian Federation David Aaronovich
+Russian Federation President David Aaronovich
+President of Russian Federation Aaronovich
+President of the Russian Federation Aaronovich
+Russian Federation President Aaronovich
+President of Russian Federation David
+President of the Russian Federation David
+Russian Federation President David
+President of Russian Federation Mendel D. A.
+President of the Russian Federation Mendel D. A.
+Russian Federation President Mendel D. A.
+President of Russian Federation Mendel David A.
+President of the Russian Federation Mendel David A.
+Russian Federation President Mendel David A.
+President of Russian Federation Mendel D.
+President of the Russian Federation Mendel D.
+Russian Federation President Mendel D.
+President of RF Medvedev
+President of the RF Medvedev
+RF President Medvedev
+President of RF Medvedev D. A.
+President of the RF Medvedev D. A.
+RF President Medvedev D. A.
+President of RF Medvedev D.
+President of the RF Medvedev D.
+RF President Medvedev D.
+President of RF Dmitry Anatolyevich Medvedev
+President of the RF Dmitry Anatolyevich Medvedev
+RF President Dmitry Anatolyevich Medvedev
+President of RF Dmitry Medvedev
+President of the RF Dmitry Medvedev
+RF President Dmitry Medvedev
+President of RF Dmitry
+President of the RF Dmitry
+RF President Dmitry
+President of RF Dmitry Anatolyevich
+President of the RF Dmitry Anatolyevich
+RF President Dmitry Anatolyevich
+President of RF Anatolyevich
+President of the RF Anatolyevich
+RF President Anatolyevich
+President of RF Medvedev Dmitry A.
+President of the RF Medvedev Dmitry A.
+RF President Medvedev Dmitry A.
+President of RF Dmitriy Anatolyevich Medvedev
+President of the RF Dmitriy Anatolyevich Medvedev
+RF President Dmitriy Anatolyevich Medvedev
+President of RF Dmitriy Medvedev
+President of the RF Dmitriy Medvedev
+RF President Dmitriy Medvedev
+President of RF Dmitriy
+President of the RF Dmitriy
+RF President Dmitriy
+President of RF Dmitriy Anatolyevich
+President of the RF Dmitriy Anatolyevich
+RF President Dmitriy Anatolyevich
+President of RF Medvedev Dmitriy A.
+President of the RF Medvedev Dmitriy A.
+RF President Medvedev Dmitriy A.
+President of RF Dmitrii Anatolyevich Medvedev
+President of the RF Dmitrii Anatolyevich Medvedev
+RF President Dmitrii Anatolyevich Medvedev
+President of RF Dmitrii Medvedev
+President of the RF Dmitrii Medvedev
+RF President Dmitrii Medvedev
+President of RF Dmitrii
+President of the RF Dmitrii
+RF President Dmitrii
+President of RF Dmitrii Anatolyevich
+President of the RF Dmitrii Anatolyevich
+RF President Dmitrii Anatolyevich
+President of RF Medvedev Dmitrii A.
+President of the RF Medvedev Dmitrii A.
+RF President Medvedev Dmitrii A.
+President of RF Mendel David Aaronovich
+President of the RF Mendel David Aaronovich
+RF President Mendel David Aaronovich
+President of RF Mendel David
+President of the RF Mendel David
+RF President Mendel David
+President of RF Mendel
+President of the RF Mendel
+RF President Mendel
+President of RF David Aaronovich
+President of the RF David Aaronovich
+RF President David Aaronovich
+President of RF Aaronovich
+President of the RF Aaronovich
+RF President Aaronovich
+President of RF David
+President of the RF David
+RF President David
+President of RF Mendel D. A.
+President of the RF Mendel D. A.
+RF President Mendel D. A.
+President of RF Mendel David A.
+President of the RF Mendel David A.
+RF President Mendel David A.
+President of RF Mendel D.
+President of the RF Mendel D.
+RF President Mendel D.
+President of Rossiya Medvedev
+President of the Rossiya Medvedev
+Rossiya President Medvedev
+President of Rossiya Medvedev D. A.
+President of the Rossiya Medvedev D. A.
+Rossiya President Medvedev D. A.
+President of Rossiya Medvedev D.
+President of the Rossiya Medvedev D.
+Rossiya President Medvedev D.
+President of Rossiya Dmitry Anatolyevich Medvedev
+President of the Rossiya Dmitry Anatolyevich Medvedev
+Rossiya President Dmitry Anatolyevich Medvedev
+President of Rossiya Dmitry Medvedev
+President of the Rossiya Dmitry Medvedev
+Rossiya President Dmitry Medvedev
+President of Rossiya Dmitry
+President of the Rossiya Dmitry
+Rossiya President Dmitry
+President of Rossiya Dmitry Anatolyevich
+President of the Rossiya Dmitry Anatolyevich
+Rossiya President Dmitry Anatolyevich
+President of Rossiya Anatolyevich
+President of the Rossiya Anatolyevich
+Rossiya President Anatolyevich
+President of Rossiya Medvedev Dmitry A.
+President of the Rossiya Medvedev Dmitry A.
+Rossiya President Medvedev Dmitry A.
+President of Rossiya Dmitriy Anatolyevich Medvedev
+President of the Rossiya Dmitriy Anatolyevich Medvedev
+Rossiya President Dmitriy Anatolyevich Medvedev
+President of Rossiya Dmitriy Medvedev
+President of the Rossiya Dmitriy Medvedev
+Rossiya President Dmitriy Medvedev
+President of Rossiya Dmitriy
+President of the Rossiya Dmitriy
+Rossiya President Dmitriy
+President of Rossiya Dmitriy Anatolyevich
+President of the Rossiya Dmitriy Anatolyevich
+Rossiya President Dmitriy Anatolyevich
+President of Rossiya Medvedev Dmitriy A.
+President of the Rossiya Medvedev Dmitriy A.
+Rossiya President Medvedev Dmitriy A.
+President of Rossiya Dmitrii Anatolyevich Medvedev
+President of the Rossiya Dmitrii Anatolyevich Medvedev
+Rossiya President Dmitrii Anatolyevich Medvedev
+President of Rossiya Dmitrii Medvedev
+President of the Rossiya Dmitrii Medvedev
+Rossiya President Dmitrii Medvedev
+President of Rossiya Dmitrii
+President of the Rossiya Dmitrii
+Rossiya President Dmitrii
+President of Rossiya Dmitrii Anatolyevich
+President of the Rossiya Dmitrii Anatolyevich
+Rossiya President Dmitrii Anatolyevich
+President of Rossiya Medvedev Dmitrii A.
+President of the Rossiya Medvedev Dmitrii A.
+Rossiya President Medvedev Dmitrii A.
+President of Rossiya Mendel David Aaronovich
+President of the Rossiya Mendel David Aaronovich
+Rossiya President Mendel David Aaronovich
+President of Rossiya Mendel David
+President of the Rossiya Mendel David
+Rossiya President Mendel David
+President of Rossiya Mendel
+President of the Rossiya Mendel
+Rossiya President Mendel
+President of Rossiya David Aaronovich
+President of the Rossiya David Aaronovich
+Rossiya President David Aaronovich
+President of Rossiya Aaronovich
+President of the Rossiya Aaronovich
+Rossiya President Aaronovich
+President of Rossiya David
+President of the Rossiya David
+Rossiya President David
+President of Rossiya Mendel D. A.
+President of the Rossiya Mendel D. A.
+Rossiya President Mendel D. A.
+President of Rossiya Mendel David A.
+President of the Rossiya Mendel David A.
+Rossiya President Mendel David A.
+President of Rossiya Mendel D.
+President of the Rossiya Mendel D.
+Rossiya President Mendel D.
 President of United States
 A President of the United States
 The President of the United States
@@ -25654,28 +26532,6 @@ Attack on Republic of Estonia
 Attack on World
 An Attack on the World
 The Attack on the World
-Attack on World region
-An Attack on the World region
-The Attack on the World region
-Attack on a World region
-Attack on World's region
-An Attack on the World's region
-The Attack on the World's region
-Attack on a World's region
-Attack on World's regions
-An Attack on the World's regions
-The Attack on the World's regions
-Attack on &Region of World
-An Attack on the &Region of World
-The Attack on the &Region of World
-Attack on a &Region of World
-Attack on Region of the World
-An Attack on the Region of the World
-The Attack on the Region of the World
-Attack on a Region of the World
-Attack on Regions of the World
-An Attack on the Regions of the World
-The Attack on the Regions of the World
 Attack on 10 World regions
 An Attack on the 10 World regions
 The Attack on the 10 World regions
@@ -25726,9 +26582,6 @@ The Attack on the Tartaria
 Attack on Eurasia
 An Attack on the Eurasia
 The Attack on the Eurasia
-Attack on Japanese people
-An Attack on the Japanese people
-The Attack on the Japanese people
 Attack on Tokyo
 An Attack on the Tokyo
 The Attack on the Tokyo
@@ -26131,6 +26984,12 @@ The Attack on the Novosibirsk
 Attack on Novosibirsk, Russia
 An Attack on the Novosibirsk, Russia
 The Attack on the Novosibirsk, Russia
+Attack on Kremlin
+An Attack on the Kremlin
+The Attack on the Kremlin
+Attack on Moscow Kremlin
+An Attack on the Moscow Kremlin
+The Attack on the Moscow Kremlin
 Attack on Kaliningrad
 An Attack on the Kaliningrad
 The Attack on the Kaliningrad
@@ -26146,9 +27005,6 @@ The Attack on the Kaliningrad region
 Attack on Region 39
 An Attack on the Region 39
 The Attack on the Region 39
-Attack on Kremlin
-An Attack on the Kremlin
-The Attack on the Kremlin
 Attack on Russian world
 An Attack on the Russian world
 The Attack on the Russian world
@@ -26584,9 +27440,6 @@ The Attack on the Warsaw
 Attack on Warsaw, Poland
 An Attack on the Warsaw, Poland
 The Attack on the Warsaw, Poland
-Attack on Swiss people
-An Attack on the Swiss people
-The Attack on the Swiss people
 Attack on Rome
 An Attack on the Rome
 The Attack on the Rome
@@ -27031,72 +27884,6 @@ A Bitter enemy of the World
 The Bitter enemy of the World
 An Opponent of the World
 The Opponent of the World
-Enemy of World region
-Bitter enemy of World region
-Opponent of World region
-An Enemy of the World region
-The Enemy of the World region
-A Bitter enemy of the World region
-The Bitter enemy of the World region
-An Opponent of the World region
-The Opponent of the World region
-Enemy of a World region
-Bitter enemy of a World region
-Opponent of a World region
-Enemy of World's region
-Bitter enemy of World's region
-Opponent of World's region
-An Enemy of the World's region
-The Enemy of the World's region
-A Bitter enemy of the World's region
-The Bitter enemy of the World's region
-An Opponent of the World's region
-The Opponent of the World's region
-Enemy of a World's region
-Bitter enemy of a World's region
-Opponent of a World's region
-Enemy of World's regions
-Bitter enemy of World's regions
-Opponent of World's regions
-An Enemy of the World's regions
-The Enemy of the World's regions
-A Bitter enemy of the World's regions
-The Bitter enemy of the World's regions
-An Opponent of the World's regions
-The Opponent of the World's regions
-Enemy of &Region of World
-Bitter enemy of &Region of World
-Opponent of &Region of World
-An Enemy of the &Region of World
-The Enemy of the &Region of World
-A Bitter enemy of the &Region of World
-The Bitter enemy of the &Region of World
-An Opponent of the &Region of World
-The Opponent of the &Region of World
-Enemy of a &Region of World
-Bitter enemy of a &Region of World
-Opponent of a &Region of World
-Enemy of Region of the World
-Bitter enemy of Region of the World
-Opponent of Region of the World
-An Enemy of the Region of the World
-The Enemy of the Region of the World
-A Bitter enemy of the Region of the World
-The Bitter enemy of the Region of the World
-An Opponent of the Region of the World
-The Opponent of the Region of the World
-Enemy of a Region of the World
-Bitter enemy of a Region of the World
-Opponent of a Region of the World
-Enemy of Regions of the World
-Bitter enemy of Regions of the World
-Opponent of Regions of the World
-An Enemy of the Regions of the World
-The Enemy of the Regions of the World
-A Bitter enemy of the Regions of the World
-The Bitter enemy of the Regions of the World
-An Opponent of the Regions of the World
-The Opponent of the Regions of the World
 Enemy of 10 World regions
 Bitter enemy of 10 World regions
 Opponent of 10 World regions
@@ -27247,15 +28034,6 @@ A Bitter enemy of the Eurasia
 The Bitter enemy of the Eurasia
 An Opponent of the Eurasia
 The Opponent of the Eurasia
-Enemy of Japanese people
-Bitter enemy of Japanese people
-Opponent of Japanese people
-An Enemy of the Japanese people
-The Enemy of the Japanese people
-A Bitter enemy of the Japanese people
-The Bitter enemy of the Japanese people
-An Opponent of the Japanese people
-The Opponent of the Japanese people
 Enemy of Tokyo
 Bitter enemy of Tokyo
 Opponent of Tokyo
@@ -28462,6 +29240,24 @@ A Bitter enemy of the Novosibirsk, Russia
 The Bitter enemy of the Novosibirsk, Russia
 An Opponent of the Novosibirsk, Russia
 The Opponent of the Novosibirsk, Russia
+Enemy of Kremlin
+Bitter enemy of Kremlin
+Opponent of Kremlin
+An Enemy of the Kremlin
+The Enemy of the Kremlin
+A Bitter enemy of the Kremlin
+The Bitter enemy of the Kremlin
+An Opponent of the Kremlin
+The Opponent of the Kremlin
+Enemy of Moscow Kremlin
+Bitter enemy of Moscow Kremlin
+Opponent of Moscow Kremlin
+An Enemy of the Moscow Kremlin
+The Enemy of the Moscow Kremlin
+A Bitter enemy of the Moscow Kremlin
+The Bitter enemy of the Moscow Kremlin
+An Opponent of the Moscow Kremlin
+The Opponent of the Moscow Kremlin
 Enemy of Kaliningrad
 Bitter enemy of Kaliningrad
 Opponent of Kaliningrad
@@ -28507,15 +29303,6 @@ A Bitter enemy of the Region 39
 The Bitter enemy of the Region 39
 An Opponent of the Region 39
 The Opponent of the Region 39
-Enemy of Kremlin
-Bitter enemy of Kremlin
-Opponent of Kremlin
-An Enemy of the Kremlin
-The Enemy of the Kremlin
-A Bitter enemy of the Kremlin
-The Bitter enemy of the Kremlin
-An Opponent of the Kremlin
-The Opponent of the Kremlin
 Enemy of Russian world
 Bitter enemy of Russian world
 Opponent of Russian world
@@ -29821,15 +30608,6 @@ A Bitter enemy of the Warsaw, Poland
 The Bitter enemy of the Warsaw, Poland
 An Opponent of the Warsaw, Poland
 The Opponent of the Warsaw, Poland
-Enemy of Swiss people
-Bitter enemy of Swiss people
-Opponent of Swiss people
-An Enemy of the Swiss people
-The Enemy of the Swiss people
-A Bitter enemy of the Swiss people
-The Bitter enemy of the Swiss people
-An Opponent of the Swiss people
-The Opponent of the Swiss people
 Enemy of Rome
 Bitter enemy of Rome
 Opponent of Rome
@@ -30114,28 +30892,6 @@ War in Republic of Estonia
 War in World
 A War in the World
 The War in the World
-War in World region
-A War in the World region
-The War in the World region
-War in a World region
-War in World's region
-A War in the World's region
-The War in the World's region
-War in a World's region
-War in World's regions
-A War in the World's regions
-The War in the World's regions
-War in &Region of World
-A War in the &Region of World
-The War in the &Region of World
-War in a &Region of World
-War in Region of the World
-A War in the Region of the World
-The War in the Region of the World
-War in a Region of the World
-War in Regions of the World
-A War in the Regions of the World
-The War in the Regions of the World
 War in 10 World regions
 A War in the 10 World regions
 The War in the 10 World regions
@@ -30186,9 +30942,6 @@ The War in the Tartaria
 War in Eurasia
 A War in the Eurasia
 The War in the Eurasia
-War in Japanese people
-A War in the Japanese people
-The War in the Japanese people
 War in Tokyo
 A War in the Tokyo
 The War in the Tokyo
@@ -30591,6 +31344,12 @@ The War in the Novosibirsk
 War in Novosibirsk, Russia
 A War in the Novosibirsk, Russia
 The War in the Novosibirsk, Russia
+War in Kremlin
+A War in the Kremlin
+The War in the Kremlin
+War in Moscow Kremlin
+A War in the Moscow Kremlin
+The War in the Moscow Kremlin
 War in Kaliningrad
 A War in the Kaliningrad
 The War in the Kaliningrad
@@ -30606,9 +31365,6 @@ The War in the Kaliningrad region
 War in Region 39
 A War in the Region 39
 The War in the Region 39
-War in Kremlin
-A War in the Kremlin
-The War in the Kremlin
 War in Russian world
 A War in the Russian world
 The War in the Russian world
@@ -31044,9 +31800,6 @@ The War in the Warsaw
 War in Warsaw, Poland
 A War in the Warsaw, Poland
 The War in the Warsaw, Poland
-War in Swiss people
-A War in the Swiss people
-The War in the Swiss people
 War in Rome
 A War in the Rome
 The War in the Rome
@@ -31229,28 +31982,6 @@ Invasion to Republic of Estonia
 Invasion to World
 An Invasion to the World
 The Invasion to the World
-Invasion to World region
-An Invasion to the World region
-The Invasion to the World region
-Invasion to a World region
-Invasion to World's region
-An Invasion to the World's region
-The Invasion to the World's region
-Invasion to a World's region
-Invasion to World's regions
-An Invasion to the World's regions
-The Invasion to the World's regions
-Invasion to &Region of World
-An Invasion to the &Region of World
-The Invasion to the &Region of World
-Invasion to a &Region of World
-Invasion to Region of the World
-An Invasion to the Region of the World
-The Invasion to the Region of the World
-Invasion to a Region of the World
-Invasion to Regions of the World
-An Invasion to the Regions of the World
-The Invasion to the Regions of the World
 Invasion to 10 World regions
 An Invasion to the 10 World regions
 The Invasion to the 10 World regions
@@ -31301,9 +32032,6 @@ The Invasion to the Tartaria
 Invasion to Eurasia
 An Invasion to the Eurasia
 The Invasion to the Eurasia
-Invasion to Japanese people
-An Invasion to the Japanese people
-The Invasion to the Japanese people
 Invasion to Tokyo
 An Invasion to the Tokyo
 The Invasion to the Tokyo
@@ -31706,6 +32434,12 @@ The Invasion to the Novosibirsk
 Invasion to Novosibirsk, Russia
 An Invasion to the Novosibirsk, Russia
 The Invasion to the Novosibirsk, Russia
+Invasion to Kremlin
+An Invasion to the Kremlin
+The Invasion to the Kremlin
+Invasion to Moscow Kremlin
+An Invasion to the Moscow Kremlin
+The Invasion to the Moscow Kremlin
 Invasion to Kaliningrad
 An Invasion to the Kaliningrad
 The Invasion to the Kaliningrad
@@ -31721,9 +32455,6 @@ The Invasion to the Kaliningrad region
 Invasion to Region 39
 An Invasion to the Region 39
 The Invasion to the Region 39
-Invasion to Kremlin
-An Invasion to the Kremlin
-The Invasion to the Kremlin
 Invasion to Russian world
 An Invasion to the Russian world
 The Invasion to the Russian world
@@ -32159,9 +32890,6 @@ The Invasion to the Warsaw
 Invasion to Warsaw, Poland
 An Invasion to the Warsaw, Poland
 The Invasion to the Warsaw, Poland
-Invasion to Swiss people
-An Invasion to the Swiss people
-The Invasion to the Swiss people
 Invasion to Rome
 An Invasion to the Rome
 The Invasion to the Rome
@@ -33501,13 +34229,6 @@ President Usyk
 President Usyk O. O.
 President Usyk O.
 President Usyk Oleksandr O.
-President Putin
-President Putin V.
-President Putin V. V.
-President Vladimir Putin
-President Vladimir V. Putin
-President Vladimir Vladimirovich Putin
-President VVP
 President Krasnoselsky
 President Krasnoselsky V.
 President Krasnoselsky V. N.
@@ -33554,6 +34275,41 @@ President Volodymyr Zelenskiy
 President Vladimir Zelenskiy
 President Volodymyr Oleksandrovych Zelenskiy
 President Vladimir Aleksandrovych Zelenskiy
+President Medvedev
+President Medvedev D. A.
+President Medvedev D.
+President Dmitry Anatolyevich Medvedev
+President Dmitry Medvedev
+President Dmitry
+President Dmitry Anatolyevich
+President Anatolyevich
+President Medvedev Dmitry A.
+President Dmitriy Anatolyevich Medvedev
+President Dmitriy Medvedev
+President Dmitriy
+President Dmitriy Anatolyevich
+President Medvedev Dmitriy A.
+President Dmitrii Anatolyevich Medvedev
+President Dmitrii Medvedev
+President Dmitrii
+President Dmitrii Anatolyevich
+President Medvedev Dmitrii A.
+President Mendel David Aaronovich
+President Mendel David
+President Mendel
+President David Aaronovich
+President Aaronovich
+President David
+President Mendel D. A.
+President Mendel David A.
+President Mendel D.
+President Putin
+President Putin V.
+President Putin V. V.
+President Vladimir Putin
+President Vladimir V. Putin
+President Vladimir Vladimirovich Putin
+President VVP
 President Macron
 President E. Macron
 President Emmanuel Macron
@@ -33718,28 +34474,6 @@ Supreme Leader of Republic of Estonia
 Supreme Leader of World
 A Supreme Leader of the World
 The Supreme Leader of the World
-Supreme Leader of World region
-A Supreme Leader of the World region
-The Supreme Leader of the World region
-Supreme Leader of a World region
-Supreme Leader of World's region
-A Supreme Leader of the World's region
-The Supreme Leader of the World's region
-Supreme Leader of a World's region
-Supreme Leader of World's regions
-A Supreme Leader of the World's regions
-The Supreme Leader of the World's regions
-Supreme Leader of &Region of World
-A Supreme Leader of the &Region of World
-The Supreme Leader of the &Region of World
-Supreme Leader of a &Region of World
-Supreme Leader of Region of the World
-A Supreme Leader of the Region of the World
-The Supreme Leader of the Region of the World
-Supreme Leader of a Region of the World
-Supreme Leader of Regions of the World
-A Supreme Leader of the Regions of the World
-The Supreme Leader of the Regions of the World
 Supreme Leader of 10 World regions
 A Supreme Leader of the 10 World regions
 The Supreme Leader of the 10 World regions
@@ -33790,9 +34524,6 @@ The Supreme Leader of the Tartaria
 Supreme Leader of Eurasia
 A Supreme Leader of the Eurasia
 The Supreme Leader of the Eurasia
-Supreme Leader of Japanese people
-A Supreme Leader of the Japanese people
-The Supreme Leader of the Japanese people
 Supreme Leader of Tokyo
 A Supreme Leader of the Tokyo
 The Supreme Leader of the Tokyo
@@ -34195,6 +34926,12 @@ The Supreme Leader of the Novosibirsk
 Supreme Leader of Novosibirsk, Russia
 A Supreme Leader of the Novosibirsk, Russia
 The Supreme Leader of the Novosibirsk, Russia
+Supreme Leader of Kremlin
+A Supreme Leader of the Kremlin
+The Supreme Leader of the Kremlin
+Supreme Leader of Moscow Kremlin
+A Supreme Leader of the Moscow Kremlin
+The Supreme Leader of the Moscow Kremlin
 Supreme Leader of Kaliningrad
 A Supreme Leader of the Kaliningrad
 The Supreme Leader of the Kaliningrad
@@ -34210,9 +34947,6 @@ The Supreme Leader of the Kaliningrad region
 Supreme Leader of Region 39
 A Supreme Leader of the Region 39
 The Supreme Leader of the Region 39
-Supreme Leader of Kremlin
-A Supreme Leader of the Kremlin
-The Supreme Leader of the Kremlin
 Supreme Leader of Russian world
 A Supreme Leader of the Russian world
 The Supreme Leader of the Russian world
@@ -34648,9 +35382,6 @@ The Supreme Leader of the Warsaw
 Supreme Leader of Warsaw, Poland
 A Supreme Leader of the Warsaw, Poland
 The Supreme Leader of the Warsaw, Poland
-Supreme Leader of Swiss people
-A Supreme Leader of the Swiss people
-The Supreme Leader of the Swiss people
 Supreme Leader of Rome
 A Supreme Leader of the Rome
 The Supreme Leader of the Rome
@@ -35080,6 +35811,14 @@ Leads to acyesis
 Leads to the acyesis
 Leads to acyesises
 Leads to the acyesises
+Impotence
+Impotences
+Impotency
+Impotencies
+Impotent
+Impotents
+Impotent man
+Impotent men
 Sex revolution
 Sex revolutions
 Sexual revolution
@@ -35259,6 +35998,10 @@ Draft law
 Draft laws
 Martial law
 Martial laws
+Maritime law
+Maritime laws
+Admiralty law
+Admiralty laws
 International law
 International law supremacy
 International law's supremacy
@@ -35326,6 +36069,21 @@ Hijackings
 Hijacker
 Hijackers
 Hijack
+Corruption
+Corruptions
+Corrupt practice
+Corrupt practices
+Corrupter
+Corrupters
+Corruptor
+Corruptors
+Corruptionist
+Corruptionists
+Corrupt official
+Corrupt officials
+Corrupt
+Corruption scandal
+Corruption scandals
 Maniac
 Maniacs
 Sexual maniac
@@ -35818,19 +36576,6 @@ Organized crime
 Organized crimes
 Organised crime group
 Organised crime groups
-Corruption
-Corruptions
-Corrupt practice
-Corrupt practices
-Corrupter
-Corrupters
-Corruptor
-Corruptors
-Corruptionist
-Corruptionists
-Corrupt official
-Corrupt officials
-Corrupt
 Felony
 Felonies
 Crime
@@ -37269,6 +38014,8 @@ Reversals of geographic poles
 Reversals of the geographic poles
 Spaceman
 Spacemen
+Spacewoman
+Spacewomen
 Cosmonaut
 Cosmonauts
 Astronaut
@@ -37552,6 +38299,13 @@ Reshef
 God Reshef
 Rushpan
 God Rushpan
+Dumuzid
+Dumuzid God
+Dumuzi
+Dumuzi God
+Tammuz
+Tammuz God
+Dumuzid the Shepherd
 Yarilo
 Jarylo
 Iarilo
@@ -37566,6 +38320,8 @@ God Jurij
 God Gerovit
 Slavic god
 Slavic gods
+Slavic goddess
+Slavic goddesses
 Svarog
 Svarog God
 Svarog day
@@ -37631,43 +38387,17 @@ Battles of Gods
 Battles of the Gods
 Zilant
 Zilant dragon
-Sumer temple
-Sumer temples
-Sumer
-Sumers
-Sumerian
-Sumerians
-Sumer god
-Sumer gods
-Baal
-Ninurta
-Inanna
-Ishtar
-Ishtar Star
-Ishtar's Star
-Star of Ishtar
-Star of the Ishtar
-Octagram
-Marduk
-Usumgallu
-Ushumgallu
-Tiamat
-Sea Goddess
-Sea's Goddess
-Goddess of Sea
-Goddess of the Sea
-Enlil
-Elil
-Ninlil
-Enlil + Ninlil
-The Enlil + The Ninlil
-Enlil and Ninlil
-The Enlil and The Ninlil
-Anshar
-Ansar
-Whole heaven
-Kishar
-Whole Earth
+Imbolc
+Imbolg
+Saint Brigid Day
+Saint Brigid's Day
+Day of Saint Brigid
+Day of the Saint Brigid
+Cernunnos
+Carnonos
+Beltane
+Druid
+Druids
 Tanit
 Tinnit
 Dea Caelestis
@@ -37847,6 +38577,26 @@ Egyptian God
 Egyptian Gods
 Ancient egyptian God
 Ancient egyptian Gods
+Egypt Goddess
+Egypt's Goddess
+Egypt Goddesses
+Egypt's Goddesses
+Goddess of Egypt
+Goddess of the Egypt
+Goddesses of Egypt
+Goddesses of the Egypt
+Ancient Egypt Goddess
+Ancient Egypt's Goddess
+Ancient Egypt Goddesses
+Ancient Egypt's Goddesses
+Goddess of Ancient Egypt
+Goddess of the Ancient Egypt
+Goddesses of Ancient Egypt
+Goddesses of the Ancient Egypt
+Egyptian Goddess
+Egyptian Goddesses
+Ancient egyptian Goddess
+Ancient egyptian Goddesses
 Neter
 Neters
 Egypt Neter
@@ -38164,6 +38914,74 @@ Sign of Cross
 Sign of the Cross
 Signs of Cross
 Signs of the Cross
+Inanna
+Inanna Goddess
+Ishtar
+Ishtar Goddess
+Ishtar Star
+Ishtar's Star
+Star of Ishtar
+Star of the Ishtar
+Ishtar Goddess Star
+Star of Ishtar Goddess
+Star of the Ishtar Goddess
+Octagram
+Ishtar Day
+Ishtar's Day
+Day of Ishtar
+Day of the Ishtar
+Ishtar Goddess Day
+Day of Ishtar Goddess
+Day of the Ishtar Goddess
+Sumer god
+Sumer's god
+Sumer's gods
+God of Sumer
+God of the Sumer
+Gods of Sumer
+Gods of the Sumer
+Sumerian god
+Sumerian gods
+Sumer goddess
+Sumer's goddess
+Sumer goddesses
+Sumer's goddesses
+Goddess of Sumer
+Goddess of the Sumer
+Goddesses of Sumer
+Goddesses of the Sumer
+Sumerian goddess
+Sumerian goddesses
+Baal
+Ninurta
+Marduk
+Usumgallu
+Ushumgallu
+Tiamat
+Sea Goddess
+Sea's Goddess
+Goddess of Sea
+Goddess of the Sea
+Enlil
+Elil
+Ninlil
+Enlil + Ninlil
+The Enlil + The Ninlil
+Enlil and Ninlil
+The Enlil and The Ninlil
+Sumer temple
+Sumer temples
+Semiramis
+Queen Semiramis
+Sumer
+Sumers
+Sumerian
+Sumerians
+Anshar
+Ansar
+Whole heaven
+Kishar
+Whole Earth
 Ararat
 Accad
 Admah
@@ -43083,6 +43901,13 @@ King of Babylon
 King of the Babylon
 Kings of Babylon
 Kings of the Babylon
+Babylon Queen
+Babylon's Queen
+Babylon's Queens
+Queen of Babylon
+Queen of the Babylon
+Queens of Babylon
+Queens of the Babylon
 Seven seals
 God Seven Seals
 God's Seven Seals
@@ -44422,6 +45247,10 @@ Descent of God's graces
 Descent of the God's graces
 Descents of God's graces
 Descents of the God's graces
+Candlemas
+Feast of the Presentation of Jesus Christ
+Feast of the Purification of the Blessed Virgin Mary
+Feast of the Holy Encounter
 Annunciation
 Feast of the Annunciation
 Solemnity of the Annunciation
@@ -44455,6 +45284,10 @@ Coercive islamization
 Coercive islamizations
 Coercive islamisation
 Coercive islamisations
+Islamophobia
+Islamophobias
+Islamophobe
+Islamophobes
 Afreet
 Afreets
 Afrit
@@ -45955,6 +46788,10 @@ Seven-branched menorahs
 7 branch menorahs
 7 branched menorah
 7 branched menorahs
+Seven-branched candelabrum
+Seven-branched candelabrums
+Seven-branched candlestick
+Seven-branched candlesticks
 Hanukkah menorah
 Hanukkah menorahs
 Hanukkiah
@@ -45967,6 +46804,10 @@ Eight-branched menorahs
 8 branch menorahs
 8 branched menorah
 8 branched menorahs
+Eight-branched candelabrum
+Eight-branched candelabrums
+Eight-branched candlestick
+Eight-branched candlesticks
 Nisan
 Nissan
 Iyar
@@ -45974,7 +46815,6 @@ Iyyar
 Siwan
 Sivan
 Tamuz
-Tammuz
 Ab
 Av
 Elul
@@ -46538,6 +47378,10 @@ Antisemitism
 Antisemite
 Antisemites
 Antisemitic
+Antizionism
+Antizionist
+Antizionists
+Antizionistic
 Philosemitism
 Philosemit
 Philosemits
@@ -47694,6 +48538,34 @@ God Apollo
 God Pan
 Sothis
 Goddess Sothis
+Greece god
+Greece's god
+Greece's gods
+God of Greece
+God of the Greece
+Gods of Greece
+Gods of the Greece
+Greek god
+Greek gods
+Greece goddess
+Greece's goddess
+Greece goddesses
+Greece's goddesses
+Goddess of Greece
+Goddess of the Greece
+Goddesses of Greece
+Goddesses of the Greece
+Greek goddess
+Greek goddesses
+God house
+God's house
+God's houses
+House of God
+House of the God
+House of Gods
+House of the Gods
+Houses of Gods
+Houses of the Gods
 Talos
 Talus
 Talon
@@ -47777,15 +48649,6 @@ Baetylus
 Baetyl
 Bethel
 Betyl
-God house
-God's house
-God's houses
-House of God
-House of the God
-House of Gods
-House of the Gods
-Houses of Gods
-Houses of the Gods
 Zeus
 Poseidon
 Prometheus
@@ -47889,15 +48752,22 @@ Ingwi
 Dagaz
 Othala
 Odal
-Irmin
-Irminsul
-Irminsuli
 Thor
 God Thor
 Thor Hammer
 Thor's Hammer
 Hammer of Thor
 Hammer of the Thor
+Odin
+God Odin
+Allfather
+Ostara
+Ostara Goddess
+Eostre
+Eostre Goddess
+Irmin
+Irminsul
+Irminsuli
 Asgard
 Hel
 Helheim
@@ -47920,9 +48790,6 @@ Midgard
 Yggdrasil
 Yggdrasill
 World tree
-Odin
-God Odin
-Allfather
 Aesir
 Aesir race
 Aesir builder
@@ -48282,6 +49149,71 @@ Gavvah collection system
 Gavvah collection systems
 Energy collection system
 Energy collection systems
+Energy pain
+Energy's pain
+Energies pain
+Energy's pains
+Energies pains
+Pain of energy
+Pain of the energy
+Pain of energies
+Pain of the energies
+Pains of energy
+Pains of the energy
+Pains of energies
+Pains of the energies
+Energy suffering
+Energy's suffering
+Energies suffering
+Energy's sufferings
+Energies sufferings
+Suffering of energy
+Suffering of the energy
+Suffering of energies
+Suffering of the energies
+Sufferings of energy
+Sufferings of the energy
+Sufferings of energies
+Sufferings of the energies
+Energy death
+Energy's death
+Energies death
+Energy's deaths
+Energies deaths
+Death of energy
+Death of the energy
+Death of energies
+Death of the energies
+Deaths of energy
+Deaths of the energy
+Deaths of energies
+Deaths of the energies
+Energy anger
+Energy's anger
+Energies anger
+Energy's angers
+Energies angers
+Anger of energy
+Anger of the energy
+Anger of energies
+Anger of the energies
+Angers of energy
+Angers of the energy
+Angers of energies
+Angers of the energies
+Energy revenge
+Energy's revenge
+Energies revenge
+Energy's revenges
+Energies revenges
+Revenge of energy
+Revenge of the energy
+Revenge of energies
+Revenge of the energies
+Revenges of energy
+Revenges of the energy
+Revenges of energies
+Revenges of the energies
 God word
 God's word
 God's words
@@ -48390,11 +49322,6 @@ Churchman
 Churchmen
 Religious figure
 Religious figures
-Cernunnos
-Carnonos
-Beltane
-Druid
-Druids
 Sacrifice
 Sacrifices
 Sacrificed
@@ -48919,6 +49846,8 @@ Token of Covenant
 Token of the Covenant
 Tokens of Covenant
 Tokens of the Covenant
+Black spot
+Black spots
 Physical body
 Physical bodies
 Etheric body
@@ -49014,6 +49943,14 @@ Pantheon of Gods
 Pantheon of the Gods
 Pantheons of Gods
 Pantheons of the Gods
+Ancient God
+Ancient Gods
+Ancient Goddess
+Ancient Goddesses
+Heathen God
+Heathen Gods
+Heathen Goddess
+Heathen Goddesses
 Human heart
 Human hearts
 Good heart
@@ -49042,8 +49979,6 @@ Religion
 Religions
 Ancient Mystery Religion
 Ancient Mystery Religions
-Ancient god
-Ancient gods
 Providence
 Divine providence
 Monk
@@ -49495,6 +50430,8 @@ Road junctions
 Seven roads crossroads
 Crossroads of seven roads
 Crossroads of the seven roads
+One-way road
+One-way roads
 Aim
 Aims
 Long-term aim
@@ -50484,11 +51421,18 @@ The Keeper of the time
 The Keeper of the times
 The Keepers of the times
 The Time machine
-The Time machines
+The Time's machine
+The Time's machines
+The Machine of the time
+The Machines of the time
+The Time traveler
+The Time travelers
 The Time traveller
 The Time travellers
 The Time travel
 The Time travels
+The Time traveling
+The Time travelings
 The Time travelling
 The Time travellings
 The Travel of the time
@@ -50499,6 +51443,10 @@ The Traveling of the time
 The Travelings of the time
 The Traveling in the time
 The Travelings in the time
+The Travelling of the time
+The Travellings of the time
+The Travelling in the time
+The Travellings in the time
 The Birthday
 The Birthdays
 The Birthday code
@@ -51197,6 +52145,14 @@ The Antirussian
 The Siberia
 The Novosibirsk
 The Novosibirsk, Russia
+The Kremlin
+The Site kremlin.ru
+The Site http://kremlin.ru
+The Site https://kremlin.ru
+The Site www.kremlin.ru
+The Site http://www.kremlin.ru
+The Site https://www.kremlin.ru
+The Moscow Kremlin
 The Kaliningrad
 The Kaliningrad, Russia
 The Kaliningrad oblast
@@ -51207,13 +52163,6 @@ The Region 39
 The Russian
 The Russians
 The Russian people
-The Kremlin
-The Site kremlin.ru
-The Site http://kremlin.ru
-The Site https://kremlin.ru
-The Site www.kremlin.ru
-The Site http://www.kremlin.ru
-The Site https://www.kremlin.ru
 The Russian world
 The Khazaria
 The New Khazaria
@@ -52015,6 +52964,8 @@ The Drug baron
 The Drug barons
 The Narcotics nobility
 The Narcotics nobilities
+The Withdrawal pain
+The Withdrawal pains
 The Narcotic
 The Narcotics
 The Drug
@@ -52900,6 +53851,8 @@ The Digital data
 The Analog data
 The Key
 The Keys
+The Keyboard
+The Keyboards
 The Code
 The Codes
 The Access code
@@ -52947,6 +53900,8 @@ The Cloud computing
 The Cloud computings
 The Cloud memory
 The Cloud supermemory
+The Cloud service
+The Cloud services
 The Cyber attack
 The Cyber attacks
 The Major cyber attack
@@ -53692,6 +54647,8 @@ The Biological robot
 The Biological robots
 The Biologic robot
 The Biologic robots
+The Biobot
+The Biobots
 The Cloned biorobot
 The Cloned biorobots
 The Cloned biological robot
@@ -53725,6 +54682,8 @@ The Humanoid robot
 The Humanoid robots
 The Humanoid
 The Humanoids
+The Robotic humanoid
+The Robotic humanoids
 The Humanlike robot
 The Humanlike robots
 The Anthropomorphic robot
@@ -54076,6 +55035,8 @@ The Bio implant
 The Bio implants
 The Biological implant
 The Biological implants
+The Brain implant
+The Brain implants
 The Mind update
 The Mind's update
 The Mind's updates
@@ -54450,10 +55411,27 @@ The Bad friend
 The Bad friends
 The Family
 The Families
+The Family man
+The Family woman
+The Family person
+The Family human
+The Family fellow
+The Family girl
+The Family boy
+The Family men
+The Family women
+The Family persons
+The Family humans
+The Family fellows
+The Family people
+The Family girls
+The Family boys
 The Young family
 The Young families
 The Large family
 The Large families
+The Social unit
+The Social units
 The Brother
 The Brothers
 The Brethren
@@ -54500,6 +55478,8 @@ The Relative
 The Relatives
 The Family value
 The Family values
+The Traditional value
+The Traditional values
 The Adamite
 The Adamites
 The Adam Generations
@@ -54670,6 +55650,14 @@ The Population's decreases
 The Decrease of the population
 The Decrease of the populations
 The Decreases of the populations
+The Demographic pit
+The Demographic pits
+The Demographic crisis
+The Demographic crises
+The Maternity capital
+The Maternity capitals
+The Family capital
+The Family capitals
 The Denisovan man
 The Denisovan woman
 The Denisovan person
@@ -55294,6 +56282,10 @@ The Mutual protection
 The Mutual protections
 The Solidarity
 The Solidarities
+The Corporation
+The Corporations
+The State corporation
+The State corporations
 The Hezbollah
 The Party of Allah
 The Party of God
@@ -55330,8 +56322,6 @@ The Directorate-General for External Security
 The DGSE
 The G7
 The Group of Seven
-The Corporation
-The Corporations
 The AUKUS
 The Australia, United Kingdom, United States
 The IAEA
@@ -55354,9 +56344,26 @@ The Digital Dollar
 The Digital Dollars
 The USD
 The US dollar
-The US dollars
+The US's dollar
+The US's dollars
+The Dollar of the US
+The Dollars of the US
 The USA dollar
-The USA dollars
+The USA's dollar
+The USA's dollars
+The Dollar of the USA
+The Dollars of the USA
+The United States dollar
+The United States dollars
+The Dollar of the United States
+The Dollars of the United States
+The United States of America dollar
+The United States of America's dollar
+The United States of America's dollars
+The Dollar of the United States of America
+The Dollars of the United States of America
+The American dollar
+The American dollars
 The Crypto dollar
 The Crypto dollars
 The Petrodollar
@@ -55886,6 +56893,22 @@ The JSC RusAg
 The JSCo RusAg
 The Joint Stock Company RusAg
 The Joint Stock Corporation RusAg
+The Site bbr.ru
+The Site http://bbr.ru
+The Site https://bbr.ru
+The Site www.bbr.ru
+The Site http://www.bbr.ru
+The Site https://www.bbr.ru
+The BBR
+The JSC BBR
+The JSCo BBR
+The Joint Stock Company BBR
+The Joint Stock Corporation BBR
+The BBR Bank
+The JSC BBR Bank
+The JSCo BBR Bank
+The Joint Stock Company BBR Bank
+The Joint Stock Corporation BBR Bank
 The Site gebank.ru
 The Site http://gebank.ru
 The Site https://gebank.ru
@@ -56064,6 +57087,10 @@ The Payoffs
 The Illegal payment
 The Illegal payments
 The Hush money
+The Bribetaker
+The Bribetakers
+The Grafter
+The Grafters
 The Reparation
 The Reparations
 The War reparation
@@ -56110,7 +57137,45 @@ The Digital payments
 The Inflation
 The High inflation
 The Hyperinflation
+The Prices increase
+The Prices increases
+The Increase in the prices
+The Increases in the prices
+The Prices rise
+The Prices rises
+The Rise in the prices
+The Rises in the prices
+The Prices uplift
+The Prices uplifts
+The Uplift in the prices
+The Uplifts in the prices
+The Prices hike
+The Prices hikes
+The Hike in the prices
+The Hikes in the prices
 The Deflation
+The Prices cut
+The Prices cuts
+The Cut in the prices
+The Cuts in the prices
+The Prices fall
+The Prices falls
+The Fall in the prices
+The Falls in the prices
+The Prices reduction
+The Prices reductions
+The Reduction in the prices
+The Reductions in the prices
+The Prices decline
+The Prices declines
+The Decline in the prices
+The Declines in the prices
+The Price abatement
+The Price abatements
+The Price cut
+The Price cuts
+The Price deflation
+The Price deflations
 The Face Pay
 The SelfieToPay
 The Gold
@@ -56154,10 +57219,17 @@ The Next Catastrophe
 The Crash
 The Crashes
 The Planetary catastrophe
+The Planetary catastrophes
 The Global catastrophe
+The Global catastrophes
 The Worldwide catastrophe
+The Worldwide catastrophes
 The Global cataclysm
+The Global cataclysms
 The Global tragedy
+The Global tragedies
+The Big tragedy
+The Big tragedies
 The Car crash
 The Car crashes
 The Humanitarian catastrophe
@@ -56227,7 +57299,6 @@ The Currency
 The Currencies
 The Currency symbol
 The Currency symbols
-The Global currency
 The One world currency
 The Fiat money
 The Fiat currency
@@ -56241,6 +57312,10 @@ The Money's abundance
 The Money's abundances
 The Abundance of the money
 The Abundances of the money
+The World currency
+The Supranational currency
+The Global currency
+The Reserve currency
 The Job
 The Jobs
 The Worker
@@ -56307,8 +57382,22 @@ The Expensive labour forces
 The Manpower
 The Cashback
 The Time is money
-The Stock Exchange
-The Stock Exchanges
+The Stock exchange
+The Stock exchanges
+The International Stock exchange
+The International Stock exchanges
+The Share market
+The Share markets
+The International Share market
+The International Share markets
+The Securities market
+The Securities markets
+The International Securities market
+The International Securities markets
+The Stock market
+The Stock markets
+The International Stock market
+The International Stock markets
 The Business card
 The Business cards
 The Visiting card
@@ -56325,6 +57414,8 @@ The Crisis time
 The Crisis times
 The Time of the crisis
 The Times of the crisis
+The Financial storm
+The Financial storms
 The Bank
 The Banks
 The Banking
@@ -56398,6 +57489,16 @@ The Excise duty
 The Excise duties
 The Excise tax
 The Excise taxes
+The Laundering
+The Launderings
+The Money laundering
+The Money launderings
+The Dirty cash
+The Dirty money
+The Ill-gotten cash
+The Ill-gotten money
+The Legal cash
+The Legal money
 The Business
 The Businesses
 The Shady business
@@ -56415,6 +57516,10 @@ The Corporate client
 The Corporate clients
 The Individual client
 The Individual clients
+The Economic security
+The Economic securities
+The Financial security
+The Financial securities
 The Bank account
 The Bank accounts
 The Offshore account
@@ -56551,6 +57656,8 @@ The Creditor
 The Creditors
 The Credit slavery
 The Debt slavery
+The Irrevocable credit
+The Irrevocable credits
 The Credit bubble
 The Credit bubbles
 The Credit bubble burst
@@ -56585,6 +57692,27 @@ The Consumption
 The Consumptions
 The Active storage
 The Active storages
+The Estate
+The Estates
+The Estate property
+The Estate properties
+The Fixed property
+The Fixed properties
+The Realty
+The Realties
+The Property
+The Properties
+The Tenement
+The Tenements
+The Immovable estate
+The Immovable estates
+The Real estate
+The Real estates
+The Fixed assets
+The Fixed assetses
+The Real assets
+The Real assetses
+The Immovables
 The Speculation
 The Speculations
 The Speculator
@@ -57162,6 +58290,8 @@ The Presswoman
 The Presswomen
 The Media project
 The Media projects
+The Museum
+The Museums
 The Rock star
 The Rock stars
 The Film star
@@ -57235,6 +58365,7 @@ The False report
 The False reports
 The Canard
 The Canards
+The Fake news
 The Circus
 The Circuses
 The Circus show
@@ -57367,6 +58498,10 @@ The Talking head
 The Talking heads
 The Opinion leader
 The Opinion leaders
+The Information dump
+The Information dumps
+The Info dump
+The Info dumps
 The Declaration
 The Declarations
 The Intent declaration
@@ -57442,6 +58577,10 @@ The Barrack
 The Barracks
 The Bunk house
 The Bunk houses
+The Carpet
+The Carpets
+The Calling on the carpet
+The Callings on the carpet
 The Homeless man
 The Homeless woman
 The Homeless person
@@ -59049,13 +60188,22 @@ The Astral being
 The Astral beings
 The Astral double
 The Astral doubles
+The Astral god
+The Astral gods
+The Astral goddess
+The Astral goddesses
 The Out-of-Body Experience
 The OBE
+The Aura
+The Auras
 The Energo field
 The Energo fields
 The Bio field
 The Bio fields
-The Aura
+The Biologic field
+The Biologic fields
+The Biological field
+The Biological fields
 The Morphogenetic field
 The Morphogenetic fields
 The Dragon
@@ -59370,6 +60518,24 @@ The Witches of the sabbath
 The Witches of the sabbaths
 The Black sabbath
 The Black sabbaths
+The Witch hunt
+The Witch's hunt
+The Witches hunt
+The Witch's hunts
+The Witches hunts
+The Hunt of the witch
+The Hunt of the witches
+The Hunts of the witch
+The Hunts of the witches
+The Witch hunting
+The Witch's hunting
+The Witches hunting
+The Witch's huntings
+The Witches huntings
+The Hunting of the witch
+The Hunting of the witches
+The Huntings of the witch
+The Huntings of the witches
 The Griffin
 The Griffins
 The Griffon
@@ -59717,8 +60883,6 @@ The Pastry
 The Pastries
 The Biscuit
 The Biscuits
-The Cake
-The Cakes
 The Tart
 The Tarts
 The Pie
@@ -59745,8 +60909,21 @@ The Great famine
 The Great famines
 The Fasting
 The Fastings
+The Lent
+The Great Lent
+The Great Fast
+The Lenten fast
+The Lenten period 
 The Food shortage
 The Food shortages
+The Lenten food
+The Lenten foods
+The Lenten meal
+The Lenten meals
+The Lean food
+The Lean foods
+The Lean meal
+The Lean meals
 The Artificial hunger
 The Artificial hungers
 The Artificial famine
@@ -59813,6 +60990,8 @@ The Chunk honey
 The Comb honey
 The Comb
 The Combs
+The Cake
+The Cakes
 The Cake cherry
 The Cake's cherry
 The Cake cherries
@@ -60567,6 +61746,16 @@ The Agent of the Matrix
 The Agents of the Matrix
 The Computer Matrix
 The Computer Matrixes
+The Matrix name
+The Matrix's name
+The Matrix's names
+The Name of the Matrix
+The Names of the Matrix
+The Matrix of illusion name
+The Matrix of illusion's name
+The Matrix of illusion's names
+The Name of the Matrix of illusion
+The Names of the Matrix of illusion
 The Ukraine illuminat
 The Ukraine illuminati
 The Ukraine's illuminat
@@ -62160,6 +63349,10 @@ The Truth Social
 The Twitter clone
 The Twitter's clone
 The Clone of the Twitter
+The Tesla Optimus
+The Tesla Bot
+The Optis
+The Tesla Optis
 The Site tesla.com
 The Site http://tesla.com
 The Site https://tesla.com
@@ -62705,6 +63898,12 @@ The Russian csar
 The Russian csars
 The Russian tsar
 The Russian tsars
+The Tsarina
+The Tsarinas
+The Tzarina
+The Tzarinas
+The Czarina
+The Czarinas
 The Gulag
 The Gulags
 The Chief Administration of Corrective Labour Camps
@@ -63425,6 +64624,12 @@ The Senate
 The Senates
 The Senator
 The Senators
+The Congress
+The Congresses
+The Congressman
+The Congressmen
+The Congresswoman
+The Congresswomen
 The Chancellor
 The Chancellors
 The Political whore
@@ -63466,11 +64671,9 @@ The Pyramid of power's top
 The Top of the pyramid of power
 The United World
 The United World Power
-The World domination.
-The World's domination.
-The World's domination.s
-The Domination. on the World
-The Domination.s on the World
+The World domination
+The World's domination
+The Domination on the World
 The Power over the World
 The World Government puppet
 The World Government's puppet
@@ -63494,6 +64697,10 @@ The Pullers of the strings
 The Oligarch
 The Oligarches
 The Oligarchy
+The Tycoon
+The Tycoons
+The Magnate
+The Magnates
 The Technocracy
 The Technocracies
 The Tetrarchy
@@ -63754,6 +64961,8 @@ The State-to-state relations
 The State-to-state relationship
 The Diplomatic failure
 The Diplomatic failures
+The Diplomatic note
+The Diplomatic notes
 The Populism
 The Opposition
 The Oppositions
@@ -63985,6 +65194,8 @@ The Psychical experiment
 The Psychical experiments
 The Psychical problem
 The Psychical problems
+The Psychical illness
+The Psychical illnesses
 The Shock
 The Shocks
 The Shocking
@@ -64874,6 +66085,45 @@ The DNA's error
 The DNA's errors
 The Error of the DNA
 The Errors of the DNA
+The Prothetic
+The Prothetics
+The Prosthetic device
+The Prosthetic devices
+The Prosthetic appliance
+The Prosthetic appliances
+The Prosthesis
+The Prostheses
+The Artificial limb
+The Artificial limbs
+The Crutch
+The Crutches
+The Crutches pair
+The Crutches pairs
+The Pair of the crutches
+The Pairs of the crutches
+The Cane
+The Canes
+The Walking stick
+The Walking sticks
+The Cripple
+The Cripples
+The Invalid
+The Invalids
+The Disabled man
+The Disabled woman
+The Disabled person
+The Disabled human
+The Disabled fellow
+The Disabled girl
+The Disabled boy
+The Disabled men
+The Disabled women
+The Disabled persons
+The Disabled humans
+The Disabled fellows
+The Disabled people
+The Disabled girls
+The Disabled boys
 The Salmon
 The Salmons
 The Fish
@@ -64951,6 +66201,12 @@ The Eagle
 The Eagles
 The Lamb
 The Lambs
+The Yeanling
+The Yeanlings
+The Eanling
+The Eanlings
+The Hogling
+The Hoglings
 The Holy Lamb
 The God lamb
 The God's lamb
@@ -65023,6 +66279,18 @@ The Milch cows
 The Beef
 The Sacred cow
 The Sacred cows
+The Bull
+The Bulls
+The Bullock
+The Bullocks
+The Bull calf
+The Bull calves
+The Ox
+The Oxes
+The Neat
+The Neats
+The Steer
+The Steers
 The Milking
 The Milkings
 The Milker
@@ -65075,6 +66343,8 @@ The Octopus
 The Octopuses
 The Goat
 The Goats
+The Goatling
+The Goatlings
 The Greatest Of All Time
 The He-goat
 The He-goats
@@ -65193,6 +66463,22 @@ The Hamster
 The Hamsters
 The Internet hamster
 The Internet hamsters
+The Marmot
+The Marmots
+The Marmot Day
+The Marmot's Day
+The Marmot's Days
+The Day of the Marmot
+The Days of the Marmot
+The Woodchuck
+The Woodchucks
+The Groundhog
+The Groundhogs
+The Groundhog Day
+The Groundhog's Day
+The Groundhog's Days
+The Day of the Groundhog
+The Days of the Groundhog
 The Animal
 The Animals
 The Wild animal
@@ -65471,6 +66757,7 @@ The Smart head
 The Smart heads
 The Penis
 The Penises
+The Penes
 The Phallic logo
 The Phallic logos
 The Phallic logotype
@@ -65809,10 +67096,36 @@ The Estrogen
 The Estrogens
 The Phytoestrogen
 The Phytoestrogens
+The Steroid
+The Steroids
+The Steroid hormone
+The Steroid hormones
+The Steroid use
+The Steroid's use
+The Steroid's uses
+The Use of the steroid
+The Use of the steroids
+The Uses of the steroids
+The Steroid using
+The Steroid usings
+The Steroid abuse
+The Steroid's abuse
+The Steroid's abuses
+The Abuse of the steroid
+The Abuse of the steroids
+The Abuses of the steroids
+The Steroid abusing
+The Steroid abusings
 The Pest
 The Pests
+The Energy parasite
+The Energy parasites
 The Energetic parasite
 The Energetic parasites
+The Energy parasitism
+The Social parasite
+The Social parasites
+The Social parasitism
 The Gender
 The Genders
 The Feminine gender 
@@ -66031,25 +67344,6 @@ The Army of the zombie
 The Army of the zombies
 The Armies of the zombie
 The Armies of the zombies
-The Cripple
-The Cripples
-The Invalid
-The Invalids
-The Disabled man
-The Disabled woman
-The Disabled person
-The Disabled human
-The Disabled fellow
-The Disabled girl
-The Disabled boy
-The Disabled men
-The Disabled women
-The Disabled persons
-The Disabled humans
-The Disabled fellows
-The Disabled people
-The Disabled girls
-The Disabled boys
 The Treatment
 The Treatments
 The Treatment process
@@ -66250,6 +67544,22 @@ The Bioincubator
 The Bioincubators
 The Bioreactor
 The Bioreactors
+The Dispensary
+The Dispensaries
+The Clinical examination
+The Clinical examinations
+The Medical examination
+The Medical examinations
+The Profilactic medical examination
+The Profilactic medical examinations
+The Mass health examination
+The Mass health examinations
+The Population medical examination
+The Population's medical examination
+The Population's medical examinations
+The Medical examination of the population
+The Medical examination of the populations
+The Medical examinations of the populations
 The Cancer
 The Oncology
 The Oncogen
@@ -66760,6 +68070,8 @@ The Rebellion
 The Rebellions
 The Coup
 The Coups
+The Сoup d'etat
+The Сoups d'etat
 The Revolt
 The Revolts
 The Wagner revolt
@@ -66798,6 +68110,8 @@ The Vessel
 The Vessels
 The Ship
 The Ships
+The Sinking ship
+The Sinking ships
 The Yacht
 The Yachts
 The Sailboat
@@ -67043,7 +68357,6 @@ The Epicentrum
 The Epicenter
 The Ground Zero
 The Alien invasion
-The Alien invasions
 The Aliens invasion
 The Aliens invasions
 The Invasion of the aliens
@@ -67313,6 +68626,10 @@ The Blow-ups
 The Blowing up
 The Bomb
 The Bombs
+The Bombing
+The Bombings
+The Carpet bombing
+The Carpet bombings
 The Humanitarian aid
 The Humanitarian aids
 The Humanitarian assistance
@@ -67421,6 +68738,12 @@ The Powerful army
 The Powerful armies
 The Strong army
 The Strong armies
+The Regular army
+The Regular armies
+The Standing army
+The Standing armies
+The Nonregular army
+The Nonregular armies
 The One world army
 The Ukrainian army
 The Ukraine army
@@ -67535,6 +68858,8 @@ The Sledgehammer's executions
 The Execution by the sledgehammer
 The Execution by the sledgehammers
 The Executions by the sledgehammers
+The Military security
+The Military securities
 The Defeat
 The Defeats
 The Military defeat
@@ -67645,6 +68970,18 @@ The Peace's lacking
 The Peace's lackings
 The Lacking of the peace
 The Lackings of the peace
+The Conflict adjustment
+The Conflict's adjustment
+The Conflict's adjustments
+The Adjustment of the conflict
+The Adjustment of the conflicts
+The Adjustments of the conflicts
+The Confilct settlement
+The Confilct's settlement
+The Confilct's settlements
+The Settlement of the confilct
+The Settlement of the confilcts
+The Settlements of the confilcts
 The Invasion
 The Invasions
 The American invasion
@@ -67877,6 +69214,8 @@ The Merchant of the death
 The Merchants of the death
 The Squadron
 The Squadrons
+The Assault detachment
+The Assault detachments
 The Liberation
 The Liberations
 The Militarism
@@ -68404,14 +69743,38 @@ The Schoolchild
 The Schoolchildren
 The Classmate
 The Classmates
+The College
+The Colleges
 The University
 The Universities
+The Institute
+The Institutes
+The Higher education institute
+The Higher education's institute
+The Higher education's institutes
+The Institute of the higher education
+The Institute of the higher educations
+The Institutes of the higher educations
 The Professor
 The Professors
 The Education
+The Educations
 The Quality education
+The Quality educations
+The Primary education
+The Primary educations
+The Elementary education
+The Elementary educations
+The Middle education
+The Middle educations
+The Higher education
+The Higher educations
 The Educator
 The Educators
+The Lecture
+The Lectures
+The Tutor
+The Tutors
 The Logic
 The Logics
 The Library
@@ -68637,16 +70000,6 @@ The Attack on Republic of Latvia
 The Attack on Republic of Italy
 The Attack on Republic of Estonia
 The Attack on World
-The Attack on World region
-The Attack on a World region
-The Attack on World's region
-The Attack on a World's region
-The Attack on World's regions
-The Attack on &Region of World
-The Attack on a &Region of World
-The Attack on Region of the World
-The Attack on a Region of the World
-The Attack on Regions of the World
 The Attack on 10 World regions
 The Attack on Ten World regions
 The Attack on Capital
@@ -68667,7 +70020,6 @@ The Attack on a New Atlantis
 The Attack on Hyperborea
 The Attack on Tartaria
 The Attack on Eurasia
-The Attack on Japanese people
 The Attack on Tokyo
 The Attack on Tokyo, Japan
 The Attack on Asia
@@ -68816,12 +70168,13 @@ The Attack on Kalinin Oblast
 The Attack on Siberia
 The Attack on Novosibirsk
 The Attack on Novosibirsk, Russia
+The Attack on Kremlin
+The Attack on Moscow Kremlin
 The Attack on Kaliningrad
 The Attack on Kaliningrad, Russia
 The Attack on Kaliningrad oblast
 The Attack on Kaliningrad region
 The Attack on Region 39
-The Attack on Kremlin
 The Attack on Russian world
 The Attack on Khazaria
 The Attack on New Khazaria
@@ -68971,7 +70324,6 @@ The Attack on Paris
 The Attack on Paris, France
 The Attack on Warsaw
 The Attack on Warsaw, Poland
-The Attack on Swiss people
 The Attack on Rome
 The Attack on Rome, Italy
 The Attack on New Mexiko
@@ -69376,36 +70728,6 @@ The Opponent of Republic of Estonia
 The Enemy of World
 The Bitter enemy of World
 The Opponent of World
-The Enemy of World region
-The Bitter enemy of World region
-The Opponent of World region
-The Enemy of a World region
-The Bitter enemy of a World region
-The Opponent of a World region
-The Enemy of World's region
-The Bitter enemy of World's region
-The Opponent of World's region
-The Enemy of a World's region
-The Bitter enemy of a World's region
-The Opponent of a World's region
-The Enemy of World's regions
-The Bitter enemy of World's regions
-The Opponent of World's regions
-The Enemy of &Region of World
-The Bitter enemy of &Region of World
-The Opponent of &Region of World
-The Enemy of a &Region of World
-The Bitter enemy of a &Region of World
-The Opponent of a &Region of World
-The Enemy of Region of the World
-The Bitter enemy of Region of the World
-The Opponent of Region of the World
-The Enemy of a Region of the World
-The Bitter enemy of a Region of the World
-The Opponent of a Region of the World
-The Enemy of Regions of the World
-The Bitter enemy of Regions of the World
-The Opponent of Regions of the World
 The Enemy of 10 World regions
 The Bitter enemy of 10 World regions
 The Opponent of 10 World regions
@@ -69466,9 +70788,6 @@ The Opponent of Tartaria
 The Enemy of Eurasia
 The Bitter enemy of Eurasia
 The Opponent of Eurasia
-The Enemy of Japanese people
-The Bitter enemy of Japanese people
-The Opponent of Japanese people
 The Enemy of Tokyo
 The Bitter enemy of Tokyo
 The Opponent of Tokyo
@@ -69913,6 +71232,12 @@ The Opponent of Novosibirsk
 The Enemy of Novosibirsk, Russia
 The Bitter enemy of Novosibirsk, Russia
 The Opponent of Novosibirsk, Russia
+The Enemy of Kremlin
+The Bitter enemy of Kremlin
+The Opponent of Kremlin
+The Enemy of Moscow Kremlin
+The Bitter enemy of Moscow Kremlin
+The Opponent of Moscow Kremlin
 The Enemy of Kaliningrad
 The Bitter enemy of Kaliningrad
 The Opponent of Kaliningrad
@@ -69928,9 +71253,6 @@ The Opponent of Kaliningrad region
 The Enemy of Region 39
 The Bitter enemy of Region 39
 The Opponent of Region 39
-The Enemy of Kremlin
-The Bitter enemy of Kremlin
-The Opponent of Kremlin
 The Enemy of Russian world
 The Bitter enemy of Russian world
 The Opponent of Russian world
@@ -70378,9 +71700,6 @@ The Opponent of Warsaw
 The Enemy of Warsaw, Poland
 The Bitter enemy of Warsaw, Poland
 The Opponent of Warsaw, Poland
-The Enemy of Swiss people
-The Bitter enemy of Swiss people
-The Opponent of Swiss people
 The Enemy of Rome
 The Bitter enemy of Rome
 The Opponent of Rome
@@ -70561,16 +71880,6 @@ The War in Republic of Latvia
 The War in Republic of Italy
 The War in Republic of Estonia
 The War in World
-The War in World region
-The War in a World region
-The War in World's region
-The War in a World's region
-The War in World's regions
-The War in &Region of World
-The War in a &Region of World
-The War in Region of the World
-The War in a Region of the World
-The War in Regions of the World
 The War in 10 World regions
 The War in Ten World regions
 The War in Capital
@@ -70591,7 +71900,6 @@ The War in a New Atlantis
 The War in Hyperborea
 The War in Tartaria
 The War in Eurasia
-The War in Japanese people
 The War in Tokyo
 The War in Tokyo, Japan
 The War in Asia
@@ -70740,12 +72048,13 @@ The War in Kalinin Oblast
 The War in Siberia
 The War in Novosibirsk
 The War in Novosibirsk, Russia
+The War in Kremlin
+The War in Moscow Kremlin
 The War in Kaliningrad
 The War in Kaliningrad, Russia
 The War in Kaliningrad oblast
 The War in Kaliningrad region
 The War in Region 39
-The War in Kremlin
 The War in Russian world
 The War in Khazaria
 The War in New Khazaria
@@ -70895,7 +72204,6 @@ The War in Paris
 The War in Paris, France
 The War in Warsaw
 The War in Warsaw, Poland
-The War in Swiss people
 The War in Rome
 The War in Rome, Italy
 The War in New Mexiko
@@ -71042,16 +72350,6 @@ The Invasion to Republic of Latvia
 The Invasion to Republic of Italy
 The Invasion to Republic of Estonia
 The Invasion to World
-The Invasion to World region
-The Invasion to a World region
-The Invasion to World's region
-The Invasion to a World's region
-The Invasion to World's regions
-The Invasion to &Region of World
-The Invasion to a &Region of World
-The Invasion to Region of the World
-The Invasion to a Region of the World
-The Invasion to Regions of the World
 The Invasion to 10 World regions
 The Invasion to Ten World regions
 The Invasion to Capital
@@ -71072,7 +72370,6 @@ The Invasion to a New Atlantis
 The Invasion to Hyperborea
 The Invasion to Tartaria
 The Invasion to Eurasia
-The Invasion to Japanese people
 The Invasion to Tokyo
 The Invasion to Tokyo, Japan
 The Invasion to Asia
@@ -71221,12 +72518,13 @@ The Invasion to Kalinin Oblast
 The Invasion to Siberia
 The Invasion to Novosibirsk
 The Invasion to Novosibirsk, Russia
+The Invasion to Kremlin
+The Invasion to Moscow Kremlin
 The Invasion to Kaliningrad
 The Invasion to Kaliningrad, Russia
 The Invasion to Kaliningrad oblast
 The Invasion to Kaliningrad region
 The Invasion to Region 39
-The Invasion to Kremlin
 The Invasion to Russian world
 The Invasion to Khazaria
 The Invasion to New Khazaria
@@ -71376,7 +72674,6 @@ The Invasion to Paris
 The Invasion to Paris, France
 The Invasion to Warsaw
 The Invasion to Warsaw, Poland
-The Invasion to Swiss people
 The Invasion to Rome
 The Invasion to Rome, Italy
 The Invasion to New Mexiko
@@ -71850,16 +73147,6 @@ The Supreme Leader of Republic of Latvia
 The Supreme Leader of Republic of Italy
 The Supreme Leader of Republic of Estonia
 The Supreme Leader of World
-The Supreme Leader of World region
-The Supreme Leader of a World region
-The Supreme Leader of World's region
-The Supreme Leader of a World's region
-The Supreme Leader of World's regions
-The Supreme Leader of &Region of World
-The Supreme Leader of a &Region of World
-The Supreme Leader of Region of the World
-The Supreme Leader of a Region of the World
-The Supreme Leader of Regions of the World
 The Supreme Leader of 10 World regions
 The Supreme Leader of Ten World regions
 The Supreme Leader of Capital
@@ -71880,7 +73167,6 @@ The Supreme Leader of a New Atlantis
 The Supreme Leader of Hyperborea
 The Supreme Leader of Tartaria
 The Supreme Leader of Eurasia
-The Supreme Leader of Japanese people
 The Supreme Leader of Tokyo
 The Supreme Leader of Tokyo, Japan
 The Supreme Leader of Asia
@@ -72029,12 +73315,13 @@ The Supreme Leader of Kalinin Oblast
 The Supreme Leader of Siberia
 The Supreme Leader of Novosibirsk
 The Supreme Leader of Novosibirsk, Russia
+The Supreme Leader of Kremlin
+The Supreme Leader of Moscow Kremlin
 The Supreme Leader of Kaliningrad
 The Supreme Leader of Kaliningrad, Russia
 The Supreme Leader of Kaliningrad oblast
 The Supreme Leader of Kaliningrad region
 The Supreme Leader of Region 39
-The Supreme Leader of Kremlin
 The Supreme Leader of Russian world
 The Supreme Leader of Khazaria
 The Supreme Leader of New Khazaria
@@ -72184,7 +73471,6 @@ The Supreme Leader of Paris
 The Supreme Leader of Paris, France
 The Supreme Leader of Warsaw
 The Supreme Leader of Warsaw, Poland
-The Supreme Leader of Swiss people
 The Supreme Leader of Rome
 The Supreme Leader of Rome, Italy
 The Supreme Leader of New Mexiko
@@ -72512,6 +73798,14 @@ The Infecundities
 The Acyesis
 The Male sterility
 The Male sterilities
+The Impotence
+The Impotences
+The Impotency
+The Impotencies
+The Impotent
+The Impotents
+The Impotent man
+The Impotent men
 The Sex revolution
 The Sex revolutions
 The Sexual revolution
@@ -72669,6 +73963,10 @@ The Draft law
 The Draft laws
 The Martial law
 The Martial laws
+The Maritime law
+The Maritime laws
+The Admiralty law
+The Admiralty laws
 The International law
 The International law supremacy
 The International law's supremacy
@@ -72732,6 +74030,20 @@ The Hijacking
 The Hijackings
 The Hijacker
 The Hijackers
+The Corruption
+The Corruptions
+The Corrupt practice
+The Corrupt practices
+The Corrupter
+The Corrupters
+The Corruptor
+The Corruptors
+The Corruptionist
+The Corruptionists
+The Corrupt official
+The Corrupt officials
+The Corruption scandal
+The Corruption scandals
 The Maniac
 The Maniacs
 The Sexual maniac
@@ -73146,18 +74458,6 @@ The Organized crime
 The Organized crimes
 The Organised crime group
 The Organised crime groups
-The Corruption
-The Corruptions
-The Corrupt practice
-The Corrupt practices
-The Corrupter
-The Corrupters
-The Corruptor
-The Corruptors
-The Corruptionist
-The Corruptionists
-The Corrupt official
-The Corrupt officials
 The Felony
 The Felonies
 The Crime
@@ -74325,6 +75625,8 @@ The Reversal of the geographic poles
 The Reversals of the geographic poles
 The Spaceman
 The Spacemen
+The Spacewoman
+The Spacewomen
 The Cosmonaut
 The Cosmonauts
 The Astronaut
@@ -74550,6 +75852,13 @@ The Reshef
 The God Reshef
 The Rushpan
 The God Rushpan
+The Dumuzid
+The Dumuzid God
+The Dumuzi
+The Dumuzi God
+The Tammuz
+The Tammuz God
+The Dumuzid the Shepherd
 The Yarilo
 The Jarylo
 The Iarilo
@@ -74564,6 +75873,8 @@ The God Jurij
 The God Gerovit
 The Slavic god
 The Slavic gods
+The Slavic goddess
+The Slavic goddesses
 The Svarog
 The Svarog God
 The Svarog day
@@ -74622,37 +75933,16 @@ The Battle of the Gods
 The Battles of the Gods
 The Zilant
 The Zilant dragon
-The Sumer temple
-The Sumer temples
-The Sumer
-The Sumers
-The Sumerian
-The Sumerians
-The Sumer god
-The Sumer gods
-The Baal
-The Ninurta
-The Inanna
-The Ishtar
-The Ishtar Star
-The Ishtar's Star
-The Star of the Ishtar
-The Octagram
-The Marduk
-The Usumgallu
-The Ushumgallu
-The Tiamat
-The Sea Goddess
-The Sea's Goddess
-The Goddess of the Sea
-The Enlil
-The Elil
-The Ninlil
-The Anshar
-The Ansar
-The Whole heaven
-The Kishar
-The Whole Earth
+The Imbolc
+The Imbolg
+The Saint Brigid Day
+The Saint Brigid's Day
+The Day of the Saint Brigid
+The Cernunnos
+The Carnonos
+The Beltane
+The Druid
+The Druids
 The Tanit
 The Tinnit
 The Dea Caelestis
@@ -74796,6 +76086,22 @@ The Egyptian God
 The Egyptian Gods
 The Ancient egyptian God
 The Ancient egyptian Gods
+The Egypt Goddess
+The Egypt's Goddess
+The Egypt Goddesses
+The Egypt's Goddesses
+The Goddess of the Egypt
+The Goddesses of the Egypt
+The Ancient Egypt Goddess
+The Ancient Egypt's Goddess
+The Ancient Egypt Goddesses
+The Ancient Egypt's Goddesses
+The Goddess of the Ancient Egypt
+The Goddesses of the Ancient Egypt
+The Egyptian Goddess
+The Egyptian Goddesses
+The Ancient egyptian Goddess
+The Ancient egyptian Goddesses
 The Neter
 The Neters
 The Egypt Neter
@@ -75048,6 +76354,60 @@ The Cross sign
 The Cross signs
 The Sign of the Cross
 The Signs of the Cross
+The Inanna
+The Inanna Goddess
+The Ishtar
+The Ishtar Goddess
+The Ishtar Star
+The Ishtar's Star
+The Star of the Ishtar
+The Ishtar Goddess Star
+The Star of the Ishtar Goddess
+The Octagram
+The Ishtar Day
+The Ishtar's Day
+The Day of the Ishtar
+The Ishtar Goddess Day
+The Day of the Ishtar Goddess
+The Sumer god
+The Sumer's god
+The Sumer's gods
+The God of the Sumer
+The Gods of the Sumer
+The Sumerian god
+The Sumerian gods
+The Sumer goddess
+The Sumer's goddess
+The Sumer goddesses
+The Sumer's goddesses
+The Goddess of the Sumer
+The Goddesses of the Sumer
+The Sumerian goddess
+The Sumerian goddesses
+The Baal
+The Ninurta
+The Marduk
+The Usumgallu
+The Ushumgallu
+The Tiamat
+The Sea Goddess
+The Sea's Goddess
+The Goddess of the Sea
+The Enlil
+The Elil
+The Ninlil
+The Sumer temple
+The Sumer temples
+The Semiramis
+The Sumer
+The Sumers
+The Sumerian
+The Sumerians
+The Anshar
+The Ansar
+The Whole heaven
+The Kishar
+The Whole Earth
 The Ararat
 The Accad
 The Admah
@@ -78620,6 +79980,11 @@ The Babylon's King
 The Babylon's Kings
 The King of the Babylon
 The Kings of the Babylon
+The Babylon Queen
+The Babylon's Queen
+The Babylon's Queens
+The Queen of the Babylon
+The Queens of the Babylon
 The Seven seals
 The God Seven Seals
 The God's Seven Seals
@@ -79528,6 +80893,10 @@ The God's grace's descents
 The Descent of the God's grace
 The Descent of the God's graces
 The Descents of the God's graces
+The Candlemas
+The Feast of the Presentation of Jesus Christ
+The Feast of the Purification of the Blessed Virgin Mary
+The Feast of the Holy Encounter
 The Annunciation
 The Feast of the Annunciation
 The Solemnity of the Annunciation
@@ -79560,6 +80929,10 @@ The Coercive islamization
 The Coercive islamizations
 The Coercive islamisation
 The Coercive islamisations
+The Islamophobia
+The Islamophobias
+The Islamophobe
+The Islamophobes
 The Afreet
 The Afreets
 The Afrit
@@ -80712,6 +82085,10 @@ The Seven-branch menorah
 The Seven-branch menorahs
 The Seven-branched menorah
 The Seven-branched menorahs
+The Seven-branched candelabrum
+The Seven-branched candelabrums
+The Seven-branched candlestick
+The Seven-branched candlesticks
 The Hanukkah menorah
 The Hanukkah menorahs
 The Hanukkiah
@@ -80720,6 +82097,10 @@ The Eight-branch menorah
 The Eight-branch menorahs
 The Eight-branched menorah
 The Eight-branched menorahs
+The Eight-branched candelabrum
+The Eight-branched candelabrums
+The Eight-branched candlestick
+The Eight-branched candlesticks
 The Jewry puppet
 The Jewry's puppet
 The Jewry's puppets
@@ -81103,6 +82484,9 @@ The Semitic nomads
 The Antisemitism
 The Antisemite
 The Antisemites
+The Antizionism
+The Antizionist
+The Antizionists
 The Philosemitism
 The Philosemit
 The Philosemits
@@ -82051,6 +83435,27 @@ The God Apollo
 The God Pan
 The Sothis
 The Goddess Sothis
+The Greece god
+The Greece's god
+The Greece's gods
+The God of the Greece
+The Gods of the Greece
+The Greek god
+The Greek gods
+The Greece goddess
+The Greece's goddess
+The Greece goddesses
+The Greece's goddesses
+The Goddess of the Greece
+The Goddesses of the Greece
+The Greek goddess
+The Greek goddesses
+The God house
+The God's house
+The God's houses
+The House of the God
+The House of the Gods
+The Houses of the Gods
 The Talos
 The Talus
 The Talon
@@ -82117,12 +83522,6 @@ The Baetylus
 The Baetyl
 The Bethel
 The Betyl
-The God house
-The God's house
-The God's houses
-The House of the God
-The House of the Gods
-The Houses of the Gods
 The Zeus
 The Poseidon
 The Prometheus
@@ -82215,6 +83614,13 @@ The God Thor
 The Thor Hammer
 The Thor's Hammer
 The Hammer of the Thor
+The Odin
+The God Odin
+The Allfather
+The Ostara
+The Ostara Goddess
+The Eostre
+The Eostre Goddess
 The Asgard
 The Hel
 The Helheim
@@ -82237,9 +83643,6 @@ The Midgard
 The Yggdrasil
 The Yggdrasill
 The World tree
-The Odin
-The God Odin
-The Allfather
 The Aesir
 The Aesir race
 The Aesir builder
@@ -82516,6 +83919,51 @@ The Gavvah collection system
 The Gavvah collection systems
 The Energy collection system
 The Energy collection systems
+The Energy pain
+The Energy's pain
+The Energies pain
+The Energy's pains
+The Energies pains
+The Pain of the energy
+The Pain of the energies
+The Pains of the energy
+The Pains of the energies
+The Energy suffering
+The Energy's suffering
+The Energies suffering
+The Energy's sufferings
+The Energies sufferings
+The Suffering of the energy
+The Suffering of the energies
+The Sufferings of the energy
+The Sufferings of the energies
+The Energy death
+The Energy's death
+The Energies death
+The Energy's deaths
+The Energies deaths
+The Death of the energy
+The Death of the energies
+The Deaths of the energy
+The Deaths of the energies
+The Energy anger
+The Energy's anger
+The Energies anger
+The Energy's angers
+The Energies angers
+The Anger of the energy
+The Anger of the energies
+The Angers of the energy
+The Angers of the energies
+The Energy revenge
+The Energy's revenge
+The Energies revenge
+The Energy's revenges
+The Energies revenges
+The Revenge of the energy
+The Revenge of the energies
+The Revenges of the energy
+The Revenges of the energies
 The God word
 The God's word
 The God's words
@@ -82595,11 +84043,6 @@ The Churchman
 The Churchmen
 The Religious figure
 The Religious figures
-The Cernunnos
-The Carnonos
-The Beltane
-The Druid
-The Druids
 The Sacrifice
 The Sacrifices
 The Sacrificed
@@ -82982,6 +84425,8 @@ The Covenant's token
 The Covenant's tokens
 The Token of the Covenant
 The Tokens of the Covenant
+The Black spot
+The Black spots
 The Physical body
 The Physical bodies
 The Etheric body
@@ -83061,6 +84506,14 @@ The Gods Pantheon
 The Gods Pantheons
 The Pantheon of the Gods
 The Pantheons of the Gods
+The Ancient God
+The Ancient Gods
+The Ancient Goddess
+The Ancient Goddesses
+The Heathen God
+The Heathen Gods
+The Heathen Goddess
+The Heathen Goddesses
 The Human heart
 The Human hearts
 The Good heart
@@ -83083,8 +84536,6 @@ The Religion
 The Religions
 The Ancient Mystery Religion
 The Ancient Mystery Religions
-The Ancient god
-The Ancient gods
 The Providence
 The Divine providence
 The Monk
@@ -83418,6 +84869,8 @@ The Road junction
 The Road junctions
 The Seven roads crossroads
 The Crossroads of the seven roads
+The One-way road
+The One-way roads
 The Aim
 The Aims
 The Long-term aim
@@ -84170,8 +85623,13 @@ A Keeper of the time
 A Keeper of times
 A Keeper of the times
 A Time machine
+A Time's machine
+A Machine of time
+A Machine of the time
+A Time traveler
 A Time traveller
 A Time travel
+A Time traveling
 A Time travelling
 A Travel of time
 A Travel of the time
@@ -84181,6 +85639,10 @@ A Traveling of time
 A Traveling of the time
 A Traveling in time
 A Traveling in the time
+A Travelling of time
+A Travelling of the time
+A Travelling in time
+A Travelling in the time
 A Birthday
 A Birthday code
 A Birthday's code
@@ -84810,6 +86272,7 @@ A Drug czar
 A Drug lord
 A Drug baron
 A Narcotics nobility
+A Withdrawal pain
 A Narcotic
 A Drug
 A Hard drug
@@ -85467,6 +86930,7 @@ A Personal account
 A Personal area
 A Datum
 A Key
+A Keyboard
 A Code
 An Access code
 An AI Omega access code
@@ -85495,6 +86959,7 @@ A Cloud calculation
 A Cloud computing
 A Cloud memory
 A Cloud supermemory
+A Cloud service
 A Cyber attack
 A Major cyber attack
 A Cyber Polygon
@@ -85998,6 +87463,7 @@ A Contamination by the nanit
 A Biorobot
 A Biological robot
 A Biologic robot
+A Biobot
 A Cloned biorobot
 A Cloned biological robot
 A Cloned biologic robot
@@ -86015,6 +87481,7 @@ An Android
 A Gynoid
 A Humanoid robot
 A Humanoid
+A Robotic humanoid
 A Humanlike robot
 An Anthropomorphic robot
 A Nanorobot
@@ -86261,6 +87728,7 @@ An Implantation of brain microchips
 An Implantation of the brain microchips
 A Bio implant
 A Biological implant
+A Brain implant
 A Mind update
 A Mind's update
 An Update of mind
@@ -86500,8 +87968,16 @@ A Friend
 A Good friend
 A Bad friend
 A Family
+A Family man
+A Family woman
+A Family person
+A Family human
+A Family fellow
+A Family girl
+A Family boy
 An Young family
 A Large family
+A Social unit
 A Brother
 A Brethren
 A Religious brother
@@ -86526,6 +88002,7 @@ A Grandma
 A Granny
 A Relative
 A Family value
+A Traditional value
 An Adamite
 An Adam descendant
 An Adam's descendant
@@ -86624,6 +88101,10 @@ A Decrease of population
 A Decrease of the population
 A Decrease of populations
 A Decrease of the populations
+A Demographic pit
+A Demographic crisis
+A Maternity capital
+A Family capital
 A Denisovan man
 A Denisovan woman
 A Denisovan person
@@ -86903,6 +88384,8 @@ A Ministry of Defense
 A Department of Defense
 A Mutual protection
 A Solidarity
+A Corporation
+A State corporation
 A Talib
 An Anonymous
 An Anon
@@ -86915,13 +88398,26 @@ A Special Service
 A Secret Service
 A Secret Intelligence Service
 An Intelligence Service
-A Corporation
 A Trilateral
 A Dollar
 A Digital Dollar
 An USD
 An US dollar
+An US's dollar
+A Dollar of US
+A Dollar of the US
 An USA dollar
+An USA's dollar
+A Dollar of USA
+A Dollar of the USA
+An United States dollar
+A Dollar of United States
+A Dollar of the United States
+An United States of America dollar
+An United States of America's dollar
+A Dollar of United States of America
+A Dollar of the United States of America
+An American dollar
 A Crypto dollar
 A Petrodollar
 An American currency
@@ -87241,6 +88737,8 @@ A Bribery
 A Payoff
 An Illegal payment
 A Hush money
+A Bribetaker
+A Grafter
 A Reparation
 A War reparation
 A Rich
@@ -87268,7 +88766,34 @@ A Digital payment
 An Inflation
 A High inflation
 A Hyperinflation
+A Prices increase
+An Increase in prices
+An Increase in the prices
+A Prices rise
+A Rise in prices
+A Rise in the prices
+A Prices uplift
+An Uplift in prices
+An Uplift in the prices
+A Prices hike
+A Hike in prices
+A Hike in the prices
 A Deflation
+A Prices cut
+A Cut in prices
+A Cut in the prices
+A Prices fall
+A Fall in prices
+A Fall in the prices
+A Prices reduction
+A Reduction in prices
+A Reduction in the prices
+A Prices decline
+A Decline in prices
+A Decline in the prices
+A Price abatement
+A Price cut
+A Price deflation
 A Gold
 A Gold coin
 A Golden coin
@@ -87296,6 +88821,7 @@ A Global catastrophe
 A Worldwide catastrophe
 A Global cataclysm
 A Global tragedy
+A Big tragedy
 A Car crash
 A Humanitarian catastrophe
 A System collapse
@@ -87342,7 +88868,6 @@ A Penny
 A Pence
 A Currency
 A Currency symbol
-A Global currency
 A Fiat money
 A Fiat currency
 A Money lack
@@ -87353,6 +88878,10 @@ A Money abundance
 A Money's abundance
 An Abundance of money
 An Abundance of the money
+A World currency
+A Supranational currency
+A Global currency
+A Reserve currency
 A Job
 A Worker
 A Hard work
@@ -87394,7 +88923,14 @@ An Expensive labour force
 A Manpower
 A Cashback
 A Time is money
-A Stock Exchange
+A Stock exchange
+An International Stock exchange
+A Share market
+An International Share market
+A Securities market
+An International Securities market
+A Stock market
+An International Stock market
 A Business card
 A Visiting card
 A Crisis
@@ -87404,6 +88940,7 @@ A New opportunity
 A Crisis time
 A Time of crisis
 A Time of the crisis
+A Financial storm
 A Bank
 A Banking
 A Commercial bank
@@ -87441,6 +88978,14 @@ A Hidden tax
 An Excise
 An Excise duty
 An Excise tax
+A Laundering
+A Money laundering
+A Dirty cash
+A Dirty money
+An Ill-gotten cash
+An Ill-gotten money
+A Legal cash
+A Legal money
 A Business
 A Shady business
 A Businessman
@@ -87450,6 +88995,8 @@ A Client
 A Cliental
 A Corporate client
 An Individual client
+An Economic security
+A Financial security
 A Bank account
 An Offshore account
 An Offshore
@@ -87536,6 +89083,7 @@ A Credit
 A Creditor
 A Credit slavery
 A Debt slavery
+An Irrevocable credit
 A Credit bubble
 A Credit bubble burst
 A Credit bubble's burst
@@ -87559,6 +89107,16 @@ An Obligee
 A Percenter
 A Consumption
 An Active storage
+An Estate
+An Estate property
+A Fixed property
+A Realty
+A Property
+A Tenement
+An Immovable estate
+A Real estate
+A Fixed assets
+A Real assets
 A Speculation
 A Speculator
 A PR manager
@@ -87941,6 +89499,7 @@ A Newswoman
 A Pressman
 A Presswoman
 A Media project
+A Museum
 A Rock star
 A Film star
 A Movie star
@@ -88053,6 +89612,8 @@ A Thought propaganda
 A Propagandist
 A Talking head
 An Opinion leader
+An Information dump
+An Info dump
 A Declaration
 An Intent declaration
 An Intent's declaration
@@ -88099,6 +89660,9 @@ A Lavatory
 A Water closet
 A Barrack
 A Bunk house
+A Carpet
+A Calling on carpet
+A Calling on the carpet
 A Homeless man
 A Homeless woman
 A Homeless person
@@ -89212,21 +90776,19 @@ An Astral realm
 An Astral world
 An Astral world of existence
 An Astral experience
-An Astral experiences
 An Astral projection
-An Astral projections
 An Astral travel
-An Astral travels
 A Being
 An Astral being
 An Astral double
-An Astral doubles
+An Astral god
+An Astral goddess
 An Out-of-Body Experience
-An Energo field
-An Energo fields
-A Bio field
-A Bio fields
 An Aura
+An Energo field
+A Bio field
+A Biologic field
+A Biological field
 A Morphogenetic field
 A Dragon
 An Artefact
@@ -89453,6 +91015,20 @@ A Witch
 A Witchcraft
 A Coven
 A Black sabbath
+A Witch hunt
+A Witch's hunt
+A Witches hunt
+A Hunt of witch
+A Hunt of the witch
+A Hunt of witches
+A Hunt of the witches
+A Witch hunting
+A Witch's hunting
+A Witches hunting
+A Hunting of witch
+A Hunting of the witch
+A Hunting of witches
+A Hunting of the witches
 A Griffin
 A Griffon
 A Gryphon
@@ -89597,7 +91173,6 @@ A Spread
 A Cookie
 A Pastry
 A Biscuit
-A Cake
 A Tart
 A Pie
 A Vegetarian
@@ -89612,7 +91187,16 @@ A Famine
 A Holodomor
 A Great famine
 A Fasting
+A Lent
+A Great Lent
+A Great Fast
+A Lenten fast
+A Lenten period 
 A Food shortage
+A Lenten food
+A Lenten meal
+A Lean food
+A Lean meal
 An Artificial hunger
 An Artificial famine
 A Mass hunger
@@ -89653,6 +91237,7 @@ A Honey
 A Chunk honey
 A Comb honey
 A Comb
+A Cake
 A Cake cherry
 A Cake's cherry
 A Cherry on cake
@@ -90222,6 +91807,14 @@ A Matrix's agent
 An Agent of Matrix
 An Agent of the Matrix
 A Computer Matrix
+A Matrix name
+A Matrix's name
+A Name of Matrix
+A Name of the Matrix
+A Matrix of illusion name
+A Matrix of illusion's name
+A Name of Matrix of illusion
+A Name of the Matrix of illusion
 An Ukraine illuminat
 An Ukraine's illuminat
 An Ukrainian illuminat
@@ -91236,6 +92829,10 @@ A Twitter clone
 A Twitter's clone
 A Clone of Twitter
 A Clone of the Twitter
+A Tesla Optimus
+A Tesla Bot
+An Optis
+A Tesla Optis
 A Wildberries online retailer
 A Wildberries online marketplace
 A Wildberries marketplace
@@ -91464,6 +93061,9 @@ A Tsar of Russia
 A Tsar of the Russia
 A Russian csar
 A Russian tsar
+A Tsarina
+A Tzarina
+A Czarina
 A Gulag
 A Bolshevik
 A Bolshevik Party
@@ -91962,6 +93562,9 @@ A Sanhedrim
 A Knesset
 A Senate
 A Senator
+A Congress
+A Congressman
+A Congresswoman
 A Chancellor
 A Political whore
 A Political prostitute
@@ -91997,10 +93600,10 @@ A Pyramid of power top
 A Pyramid of power's top
 A Top of pyramid of power
 A Top of the pyramid of power
-A World domination.
-A World's domination.
-A Domination. on World
-A Domination. on the World
+A World domination
+A World's domination
+A Domination on World
+A Domination on the World
 A Power over World
 A Power over the World
 A World Government puppet
@@ -92018,6 +93621,8 @@ A Puller of strings
 A Puller of the strings
 An Oligarch
 An Oligarchy
+A Tycoon
+A Magnate
 A Technocracy
 A Tetrarchy
 A Tetrarchate
@@ -92198,6 +93803,7 @@ A Diplomat
 A Diplomatist
 A Diplomatic official
 A Diplomatic failure
+A Diplomatic note
 A Populism
 An Opposition
 A Controlled opposition
@@ -92354,6 +93960,7 @@ A Psychic
 A Psychotronic weapon
 A Psychical experiment
 A Psychical problem
+A Psychical illness
 A Shock
 A Shocking
 A Catharsis
@@ -92863,6 +94470,26 @@ A DNA error
 A DNA's error
 An Error of DNA
 An Error of the DNA
+A Prothetic
+A Prosthetic device
+A Prosthetic appliance
+A Prosthesis
+An Artificial limb
+A Crutch
+A Crutches pair
+A Pair of crutches
+A Pair of the crutches
+A Cane
+A Walking stick
+A Cripple
+An Invalid
+A Disabled man
+A Disabled woman
+A Disabled person
+A Disabled human
+A Disabled fellow
+A Disabled girl
+A Disabled boy
 A Salmon
 A Fish
 A Fishing
@@ -92910,6 +94537,9 @@ A Bird
 A Flocking
 An Eagle
 A Lamb
+An Yeanling
+An Eanling
+A Hogling
 A Holy Lamb
 A God lamb
 A God's lamb
@@ -92956,6 +94586,12 @@ A Milk cow
 A Milch cow
 A Beef
 A Sacred cow
+A Bull
+A Bullock
+A Bull calf
+An Ox
+A Neat
+A Steer
 A Milking
 A Milker
 A Dairymaid
@@ -92982,6 +94618,7 @@ A Turtle
 A Terrapin
 An Octopus
 A Goat
+A Goatling
 A He-goat
 A Billy-goat
 A Scapegoat
@@ -93075,6 +94712,17 @@ A Hair of the camels
 A Dinosaur
 A Hamster
 An Internet hamster
+A Marmot
+A Marmot Day
+A Marmot's Day
+A Day of Marmot
+A Day of the Marmot
+A Woodchuck
+A Groundhog
+A Groundhog Day
+A Groundhog's Day
+A Day of Groundhog
+A Day of the Groundhog
 An Animal
 A Wild animal
 A Wilding
@@ -93483,8 +95131,28 @@ A Testosterone
 An Oestrogen
 An Estrogen
 A Phytoestrogen
+A Steroid
+A Steroid hormone
+A Steroid use
+A Steroid's use
+An Use of steroid
+An Use of the steroid
+An Use of steroids
+An Use of the steroids
+A Steroid using
+A Steroid abuse
+A Steroid's abuse
+An Abuse of steroid
+An Abuse of the steroid
+An Abuse of steroids
+An Abuse of the steroids
+A Steroid abusing
 A Pest
+An Energy parasite
 An Energetic parasite
+An Energy parasitism
+A Social parasite
+A Social parasitism
 A Gender
 A Feminine gender 
 A Masculine gender 
@@ -93621,15 +95289,6 @@ An Army of zombie
 An Army of the zombie
 An Army of zombies
 An Army of the zombies
-A Cripple
-An Invalid
-A Disabled man
-A Disabled woman
-A Disabled person
-A Disabled human
-A Disabled fellow
-A Disabled girl
-A Disabled boy
 A Treatment
 A Treatment process
 A Healing process
@@ -93792,6 +95451,17 @@ A Renal impairment
 An Incubator
 A Bioincubator
 A Bioreactor
+A Dispensary
+A Clinical examination
+A Medical examination
+A Profilactic medical examination
+A Mass health examination
+A Population medical examination
+A Population's medical examination
+A Medical examination of population
+A Medical examination of the population
+A Medical examination of populations
+A Medical examination of the populations
 A Cancer
 An Oncology
 An Oncogen
@@ -94120,6 +95790,7 @@ An Uprising of the Euromaidan
 A Revolution
 A Rebellion
 A Coup
+An Сoup d'etat
 A Revolt
 A Wagner revolt
 A Wagner coup
@@ -94138,6 +95809,7 @@ A Nuclear-powered ice-breaker
 A Boat
 A Vessel
 A Ship
+A Sinking ship
 An Yacht
 A Sailboat
 A Maritime drone
@@ -94476,6 +96148,8 @@ A Blasting assembly
 A Blow-up
 A Blowing up
 A Bomb
+A Bombing
+A Carpet bombing
 A Humanitarian aid
 A Humanitarian assistance
 A Humanitarian help
@@ -94538,6 +96212,9 @@ An Agent ring
 An Army
 A Powerful army
 A Strong army
+A Regular army
+A Standing army
+A Nonregular army
 An Ukrainian army
 An Ukraine army
 An Ukraine's army
@@ -94603,6 +96280,7 @@ An Execution by sledgehammer
 An Execution by the sledgehammer
 An Execution by sledgehammers
 An Execution by the sledgehammers
+A Military security
 A Defeat
 A Military defeat
 A War machine
@@ -94670,6 +96348,18 @@ A Peace lacking
 A Peace's lacking
 A Lacking of peace
 A Lacking of the peace
+A Conflict adjustment
+A Conflict's adjustment
+An Adjustment of conflict
+An Adjustment of the conflict
+An Adjustment of conflicts
+An Adjustment of the conflicts
+A Confilct settlement
+A Confilct's settlement
+A Settlement of confilct
+A Settlement of the confilct
+A Settlement of confilcts
+A Settlement of the confilcts
 An Invasion
 An American invasion
 A Polish invasion
@@ -94832,6 +96522,7 @@ A Death's merchant
 A Merchant of death
 A Merchant of the death
 A Squadron
+An Assault detachment
 A Liberation
 A Militarism
 A Militarist
@@ -95204,11 +96895,25 @@ A Schoolboy
 A Schoolgirl
 A Schoolchild
 A Classmate
+A College
 An University
+An Institute
+A Higher education institute
+A Higher education's institute
+An Institute of higher education
+An Institute of the higher education
+An Institute of higher educations
+An Institute of the higher educations
 A Professor
 An Education
 A Quality education
+A Primary education
+An Elementary education
+A Middle education
+A Higher education
 An Educator
+A Lecture
+A Tutor
 A Logic
 A Library
 A Cloud library
@@ -95397,16 +97102,6 @@ An Attack on Republic of Latvia
 An Attack on Republic of Italy
 An Attack on Republic of Estonia
 An Attack on World
-An Attack on World region
-An Attack on a World region
-An Attack on World's region
-An Attack on a World's region
-An Attack on World's regions
-An Attack on &Region of World
-An Attack on a &Region of World
-An Attack on Region of the World
-An Attack on a Region of the World
-An Attack on Regions of the World
 An Attack on 10 World regions
 An Attack on Ten World regions
 An Attack on Capital
@@ -95427,7 +97122,6 @@ An Attack on a New Atlantis
 An Attack on Hyperborea
 An Attack on Tartaria
 An Attack on Eurasia
-An Attack on Japanese people
 An Attack on Tokyo
 An Attack on Tokyo, Japan
 An Attack on Asia
@@ -95576,12 +97270,13 @@ An Attack on Kalinin Oblast
 An Attack on Siberia
 An Attack on Novosibirsk
 An Attack on Novosibirsk, Russia
+An Attack on Kremlin
+An Attack on Moscow Kremlin
 An Attack on Kaliningrad
 An Attack on Kaliningrad, Russia
 An Attack on Kaliningrad oblast
 An Attack on Kaliningrad region
 An Attack on Region 39
-An Attack on Kremlin
 An Attack on Russian world
 An Attack on Khazaria
 An Attack on New Khazaria
@@ -95731,7 +97426,6 @@ An Attack on Paris
 An Attack on Paris, France
 An Attack on Warsaw
 An Attack on Warsaw, Poland
-An Attack on Swiss people
 An Attack on Rome
 An Attack on Rome, Italy
 An Attack on New Mexiko
@@ -96136,36 +97830,6 @@ An Opponent of Republic of Estonia
 An Enemy of World
 A Bitter enemy of World
 An Opponent of World
-An Enemy of World region
-A Bitter enemy of World region
-An Opponent of World region
-An Enemy of a World region
-A Bitter enemy of a World region
-An Opponent of a World region
-An Enemy of World's region
-A Bitter enemy of World's region
-An Opponent of World's region
-An Enemy of a World's region
-A Bitter enemy of a World's region
-An Opponent of a World's region
-An Enemy of World's regions
-A Bitter enemy of World's regions
-An Opponent of World's regions
-An Enemy of &Region of World
-A Bitter enemy of &Region of World
-An Opponent of &Region of World
-An Enemy of a &Region of World
-A Bitter enemy of a &Region of World
-An Opponent of a &Region of World
-An Enemy of Region of the World
-A Bitter enemy of Region of the World
-An Opponent of Region of the World
-An Enemy of a Region of the World
-A Bitter enemy of a Region of the World
-An Opponent of a Region of the World
-An Enemy of Regions of the World
-A Bitter enemy of Regions of the World
-An Opponent of Regions of the World
 An Enemy of 10 World regions
 A Bitter enemy of 10 World regions
 An Opponent of 10 World regions
@@ -96226,9 +97890,6 @@ An Opponent of Tartaria
 An Enemy of Eurasia
 A Bitter enemy of Eurasia
 An Opponent of Eurasia
-An Enemy of Japanese people
-A Bitter enemy of Japanese people
-An Opponent of Japanese people
 An Enemy of Tokyo
 A Bitter enemy of Tokyo
 An Opponent of Tokyo
@@ -96673,6 +98334,12 @@ An Opponent of Novosibirsk
 An Enemy of Novosibirsk, Russia
 A Bitter enemy of Novosibirsk, Russia
 An Opponent of Novosibirsk, Russia
+An Enemy of Kremlin
+A Bitter enemy of Kremlin
+An Opponent of Kremlin
+An Enemy of Moscow Kremlin
+A Bitter enemy of Moscow Kremlin
+An Opponent of Moscow Kremlin
 An Enemy of Kaliningrad
 A Bitter enemy of Kaliningrad
 An Opponent of Kaliningrad
@@ -96688,9 +98355,6 @@ An Opponent of Kaliningrad region
 An Enemy of Region 39
 A Bitter enemy of Region 39
 An Opponent of Region 39
-An Enemy of Kremlin
-A Bitter enemy of Kremlin
-An Opponent of Kremlin
 An Enemy of Russian world
 A Bitter enemy of Russian world
 An Opponent of Russian world
@@ -97138,9 +98802,6 @@ An Opponent of Warsaw
 An Enemy of Warsaw, Poland
 A Bitter enemy of Warsaw, Poland
 An Opponent of Warsaw, Poland
-An Enemy of Swiss people
-A Bitter enemy of Swiss people
-An Opponent of Swiss people
 An Enemy of Rome
 A Bitter enemy of Rome
 An Opponent of Rome
@@ -97321,16 +98982,6 @@ A War in Republic of Latvia
 A War in Republic of Italy
 A War in Republic of Estonia
 A War in World
-A War in World region
-A War in a World region
-A War in World's region
-A War in a World's region
-A War in World's regions
-A War in &Region of World
-A War in a &Region of World
-A War in Region of the World
-A War in a Region of the World
-A War in Regions of the World
 A War in 10 World regions
 A War in Ten World regions
 A War in Capital
@@ -97351,7 +99002,6 @@ A War in a New Atlantis
 A War in Hyperborea
 A War in Tartaria
 A War in Eurasia
-A War in Japanese people
 A War in Tokyo
 A War in Tokyo, Japan
 A War in Asia
@@ -97500,12 +99150,13 @@ A War in Kalinin Oblast
 A War in Siberia
 A War in Novosibirsk
 A War in Novosibirsk, Russia
+A War in Kremlin
+A War in Moscow Kremlin
 A War in Kaliningrad
 A War in Kaliningrad, Russia
 A War in Kaliningrad oblast
 A War in Kaliningrad region
 A War in Region 39
-A War in Kremlin
 A War in Russian world
 A War in Khazaria
 A War in New Khazaria
@@ -97655,7 +99306,6 @@ A War in Paris
 A War in Paris, France
 A War in Warsaw
 A War in Warsaw, Poland
-A War in Swiss people
 A War in Rome
 A War in Rome, Italy
 A War in New Mexiko
@@ -97802,16 +99452,6 @@ An Invasion to Republic of Latvia
 An Invasion to Republic of Italy
 An Invasion to Republic of Estonia
 An Invasion to World
-An Invasion to World region
-An Invasion to a World region
-An Invasion to World's region
-An Invasion to a World's region
-An Invasion to World's regions
-An Invasion to &Region of World
-An Invasion to a &Region of World
-An Invasion to Region of the World
-An Invasion to a Region of the World
-An Invasion to Regions of the World
 An Invasion to 10 World regions
 An Invasion to Ten World regions
 An Invasion to Capital
@@ -97832,7 +99472,6 @@ An Invasion to a New Atlantis
 An Invasion to Hyperborea
 An Invasion to Tartaria
 An Invasion to Eurasia
-An Invasion to Japanese people
 An Invasion to Tokyo
 An Invasion to Tokyo, Japan
 An Invasion to Asia
@@ -97981,12 +99620,13 @@ An Invasion to Kalinin Oblast
 An Invasion to Siberia
 An Invasion to Novosibirsk
 An Invasion to Novosibirsk, Russia
+An Invasion to Kremlin
+An Invasion to Moscow Kremlin
 An Invasion to Kaliningrad
 An Invasion to Kaliningrad, Russia
 An Invasion to Kaliningrad oblast
 An Invasion to Kaliningrad region
 An Invasion to Region 39
-An Invasion to Kremlin
 An Invasion to Russian world
 An Invasion to Khazaria
 An Invasion to New Khazaria
@@ -98136,7 +99776,6 @@ An Invasion to Paris
 An Invasion to Paris, France
 An Invasion to Warsaw
 An Invasion to Warsaw, Poland
-An Invasion to Swiss people
 An Invasion to Rome
 An Invasion to Rome, Italy
 An Invasion to New Mexiko
@@ -98542,16 +100181,6 @@ A Supreme Leader of Republic of Latvia
 A Supreme Leader of Republic of Italy
 A Supreme Leader of Republic of Estonia
 A Supreme Leader of World
-A Supreme Leader of World region
-A Supreme Leader of a World region
-A Supreme Leader of World's region
-A Supreme Leader of a World's region
-A Supreme Leader of World's regions
-A Supreme Leader of &Region of World
-A Supreme Leader of a &Region of World
-A Supreme Leader of Region of the World
-A Supreme Leader of a Region of the World
-A Supreme Leader of Regions of the World
 A Supreme Leader of 10 World regions
 A Supreme Leader of Ten World regions
 A Supreme Leader of Capital
@@ -98572,7 +100201,6 @@ A Supreme Leader of a New Atlantis
 A Supreme Leader of Hyperborea
 A Supreme Leader of Tartaria
 A Supreme Leader of Eurasia
-A Supreme Leader of Japanese people
 A Supreme Leader of Tokyo
 A Supreme Leader of Tokyo, Japan
 A Supreme Leader of Asia
@@ -98721,12 +100349,13 @@ A Supreme Leader of Kalinin Oblast
 A Supreme Leader of Siberia
 A Supreme Leader of Novosibirsk
 A Supreme Leader of Novosibirsk, Russia
+A Supreme Leader of Kremlin
+A Supreme Leader of Moscow Kremlin
 A Supreme Leader of Kaliningrad
 A Supreme Leader of Kaliningrad, Russia
 A Supreme Leader of Kaliningrad oblast
 A Supreme Leader of Kaliningrad region
 A Supreme Leader of Region 39
-A Supreme Leader of Kremlin
 A Supreme Leader of Russian world
 A Supreme Leader of Khazaria
 A Supreme Leader of New Khazaria
@@ -98876,7 +100505,6 @@ A Supreme Leader of Paris
 A Supreme Leader of Paris, France
 A Supreme Leader of Warsaw
 A Supreme Leader of Warsaw, Poland
-A Supreme Leader of Swiss people
 A Supreme Leader of Rome
 A Supreme Leader of Rome, Italy
 A Supreme Leader of New Mexiko
@@ -99081,6 +100709,10 @@ An Infertility
 An Infecundity
 An Acyesis
 A Male sterility
+An Impotence
+An Impotency
+An Impotent
+An Impotent man
 A Sex revolution
 A Sexual revolution
 A Porno
@@ -99184,6 +100816,8 @@ A Bill draft
 A Legislative draft
 A Draft law
 A Martial law
+A Maritime law
+An Admiralty law
 An International law
 An International law supremacy
 An International law's supremacy
@@ -99221,6 +100855,13 @@ An Abduction
 An Abductor
 A Hijacking
 A Hijacker
+A Corruption
+A Corrupt practice
+A Corrupter
+A Corruptor
+A Corruptionist
+A Corrupt official
+A Corruption scandal
 A Maniac
 A Sexual maniac
 A Suicide
@@ -99487,12 +101128,6 @@ A Mafia
 A Mob
 An Organized crime
 An Organised crime group
-A Corruption
-A Corrupt practice
-A Corrupter
-A Corruptor
-A Corruptionist
-A Corrupt official
 A Felony
 A Crime
 A Russia Criminal Code
@@ -100272,6 +101907,7 @@ A Reversal of the geographic pole
 A Reversal of geographic poles
 A Reversal of the geographic poles
 A Spaceman
+A Spacewoman
 A Cosmonaut
 An Astronaut
 A Taikonaut
@@ -100446,6 +102082,7 @@ A Phoenician vav char
 A Phoenician vav symbol
 A Phoenician vav pictogram
 A Slavic god
+A Slavic goddess
 A Svarog day
 A Svarog's day
 A Day of Svarog
@@ -100471,20 +102108,13 @@ A Slavic people
 A Gods battle
 A Battle of Gods
 A Battle of the Gods
-A Sumer temple
-A Sumerian
-A Sumer god
-An Ishtar Star
-An Ishtar's Star
-A Star of Ishtar
-A Star of the Ishtar
-An Octagram
-A Sea Goddess
-A Sea's Goddess
-A Goddess of Sea
-A Goddess of the Sea
-A Whole heaven
-A Whole Earth
+An Imbolc
+An Imbolg
+A Saint Brigid Day
+A Saint Brigid's Day
+A Day of Saint Brigid
+A Day of the Saint Brigid
+A Druid
 A Horus father
 A Father of Horus
 A Father of the Horus
@@ -100562,6 +102192,16 @@ A God of Ancient Egypt
 A God of the Ancient Egypt
 An Egyptian God
 An Ancient egyptian God
+An Egypt Goddess
+An Egypt's Goddess
+A Goddess of Egypt
+A Goddess of the Egypt
+An Ancient Egypt Goddess
+An Ancient Egypt's Goddess
+A Goddess of Ancient Egypt
+A Goddess of the Ancient Egypt
+An Egyptian Goddess
+An Ancient egyptian Goddess
 A Neter
 An Egypt Neter
 An Egypt's Neter
@@ -100711,6 +102351,39 @@ A Cross
 A Cross sign
 A Sign of Cross
 A Sign of the Cross
+An Ishtar Star
+An Ishtar's Star
+A Star of Ishtar
+A Star of the Ishtar
+An Ishtar Goddess Star
+A Star of Ishtar Goddess
+A Star of the Ishtar Goddess
+An Octagram
+An Ishtar Day
+An Ishtar's Day
+A Day of Ishtar
+A Day of the Ishtar
+An Ishtar Goddess Day
+A Day of Ishtar Goddess
+A Day of the Ishtar Goddess
+A Sumer god
+A Sumer's god
+A God of Sumer
+A God of the Sumer
+A Sumerian god
+A Sumer goddess
+A Sumer's goddess
+A Goddess of Sumer
+A Goddess of the Sumer
+A Sumerian goddess
+A Sea Goddess
+A Sea's Goddess
+A Goddess of Sea
+A Goddess of the Sea
+A Sumer temple
+A Sumerian
+A Whole heaven
+A Whole Earth
 A Sodom and Gomorrah
 A Lake of fire and brimstone
 A Lake of fire
@@ -103398,6 +105071,10 @@ A Babylon King
 A Babylon's King
 A King of Babylon
 A King of the Babylon
+A Babylon Queen
+A Babylon's Queen
+A Queen of Babylon
+A Queen of the Babylon
 A Seal opening
 A Seal's opening
 An Opening of seal
@@ -104206,6 +105883,10 @@ A Descent of God's grace
 A Descent of the God's grace
 A Descent of God's graces
 A Descent of the God's graces
+A Candlemas
+A Feast of the Presentation of Jesus Christ
+A Feast of the Purification of the Blessed Virgin Mary
+A Feast of the Holy Encounter
 An Annunciation
 A Feast of the Annunciation
 A Solemnity of the Annunciation
@@ -104230,6 +105911,8 @@ A Forced islamization
 A Forced islamisation
 A Coercive islamization
 A Coercive islamisation
+An Islamophobia
+An Islamophobe
 An Afreet
 An Afrit
 An Ifrit
@@ -105144,10 +106827,14 @@ A Menorah
 A Temple menorah
 A Seven-branch menorah
 A Seven-branched menorah
+A Seven-branched candelabrum
+A Seven-branched candlestick
 A Hanukkah menorah
 A Hanukkiah
 An Eight-branch menorah
 An Eight-branched menorah
+An Eight-branched candelabrum
+An Eight-branched candlestick
 A Jewry puppet
 A Jewry's puppet
 A Puppet of jewry
@@ -105432,6 +107119,8 @@ A Semitic girl
 A Semitic boy
 An Antisemitism
 An Antisemite
+An Antizionism
+An Antizionist
 A Philosemitism
 A Philosemit
 A Philosemite
@@ -106031,6 +107720,22 @@ A Time personification
 A Time's personification
 A Personification of time
 A Personification of the time
+A Greece god
+A Greece's god
+A God of Greece
+A God of the Greece
+A Greek god
+A Greece goddess
+A Greece's goddess
+A Goddess of Greece
+A Goddess of the Greece
+A Greek goddess
+A God house
+A God's house
+A House of God
+A House of the God
+A House of Gods
+A House of the Gods
 A Hades dog
 A Dog of Hades
 A Dog of the Hades
@@ -106072,12 +107777,6 @@ A Plenty's horn
 A Horn of plenty
 A Horn of the plenty
 A Satyr
-A God house
-A God's house
-A House of God
-A House of the God
-A House of Gods
-A House of the Gods
 A Pandora box
 A Pandora's box
 A Box of Pandora
@@ -106147,10 +107846,10 @@ A Thor Hammer
 A Thor's Hammer
 A Hammer of Thor
 A Hammer of the Thor
+An Allfather
 A World of Mist
 A Home of Mist
 A World tree
-An Allfather
 An Aesir
 An Aesir race
 An Aesir builder
@@ -106351,6 +108050,41 @@ An Energy harvest structure
 An Energy yield structure
 A Gavvah collection system
 An Energy collection system
+An Energy pain
+An Energy's pain
+An Energies pain
+A Pain of energy
+A Pain of the energy
+A Pain of energies
+A Pain of the energies
+An Energy suffering
+An Energy's suffering
+An Energies suffering
+A Suffering of energy
+A Suffering of the energy
+A Suffering of energies
+A Suffering of the energies
+An Energy death
+An Energy's death
+An Energies death
+A Death of energy
+A Death of the energy
+A Death of energies
+A Death of the energies
+An Energy anger
+An Energy's anger
+An Energies anger
+An Anger of energy
+An Anger of the energy
+An Anger of energies
+An Anger of the energies
+An Energy revenge
+An Energy's revenge
+An Energies revenge
+A Revenge of energy
+A Revenge of the energy
+A Revenge of energies
+A Revenge of the energies
 A God word
 A God's word
 A Word of God
@@ -106413,7 +108147,6 @@ A High priestess
 An Ecclesiastic
 A Churchman
 A Religious figure
-A Druid
 A Sacrifice
 A Sacrificed
 A Sacrifice to devil
@@ -106698,6 +108431,7 @@ A Covenant token
 A Covenant's token
 A Token of Covenant
 A Token of the Covenant
+A Black spot
 A Physical body
 An Etheric body
 An Ether body
@@ -106751,6 +108485,10 @@ A Pantheon
 A Gods Pantheon
 A Pantheon of Gods
 A Pantheon of the Gods
+An Ancient God
+An Ancient Goddess
+A Heathen God
+A Heathen Goddess
 A Human heart
 A Good heart
 A Heart whisper
@@ -106768,7 +108506,6 @@ A Call of the hearts
 A Pure heart
 A Religion
 An Ancient Mystery Religion
-An Ancient god
 A Providence
 A Divine providence
 A Monk
@@ -107026,6 +108763,7 @@ A Dead end
 A Crossroad
 A Crossing
 A Road junction
+An One-way road
 An Aim
 A Long-term aim
 A Long-term aim progress
@@ -108058,6 +109796,30 @@ An Illusions
 С. Марин
 С. М. Марин
 Марин
+Медведев Дмитрий Анатольевич
+Медведев Дмитрий
+Дмитрий Анатольевич
+Анатольевич
+Дмитрий
+Медведев
+Медведев Д. А.
+Медведев Д.
+Мендель Давид Ааронович
+Мендель Давид
+Мендель
+Давид
+Давид Ааронович
+Ааронович
+Мендель Д. А.
+Мендель Д.
+Владимир Владимирович Путин
+Владимир Владимирович
+Владимир Путин
+Путин
+Путин В.
+Путин В. В.
+Владимир
+ВВП
 Александр Григорьевич Лукашенко
 Александр Григорьевич
 Александр
@@ -108079,14 +109841,6 @@ An Illusions
 Александр Александрович
 Усик А. А.
 Усик А.
-Владимир Владимирович Путин
-Владимир Владимирович
-Владимир Путин
-Путин
-Путин В.
-Путин В. В.
-Владимир
-ВВП
 Вадим Николаевич Красносельский
 Вадим Николаевич
 Вадим Красносельский
@@ -108433,6 +110187,13 @@ An Illusions
 Антирусский
 Сибирь
 Новосибирск
+Кремль
+Кремлёвский
+Московский Кремль
+Кремлёвский клан
+Кремлёвские кланы
+Башня Кремля
+Башни Кремля
 Калининград
 Калининград, Россия
 Калининградский
@@ -108451,8 +110212,6 @@ An Illusions
 Россиянка
 Россиянки
 Российский
-Кремль
-Кремлёвский
 Русский мир
 Хазария
 Новая Хазария
@@ -108604,8 +110363,9 @@ An Illusions
 Рим, Италия
 Европейский
 Европеец
-Европейка
 Европейцы
+Европейка
+Европейки
 Европа
 Европейский Союз
 Евросоюз
@@ -109174,6 +110934,10 @@ An Illusions
 Главы наркомафии
 Хозяин наркобизнеса
 Хозяева наркобизнеса
+Ломка
+Ломки
+Наркотическая ломка
+Наркотические ломки
 Наркотик
 Наркотики
 Наркотический
@@ -109755,6 +111519,10 @@ An Illusions
 Выборка
 Цифровые данные
 Аналоговые данные
+Клавиша
+Клавиши
+Клавиатура
+Клавиатуры
 Ключ
 Ключи
 Код
@@ -109803,6 +111571,8 @@ An Illusions
 Облачные вычисления
 Облачная память
 Облачная суперпамять
+Облачный сервис
+Облачные сервисы
 Кибератака
 Кибератаки
 Крупная кибератака
@@ -110325,6 +112095,8 @@ An Illusions
 Биороботы
 Биологический робот
 Биологические роботы
+Биобот
+Биоботы
 Клонированный биоробот
 Клонированные биороботы
 Клонированный биологический робот
@@ -110349,6 +112121,8 @@ An Illusions
 Роботы-гуманоиды
 Гуманоидный робот
 Гуманоидные роботы
+Роботизированный гуманоид
+Роботизированные гуманоиды
 Андроид
 Андроиды
 Андроидный
@@ -110674,6 +112448,8 @@ An Illusions
 Био импланты
 Биологический имплант
 Биологические импланты
+Мозговой имплант
+Мозговые импланты
 Обновление интеллекта
 Усовершенствование интеллекта
 Интерфейс мозг-компьютер
@@ -110973,7 +112749,6 @@ An Illusions
 Гильгамеш
 Давид Бен-Гурион
 Д. Бен-Гурион
-Давид
 Бен-Гурион
 Мухаммед ибн Салман
 Мухаммед ибн Салман Аль Сауд
@@ -111029,7 +112804,6 @@ An Illusions
 Шарий Анатолий
 Шарий
 Анатолий
-Анатольевич
 Анатолий Анатольевич
 Шарий А. А.
 Шарий А.
@@ -111076,7 +112850,6 @@ An Illusions
 Уткин Дмитрий Валерьевич
 Уткин Дмитрий
 Уткин
-Дмитрий
 Дмитрий Валерьевич
 Уткин Д. В.
 Уткин Д.
@@ -111251,19 +113024,6 @@ An Illusions
 Алексей Анатольевич
 Навальный А. А.
 Навальный А.
-Медведев Дмитрий Анатольевич
-Медведев Дмитрий
-Дмитрий Анатольевич
-Медведев
-Медведев Д. А.
-Медведев Д.
-Мендель Давид Ааронович
-Мендель Давид
-Мендель
-Давид Ааронович
-Ааронович
-Мендель Д. А.
-Мендель Д.
 Леонид Иванович Пасечник
 Леонид Иванович
 Иванович
@@ -111727,6 +113487,8 @@ An Illusions
 Друзья
 Дружеский
 Дружить
+Дружок
+Дружки
 Хороший друг
 Хорошая подруга
 Хорошие друзья
@@ -111737,12 +113499,16 @@ An Illusions
 Семья
 Семьи
 Семейный
+Семьянин
+Семьянине
 Молодой
 Молодая семья
 Молодые семьи
 Многодетный
 Многодетная семья
 Многодетные семьи
+Ячейка общества
+Ячейки общества
 Брат
 Братья
 Братский
@@ -111792,6 +113558,8 @@ An Illusions
 Родичи
 Семейная ценность
 Семейные ценности
+Традиционная ценность
+Традиционные ценности
 Адамит
 Адамиты
 Поколения Адама
@@ -111903,6 +113671,7 @@ An Illusions
 Несамостоятельный человек
 Несамостоятельные люди
 Демография
+Демографический
 Избыток мужчин
 Избыток женщин
 Рождаемость
@@ -111913,6 +113682,14 @@ An Illusions
 Вымирание
 Вымирание вида
 Уменьшение населения
+Демографическая яма
+Демографические ямы
+Демографический кризис
+Демографические кризисы
+Материнский капитал
+Материнские капиталы
+Семейный капитал
+Семейный капиталы
 Денисовец
 Денисовцы
 Денисовский
@@ -112333,6 +114110,13 @@ An Illusions
 Ансар Алла
 Круговая порука
 Круговые поруки
+Корпорация
+Корпорации
+Корпоративный
+Государственная корпорация
+Государственные корпорации
+Госкорпорация
+Госкорпорации
 Хезболла
 Хезболлах
 Хизбалла
@@ -112376,9 +114160,6 @@ An Illusions
 Главное управление внешней безопасности
 Большая семёрка
 Группа семи
-Корпорация
-Корпорации
-Корпоративный
 Аукус
 Австралия, Соединённое королевство, Соединённые штаты
 МАГАТЭ
@@ -112394,6 +114175,12 @@ An Illusions
 Долларовый
 Доллар США
 Доллары США
+Доллар Соединённых Штатов
+Доллары Соединённых Штатов
+Доллар Соединённых Штатов Америки
+Доллары Соединённых Штатов Америки
+Американский доллар
+Американские доллары
 Цифровой доллар
 Цифровые доллары
 Криптодоллар
@@ -112464,14 +114251,17 @@ An Illusions
 Знак Банк Санкт-Петербург
 Символ Банк Санкт-Петербург
 БСПБ
-БСПБ Банк
-Банк Санкт-Петербург
 ПАО БСПБ
+Публичное Акционерное Общество БСПБ
+Публичная Акционерная Корпорация БСПБ
+БСПБ Банк
 ПАО БСПБ Банк
+Публичное Акционерное Общество БСПБ Банк
+Публичная Акционерная Корпорация БСПБ Банк
+Банк Санкт-Петербург
 ПАО Банк Санкт-Петербург
-Публичное акционерное общество БСПБ
-Публичное акционерное общество БСПБ Банк
-Публичное акционерное общество Банк Санкт-Петербург
+Публичное Акционерное Общество Банк Санкт-Петербург
+Публичная Акционерная Корпорация Банк Санкт-Петербург
 Центральный Банк Российской Федерации
 Центральный банк РФ
 Банк России
@@ -112605,6 +114395,14 @@ An Illusions
 Акционерное общество Россельхозбанк
 Российский сельскохозяйственный банк
 АО «Российский сельскохозяйственный банк»
+ББР
+АО ББР
+Акционерное Общество ББР
+Акционерная Корпорация ББР
+ББР Банк
+АО ББР Банк
+Акционерное Общество ББР Банк
+Акционерная Корпорация ББР Банк
 ГазЭнерго
 ГазэнергоБанк
 АО Газэнергобанк
@@ -112711,6 +114509,7 @@ An Illusions
 Аттракционы невиданной щедрости
 Взятка
 Взятки
+Взяточничество
 Подкуп
 Подкупы
 Подкупать
@@ -112718,6 +114517,8 @@ An Illusions
 Незаконные вознаграждения
 Взятка за молчание
 Взятки за молчание
+Взяточник
+Взяточники
 Репарация
 Репарации
 Военная репарация
@@ -112753,8 +114554,10 @@ An Illusions
 Разгон инфляции
 Гиперинфляция
 Гиперинфляционнй
+Рост цен
 Дефляция
 Дефляционный
+Снижение цен
 Фейс Пей
 Оплата по лицу
 СелфиТуПей
@@ -112783,10 +114586,17 @@ An Illusions
 Катастрофы
 Следующая катастрофа
 Планетарная катастрофа
+Планетарные катастрофы
 Глобальная катастрофа
+Глобальные катастрофы
 Всемирная катастрофа
+Всемирные катастрофы
 Глобальный катаклизм
+Глобальные катаклизмы
 Глобальная трагедия
+Глобальные трагедии
+Большая трагедия
+Большие трагедии
 Автомобильная катастрофа
 Автомобильные катастрофы
 Гуманитарная катастрофа
@@ -112843,6 +114653,9 @@ An Illusions
 Недостаток денег
 Избыток денег
 Излишки денег
+Мировая валюта
+Глобальная валюта
+Резервная валюта
 Работа
 Работы
 Работник
@@ -112873,6 +114686,8 @@ An Illusions
 Денег нет, но вы держитесь
 Фондовая биржа
 Фондовые биржи
+Фондовый рынок
+Фондовые рынки
 Визитная карта
 Визитные карты
 Визитная карточка
@@ -112890,6 +114705,8 @@ An Illusions
 Времена кризисов
 Кризисное время
 Кризисные времена
+Финансовая буря
+Финансовые бури
 Банк
 Банки
 Банковский
@@ -112947,6 +114764,14 @@ An Illusions
 Акцизы
 Акцизный
 Подлежащий обложению акцизом
+Отмывание
+Отмывания
+Отмывание денег
+Отмывания денег
+Легализация денег
+Легализации денег
+Грязные деньги
+Чистые деньги
 Бизнес
 Бизнесы
 Теневой бизнес
@@ -112964,6 +114789,10 @@ An Illusions
 Корпоративный клиенты
 Частный клиент
 Частные клиенты
+Экономическая безопасность
+Экономические безопасности
+Финансовая безопасность
+Финансовые безопасности
 Банковский счёт
 Банковские счёта
 Оффшорный счёт
@@ -113096,6 +114925,8 @@ An Illusions
 Кредитный
 Кредитор
 Кредиторы
+Невозвратный кредит
+Невозвратные кредиты
 Кредитное рабство
 Долговое рабство
 Кредитный пузырь
@@ -113120,6 +114951,20 @@ An Illusions
 Расходные материалы
 Расходник
 Расходники
+Недвижимость
+Недвижимый
+Недвижимое имущество
+Земельный участок
+Земельные участки
+Земельная собственность
+Имение
+Имения
+Имущество
+Имущественный
+Собственность
+Собственный
+Хозяйство
+Хозяйства
 Спекуляция
 Спекуляции
 Спекулятивный
@@ -113309,6 +115154,7 @@ An Illusions
 Видео игры
 Компьютерная игра
 Компьютерные игры
+Конец игре
 Игра закончена
 Игра окончена
 Выход из игры
@@ -113527,6 +115373,9 @@ An Illusions
 Журналисткий
 Медиа проект
 Медиа проекты
+Музей
+Музеи
+Музейный
 Оставь надежду, всяк сюда входящий
 Никто не в силах скрыться от себя
 Свободу получишь только в могиле
@@ -113604,6 +115453,8 @@ An Illusions
 Ложные слухи
 Газетная утка
 Газетные утки
+Ложная новость
+Ложные новости
 Цирк
 Цирки
 Цирковой
@@ -113753,6 +115604,10 @@ An Illusions
 Лидеры общественного мнения
 ЛОМ
 ЛОМы
+Информационная помойка
+Информационные помойки
+Инфопомойка
+Инфопомойки
 Декларация
 Декларации
 Декларация о намерениях
@@ -113814,6 +115669,10 @@ An Illusions
 Санитарные узлы
 Бараки
 Барачный
+Ковёр
+Ковры
+Ковровый
+Вызов на ковёр
 Бездомный
 Бездомная
 Бездомные
@@ -114739,12 +116598,21 @@ An Illusions
 Астральные сущности
 Астральный двойник
 Астральные двойники
+Астральный Бог
+Астральные Боги
+Астральная Богиня
+Астральные Богини
 Опыт выхода из тела
 Аура
+Ауры
 Энергополе
 Энергополя
+Энергетическое поле
+Энергетические поля
 Биополе
 Биополя
+Биологическое поле
+Биологические поля
 Морфогенетическое поле
 Морфогенетические поля
 Дракон
@@ -115077,6 +116945,9 @@ An Illusions
 Шабаши ведьм
 Чёрный шабаш
 Чёрные шабаши
+Охота на ведьму
+Охота на ведьм
+Охоты на ведьм
 Грифон
 Грифоны
 Фантастика
@@ -115304,6 +117175,7 @@ An Illusions
 Маргарины
 Спред
 Спреды
+Шиш с маслом
 Печенье
 Бисквит
 Пирожное
@@ -115311,8 +117183,6 @@ An Illusions
 Выпечка
 Кондитерское изделие
 Кондитерские изделия
-Торт
-Торты
 Пирог
 Пироги
 Пирожок
@@ -115343,6 +117213,10 @@ An Illusions
 Посты
 Постный
 Поститься
+Великий пост
+Постная
+Еда Постная
+Пища Постная
 Голодная игра
 Голодные игры
 Голодное время
@@ -115390,6 +117264,8 @@ An Illusions
 Соты
 Пчелиная сота
 Пчелиные соты
+Торт
+Торты
 Вишенка на торте
 Вишенки на торте
 Изюминка
@@ -115912,6 +117788,14 @@ An Illusions
 Агенты Матрицы
 Компьтерная Матрица
 Компьтерные Матрицы
+Имя Матрицы
+Имена Матрицы
+Матричное имя
+Матричные имена
+Название Матрицы
+Названия Матрицы
+Матричное название
+Матричные названия
 Украинский иллюминат
 Украинская иллюминатка
 Украинские иллюминаты
@@ -117658,7 +119542,17 @@ An Illusions
 Сенатский
 Сенатор
 Сенаторы
+Сенаторша
+Сенаторши
+Член сената
+Члены сената
 Сенаторский
+Конгресс
+Конгрессы
+Конгрессмен
+Конгрессмены
+Член конгресса
+Члены конгресса
 Канцлер
 Канцлеры
 Политическая проститутка
@@ -117703,6 +119597,8 @@ An Illusions
 Олигархия
 Олигархат
 Власть олигархов
+Магнат
+Магнаты
 Управляемый масонами
 Управляемый франкмасонами
 Управляемый фримасонами
@@ -118032,6 +119928,8 @@ An Illusions
 Межгосударственные отношения
 Дипломатический провал
 Дипломатические провалы
+Дипломатическая нота
+Дипломатические ноты
 Популизм
 Оппозиция
 Оппозиции
@@ -118218,6 +120116,8 @@ An Illusions
 Психические исследования
 Психическая проблема
 Психические проблемы
+Психическая болезнь
+Психические болезни
 Шок
 Шоки
 Шоковый
@@ -118404,6 +120304,7 @@ An Illusions
 Одинокая
 Одинокие
 Одиночка
+Одиночки
 Одиночество
 Одиночества
 Индивидуализм
@@ -118806,6 +120707,22 @@ An Illusions
 Генетические сбои
 Ошибка в ДНК
 Ошибки в ДНК
+Протез
+Протезы
+Протезный
+Протезирование
+Протезирования
+Протез конечности
+Протезы конечности
+Костыль
+Костыли
+Трость
+Трости
+Калека
+Калеки
+Инвалид
+Инвалиды
+Инвалидный
 Лосось
 Лососевый
 Рыба
@@ -118902,6 +120819,9 @@ An Illusions
 Пудели
 Овчарка
 Овчарки
+Пёс
+Псина
+Псины
 Дельфин
 Дельфины
 Мышь
@@ -118950,6 +120870,19 @@ An Illusions
 Говядина
 Священная корова
 Священные коровы
+Бык
+Быки
+Бычок
+Бычки
+Бычара
+Бычары
+Бычий
+Вол
+Волы
+Буйвол
+Буйволы
+Бизон
+Бизоны
 Дойка
 Доение
 Доения
@@ -119008,6 +120941,8 @@ An Illusions
 Коза
 Козлы
 Козлиный
+Козлёнок
+Козлята
 Козёл отпущения
 Козлы отпущения
 Мальчик для битья
@@ -119019,9 +120954,13 @@ An Illusions
 Рога козла
 Лого козла
 Логотип козла
-Знак козла
 Символ козла
+Знак козла
 Эмблема козла
+Логотипы козла
+Символы козла
+Знаки козла
+Эмблемы козла
 Дикобраз
 Дикобразы
 Верблюд
@@ -119038,6 +120977,10 @@ An Illusions
 Хомячковый
 Интернет хомячок
 Интернет хомячки
+Сурок
+Сурки
+День сурка
+Дни сурка
 Животное
 Животные
 Дикое животное
@@ -119282,6 +121225,8 @@ An Illusions
 Ладони
 Длань
 Длани
+Многорукий
+Однорукий
 Тимус
 Тимусы
 Вилочковая железа
@@ -119344,6 +121289,8 @@ An Illusions
 Метеоризмы
 Пук
 Пуки
+Пукание
+Пукания
 Пердёж
 Пердежи
 Клетка
@@ -119591,6 +121538,15 @@ An Illusions
 Эстрогены
 Фитоэстроген
 Фитоэстрогены
+Стероид
+Стероиды
+Стероидный
+Стероидный гормон
+Стероидные гормоны
+Употребление стероидов
+Употребления стероидов
+Злоупотребление стероидами
+Злоупотребления стероидами
 Паразит
 Паразиты
 Паразитический
@@ -119599,6 +121555,12 @@ An Illusions
 Вредительский
 Энергетический паразит
 Энергетические паразиты
+Энергетический паразитизм
+Социальный паразит
+Социальные паразиты
+Социальный паразитизм
+Паразит общества
+Паразиты общества
 Пол
 Половой
 Бесполый
@@ -119796,11 +121758,6 @@ An Illusions
 Зомби вирусы
 Армия зомби
 Армии зомби
-Калека
-Калеки
-Инвалид
-Инвалиды
-Инвалидный
 Лечение
 Лечения
 Лечить
@@ -119976,6 +121933,19 @@ An Illusions
 Биореактор
 Биореакторы
 Биореакторный
+Диспансер
+Диспансеры
+Диспансерный
+Абмулатория
+Абмулатории
+Диспансеризация
+Диспансеризации
+Всеобщая диспансеризация
+Всеобщие диспансеризации
+Медицинский осмотр
+Медицинские осмотры
+Медосмотр
+Медосмотры
 Рак
 Онкология
 Онкологический
@@ -120390,6 +122360,10 @@ An Illusions
 Мятежи
 Переворот
 Перевороты
+Государственный переворот
+Государственные перевороты
+Госпереворот
+Госперевороты
 Революция вагнеров
 Восстание вагнеров
 Военный переворот
@@ -120425,6 +122399,8 @@ An Illusions
 Корабль
 Корабли
 Корабельный
+Тонущий корабль
+Тонущие корабли
 Яхта
 Яхты
 Парусник
@@ -120810,6 +122786,10 @@ An Illusions
 Бомба
 Бомбы
 Бомбить
+Бомбардировка
+Бомбардировки
+Ковровая бомбардировка
+Ковровые бомбардировки
 Гуманитарный
 Гумпомощь
 Гуманитарная помощь
@@ -120906,6 +122886,10 @@ An Illusions
 Мощные армии
 Сильная армия
 Сильные армии
+Регулярная армия
+Регулярные армии
+Нерегулярная армия
+Нерегулярные армии
 Единая мировая армия
 Воинство
 Войско
@@ -120988,6 +122972,8 @@ An Illusions
 Молот Пригожина
 Казнь кувалдой
 Казнь молотом
+Военная безопасность
+Военные безопасности
 Поражение
 Поражения
 Военное поражение
@@ -121036,6 +123022,8 @@ An Illusions
 Пацифизм
 Отсутствие мира
 Отсутствия мира
+Урегулирование конфликта
+Урегулирования конфликта
 Вторжение
 Вторжения
 Вторгаться
@@ -121197,6 +123185,8 @@ An Illusions
 Торговцы смертью
 Отряд
 Отряды
+Штурмовой отряд
+Штурмовые отряды
 Освобождение
 Освобождения
 Милитаризм
@@ -121552,9 +123542,18 @@ An Illusions
 Одноклассник
 Одноклассница
 Одноклассницы
+Колледж
+Колледжи
 Университет
 Университеты
 Университетский
+ВУЗ
+ВУЗы
+Высшее учебное заведение
+Высшие учебные заведения
+Институт
+Институты
+Институтский
 Сокурсник
 Сокурсники
 Сокурсница
@@ -121567,11 +123566,38 @@ An Illusions
 Профессоры
 Профессорский
 Образование
+Образования
 Образовательный
 Качественное образование
+Качественные образования
+Начальное образование
+Начальные образования
+Среднее образование
+Средние образования
+Высшее образование
+Высшие образования
 Преподователь
 Преподователи
+Преподовательница
+Преподовательницы
+Преподовательство
 Преподовательский
+Лектор
+Лекторы
+Лекторша
+Лекторши
+Лекторский
+Инструктор
+Инструкторы
+Инструкторша
+Инструкторши
+Инструкторский
+Репетитор
+Репетиторы
+Репетиторша
+Репетиторши
+Репетиторский
+Репетиторство
 Логика
 Логический
 Логическая задача
@@ -121713,12 +123739,6 @@ An Illusions
 Президент + Усик
 Президент + Усик А. А.
 Президент + Усик А.
-Президент + Владимир Владимирович Путин
-Президент + Владимир Путин
-Президент + Путин
-Президент + Путин В.
-Президент + Путин В. В.
-Президент + ВВП
 Президент + Вадим Николаевич Красносельский
 Президент + Вадим Красносельский
 Президент + Красносельский
@@ -121739,6 +123759,22 @@ An Illusions
 Президент + Зеленский
 Президент + Зеленский В.
 Президент + Зеленский В. А.
+Президент + Медведев Дмитрий Анатольевич
+Президент + Медведев Дмитрий
+Президент + Медведев
+Президент + Медведев Д. А.
+Президент + Медведев Д.
+Президент + Мендель Давид Ааронович
+Президент + Мендель Давид
+Президент + Мендель
+Президент + Мендель Д. А.
+Президент + Мендель Д.
+Президент + Владимир Владимирович Путин
+Президент + Владимир Путин
+Президент + Путин
+Президент + Путин В.
+Президент + Путин В. В.
+Президент + ВВП
 Президент + Эмманюэль Жан-Мишель Фредерик Макрон
 Президент + Эмманюэль Макрон
 Президент + Макрон
@@ -122073,6 +124109,10 @@ An Illusions
 Ведёт к неплодовитости
 Неспособность к деторождению
 Неспособности к деторождению
+Импотенция
+Импотенции
+Импотент
+Импотенты
 Сексуальная революция
 Сексуальные революции
 Порно
@@ -122091,6 +124131,9 @@ An Illusions
 Некрофильный
 Некрофилия
 Некрофилизм
+Трупоёб
+Трупоёбы
+Трупоёбство
 Педофил
 Пефофилы
 Педофильный
@@ -122217,6 +124260,8 @@ An Illusions
 Военные права
 Военное положение
 Военные положения
+Морское право
+Адмиралтейское право
 Международное право
 Приоритет международного права
 Стрельба
@@ -122255,6 +124300,16 @@ An Illusions
 Похитители
 Похищение человека
 Похищения людей
+Коррупция
+Коррупции
+Коррумпированный
+Коррупционный
+Коррупционер
+Коррупционерка
+Коррупционеры
+Коррупционерский
+Коррупционный скандал
+Коррупционные скандалы
 Маньяк
 Маньяки
 Сексуальный маньяк
@@ -122615,13 +124670,6 @@ An Illusions
 Организованная преступная группировка
 Организованные преступные группировки
 ОПГ
-Коррупция
-Коррупции
-Коррумпированный
-Коррупционер
-Коррупционерка
-Коррупционеры
-Коррупционерский
 УК РФ
 Уголовный Кодекс Российской Федерации
 Подозреваемая
@@ -122642,7 +124690,7 @@ An Illusions
 Арестованный мужчина
 Арестованные мужчины
 Арестованная женщина
-Арестованная женщины
+Арестованные женщины
 Арестованные люди
 Задержанный
 Задержанные
@@ -123419,14 +125467,17 @@ An Illusions
 Инверсия географических полюсов
 Инверсии географических полюсов
 Космонавт
-Космонавтка
 Космонавты
+Космонавтка
+Космонавтки
 Астронавт
-Астронавтка
 Астронавты
+Астронавтка
+Астронавтки
 Тайконавт
-Тайконавтка
 Тайконавты
+Тайконавтка
+Тайконавтки
 Солнце
 Гелиос
 Светило
@@ -123586,12 +125637,23 @@ An Illusions
 Бог Решеф
 Рашпу
 Бог Рашпу
+Таммуз
+Бог Таммуз
+Фаммуз
+Бог Фаммуз
+Ваммуз
+Бог Ваммуз
+Думузи
+Бог Думузи
+Думузи-пастух
 Ярило
 Ярила
 Бог Ярило
 Бог Ярила
 Славянский бог
 Славянские боги
+Славянская богиня
+Славянские богини
 Сварог
 Бог Сварог
 День Сварога
@@ -123648,34 +125710,15 @@ An Illusions
 Дракон Зилант
 Зилан
 Дракон Зилан
-Шумерский храм
-Шумерские храмы
-Шумер
-Шумеры
-Шумерка
-Шумерский
-Бог Шумера
-Боги Шумера
-Баал
-Нинурта
-Ниниб
-Инанна
-Иштар
-Звезда Иштар
-Восьмилучевая звезда
-Октаграмма
-Крестострел
-Мардук
-Усумгал
-Тиамат
-Энлиль
-Эллиль
-Владыка-ветер
-Энлиль и Нинлиль
-Аншар
-Всё небо
-Кишар
-Вся Земля
+Имболк
+День Бригитты
+День Святой Бригитты
+Кернунн
+Цернунн
+Карнон
+Белтейн
+Друид
+Друиды
 Танит
 Таннита
 Тиннит
@@ -123762,6 +125805,14 @@ An Illusions
 Египетские Боги
 Древнеегипетский Бог
 Древнеегипетские Боги
+Богиня Египта
+Богини Египта
+Богиня Древнего Египта
+Богини Древнего Египта
+Египетская Богиня
+Египетские Богини
+Древнеегипетская Богиня
+Древнеегипетские Богини
 Нетер
 Нетеры
 Нетер Египта
@@ -123964,6 +126015,55 @@ An Illusions
 Знак креста
 Знаки креста
 Знаки крестов
+Инанна
+Богиня Инанна
+Иштар
+Богиня Иштар
+Эштар
+Богиня Эштар
+Аштар
+Богиня Аштар
+Звезда Иштар
+Звезда Богини Иштар
+Восьмилучевая звезда
+Октаграмма
+Крестострел
+День Иштар
+День богини Иштар
+Бог Шумера
+Боги Шумера
+Шумерский Бог
+Шумерские Боги
+Богиня Шумера
+Богини Шумера
+Шумерская Богиня
+Шумерские Богини
+Баал
+Нинурта
+Ниниб
+Мардук
+Усумгал
+Тиамат
+Энлиль
+Эллиль
+Владыка-ветер
+Нинлиль
+Энлиль + Нинлиль
+Энлиль и Нинлиль
+Шумерский храм
+Шумерские храмы
+Семирамида
+Царица Семирамида
+Шамирам
+Царица Шамирам
+Шумер
+Шумеры
+Шумерка
+Шумерский
+Аншар
+Всё небо
+Кишар
+Вся Земля
 Гора Арарат
 Адма
 Аккад
@@ -125631,10 +127731,14 @@ An Illusions
 Падение Вавилона
 Вавилонское падение
 Падение Нового Вавилона
-Король Вавилона
-Короли Вавилона
-Вавилонский король
-Вавилонские короли
+Царь Вавилона
+Цари Вавилона
+Вавилонский царь
+Вавилонские цари
+Царица Вавилона
+Царицы Вавилона
+Вавилонская царица
+Вавилонские царицы
 Семь печатей
 Семь печатей Бога
 Вскрытие семи печатей
@@ -126169,6 +128273,9 @@ An Illusions
 Благодать Бога
 Снисхождение божьей благодати
 Снисхождения божьей благодати
+Сретение
+Сретение Господне
+Принесение во Храм
 Благовещеньев день
 Благовещенье
 Страстная неделя
@@ -126187,6 +128294,11 @@ An Illusions
 Насильственные исламизации
 Деисламизация
 Деисламизации
+Исламофобия
+Исламофобии
+Исламофобный
+Исламофоб
+Исламофобы
 Ифрит
 Ифриты
 Минарет
@@ -126287,7 +128399,9 @@ An Illusions
 Кабалист
 Каббалист
 Кабалистка
+Кабалистки
 Каббалистка
+Каббалистки
 Кабалисты
 Каббалисты
 Знаток кабалы
@@ -126870,6 +128984,7 @@ An Illusions
 Сионизм
 Сионист
 Сионистка
+Сионистки
 Сионисты
 Сионисткий
 Сионисткая органазиция
@@ -126998,13 +129113,16 @@ An Illusions
 Меноры
 Семилучевая менора
 Семилучевые меноры
+Семисвечник
+Семисвечники
 Восьмилучевая менора
 Восьмилучевые меноры
+Восьмисвечник
+Восьмисвечники
 Нисан
 Ияр
 Сиван
 Тамуз
-Таммуз
 Ав
 Элул
 Тишрей
@@ -127091,6 +129209,8 @@ An Illusions
 Хазар
 Хазарин
 Хазары
+Хазарка
+Хазарки
 Хазарский
 Хазаро-еврейский
 Хазарский спрут
@@ -127174,21 +129294,33 @@ An Illusions
 Сионисткий агент
 Сионисткие агенты
 Семит
-Семитка
 Семиты
+Семитка
+Семитки
 Семитский
 Семитский народ
 Семитские кочевники
 Антисемит
 Антисемиты
+Антисемитка
+Антисемитки
 Антисемитский
 Антисемитизм
+Антисионист
+Антисионисты
+Антисионистка
+Антисионистки
+Антисионисткий
+Антисионизм
 Филосемит
 Филосемиты
+Филосемитка
+Филосемитки
 Филосемитский
 Филосемитизм
 Гой
 Гойка
+Гойки
 Гои
 Гоим
 Гойим
@@ -127201,13 +129333,20 @@ An Illusions
 Шиксы
 Иноверец
 Иноверка
+Иноверки
 Иноверцы
 Шабесгой
 Шабесгои
+Шабесгойка
+Шабесгойки
 Шаббат-гой
 Шаббат-гои
+Шаббат-гойка
+Шаббат-гойки
 Субботний гой
 Субботние гои
+Субботняя гойка
+Субботние гойки
 Кровь гоев
 Гойская кровь
 Жертвоприношение гоев
@@ -127257,10 +129396,12 @@ An Illusions
 Еврейская мудрость
 Еврей
 Еврейка
+Еврейки
 Евреи
 Еврейство
 Настроящий еврей
 Настроящая еврейка
+Настроящие еврейки
 Настроящие евреи
 Настроящее еврейство
 Чёрный еврей
@@ -127271,26 +129412,32 @@ An Illusions
 Еврейские банды
 Иудей
 Иудейка
+Иудейки
 Иудеи
 Иудейский
 Иврит
 Израильтянин
 Израильтянка
+Израильтянки
 Израильтяне
 Израильский
 Иудаизм
 Жид
 Жидовка
+Жидовки
 Жидовский
 Жиды
 Яхуд
 Яхуды
+Яхудка
+Яхудки
 Яхудский
 Сабр
 Сабра
 Галаха
 Галахический еврей
 Галахическая еврейка
+Галахические еврейки
 Галахическое еврейство
 Холокост
 Избранный народ
@@ -127304,14 +129451,17 @@ An Illusions
 Филактерии
 Этнический еврей
 Этническая еврейка
+Этнические еврейки
 Этнические евреи
 Этническое еврейство
 Религиозный еврей
 Религиозная еврейка
+Религиозные еврейки
 Религиозные евреи
 Религиозное еврейство
 Нерелигиозный еврей
 Нерелигиозная еврейка
+Нерелигиозные еврейки
 Нерелигиозные евреи
 Нерелигиозное еврейство
 Еврейское происхождение
@@ -127325,6 +129475,7 @@ An Illusions
 Лицо еврейской национальности
 Лица еврейской национальности
 Богоизбранный народ
+Избранный Богом народ
 Народ Израиля
 Дом Израиля
 Дом Израилев
@@ -127399,6 +129550,7 @@ An Illusions
 Сионистская организация Америки
 Сефард
 Сефардка
+Сефардки
 Сефардский
 Сефарды
 Сефарди
@@ -127410,6 +129562,7 @@ An Illusions
 Сефардские корни
 Сефардский еврей
 Сефардская еврейка
+Сефардские еврейки
 Сефардские евреи
 Сефардское еврейство
 Ладино
@@ -127422,6 +129575,7 @@ An Illusions
 Еврей-сефард
 Еврейка-сефард
 Еврейка-сефардка
+Еврейки-сефардки
 Евреи-сефарды
 Евреи-сефарди
 Евреи-сефардим
@@ -127446,6 +129600,7 @@ An Illusions
 Короли еврейские
 Ашкеназ
 Ашкеназка
+Ашкеназки
 Ашкеназский
 Ашкеназы
 Ашкенази
@@ -127458,11 +129613,14 @@ An Illusions
 Ашкеназские корни
 Ашкеназкий еврей
 Ашкеназкая еврейка
+Ашкеназкие еврейки
 Ашкеназкие евреи
 Ашкеназское еврейство
 Еврей-ашкеназ
 Еврейка-ашкеназ
+Еврейки-ашкеназ
 Еврейка-ашкеназка
+Еврейки-ашкеназки
 Евреи-ашкеназы
 Евреи-ашкенази
 Евреи-ашкеназим
@@ -127811,7 +129969,7 @@ An Illusions
 Папская курия
 Римская курия
 Латинское королевство
-Бог Юритер
+Бог Юпитер
 Нептун
 Бог Нептун
 Артемида
@@ -127833,6 +129991,17 @@ An Illusions
 Бог Пан
 Сотис
 Богиня Сотис
+Бог Греции
+Боги Греции
+Греческий Бог
+Греческие Боги
+Богиня Греции
+Богини Греции
+Греческая Богиня
+Греческие Богини
+Дом Бога
+Дом Богов
+Божий дом
 Талос
 Великан Талос
 Бронзовый великан Талос
@@ -127869,9 +130038,6 @@ An Illusions
 Байтил
 Бетил
 Байтилий
-Дом Бога
-Дом Богов
-Божий дом
 Зевс
 Посейдон
 Прометей
@@ -127960,12 +130126,29 @@ An Illusions
 Дагаз
 Одал
 Отал
-Ирмин
-Ирминсуль
 Тор
 Бог Тор
 Молот Тора
 Кувалда Тора
+Один
+Бог Один
+Вотан
+Бог Вотан
+Всеотец
+Игг
+Бог Игг
+Хар
+Бог Хар
+Вератюр
+Бог Вератюр
+Бёльверк
+Бог Бёльверк
+Остара
+Богиня Остара
+Эостра
+Богиня Эостра
+Ирмин
+Ирминсуль
 Асгард
 Хельхейм
 Хельгард
@@ -127985,19 +130168,6 @@ An Illusions
 Игдразил
 Мировое древо
 Мировой ясень
-Один
-Бог Один
-Вотан
-Бог Вотан
-Всеотец
-Игг
-Бог Игг
-Хар
-Бог Хар
-Вератюр
-Бог Вератюр
-Бёльверк
-Бог Бёльверк
 Асы
 Раса асов
 Асы-строители
@@ -128126,6 +130296,11 @@ An Illusions
 Системы сбора гавваха
 Система сбора энергии
 Системы сбора энергии
+Энергия боли
+Энергия страданий
+Энергия смерти
+Энергия гнева
+Энергия мести
 Слово божье
 Послание Бога
 Слово Бога
@@ -128215,12 +130390,6 @@ An Illusions
 Священослужители
 Религиозный деятель
 Религиозные деятели
-Кернунн
-Цернунн
-Карнон
-Белтейн
-Друид
-Друиды
 Жертвоприношение
 Жертвоприношения
 Принесённый в жертву
@@ -128468,6 +130637,8 @@ An Illusions
 Недобрые знаки
 Знак Завета
 Знаки Завета
+Чёрная метка
+Чёрные метки
 Физическое тело
 Физические тела
 Эфирное тело
@@ -128531,6 +130702,18 @@ An Illusions
 Пантеоны
 Пантеон богов
 Пантеоны богов
+Античный бог
+Античные боги
+Древний бог
+Древние боги
+Античная богиня
+Античные богини
+Древняя богиня
+Древние богини
+Языческий бог
+Языческие боги
+Языческая богиня
+Языческие богини
 Человеческое сердце
 Человеческие сердца
 Доброе сердце
@@ -128544,8 +130727,6 @@ An Illusions
 Религии
 Древняя мистическая религия
 Древние мистические религии
-Древний бог
-Древние боги
 Провидение
 Божий промысел
 Монах
@@ -128720,6 +130901,9 @@ An Illusions
 Тупиковый
 Перекрёстки
 Перекрёсток семи дорог
+Перекрёстки семи дорог
+Дорога в один конец
+Дороги в один конец
 Цель
 Цели
 Целевой
@@ -129308,6 +131492,14 @@ An Illusions
 Улъф Ялъмар Кристерссон
 Улъф
 Улъф Кристерссон
+Медведев Дмитрий Анатолъевич
+Дмитрий Анатолъевич
+Анатолъевич
+Менделъ Давид Ааронович
+Менделъ Давид
+Менделъ
+Менделъ Д. А.
+Менделъ Д.
 Александр Григоръевич Лукашенко
 Александр Григоръевич
 Вадим Николаевич Красноселъский
@@ -129366,8 +131558,9 @@ An Illusions
 Принудителъная руссификация
 Принудителъные руссификации
 Сибиръ
-Калининградская областъ
 Кремлъ
+Московский Кремлъ
+Калининградская областъ
 Верхний Израилъ
 Северный Израилъ
 Новый Израилъ
@@ -129859,7 +132052,6 @@ An Illusions
 Виктор Геннадъевич
 Геннадъевич
 Шарий Анатолий Анатолъевич
-Анатолъевич
 Анатолий Анатолъевич
 Коломойский Игоръ Валеръевич
 Коломойский Игоръ
@@ -129911,13 +132103,6 @@ An Illusions
 Алексей Анатолъевич
 Навалъный А. А.
 Навалъный А.
-Медведев Дмитрий Анатолъевич
-Дмитрий Анатолъевич
-Менделъ Давид Ааронович
-Менделъ Давид
-Менделъ
-Менделъ Д. А.
-Менделъ Д.
 Собчак Ксения Анатолъевна
 Анатолъевна
 Ксения Анатолъевна
@@ -130031,6 +132216,8 @@ An Illusions
 Плохие друзъя
 Семъя
 Семъи
+Семъянин
+Семъянине
 Молодая семъя
 Молодые семъи
 Многодетная семъя
@@ -130043,6 +132230,7 @@ An Illusions
 Сыновъя
 Дочъ
 Семейная ценностъ
+Традиционная ценностъ
 Маленъкий
 Неандерталъцы
 Неандерталъский
@@ -130186,8 +132374,13 @@ An Illusions
 Ложная ценностъ
 Погоня за ложной ценностъю
 Глобалъная катастрофа
+Глобалъные катастрофы
 Глобалъный катаклизм
+Глобалъные катаклизмы
 Глобалъная трагедия
+Глобалъные трагедии
+Болъшая трагедия
+Болъшие трагедии
 Автомобилъная катастрофа
 Автомобилъные катастрофы
 Наличные денъги
@@ -130201,6 +132394,7 @@ An Illusions
 Шантажирование цифровыми денъгами
 Всемирные денъги
 Фиатные денъги
+Глобалъная валюта
 Работатъ
 Время - денъги
 Денег нет, но вы держитесъ
@@ -130214,6 +132408,10 @@ An Illusions
 Кошелъки
 Цифровые кошелъки
 Мытаръ
+Грязные денъги
+Чистые денъги
+Экономическая безопасностъ
+Финансовая безопасностъ
 Заключатъ контракт
 Заключатъ договор
 Расторгатъ контракт
@@ -130238,6 +132436,11 @@ An Illusions
 Глобалъная квантовая финансовая система
 Кредитный пузыръ
 Заимодателъ
+Недвижимостъ
+Земелъный участок
+Земелъные участки
+Земелъная собственностъ
+Собственностъ
 Спекулироватъ
 Менеджер по связям с общественностъю
 Дъявол играющий на скрипке
@@ -130309,6 +132512,7 @@ An Illusions
 Поражающая новостъ
 Неожиданная новостъ
 Бюллетенъ
+Ложная новостъ
 Зрителъ
 Зрителъский
 Наблюдателъ
@@ -130538,6 +132742,10 @@ An Illusions
 Астралъные сущности
 Астралъный двойник
 Астралъные двойники
+Астралъный Бог
+Астралъные Боги
+Астралъная Богиня
+Астралъные Богини
 Невербалъный
 Невербалъное общение
 Невербалъные общения
@@ -130613,6 +132821,9 @@ An Illusions
 Сборища ведъм
 Шабаш ведъм
 Шабаши ведъм
+Охота на ведъму
+Охота на ведъм
+Охоты на ведъм
 Фантазироватъ
 Картофелъ
 Жареный картофелъ
@@ -131143,6 +133354,7 @@ An Illusions
 Характер - это судъба
 Бодрствоватъ
 Просыпатъся
+Психическая болезнъ
 Болъшой шок
 Болъшие шоки
 Социалъный
@@ -131219,6 +133431,8 @@ An Illusions
 Двойная спиралъная нитъ ДНК
 Генетическая памятъ
 Мутироватъ
+Костылъ
+Тростъ
 Лососъ
 Бъётся как рыба об лёд
 Голубъ
@@ -131245,6 +133459,7 @@ An Illusions
 Малъчик для битъя
 Малъчики для битъя
 Верблюжъя шерстъ
+Денъ сурка
 Жестокостъ
 Садисткая жестокостъ
 Медведъ
@@ -131310,6 +133525,9 @@ An Illusions
 Гормоналъные средства
 Вредителъ
 Вредителъский
+Социалъный паразит
+Социалъные паразиты
+Социалъный паразитизм
 Алъфа самец
 Алъфа самка
 Здоровъе
@@ -131407,6 +133625,7 @@ An Illusions
 Румпелъ
 Кораблъ
 Корабелъный
+Тонущий кораблъ
 Наводнение Алъ-Акса
 Операция Наводнение Алъ-Акса
 Буря Алъ-Акса
@@ -131476,6 +133695,7 @@ An Illusions
 Кровъ, Честъ, Родина, Отвага
 Казнъ кувалдой
 Казнъ молотом
+Военная безопасностъ
 Ранитъ
 Травмироватъ
 Вторгатъся
@@ -131547,7 +133767,12 @@ An Illusions
 Школъница
 Школъницы
 Образователъный
+Началъное образование
+Началъные образования
 Преподователъ
+Преподователъница
+Преподователъницы
+Преподователъство
 Преподователъский
 Библиотекаръ
 Учителъ
@@ -131600,6 +133825,12 @@ An Illusions
 Президент + Илъхам Гейдарович Алиев
 Президент + Илъхам Гейдарович
 Президент + Илъхам Алиев
+Президент + Медведев Дмитрий Анатолъевич
+Президент + Менделъ Давид Ааронович
+Президент + Менделъ Давид
+Президент + Менделъ
+Президент + Менделъ Д. А.
+Президент + Менделъ Д.
 Президент + Эмманюэлъ Жан-Мишелъ Фредерик Макрон
 Президент + Эмманюэлъ Макрон
 Президент + Анджей Себастъян Дуда
@@ -131931,10 +134162,8 @@ An Illusions
 Навъ
 Обителъ тёмных божеств
 Славъ
-Восъмилучевая звезда
-Энлилъ
-Эллилъ
-Энлилъ и Нинлилъ
+Денъ Бригитты
+Денъ Святой Бригитты
 Бебелъ-Хамон
 Царъ загробного мира
 Судъя душ усопших
@@ -131962,6 +134191,14 @@ An Illusions
 Инъ и Янъ
 Единство и боръба противоположностей
 Твори свою волю, таков да будет весъ закон
+Восъмилучевая звезда
+Денъ Иштар
+Денъ богини Иштар
+Энлилъ
+Эллилъ
+Нинлилъ
+Энлилъ + Нинлилъ
+Энлилъ и Нинлилъ
 Хиддекелъ
 Река Хиддекелъ
 Спасителъ
@@ -132314,8 +134551,8 @@ An Illusions
 Матеръ церковъ
 Святая матеръ церковъ
 Десятъ казней египетских
-Королъ Вавилона
-Вавилонский королъ
+Царъ Вавилона
+Вавилонский царъ
 Семъ печатей
 Семъ печатей Бога
 Ангелъский
@@ -132482,6 +134719,8 @@ An Illusions
 Денъ отдыха
 Восъмилучевая менора
 Восъмилучевые меноры
+Восъмисвечник
+Восъмисвечники
 Булъ
 Денъ памяти
 Денъ памяти павших в войнах Израиля и жертв террора
@@ -132511,6 +134750,7 @@ An Illusions
 Еврейская мудростъ
 Израилътянин
 Израилътянка
+Израилътянки
 Израилътяне
 Израилъский
 Еврейский коренъ
@@ -132563,6 +134803,8 @@ An Illusions
 Открытъ ящик пандоры
 Вунъо
 Алъгиз
+Бёлъверк
+Бог Бёлъверк
 Ирминсулъ
 Хелъхейм
 Хелъгард
@@ -132575,8 +134817,6 @@ An Illusions
 Сварталъфахейм
 Иггдрасилъ
 Мировой ясенъ
-Бёлъверк
-Бог Бёлъверк
 Судъба богов
 Календаръ майя
 Маленъкое круглое отверстие
