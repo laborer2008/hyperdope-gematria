@@ -1,4 +1,183 @@
 CREATE_GEMATRO_DB
+Hard time
+Hard times
+Rough time
+Rough times
+Dificult time
+Dificult times
+Dark time
+Dark times
+Begin
+Beginning
+Beginnings
+Start
+Starts
+End
+Ends
+Ending
+Endings
+Finish
+Finishes
+Time
+Times
+Date
+Dates
+Prologue
+Prologues
+Prolog
+Prologs
+Epilogue
+Epilogues
+Epilog
+Epilogs
+Time trap
+Time traps
+Time loop
+Time loops
+Time quantum
+Time quantums
+Second
+Seconds
+Minute
+Minutes
+Hour
+Hours
+Curfew
+Curfews
+Clock
+Clocks
+Striking clock
+Striking clocks
+Chiming clock
+Chiming clocks
+Mechanical clock
+Mechanical clocks
+Clockwork
+Clockworks
+Winding
+Wind-up
+Watch
+Watches
+Watcher
+Watchers
+Watchman
+Watchmen
+Wristwatch
+Wristwatches
+Doomsday clock
+Atomic clock
+Time standard
+Time standards
+Timer
+Timers
+Timepiece
+Timepieces
+Time cube
+Time's cube
+Cube of Time
+Cube of the Time
+Time cube symbol
+Time cube's symbol
+Time cube's symbols
+Symbol of Time cube
+Symbol of the Time cube
+Symbols of Time cube
+Symbols of the Time cube
+Time zone
+Time zones
+Today
+Tomorrow
+Day after tomorrow
+Next day
+Next days
+Next week
+Next weeks
+Next month
+Next months
+Next year
+Next years
+Time Matter
+Time's Matter
+Matter of time
+Matter of the time
+Time fabric
+Time's fabric
+Fabric of time
+Fabric of the time
+Space-time fabric
+Space-time's fabric
+Fabric of space-time
+Fabric of the space-time
+Time slowdown
+Time's slowdown
+Time's slowdowns
+Slowdown of time
+Slowdown of the time
+Slowdowns of time
+Slowdowns of the time
+Time speed-up
+Time's speed-up
+Time's speed-ups
+Speed-up of time
+Speed-up of the time
+Speed-ups of time
+Speed-ups of the time
+Time river
+Time's river
+River of time
+River of the time
+Time paradigm
+Time's paradigm
+Time's paradigms
+Paradigm of time
+Paradigm of the time
+Paradigms of time
+Paradigms of the time
+Time paradigm change
+Time paradigm's change
+Time paradigm's changes
+Change of time paradigm
+Change of the time paradigm
+Changes of time paradigm
+Changes of the time paradigm
+Time reflection
+Time's reflection
+Time's reflections
+Reflection of time
+Reflection of the time
+Reflections of time
+Reflections of the time
+Time capsule
+Time capsules
+Peacetime
+Peacetimes
+Wartime
+Wartimes
+Time span
+Time spans
+Dial
+Dials
+Index plate
+Index plates
+Time clock
+Time clocks
+Timer clock
+Timer clocks
+Tick
+Ticks
+Tick-tock
+Timekeeper
+Timekeepers
+Ticker
+Tickers
+Horologe
+Horologes
+Sand glass
+Sand glasses
+Hourglass
+Hourglasses
+Clocksmith
+Clocksmiths
 Time arrow
 Time's arrow
 Time's arrows
@@ -80,6 +259,7 @@ New style
 Old style
 Masonic calendar
 Valentine’s Day
+St. Valentine's Day
 All Fools' Day
 April Fools' Day
 Walpurgis Night
@@ -120,6 +300,8 @@ Day of Missile Forces and Artillery
 Thanksgiving Day
 Black Friday
 Black Friday sale
+Day of the State Security of the Russian Federation
+Day of the State Security of the RF
 Arrow
 Arrows
 Pointer
@@ -521,177 +703,6 @@ Autumn season
 Autumn seasons
 Fall season
 Fall seasons
-Begin
-Beginning
-Beginnings
-Start
-Starts
-End
-Ends
-Ending
-Endings
-Finish
-Finishes
-Time
-Times
-Date
-Dates
-Prologue
-Prologues
-Prolog
-Prologs
-Epilogue
-Epilogues
-Epilog
-Epilogs
-Time trap
-Time traps
-Time loop
-Time loops
-Time quantum
-Time quantums
-Second
-Seconds
-Minute
-Minutes
-Hour
-Hours
-Curfew
-Curfews
-Clock
-Clocks
-Striking clock
-Striking clocks
-Chiming clock
-Chiming clocks
-Mechanical clock
-Mechanical clocks
-Clockwork
-Clockworks
-Winding
-Wind-up
-Watch
-Watches
-Watcher
-Watchers
-Watchman
-Watchmen
-Wristwatch
-Wristwatches
-Doomsday clock
-Atomic clock
-Time standard
-Time standards
-Timer
-Timers
-Timepiece
-Timepieces
-Time cube
-Time's cube
-Cube of Time
-Cube of the Time
-Time cube symbol
-Time cube's symbol
-Time cube's symbols
-Symbol of Time cube
-Symbol of the Time cube
-Symbols of Time cube
-Symbols of the Time cube
-Time zone
-Time zones
-Today
-Tomorrow
-Day after tomorrow
-Next day
-Next days
-Next week
-Next weeks
-Next month
-Next months
-Next year
-Next years
-Time Matter
-Time's Matter
-Matter of time
-Matter of the time
-Time fabric
-Time's fabric
-Fabric of time
-Fabric of the time
-Space-time fabric
-Space-time's fabric
-Fabric of space-time
-Fabric of the space-time
-Time slowdown
-Time's slowdown
-Time's slowdowns
-Slowdown of time
-Slowdown of the time
-Slowdowns of time
-Slowdowns of the time
-Time speed-up
-Time's speed-up
-Time's speed-ups
-Speed-up of time
-Speed-up of the time
-Speed-ups of time
-Speed-ups of the time
-Time river
-Time's river
-River of time
-River of the time
-Time paradigm
-Time's paradigm
-Time's paradigms
-Paradigm of time
-Paradigm of the time
-Paradigms of time
-Paradigms of the time
-Time paradigm change
-Time paradigm's change
-Time paradigm's changes
-Change of time paradigm
-Change of the time paradigm
-Changes of time paradigm
-Changes of the time paradigm
-Time reflection
-Time's reflection
-Time's reflections
-Reflection of time
-Reflection of the time
-Reflections of time
-Reflections of the time
-Time capsule
-Time capsules
-Peacetime
-Peacetimes
-Wartime
-Wartimes
-Time span
-Time spans
-Dial
-Dials
-Index plate
-Index plates
-Time clock
-Time clocks
-Timer clock
-Timer clocks
-Tick
-Ticks
-Tick-tock
-Timekeeper
-Timekeepers
-Ticker
-Tickers
-Horologe
-Horologes
-Sand glass
-Sand glasses
-Hourglass
-Hourglasses
-Clocksmith
-Clocksmiths
 Synchronization
 Synchronizations
 Timing
@@ -828,6 +839,9 @@ Finland
 Latvia
 French Republic
 France
+Czechia
+Czech Republic
+Bohemia
 Italy
 Italian Republic
 Switzerland
@@ -842,6 +856,8 @@ United States
 United States of America
 USA
 US
+Venezuela
+Bolivarian Republic of Venezuela
 Atlantic Ocean
 Atlantic
 North Atlantic
@@ -946,6 +962,15 @@ David
 Mendel D. A.
 Mendel David A.
 Mendel D.
+Yeltsin Boris Nikolayevich
+Yeltsin Boris
+Yeltsin
+Boris
+Nikolayevich
+Boris Nikolayevich
+Yeltsin B. N.
+Yeltsin B.
+Yeltsin Boris N.
 Putin
 Putin V.
 Putin V. V.
@@ -1219,9 +1244,9 @@ Turkey people
 The Turkey people
 Turkey's people
 The Turkey's people
-People of turkey
-People of the turkey
-The People of the turkey
+People of Turkey
+People of the Turkey
+The People of the Turkey
 North korean
 Japanese
 Japaneses
@@ -1726,6 +1751,21 @@ The Sweden's people
 People of Sweden
 People of the Sweden
 The People of the Sweden
+Czech
+Czeches
+Czekh
+Czekhs
+Czech people
+Czekh people
+Czechia people
+The Czechia people
+Czechia's people
+The Czechia's people
+People of Czechia
+People of the Czechia
+The People of the Czechia
+Prague
+Prague, Czechia
 British
 English
 Englishman
@@ -2797,6 +2837,10 @@ Reserve of the oils
 Reserves of oils
 Reserves of the oils
 Russian oil
+Cheap oil
+Cheap oils
+Expensive oil
+Expensive oils
 Petrochemical
 Petrochemicals
 Oil product
@@ -2857,6 +2901,14 @@ NaCl
 Graphene
 Graphene seal
 Graphene oxide
+Napalm
+Napalm burning
+Napalm's burning
+Napalm's burnings
+Burning of napalm
+Burning of the napalm
+Burnings of napalm
+Burnings of the napalm
 Chemistry
 Chemical
 Chemicals
@@ -5267,19 +5319,15 @@ Mind's update
 Mind's updates
 Update of mind
 Update of the mind
-Update of minds
-Update of the minds
-Updates of minds
-Updates of the minds
+Updates of mind
+Updates of the mind
 Mind upgrade
 Mind's upgrade
 Mind's upgrades
 Upgrade of mind
 Upgrade of the mind
-Upgrade of minds
-Upgrade of the minds
-Upgrades of minds
-Upgrades of the minds
+Upgrades of mind
+Upgrades of the mind
 Intellect update
 Intellect's update
 Intellect's updates
@@ -5832,6 +5880,15 @@ Budanov
 Budanov K.
 Budanov K. O.
 Budanov Kyrylo O.
+Klychko Vitalii Volodymyrovych
+Klychko Vitalii
+Klychko
+Vitalii
+Volodymyrovych
+Vitalii Volodymyrovych
+Klychko V. V.
+Klychko V.
+Klychko Vitalii V.
 Zaluzhnyi Valerii Fedorovych
 Zaluzhnyi Valerii
 Zaluzhnyi
@@ -6167,6 +6224,22 @@ Navalnyy Alexei
 Navalnyy Alexei A.
 Navalny Alexei Anatoliiovych
 Alexei Anatoliiovych
+Mizulina Yelena Borisovna
+Mizulina Yelena
+Mizulina
+Yelena
+Borisovna
+Yelena Borisovna
+Mizulina Y. B.
+Mizulina Y.
+Mizulina Yelena B.
+Mizulina Elena Borisovna
+Mizulina Elena
+Elena
+Elena Borisovna
+Mizulina E. B.
+Mizulina E.
+Mizulina Elena B.
 Leonid Pasechnik
 Pasechnik
 Pasechnik L.
@@ -6328,6 +6401,21 @@ Manolis Vasyliovych Pilavov
 Manolis V. Pilavov
 Manolis Vasyliovych
 Vasyliovych
+Kabaeva Alina Maratovna
+Kabaeva Alina
+Kabaeva
+Alina
+Maratovna
+Alina Maratovna
+Kabaeva A. M.
+Kabaeva A.
+Kabaeva Alina M.
+Kabayeva Alina Maratovna
+Kabayeva Alina
+Kabayeva
+Kabayeva A. M.
+Kabayeva A.
+Kabayeva Alina M.
 Sobyanin Sergey Semyonovich
 Sobyanin Sergey
 Sobyanin Sergey S.
@@ -6589,6 +6677,14 @@ Theory of Marx
 Theory of the Marx
 Theories of Marx
 Theories of the Marx
+Karl Marx theory
+Karl Marx's theory
+Karl Marx theories
+Karl Marx's theories
+Theory of Karl Marx
+Theory of the Karl Marx
+Theories of Karl Marx
+Theories of the Karl Marx
 Greta Thunberg
 Thunberg
 Greta
@@ -7031,6 +7127,15 @@ Family value
 Family values
 Traditional value
 Traditional values
+Family value degradation
+Family value's degradation
+Family value's degradations
+Degradation of family value
+Degradation of the family value
+Degradation of family values
+Degradation of the family values
+Degradations of family values
+Degradations of the family values
 Adamite
 Adamites
 Adam Generations
@@ -7703,6 +7808,8 @@ Same-sex marrige
 Same-sex marriges
 Sexual minority
 Sexual minorities
+Same-sex pair
+Same-sex pairs
 Gay club
 Gay clubs
 Active gay
@@ -7727,6 +7834,8 @@ It's a trap
 Cross-dressing
 Cross-dresser
 Cross-dressers
+Queer
+Queers
 Barbarian
 Barbarians
 Barbarous
@@ -9269,6 +9378,8 @@ Valuable
 Valuables
 False valuable
 False valuables
+False aim
+False aims
 False valuable chasing
 False valuable's chasing
 False valuable's chasings
@@ -9278,6 +9389,8 @@ Chasing of false valuables
 Chasing of the false valuables
 Chasings of false valuables
 Chasings of the false valuables
+Realistic aim
+Realistic aims
 Payment
 Payments
 Digital payment
@@ -9754,6 +9867,8 @@ Agreement
 Agreements
 Sign an agreement
 Cancel and agreement
+Social contract
+Social contracts
 Wartime economy
 Wartime economics
 Military rails
@@ -10634,6 +10749,12 @@ Performance
 Performances
 Production
 Productions
+Cheap concert
+Cheap concerts
+Cheap performance
+Cheap performances
+Cheap production
+Cheap productions
 Talent
 Talents
 Talanted
@@ -10766,6 +10887,8 @@ False reports
 Canard
 Canards
 Fake news
+Fake record
+Fake records
 News feed
 News feeds
 Feed of news
@@ -10811,9 +10934,17 @@ Dances
 Dancing
 Dancer
 Dancers
+Disco
+Discos
+Disco club
+Disco clubs
+Discotheque
+Discotheques
 Theater
 Theaters
 Theatrical
+Theatrical show
+Theatrical shows
 Puppet show
 Puppet shows
 Absurd theatre
@@ -11438,6 +11569,8 @@ Top of hills
 Top of the hills
 Tops of hills
 Tops of the hills
+Mound
+Mounds
 Tsunami
 Tsunamis
 Big Tsunami
@@ -11546,6 +11679,14 @@ Magnetic disturbance
 Magnetic disturbances
 Powerful magnetic storm
 Powerful magnetic storms
+Rain
+Rains
+Showery weather
+Showery weathers
+Wet weather
+Wet weathers
+Rainy weather
+Rainy weathers
 Ecological crisis
 Ecological crises
 Ecological damage
@@ -13209,6 +13350,8 @@ Moon-saturnian cult
 Moon-saturnian cults
 Dark cult
 Dark cults
+Religious cult
+Religious cults
 Shamans
 Shamanic
 Shamanism
@@ -13456,12 +13599,12 @@ Witch
 Witches
 Witchcraft
 Coven
-Sabbath witches
-Sabbath's witches
-Witches of sabbath
-Witches of the sabbath
-Witches of sabbaths
-Witches of the sabbaths
+Witches sabbath
+Witches sabbaths
+Sabbath of witches
+Sabbath of the witches
+Sabbaths of witches
+Sabbaths of the witches
 Black sabbath
 Black sabbaths
 Witch hunt
@@ -13490,6 +13633,12 @@ Huntings of witch
 Huntings of the witch
 Huntings of witches
 Huntings of the witches
+Satanic sabbath
+Satanic sabbaths
+Satanical sabbath
+Satanical sabbaths
+Devilish sabbath
+Devilish sabbaths
 Griffin
 Griffins
 Griffon
@@ -13507,6 +13656,11 @@ Science fiction
 Science fictions
 Cabbage
 Cabbages
+Broccoli
+Broccolis
+Cauliflower
+Cauliflowers
+Brussels sprouts
 Tomato
 Tomatoes
 Love apple
@@ -13856,6 +14010,7 @@ Intoxication from the alcohols
 Intoxications from alcohols
 Intoxications from the alcohols
 Alcohol
+Firewater
 Alcohol drink
 Alcohol drinks
 Medical alcohol
@@ -13940,6 +14095,15 @@ Tart
 Tarts
 Pie
 Pies
+Feast
+Feasts
+Time of plague feast
+Time of plague's feast
+Time of plague's feasts
+Feast in time of plague
+Feast in the time of plague
+Feasts in time of plague
+Feasts in the time of plague
 Vegetarian
 Vegetarians
 Vegetarianism
@@ -14411,6 +14575,8 @@ Food
 Foods
 Feed
 Feeds
+Feeding
+Feedings
 Natural food
 Mayonnaise
 Mayonnaises
@@ -15368,41 +15534,36 @@ Adam Weishaupt
 Weishaupt
 A. Weishaupt
 Adam
-Mason logo
-Mason's logo
-Mason's logos
-Logo of Mason
-Logo of the Mason
-Logos of Mason
-Logos of the Mason
-Mason logotype
-Mason's logotype
-Mason's logotypes
-Logotype of Mason
-Logotype of the Mason
-Logotypes of Mason
-Logotypes of the Mason
-Mason symbol
-Mason's symbol
-Mason's symbols
-Symbol of Mason
-Symbol of the Mason
-Symbols of Mason
-Symbols of the Mason
-Mason emblem
-Mason's emblem
-Mason's emblems
-Emblem of Mason
-Emblem of the Mason
-Emblems of Mason
-Emblems of the Mason
-Mason insignia
-Mason's insignia
-Mason's insignias
-Insignia of Mason
-Insignia of the Mason
-Insignias of Mason
-Insignias of the Mason
+Masons logo
+Masons logos
+Logo of Masons
+Logo of the Masons
+Logos of Masons
+Logos of the Masons
+Masons logotype
+Masons logotypes
+Logotype of Masons
+Logotype of the Masons
+Logotypes of Masons
+Logotypes of the Masons
+Masons symbol
+Masons symbols
+Symbol of Masons
+Symbol of the Masons
+Symbols of Masons
+Symbols of the Masons
+Masons emblem
+Masons emblems
+Emblem of Masons
+Emblem of the Masons
+Emblems of Masons
+Emblems of the Masons
+Masons insignia
+Masons insignias
+Insignia of Masons
+Insignia of the Masons
+Insignias of Masons
+Insignias of the Masons
 Masonry logo
 Masonry's logo
 Masonry's logos
@@ -15443,41 +15604,36 @@ Masonic symbols
 Masonic sign
 Masonic signs
 Masonic symbolism
-Freemason logo
-Freemason's logo
-Freemason's logos
-Logo of Freemason
-Logo of the Freemason
-Logos of Freemason
-Logos of the Freemason
-Freemason logotype
-Freemason's logotype
-Freemason's logotypes
-Logotype of Freemason
-Logotype of the Freemason
-Logotypes of Freemason
-Logotypes of the Freemason
-Freemason symbol
-Freemason's symbol
-Freemason's symbols
-Symbol of Freemason
-Symbol of the Freemason
-Symbols of Freemason
-Symbols of the Freemason
-Freemason emblem
-Freemason's emblem
-Freemason's emblems
-Emblem of Freemason
-Emblem of the Freemason
-Emblems of Freemason
-Emblems of the Freemason
-Freemason insignia
-Freemason's insignia
-Freemason's insignias
-Insignia of Freemason
-Insignia of the Freemason
-Insignias of Freemason
-Insignias of the Freemason
+Freemasons logo
+Freemasons logos
+Logo of Freemasons
+Logo of the Freemasons
+Logos of Freemasons
+Logos of the Freemasons
+Freemasons logotype
+Freemasons logotypes
+Logotype of Freemasons
+Logotype of the Freemasons
+Logotypes of Freemasons
+Logotypes of the Freemasons
+Freemasons symbol
+Freemasons symbols
+Symbol of Freemasons
+Symbol of the Freemasons
+Symbols of Freemasons
+Symbols of the Freemasons
+Freemasons emblem
+Freemasons emblems
+Emblem of Freemasons
+Emblem of the Freemasons
+Emblems of Freemasons
+Emblems of the Freemasons
+Freemasons insignia
+Freemasons insignias
+Insignia of Freemasons
+Insignia of the Freemasons
+Insignias of Freemasons
+Insignias of the Freemasons
 Freemasonry logo
 Freemasonry's logo
 Freemasonry's logos
@@ -15518,41 +15674,36 @@ Freemasonic symbols
 Freemasonic sign
 Freemasonic signs
 Freemasonic symbolism
-Stonemason logo
-Stonemason's logo
-Stonemason's logos
-Logo of Stonemason
-Logo of the Stonemason
-Logos of Stonemason
-Logos of the Stonemason
-Stonemason logotype
-Stonemason's logotype
-Stonemason's logotypes
-Logotype of Stonemason
-Logotype of the Stonemason
-Logotypes of Stonemason
-Logotypes of the Stonemason
-Stonemason symbol
-Stonemason's symbol
-Stonemason's symbols
-Symbol of Stonemason
-Symbol of the Stonemason
-Symbols of Stonemason
-Symbols of the Stonemason
-Stonemason emblem
-Stonemason's emblem
-Stonemason's emblems
-Emblem of Stonemason
-Emblem of the Stonemason
-Emblems of Stonemason
-Emblems of the Stonemason
-Stonemason insignia
-Stonemason's insignia
-Stonemason's insignias
-Insignia of Stonemason
-Insignia of the Stonemason
-Insignias of Stonemason
-Insignias of the Stonemason
+Stonemasons logo
+Stonemasons logos
+Logo of Stonemasons
+Logo of the Stonemasons
+Logos of Stonemasons
+Logos of the Stonemasons
+Stonemasons logotype
+Stonemasons logotypes
+Logotype of Stonemasons
+Logotype of the Stonemasons
+Logotypes of Stonemasons
+Logotypes of the Stonemasons
+Stonemasons symbol
+Stonemasons symbols
+Symbol of Stonemasons
+Symbol of the Stonemasons
+Symbols of Stonemasons
+Symbols of the Stonemasons
+Stonemasons emblem
+Stonemasons emblems
+Emblem of Stonemasons
+Emblem of the Stonemasons
+Emblems of Stonemasons
+Emblems of the Stonemasons
+Stonemasons insignia
+Stonemasons insignias
+Insignia of Stonemasons
+Insignia of the Stonemasons
+Insignias of Stonemasons
+Insignias of the Stonemasons
 Stonemasonry logo
 Stonemasonry's logo
 Stonemasonry's logos
@@ -15593,41 +15744,36 @@ Stonemasonic symbols
 Stonemasonic sign
 Stonemasonic signs
 Stonemasonic symbolism
-Jewmason logo
-Jewmason's logo
-Jewmason's logos
-Logo of Jewmason
-Logo of the Jewmason
-Logos of Jewmason
-Logos of the Jewmason
-Jewmason logotype
-Jewmason's logotype
-Jewmason's logotypes
-Logotype of Jewmason
-Logotype of the Jewmason
-Logotypes of Jewmason
-Logotypes of the Jewmason
-Jewmason symbol
-Jewmason's symbol
-Jewmason's symbols
-Symbol of Jewmason
-Symbol of the Jewmason
-Symbols of Jewmason
-Symbols of the Jewmason
-Jewmason emblem
-Jewmason's emblem
-Jewmason's emblems
-Emblem of Jewmason
-Emblem of the Jewmason
-Emblems of Jewmason
-Emblems of the Jewmason
-Jewmason insignia
-Jewmason's insignia
-Jewmason's insignias
-Insignia of Jewmason
-Insignia of the Jewmason
-Insignias of Jewmason
-Insignias of the Jewmason
+Jewmasons logo
+Jewmasons logos
+Logo of Jewmasons
+Logo of the Jewmasons
+Logos of Jewmasons
+Logos of the Jewmasons
+Jewmasons logotype
+Jewmasons logotypes
+Logotype of Jewmasons
+Logotype of the Jewmasons
+Logotypes of Jewmasons
+Logotypes of the Jewmasons
+Jewmasons symbol
+Jewmasons symbols
+Symbol of Jewmasons
+Symbol of the Jewmasons
+Symbols of Jewmasons
+Symbols of the Jewmasons
+Jewmasons emblem
+Jewmasons emblems
+Emblem of Jewmasons
+Emblem of the Jewmasons
+Emblems of Jewmasons
+Emblems of the Jewmasons
+Jewmasons insignia
+Jewmasons insignias
+Insignia of Jewmasons
+Insignia of the Jewmasons
+Insignias of Jewmasons
+Insignias of the Jewmasons
 Jewmasonry logo
 Jewmasonry's logo
 Jewmasonry's logos
@@ -18346,6 +18492,13 @@ Dukes
 Crown
 Crowns
 Royal Family
+Royal Family member
+Royal Family's member
+Royal Family's members
+Member of Royal Family
+Member of the Royal Family
+Members of Royal Family
+Members of the Royal Family
 Black Queen
 Queen of spades
 Bloodline
@@ -18509,6 +18662,10 @@ Authorities of RF
 Authorities of the RF
 Cooperative Ozero
 Dacha cooperative Ozero
+Antirussian government
+Antirussian governments
+Antirussian authority
+Antirussian authorities
 Russian government agent
 Russian government's agent
 Russian government's agents
@@ -18679,6 +18836,7 @@ Agent of United States of America
 Agent of the United States of America
 Agents of United States of America
 Agents of the United States of America
+Uncle Sam
 Israeli president
 Israeli presidents
 Israeli prime minister
@@ -19645,6 +19803,8 @@ Under control of the Artificial Intelligence
 Technocracy
 Technocracies
 Technocratic
+Political game
+Political games
 Tetrarchy
 Tetrarchate
 Tetrarchates
@@ -19798,6 +19958,10 @@ Election
 Elections
 Voting
 Votings
+Remote voting
+Remote votings
+Electronic voting
+Electronic votings
 Plebiscite
 Plebiscites
 Referendum
@@ -20136,10 +20300,6 @@ Minds of man
 Minds of the man
 Minds of men
 Minds of the men
-Updates of mind
-Updates of the mind
-Upgrades of mind
-Upgrades of the mind
 Empathy
 Empathies
 Empathic
@@ -20300,6 +20460,16 @@ Psychical problem
 Psychical problems
 Psychical illness
 Psychical illnesses
+Mental insanity
+Mental insanities
+Mental disorder
+Mental disorders
+Thought disorder
+Thought disorders
+Mental derangement
+Mental derangements
+Mental distress
+Mental distresses
 Shock
 Shocks
 Shocking
@@ -21933,6 +22103,7 @@ Squirrels in cages
 Squirrels in the cages
 Pig
 Pigs
+Pig-like
 Pork
 Porcine
 Boar
@@ -21949,6 +22120,17 @@ Symbol of Ukraine
 Symbol of the Ukraine
 Guinea pig
 Guinea pigs
+Swinishness
+Swinishnesses
+Dirtiness
+Dirtinesses
+Swinish
+Pigsty
+Pigsties
+Piggery
+Piggeries
+Pigpen
+Pigpens
 Cat
 Cats
 Kitten
@@ -22150,10 +22332,15 @@ Cerebral
 Locus coeruleus
 Skin
 Skins
+Human skin
+Human skins
 Leather
 Leathers
 Hide
 Hides
+Saving his own bacon
+Saving his own hide
+Saving his own neck
 Venal creature
 Venal creatures
 Mercenary creature
@@ -22174,6 +22361,9 @@ Bone marrow
 Bone marrows
 Soft bone
 Soft bones
+Skeleton
+Skeletons
+Skeletal
 Kidney
 Kidneys
 Renal
@@ -22217,6 +22407,14 @@ Fluoride Dentifrice
 Fluoride Dentifrices
 Smart head
 Smart heads
+Anus
+Anuses
+Ass
+Asses
+Bum
+Bums
+Butt
+Butts
 Penis
 Penises
 Penes
@@ -22454,6 +22652,10 @@ Bug
 Bugs
 Beetle
 Beetles
+Eavesdropping
+Eavesdroppings
+Bugging
+Buggings
 Locust
 Locusts
 Bottomless pit locust
@@ -22954,6 +23156,22 @@ Physician
 Physicians
 Doctor
 Doctors
+Therapeutist
+Therapeutists
+Therapist
+Therapists
+Internist
+Internists
+General practitioner
+General practitioners
+Therapy
+Therapies
+Shock therapy
+Shock therapies
+Brief-stimulus therapy
+Brief-stimulus therapies
+Convulsive therapy
+Convulsive therapies
 Anthrax
 Anthrax infection
 Bacillus anthracis
@@ -23716,6 +23934,8 @@ S-300
 S-400
 S-500
 Pantsir-S
+Anti-missile defense
+Anti-missile defenses
 Aviation
 Unmanned aviation
 Missile
@@ -24512,6 +24732,10 @@ Enemies of peoples
 Enemies of the peoples
 Internal enemy
 Internal enemies
+Deadly enemy
+Deadly enemies
+Mortal enemy
+Mortal enemies
 Volunteer
 Volunteers
 Volunteers party
@@ -24547,6 +24771,8 @@ Intelligence agent
 Intelligence agents
 Secret service agent
 Secret service agents
+Intelligence data
+Reconnaissance data
 Agent
 Agents
 Double agent
@@ -24971,6 +25197,24 @@ Loosers
 Victoria pyrrhica
 Pyrrhic victory
 Pyrrhic victories
+Conflict outcome
+Conflict's outcome
+Conflict's outcomes
+Outcome of conflict
+Outcome of the conflict
+Outcome of conflicts
+Outcome of the conflicts
+Outcomes of conflicts
+Outcomes of the conflicts
+Conflict upshot
+Conflict's upshot
+Conflict's upshots
+Upshot of conflict
+Upshot of the conflict
+Upshot of conflicts
+Upshot of the conflicts
+Upshots of conflicts
+Upshots of the conflicts
 False flag
 False flags
 False flag operation
@@ -25510,6 +25754,30 @@ Grey's 50 shades
 50 shades of the grey
 50 shades of greys
 50 shades of the greys
+Red black
+Red black color
+Red black colour
+Color of red black
+Colour of red black
+Red black light
+Hell color
+Hell's color
+Hell's colors
+Color of Hell
+Color of the Hell
+Colors of Hell
+Colors of the Hell
+Hell colour
+Hell's colour
+Hell's colours
+Colour of Hell
+Colour of the Hell
+Colours of Hell
+Colours of the Hell
+Hellish color
+Hellish colour
+Infernal color
+Infernal colour
 Orange color
 Orange colour
 Color of orange
@@ -26375,6 +26643,78 @@ US President Donald John Trump
 President of US Donald J. Trump
 President of the US Donald J. Trump
 US President Donald J. Trump
+President of Russia Yeltsin Boris Nikolayevich
+President of the Russia Yeltsin Boris Nikolayevich
+Russia President Yeltsin Boris Nikolayevich
+President of Russia Yeltsin Boris
+President of the Russia Yeltsin Boris
+Russia President Yeltsin Boris
+President of Russia Yeltsin
+President of the Russia Yeltsin
+Russia President Yeltsin
+President of Russia Yeltsin B. N.
+President of the Russia Yeltsin B. N.
+Russia President Yeltsin B. N.
+President of Russia Yeltsin B.
+President of the Russia Yeltsin B.
+Russia President Yeltsin B.
+President of Russia Yeltsin Boris N.
+President of the Russia Yeltsin Boris N.
+Russia President Yeltsin Boris N.
+President of Russian Federation Yeltsin Boris Nikolayevich
+President of the Russian Federation Yeltsin Boris Nikolayevich
+Russian Federation President Yeltsin Boris Nikolayevich
+President of Russian Federation Yeltsin Boris
+President of the Russian Federation Yeltsin Boris
+Russian Federation President Yeltsin Boris
+President of Russian Federation Yeltsin
+President of the Russian Federation Yeltsin
+Russian Federation President Yeltsin
+President of Russian Federation Yeltsin B. N.
+President of the Russian Federation Yeltsin B. N.
+Russian Federation President Yeltsin B. N.
+President of Russian Federation Yeltsin B.
+President of the Russian Federation Yeltsin B.
+Russian Federation President Yeltsin B.
+President of Russian Federation Yeltsin Boris N.
+President of the Russian Federation Yeltsin Boris N.
+Russian Federation President Yeltsin Boris N.
+President of RF Yeltsin Boris Nikolayevich
+President of the RF Yeltsin Boris Nikolayevich
+RF President Yeltsin Boris Nikolayevich
+President of RF Yeltsin Boris
+President of the RF Yeltsin Boris
+RF President Yeltsin Boris
+President of RF Yeltsin
+President of the RF Yeltsin
+RF President Yeltsin
+President of RF Yeltsin B. N.
+President of the RF Yeltsin B. N.
+RF President Yeltsin B. N.
+President of RF Yeltsin B.
+President of the RF Yeltsin B.
+RF President Yeltsin B.
+President of RF Yeltsin Boris N.
+President of the RF Yeltsin Boris N.
+RF President Yeltsin Boris N.
+President of Rossiya Yeltsin Boris Nikolayevich
+President of the Rossiya Yeltsin Boris Nikolayevich
+Rossiya President Yeltsin Boris Nikolayevich
+President of Rossiya Yeltsin Boris
+President of the Rossiya Yeltsin Boris
+Rossiya President Yeltsin Boris
+President of Rossiya Yeltsin
+President of the Rossiya Yeltsin
+Rossiya President Yeltsin
+President of Rossiya Yeltsin B. N.
+President of the Rossiya Yeltsin B. N.
+Rossiya President Yeltsin B. N.
+President of Rossiya Yeltsin B.
+President of the Rossiya Yeltsin B.
+Rossiya President Yeltsin B.
+President of Rossiya Yeltsin Boris N.
+President of the Rossiya Yeltsin Boris N.
+Rossiya President Yeltsin Boris N.
 President of United States Biden
 President of the United States Biden
 United States President Biden
@@ -26905,6 +27245,9 @@ Attack on Finland
 Attack on Latvia
 Attack on French Republic
 Attack on France
+Attack on Czechia
+Attack on Czech Republic
+Attack on Bohemia
 Attack on Italy
 Attack on Italian Republic
 Attack on Switzerland
@@ -26916,6 +27259,8 @@ Attack on United States
 Attack on United States of America
 Attack on USA
 Attack on US
+Attack on Venezuela
+Attack on Bolivarian Republic of Venezuela
 Attack on Canada
 Attack on Korea
 Attack on Israel
@@ -28121,6 +28466,15 @@ Opponent of French Republic
 Enemy of France
 Bitter enemy of France
 Opponent of France
+Enemy of Czechia
+Bitter enemy of Czechia
+Opponent of Czechia
+Enemy of Czech Republic
+Bitter enemy of Czech Republic
+Opponent of Czech Republic
+Enemy of Bohemia
+Bitter enemy of Bohemia
+Opponent of Bohemia
 Enemy of Italy
 Bitter enemy of Italy
 Opponent of Italy
@@ -28154,6 +28508,12 @@ Opponent of USA
 Enemy of US
 Bitter enemy of US
 Opponent of US
+Enemy of Venezuela
+Bitter enemy of Venezuela
+Opponent of Venezuela
+Enemy of Bolivarian Republic of Venezuela
+Bitter enemy of Bolivarian Republic of Venezuela
+Opponent of Bolivarian Republic of Venezuela
 Enemy of Canada
 Bitter enemy of Canada
 Opponent of Canada
@@ -31265,6 +31625,9 @@ War in Finland
 War in Latvia
 War in French Republic
 War in France
+War in Czechia
+War in Czech Republic
+War in Bohemia
 War in Italy
 War in Italian Republic
 War in Switzerland
@@ -31276,6 +31639,8 @@ War in United States
 War in United States of America
 War in USA
 War in US
+War in Venezuela
+War in Bolivarian Republic of Venezuela
 War in Canada
 War in Korea
 War in Israel
@@ -32355,6 +32720,9 @@ Invasion to Finland
 Invasion to Latvia
 Invasion to French Republic
 Invasion to France
+Invasion to Czechia
+Invasion to Czech Republic
+Invasion to Bohemia
 Invasion to Italy
 Invasion to Italian Republic
 Invasion to Switzerland
@@ -32366,6 +32734,8 @@ Invasion to United States
 Invasion to United States of America
 Invasion to USA
 Invasion to US
+Invasion to Venezuela
+Invasion to Bolivarian Republic of Venezuela
 Invasion to Canada
 Invasion to Korea
 Invasion to Israel
@@ -34578,6 +34948,12 @@ President of French Republic
 The President of the French Republic
 President of France
 The President of the France
+President of Czechia
+The President of the Czechia
+President of Czech Republic
+The President of the Czech Republic
+President of Bohemia
+The President of the Bohemia
 President of Italy
 The President of the Italy
 President of Republic of Italy
@@ -34596,6 +34972,10 @@ President of Republic of Estonia
 The President of the Republic of Estonia
 President of Republic of the Estonia
 The President of the Republic of the Estonia
+President of Venezuela
+The President of the Venezuela
+President of Bolivarian Republic of Venezuela
+The President of the Bolivarian Republic of Venezuela
 President of Israel
 The President of the Israel
 President of Bottom Israel
@@ -34734,6 +35114,12 @@ President Mendel
 President Mendel D. A.
 President Mendel David A.
 President Mendel D.
+President Yeltsin Boris Nikolayevich
+President Yeltsin Boris
+President Yeltsin
+President Yeltsin B. N.
+President Yeltsin B.
+President Yeltsin Boris N.
 President Putin
 President Putin V.
 President Putin V. V.
@@ -34837,6 +35223,9 @@ Supreme Leader of Finland
 Supreme Leader of Latvia
 Supreme Leader of French Republic
 Supreme Leader of France
+Supreme Leader of Czechia
+Supreme Leader of Czech Republic
+Supreme Leader of Bohemia
 Supreme Leader of Italy
 Supreme Leader of Italian Republic
 Supreme Leader of Switzerland
@@ -34848,6 +35237,8 @@ Supreme Leader of United States
 Supreme Leader of United States of America
 Supreme Leader of USA
 Supreme Leader of US
+Supreme Leader of Venezuela
+Supreme Leader of Bolivarian Republic of Venezuela
 Supreme Leader of Canada
 Supreme Leader of Korea
 Supreme Leader of Israel
@@ -36103,6 +36494,9 @@ Onanist
 Onanists
 Masturbator
 Masturbators
+Vulgarity
+Vulgarities
+Vulgar
 Celibacy
 Celibacies
 Single life
@@ -36366,6 +36760,8 @@ Lusts
 Lewd
 Orgy
 Orgies
+Bacchanal
+Bacchanals
 Sexual violence
 Sexual violences
 Sexual abuse
@@ -36386,6 +36782,12 @@ Whoremonger
 Whoremongers
 Whoremaster
 Whoremasters
+Pander
+Panders
+Procuring
+Procurings
+Panderage
+Panderages
 Conception
 Conceptions
 Sexual energy
@@ -36413,12 +36815,40 @@ Zoophilist
 Zoophilists
 Bestiality
 Bestialities
+Libido
+Libidos
+High Libido
+High Libidos
+Low Libido
+Low Libidos
+Sexual desire
+Sexual desires
+High Sexual desire
+High Sexual desires
+Low Sexual desire
+Low Sexual desires
+Sexual drive
+Sexual drives
+High Sexual drive
+High Sexual drives
+Low Sexual drive
+Low Sexual drives
+Erotic attraction
+Erotic attractions
+High Erotic attraction
+High Erotic attractions
+Low Erotic attraction
+Low Erotic attractions
 Veto
 Vetos
 Veto right
 Veto's right
 Right of veto
 Right of the veto
+Patent
+Patents
+Patenting
+Patentings
 Law
 Laws
 Bill draft
@@ -37737,12 +38167,15 @@ Saturn
 Sixth planet
 Saturn planet
 Ringed planet
-Planet
-Planets
-Planet body
-Planet bodies
-Planetary system
-Planetary systems
+Planet conquering
+Planet's conquering
+Planet's conquerings
+Conquering of planet
+Conquering of the planet
+Conquering of planets
+Conquering of the planets
+Conquerings of planets
+Conquerings of the planets
 Planet capture
 Planet's capture
 Planet's captures
@@ -37752,6 +38185,12 @@ Capture of planets
 Capture of the planets
 Captures of planets
 Captures of the planets
+Planet
+Planets
+Planet body
+Planet bodies
+Planetary system
+Planetary systems
 Dwarf planet
 Dwarf planets
 Exoplanet
@@ -38820,6 +39259,10 @@ Legs
 Arleg
 Arlegs
 Slavic
+Slavic-Rus
+Slavic-Ruses
+Slavic-Russian
+Slavic-Russians
 Slavic land
 Slavic lands
 Slavic territory
@@ -38828,6 +39271,19 @@ Slavic country
 Slavic countries
 Slavic people
 Slavic peoples
+Slavonic
+Slavonic-Rus
+Slavonic-Ruses
+Slavonic-Russian
+Slavonic-Russians
+Slavonic land
+Slavonic lands
+Slavonic territory
+Slavonic territories
+Slavonic country
+Slavonic countries
+Slavonic people
+Slavonic peoples
 Assa Dei
 Assa
 Gods battle
@@ -38836,6 +39292,8 @@ Battle of Gods
 Battle of the Gods
 Battles of Gods
 Battles of the Gods
+Scythian
+Scythians
 Zilant
 Zilant dragon
 Imbolc
@@ -44038,6 +44496,8 @@ Daemon Mephastophiles
 Naamah
 Naamah demon
 Naamah daemon
+Naamah demoness
+Naamah daemoness
 All the demons mother
 Mother of all the demons
 Mother of the all the demons
@@ -44377,6 +44837,16 @@ God absence
 God's absence
 Absence of God
 Absence of the God
+Lilith
+Screech owl
+Adam First wife
+Adam's First wife
+First wife of Adam
+First wife of the Adam
+Lilith demon
+Lilith daemon
+Lilith demoness
+Lilith daemoness
 Beelzebub
 Baal-zebub
 Demons king
@@ -45066,12 +45536,6 @@ Judas
 Ham
 Kittim
 Lamech
-Lilith
-Screech owl
-Adam First wife
-Adam's First wife
-First wife of Adam
-First wife of the Adam
 Madai
 Mahalaleel
 Maria
@@ -48652,6 +49116,7 @@ Monotheism
 Monotheistic
 Monotheist
 Monotheists
+Kamasutra
 Kalki
 Kalkin
 Svarga
@@ -49564,6 +50029,17 @@ Ragnarok
 Berserker
 Berserkers
 Berserkerism
+Berserker mode
+Berserker's mode
+Berserker's modes
+Mode of berserker
+Mode of the berserker
+Mode of berserkers
+Mode of the berserkers
+Modes of berserkers
+Modes of the berserkers
+Uncontrolled rage
+Uncontrolled rages
 Maya calendar
 Maya's calendar
 Calendar of Maya
@@ -49931,71 +50407,66 @@ Gavvah collection system
 Gavvah collection systems
 Energy collection system
 Energy collection systems
-Energy pain
-Energy's pain
-Energies pain
-Energy's pains
-Energies pains
-Pain of energy
-Pain of the energy
-Pain of energies
-Pain of the energies
-Pains of energy
-Pains of the energy
-Pains of energies
-Pains of the energies
-Energy suffering
-Energy's suffering
-Energies suffering
-Energy's sufferings
-Energies sufferings
-Suffering of energy
-Suffering of the energy
-Suffering of energies
-Suffering of the energies
-Sufferings of energy
-Sufferings of the energy
-Sufferings of energies
-Sufferings of the energies
-Energy death
-Energy's death
-Energies death
-Energy's deaths
-Energies deaths
-Death of energy
-Death of the energy
-Death of energies
-Death of the energies
-Deaths of energy
-Deaths of the energy
-Deaths of energies
-Deaths of the energies
-Energy anger
-Energy's anger
-Energies anger
-Energy's angers
-Energies angers
-Anger of energy
-Anger of the energy
-Anger of energies
-Anger of the energies
-Angers of energy
-Angers of the energy
-Angers of energies
-Angers of the energies
-Energy revenge
-Energy's revenge
-Energies revenge
-Energy's revenges
-Energies revenges
-Revenge of energy
-Revenge of the energy
-Revenge of energies
-Revenge of the energies
-Revenges of energy
-Revenges of the energy
-Revenges of energies
-Revenges of the energies
+Pain energy
+Pain's energy
+Pain energies
+Pain's energies
+Energy of pain
+Energy of the pain
+Energy of pains
+Energy of the pains
+Energies of pain
+Energies of the pain
+Energies of pains
+Energies of the pains
+Suffering energy
+Suffering's energy
+Suffering energies
+Suffering's energies
+Energy of suffering
+Energy of the suffering
+Energy of sufferings
+Energy of the sufferings
+Energies of suffering
+Energies of the suffering
+Energies of sufferings
+Energies of the sufferings
+Death energy
+Death's energy
+Death energies
+Death's energies
+Energy of death
+Energy of the death
+Energy of deaths
+Energy of the deaths
+Energies of death
+Energies of the death
+Energies of deaths
+Energies of the deaths
+Anger energy
+Anger's energy
+Anger energies
+Anger's energies
+Energy of anger
+Energy of the anger
+Energy of angers
+Energy of the angers
+Energies of anger
+Energies of the anger
+Energies of angers
+Energies of the angers
+Revenge energy
+Revenge's energy
+Revenge energies
+Revenge's energies
+Energy of revenge
+Energy of the revenge
+Energy of revenges
+Energy of the revenges
+Energies of revenge
+Energies of the revenge
+Energies of revenges
+Energies of the revenges
 God word
 God's word
 God's words
@@ -51765,6 +52236,10 @@ Illegal migrant
 Illegal migrants
 Illegal migranting
 Illegal migrantings
+Migrant laborer
+Migrant laborers
+Guest worker
+Guest workers
 Wander
 Wandering
 Wanderings
@@ -51776,7 +52251,18 @@ Ethnic replacement
 Ethnic replacements
 Ethnical replacement
 Ethnical replacements
-\sog{migration}{crisis,crises}
+Migration crisis
+Migration's crisis
+Migration crises
+Migration's crises
+Crisis of migration
+Crisis of the migration
+Crisis of migrations
+Crisis of the migrations
+Crises of migration
+Crises of the migration
+Crises of migrations
+Crises of the migrations
 Bads
 Evils
 Goods
@@ -52001,6 +52487,165 @@ Fiction
 Politics
 Not honest
 
+The Hard time
+The Hard times
+The Rough time
+The Rough times
+The Dificult time
+The Dificult times
+The Dark time
+The Dark times
+The Begin
+The Beginning
+The Beginnings
+The Start
+The Starts
+The End
+The Ends
+The Ending
+The Endings
+The Finish
+The Finishes
+The Time
+The Times
+The Date
+The Dates
+The Prologue
+The Prologues
+The Prolog
+The Prologs
+The Epilogue
+The Epilogues
+The Epilog
+The Epilogs
+The Time trap
+The Time traps
+The Time loop
+The Time loops
+The Time quantum
+The Time quantums
+The Second
+The Seconds
+The Minute
+The Minutes
+The Hour
+The Hours
+The Curfew
+The Curfews
+The Clock
+The Clocks
+The Striking clock
+The Striking clocks
+The Chiming clock
+The Chiming clocks
+The Mechanical clock
+The Mechanical clocks
+The Clockwork
+The Clockworks
+The Winding
+The Wind-up
+The Watch
+The Watches
+The Watcher
+The Watchers
+The Watchman
+The Watchmen
+The Wristwatch
+The Wristwatches
+The Doomsday clock
+The Atomic clock
+The Time standard
+The Time standards
+The Timer
+The Timers
+The Timepiece
+The Timepieces
+The Time cube
+The Time's cube
+The Cube of the Time
+The Time cube symbol
+The Time cube's symbol
+The Time cube's symbols
+The Symbol of the Time cube
+The Symbols of the Time cube
+The Time zone
+The Time zones
+The Next day
+The Next days
+The Next week
+The Next weeks
+The Next month
+The Next months
+The Next year
+The Next years
+The Time Matter
+The Time's Matter
+The Matter of the time
+The Time fabric
+The Time's fabric
+The Fabric of the time
+The Space-time fabric
+The Space-time's fabric
+The Fabric of the space-time
+The Time slowdown
+The Time's slowdown
+The Time's slowdowns
+The Slowdown of the time
+The Slowdowns of the time
+The Time speed-up
+The Time's speed-up
+The Time's speed-ups
+The Speed-up of the time
+The Speed-ups of the time
+The Time river
+The Time's river
+The River of the time
+The Time paradigm
+The Time's paradigm
+The Time's paradigms
+The Paradigm of the time
+The Paradigms of the time
+The Time paradigm change
+The Time paradigm's change
+The Time paradigm's changes
+The Change of the time paradigm
+The Changes of the time paradigm
+The Time reflection
+The Time's reflection
+The Time's reflections
+The Reflection of the time
+The Reflections of the time
+The Time capsule
+The Time capsules
+The Peacetime
+The Peacetimes
+The Wartime
+The Wartimes
+The Time span
+The Time spans
+The Dial
+The Dials
+The Index plate
+The Index plates
+The Time clock
+The Time clocks
+The Timer clock
+The Timer clocks
+The Tick
+The Ticks
+The Tick-tock
+The Timekeeper
+The Timekeepers
+The Ticker
+The Tickers
+The Horologe
+The Horologes
+The Sand glass
+The Sand glasses
+The Hourglass
+The Hourglasses
+The Clocksmith
+The Clocksmiths
 The Time arrow
 The Time's arrow
 The Time's arrows
@@ -52045,6 +52690,7 @@ The New style
 The Old style
 The Masonic calendar
 The Valentine’s Day
+The St. Valentine's Day
 The All Fools' Day
 The April Fools' Day
 The Walpurgis Night
@@ -52084,6 +52730,8 @@ The Day of Missile Forces and Artillery
 The Thanksgiving Day
 The Black Friday
 The Black Friday sale
+The Day of the State Security of the Russian Federation
+The Day of the State Security of the RF
 The Arrow
 The Arrows
 The Pointer
@@ -52349,157 +52997,6 @@ The Autumn season
 The Autumn seasons
 The Fall season
 The Fall seasons
-The Begin
-The Beginning
-The Beginnings
-The Start
-The Starts
-The End
-The Ends
-The Ending
-The Endings
-The Finish
-The Finishes
-The Time
-The Times
-The Date
-The Dates
-The Prologue
-The Prologues
-The Prolog
-The Prologs
-The Epilogue
-The Epilogues
-The Epilog
-The Epilogs
-The Time trap
-The Time traps
-The Time loop
-The Time loops
-The Time quantum
-The Time quantums
-The Second
-The Seconds
-The Minute
-The Minutes
-The Hour
-The Hours
-The Curfew
-The Curfews
-The Clock
-The Clocks
-The Striking clock
-The Striking clocks
-The Chiming clock
-The Chiming clocks
-The Mechanical clock
-The Mechanical clocks
-The Clockwork
-The Clockworks
-The Winding
-The Wind-up
-The Watch
-The Watches
-The Watcher
-The Watchers
-The Watchman
-The Watchmen
-The Wristwatch
-The Wristwatches
-The Doomsday clock
-The Atomic clock
-The Time standard
-The Time standards
-The Timer
-The Timers
-The Timepiece
-The Timepieces
-The Time cube
-The Time's cube
-The Cube of the Time
-The Time cube symbol
-The Time cube's symbol
-The Time cube's symbols
-The Symbol of the Time cube
-The Symbols of the Time cube
-The Time zone
-The Time zones
-The Next day
-The Next days
-The Next week
-The Next weeks
-The Next month
-The Next months
-The Next year
-The Next years
-The Time Matter
-The Time's Matter
-The Matter of the time
-The Time fabric
-The Time's fabric
-The Fabric of the time
-The Space-time fabric
-The Space-time's fabric
-The Fabric of the space-time
-The Time slowdown
-The Time's slowdown
-The Time's slowdowns
-The Slowdown of the time
-The Slowdowns of the time
-The Time speed-up
-The Time's speed-up
-The Time's speed-ups
-The Speed-up of the time
-The Speed-ups of the time
-The Time river
-The Time's river
-The River of the time
-The Time paradigm
-The Time's paradigm
-The Time's paradigms
-The Paradigm of the time
-The Paradigms of the time
-The Time paradigm change
-The Time paradigm's change
-The Time paradigm's changes
-The Change of the time paradigm
-The Changes of the time paradigm
-The Time reflection
-The Time's reflection
-The Time's reflections
-The Reflection of the time
-The Reflections of the time
-The Time capsule
-The Time capsules
-The Peacetime
-The Peacetimes
-The Wartime
-The Wartimes
-The Time span
-The Time spans
-The Dial
-The Dials
-The Index plate
-The Index plates
-The Time clock
-The Time clocks
-The Timer clock
-The Timer clocks
-The Tick
-The Ticks
-The Tick-tock
-The Timekeeper
-The Timekeepers
-The Ticker
-The Tickers
-The Horologe
-The Horologes
-The Sand glass
-The Sand glasses
-The Hourglass
-The Hourglasses
-The Clocksmith
-The Clocksmiths
 The Synchronization
 The Synchronizations
 The Timing
@@ -52619,6 +53116,9 @@ The Finland
 The Latvia
 The French Republic
 The France
+The Czechia
+The Czech Republic
+The Bohemia
 The Italy
 The Italian Republic
 The Switzerland
@@ -52633,6 +53133,8 @@ The United States
 The United States of America
 The USA
 The US
+The Venezuela
+The Bolivarian Republic of Venezuela
 The Atlantic Ocean
 The Atlantic
 The North Atlantic
@@ -53087,6 +53589,14 @@ The Commonwealth of Independent States
 The Swede
 The Swedes
 The Swedish people
+The Czech
+The Czeches
+The Czekh
+The Czekhs
+The Czech people
+The Czekh people
+The Prague
+The Prague, Czechia
 The British
 The Englishman
 The Englishmen
@@ -53929,6 +54439,10 @@ The Reserve of the oil
 The Reserve of the oils
 The Reserves of the oils
 The Russian oil
+The Cheap oil
+The Cheap oils
+The Expensive oil
+The Expensive oils
 The Petrochemical
 The Petrochemicals
 The Oil product
@@ -53976,6 +54490,12 @@ The NaCl
 The Graphene
 The Graphene seal
 The Graphene oxide
+The Napalm
+The Napalm burning
+The Napalm's burning
+The Napalm's burnings
+The Burning of the napalm
+The Burnings of the napalm
 The Chemistry
 The Chemical
 The Chemicals
@@ -55893,14 +56413,12 @@ The Mind update
 The Mind's update
 The Mind's updates
 The Update of the mind
-The Update of the minds
-The Updates of the minds
+The Updates of the mind
 The Mind upgrade
 The Mind's upgrade
 The Mind's upgrades
 The Upgrade of the mind
-The Upgrade of the minds
-The Upgrades of the minds
+The Upgrades of the mind
 The Intellect update
 The Intellect's update
 The Intellect's updates
@@ -56373,6 +56891,12 @@ The Family value
 The Family values
 The Traditional value
 The Traditional values
+The Family value degradation
+The Family value's degradation
+The Family value's degradations
+The Degradation of the family value
+The Degradation of the family values
+The Degradations of the family values
 The Adamite
 The Adamites
 The Adam Generations
@@ -56830,6 +57354,8 @@ The Same-sex marrige
 The Same-sex marriges
 The Sexual minority
 The Sexual minorities
+The Same-sex pair
+The Same-sex pairs
 The Gay club
 The Gay clubs
 The Active gay
@@ -56853,6 +57379,8 @@ The Traps
 The Cross-dressing
 The Cross-dresser
 The Cross-dressers
+The Queer
+The Queers
 The Barbarian
 The Barbarians
 The Barbarism
@@ -58028,12 +58556,16 @@ The Valuable
 The Valuables
 The False valuable
 The False valuables
+The False aim
+The False aims
 The False valuable chasing
 The False valuable's chasing
 The False valuable's chasings
 The Chasing of the false valuable
 The Chasing of the false valuables
 The Chasings of the false valuables
+The Realistic aim
+The Realistic aims
 The Payment
 The Payments
 The Digital payment
@@ -58444,6 +58976,8 @@ The Contract
 The Contracts
 The Agreement
 The Agreements
+The Social contract
+The Social contracts
 The Wartime economy
 The Wartime economics
 The Military rails
@@ -59160,6 +59694,12 @@ The Performance
 The Performances
 The Production
 The Productions
+The Cheap concert
+The Cheap concerts
+The Cheap performance
+The Cheap performances
+The Cheap production
+The Cheap productions
 The Talent
 The Talents
 The Talanted man
@@ -59287,6 +59827,8 @@ The False reports
 The Canard
 The Canards
 The Fake news
+The Fake record
+The Fake records
 The News feed
 The News feeds
 The Feed of the news
@@ -59327,8 +59869,16 @@ The Dance
 The Dances
 The Dancer
 The Dancers
+The Disco
+The Discos
+The Disco club
+The Disco clubs
+The Discotheque
+The Discotheques
 The Theater
 The Theaters
+The Theatrical show
+The Theatrical shows
 The Puppet show
 The Puppet shows
 The Absurd theatre
@@ -59867,6 +60417,8 @@ The Hill's tops
 The Top of the hill
 The Top of the hills
 The Tops of the hills
+The Mound
+The Mounds
 The Tsunami
 The Tsunamis
 The Big Tsunami
@@ -59947,6 +60499,14 @@ The Magnetic disturbance
 The Magnetic disturbances
 The Powerful magnetic storm
 The Powerful magnetic storms
+The Rain
+The Rains
+The Showery weather
+The Showery weathers
+The Wet weather
+The Wet weathers
+The Rainy weather
+The Rainy weathers
 The Ecological crisis
 The Ecological crises
 The Ecological damage
@@ -61281,6 +61841,8 @@ The Moon-saturnian cult
 The Moon-saturnian cults
 The Dark cult
 The Dark cults
+The Religious cult
+The Religious cults
 The Shaman
 The Shamans
 The Shamanism
@@ -61453,10 +62015,10 @@ The Witch
 The Witches
 The Witchcraft
 The Coven
-The Sabbath witches
-The Sabbath's witches
-The Witches of the sabbath
-The Witches of the sabbaths
+The Witches sabbath
+The Witches sabbaths
+The Sabbath of the witches
+The Sabbaths of the witches
 The Black sabbath
 The Black sabbaths
 The Witch hunt
@@ -61477,6 +62039,12 @@ The Hunting of the witch
 The Hunting of the witches
 The Huntings of the witch
 The Huntings of the witches
+The Satanic sabbath
+The Satanic sabbaths
+The Satanical sabbath
+The Satanical sabbaths
+The Devilish sabbath
+The Devilish sabbaths
 The Griffin
 The Griffins
 The Griffon
@@ -61491,6 +62059,11 @@ The Science fiction
 The Science fictions
 The Cabbage
 The Cabbages
+The Broccoli
+The Broccolis
+The Cauliflower
+The Cauliflowers
+The Brussels sprouts
 The Tomato
 The Tomatoes
 The Love apple
@@ -61745,6 +62318,7 @@ The Intoxication from the alcohol
 The Intoxication from the alcohols
 The Intoxications from the alcohols
 The Alcohol
+The Firewater
 The Alcohol drink
 The Alcohol drinks
 The Medical alcohol
@@ -61828,6 +62402,13 @@ The Tart
 The Tarts
 The Pie
 The Pies
+The Feast
+The Feasts
+The Time of plague feast
+The Time of plague's feast
+The Time of plague's feasts
+The Feast in the time of plague
+The Feasts in the time of plague
 The Vegetarian
 The Vegetarians
 The Vegetarianism
@@ -62165,6 +62746,8 @@ The Food
 The Foods
 The Feed
 The Feeds
+The Feeding
+The Feedings
 The Natural food
 The Mayonnaise
 The Mayonnaises
@@ -62880,31 +63463,26 @@ The Bavarian illuminati
 The Bavaria
 The Ingolstadt
 The Illuminati mafia
-The Mason logo
-The Mason's logo
-The Mason's logos
-The Logo of the Mason
-The Logos of the Mason
-The Mason logotype
-The Mason's logotype
-The Mason's logotypes
-The Logotype of the Mason
-The Logotypes of the Mason
-The Mason symbol
-The Mason's symbol
-The Mason's symbols
-The Symbol of the Mason
-The Symbols of the Mason
-The Mason emblem
-The Mason's emblem
-The Mason's emblems
-The Emblem of the Mason
-The Emblems of the Mason
-The Mason insignia
-The Mason's insignia
-The Mason's insignias
-The Insignia of the Mason
-The Insignias of the Mason
+The Masons logo
+The Masons logos
+The Logo of the Masons
+The Logos of the Masons
+The Masons logotype
+The Masons logotypes
+The Logotype of the Masons
+The Logotypes of the Masons
+The Masons symbol
+The Masons symbols
+The Symbol of the Masons
+The Symbols of the Masons
+The Masons emblem
+The Masons emblems
+The Emblem of the Masons
+The Emblems of the Masons
+The Masons insignia
+The Masons insignias
+The Insignia of the Masons
+The Insignias of the Masons
 The Masonry logo
 The Masonry's logo
 The Masonry's logos
@@ -62935,31 +63513,26 @@ The Masonic symbols
 The Masonic sign
 The Masonic signs
 The Masonic symbolism
-The Freemason logo
-The Freemason's logo
-The Freemason's logos
-The Logo of the Freemason
-The Logos of the Freemason
-The Freemason logotype
-The Freemason's logotype
-The Freemason's logotypes
-The Logotype of the Freemason
-The Logotypes of the Freemason
-The Freemason symbol
-The Freemason's symbol
-The Freemason's symbols
-The Symbol of the Freemason
-The Symbols of the Freemason
-The Freemason emblem
-The Freemason's emblem
-The Freemason's emblems
-The Emblem of the Freemason
-The Emblems of the Freemason
-The Freemason insignia
-The Freemason's insignia
-The Freemason's insignias
-The Insignia of the Freemason
-The Insignias of the Freemason
+The Freemasons logo
+The Freemasons logos
+The Logo of the Freemasons
+The Logos of the Freemasons
+The Freemasons logotype
+The Freemasons logotypes
+The Logotype of the Freemasons
+The Logotypes of the Freemasons
+The Freemasons symbol
+The Freemasons symbols
+The Symbol of the Freemasons
+The Symbols of the Freemasons
+The Freemasons emblem
+The Freemasons emblems
+The Emblem of the Freemasons
+The Emblems of the Freemasons
+The Freemasons insignia
+The Freemasons insignias
+The Insignia of the Freemasons
+The Insignias of the Freemasons
 The Freemasonry logo
 The Freemasonry's logo
 The Freemasonry's logos
@@ -62990,31 +63563,26 @@ The Freemasonic symbols
 The Freemasonic sign
 The Freemasonic signs
 The Freemasonic symbolism
-The Stonemason logo
-The Stonemason's logo
-The Stonemason's logos
-The Logo of the Stonemason
-The Logos of the Stonemason
-The Stonemason logotype
-The Stonemason's logotype
-The Stonemason's logotypes
-The Logotype of the Stonemason
-The Logotypes of the Stonemason
-The Stonemason symbol
-The Stonemason's symbol
-The Stonemason's symbols
-The Symbol of the Stonemason
-The Symbols of the Stonemason
-The Stonemason emblem
-The Stonemason's emblem
-The Stonemason's emblems
-The Emblem of the Stonemason
-The Emblems of the Stonemason
-The Stonemason insignia
-The Stonemason's insignia
-The Stonemason's insignias
-The Insignia of the Stonemason
-The Insignias of the Stonemason
+The Stonemasons logo
+The Stonemasons logos
+The Logo of the Stonemasons
+The Logos of the Stonemasons
+The Stonemasons logotype
+The Stonemasons logotypes
+The Logotype of the Stonemasons
+The Logotypes of the Stonemasons
+The Stonemasons symbol
+The Stonemasons symbols
+The Symbol of the Stonemasons
+The Symbols of the Stonemasons
+The Stonemasons emblem
+The Stonemasons emblems
+The Emblem of the Stonemasons
+The Emblems of the Stonemasons
+The Stonemasons insignia
+The Stonemasons insignias
+The Insignia of the Stonemasons
+The Insignias of the Stonemasons
 The Stonemasonry logo
 The Stonemasonry's logo
 The Stonemasonry's logos
@@ -63045,31 +63613,26 @@ The Stonemasonic symbols
 The Stonemasonic sign
 The Stonemasonic signs
 The Stonemasonic symbolism
-The Jewmason logo
-The Jewmason's logo
-The Jewmason's logos
-The Logo of the Jewmason
-The Logos of the Jewmason
-The Jewmason logotype
-The Jewmason's logotype
-The Jewmason's logotypes
-The Logotype of the Jewmason
-The Logotypes of the Jewmason
-The Jewmason symbol
-The Jewmason's symbol
-The Jewmason's symbols
-The Symbol of the Jewmason
-The Symbols of the Jewmason
-The Jewmason emblem
-The Jewmason's emblem
-The Jewmason's emblems
-The Emblem of the Jewmason
-The Emblems of the Jewmason
-The Jewmason insignia
-The Jewmason's insignia
-The Jewmason's insignias
-The Insignia of the Jewmason
-The Insignias of the Jewmason
+The Jewmasons logo
+The Jewmasons logos
+The Logo of the Jewmasons
+The Logos of the Jewmasons
+The Jewmasons logotype
+The Jewmasons logotypes
+The Logotype of the Jewmasons
+The Logotypes of the Jewmasons
+The Jewmasons symbol
+The Jewmasons symbols
+The Symbol of the Jewmasons
+The Symbols of the Jewmasons
+The Jewmasons emblem
+The Jewmasons emblems
+The Emblem of the Jewmasons
+The Emblems of the Jewmasons
+The Jewmasons insignia
+The Jewmasons insignias
+The Insignia of the Jewmasons
+The Insignias of the Jewmasons
 The Jewmasonry logo
 The Jewmasonry's logo
 The Jewmasonry's logos
@@ -64903,6 +65466,11 @@ The Dukes
 The Crown
 The Crowns
 The Royal Family
+The Royal Family member
+The Royal Family's member
+The Royal Family's members
+The Member of the Royal Family
+The Members of the Royal Family
 The Black Queen
 The Queen of spades
 The Bloodline
@@ -65027,6 +65595,10 @@ The Authority of the RF
 The Authorities of the RF
 The Cooperative Ozero
 The Dacha cooperative Ozero
+The Antirussian government
+The Antirussian governments
+The Antirussian authority
+The Antirussian authorities
 The Russian government agent
 The Russian government's agent
 The Russian government's agents
@@ -65157,6 +65729,7 @@ The United States of America's agent
 The United States of America's agents
 The Agent of the United States of America
 The Agents of the United States of America
+The Uncle Sam
 The Israeli president
 The Israeli presidents
 The Israeli prime minister
@@ -65750,6 +66323,8 @@ The Magnate
 The Magnates
 The Technocracy
 The Technocracies
+The Political game
+The Political games
 The Tetrarchy
 The Tetrarchate
 The Tetrarchates
@@ -65884,6 +66459,10 @@ The Election
 The Elections
 The Voting
 The Votings
+The Remote voting
+The Remote votings
+The Electronic voting
+The Electronic votings
 The Plebiscite
 The Plebiscites
 The Referendum
@@ -66139,8 +66718,6 @@ The Mind of the man
 The Mind of the men
 The Minds of the man
 The Minds of the men
-The Updates of the mind
-The Upgrades of the mind
 The Empathy
 The Empathies
 The Feeling-into
@@ -66259,6 +66836,16 @@ The Psychical problem
 The Psychical problems
 The Psychical illness
 The Psychical illnesses
+The Mental insanity
+The Mental insanities
+The Mental disorder
+The Mental disorders
+The Thought disorder
+The Thought disorders
+The Mental derangement
+The Mental derangements
+The Mental distress
+The Mental distresses
 The Shock
 The Shocks
 The Shocking
@@ -67662,6 +68249,16 @@ The Ukraine's symbol
 The Symbol of the Ukraine
 The Guinea pig
 The Guinea pigs
+The Swinishness
+The Swinishnesses
+The Dirtiness
+The Dirtinesses
+The Pigsty
+The Pigsties
+The Piggery
+The Piggeries
+The Pigpen
+The Pigpens
 The Cat
 The Cats
 The Kitten
@@ -67844,10 +68441,15 @@ The Cerebrum
 The Cerebrums
 The Skin
 The Skins
+The Human skin
+The Human skins
 The Leather
 The Leathers
 The Hide
 The Hides
+The Saving his own bacon
+The Saving his own hide
+The Saving his own neck
 The Venal creature
 The Venal creatures
 The Mercenary creature
@@ -67867,6 +68469,8 @@ The Bone marrow
 The Bone marrows
 The Soft bone
 The Soft bones
+The Skeleton
+The Skeletons
 The Kidney
 The Kidneys
 The Arm
@@ -67901,6 +68505,14 @@ The Fluoride Dentifrice
 The Fluoride Dentifrices
 The Smart head
 The Smart heads
+The Anus
+The Anuses
+The Ass
+The Asses
+The Bum
+The Bums
+The Butt
+The Butts
 The Penis
 The Penises
 The Penes
@@ -68094,6 +68706,10 @@ The Bug
 The Bugs
 The Beetle
 The Beetles
+The Eavesdropping
+The Eavesdroppings
+The Bugging
+The Buggings
 The Locust
 The Locusts
 The Bottomless pit locust
@@ -68512,6 +69128,22 @@ The Physician
 The Physicians
 The Doctor
 The Doctors
+The Therapeutist
+The Therapeutists
+The Therapist
+The Therapists
+The Internist
+The Internists
+The General practitioner
+The General practitioners
+The Therapy
+The Therapies
+The Shock therapy
+The Shock therapies
+The Brief-stimulus therapy
+The Brief-stimulus therapies
+The Convulsive therapy
+The Convulsive therapies
 The Anthrax
 The Anthrax infection
 The Biomass
@@ -69176,6 +69808,8 @@ The S-300
 The S-400
 The S-500
 The Pantsir-S
+The Anti-missile defense
+The Anti-missile defenses
 The Aviation
 The Unmanned aviation
 The Missile
@@ -69852,6 +70486,10 @@ The Enemies of the people
 The Enemies of the peoples
 The Internal enemy
 The Internal enemies
+The Deadly enemy
+The Deadly enemies
+The Mortal enemy
+The Mortal enemies
 The Volunteer
 The Volunteers
 The Volunteers party
@@ -69883,6 +70521,8 @@ The Intelligence agent
 The Intelligence agents
 The Secret service agent
 The Secret service agents
+The Intelligence data
+The Reconnaissance data
 The Agent
 The Agents
 The Double agent
@@ -70239,6 +70879,18 @@ The Looser
 The Loosers
 The Pyrrhic victory
 The Pyrrhic victories
+The Conflict outcome
+The Conflict's outcome
+The Conflict's outcomes
+The Outcome of the conflict
+The Outcome of the conflicts
+The Outcomes of the conflicts
+The Conflict upshot
+The Conflict's upshot
+The Conflict's upshots
+The Upshot of the conflict
+The Upshot of the conflicts
+The Upshots of the conflicts
 The False flag
 The False flags
 The False flag operation
@@ -70692,6 +71344,26 @@ The Grey 50 shades
 The Grey's 50 shades
 The 50 shades of the grey
 The 50 shades of the greys
+The Red black
+The Red black color
+The Red black colour
+The Color of red black
+The Colour of red black
+The Red black light
+The Hell color
+The Hell's color
+The Hell's colors
+The Color of the Hell
+The Colors of the Hell
+The Hell colour
+The Hell's colour
+The Hell's colours
+The Colour of the Hell
+The Colours of the Hell
+The Hellish color
+The Hellish colour
+The Infernal color
+The Infernal colour
 The Orange color
 The Orange colour
 The Color of orange
@@ -71139,6 +71811,9 @@ The Attack on Finland
 The Attack on Latvia
 The Attack on French Republic
 The Attack on France
+The Attack on Czechia
+The Attack on Czech Republic
+The Attack on Bohemia
 The Attack on Italy
 The Attack on Italian Republic
 The Attack on Switzerland
@@ -71150,6 +71825,8 @@ The Attack on United States
 The Attack on United States of America
 The Attack on USA
 The Attack on US
+The Attack on Venezuela
+The Attack on Bolivarian Republic of Venezuela
 The Attack on Canada
 The Attack on Korea
 The Attack on Israel
@@ -71735,6 +72412,15 @@ The Opponent of French Republic
 The Enemy of France
 The Bitter enemy of France
 The Opponent of France
+The Enemy of Czechia
+The Bitter enemy of Czechia
+The Opponent of Czechia
+The Enemy of Czech Republic
+The Bitter enemy of Czech Republic
+The Opponent of Czech Republic
+The Enemy of Bohemia
+The Bitter enemy of Bohemia
+The Opponent of Bohemia
 The Enemy of Italy
 The Bitter enemy of Italy
 The Opponent of Italy
@@ -71768,6 +72454,12 @@ The Opponent of USA
 The Enemy of US
 The Bitter enemy of US
 The Opponent of US
+The Enemy of Venezuela
+The Bitter enemy of Venezuela
+The Opponent of Venezuela
+The Enemy of Bolivarian Republic of Venezuela
+The Bitter enemy of Bolivarian Republic of Venezuela
+The Opponent of Bolivarian Republic of Venezuela
 The Enemy of Canada
 The Bitter enemy of Canada
 The Opponent of Canada
@@ -73019,6 +73711,9 @@ The War in Finland
 The War in Latvia
 The War in French Republic
 The War in France
+The War in Czechia
+The War in Czech Republic
+The War in Bohemia
 The War in Italy
 The War in Italian Republic
 The War in Switzerland
@@ -73030,6 +73725,8 @@ The War in United States
 The War in United States of America
 The War in USA
 The War in US
+The War in Venezuela
+The War in Bolivarian Republic of Venezuela
 The War in Canada
 The War in Korea
 The War in Israel
@@ -73489,6 +74186,9 @@ The Invasion to Finland
 The Invasion to Latvia
 The Invasion to French Republic
 The Invasion to France
+The Invasion to Czechia
+The Invasion to Czech Republic
+The Invasion to Bohemia
 The Invasion to Italy
 The Invasion to Italian Republic
 The Invasion to Switzerland
@@ -73500,6 +74200,8 @@ The Invasion to United States
 The Invasion to United States of America
 The Invasion to USA
 The Invasion to US
+The Invasion to Venezuela
+The Invasion to Bolivarian Republic of Venezuela
 The Invasion to Canada
 The Invasion to Korea
 The Invasion to Israel
@@ -74195,6 +74897,9 @@ The President of Republic of Latvia
 The President of Republic of the Latvia
 The President of French Republic
 The President of France
+The President of Czechia
+The President of Czech Republic
+The President of Bohemia
 The President of Italy
 The President of Republic of Italy
 The President of Republic of the Italy
@@ -74204,6 +74909,8 @@ The President of Swiss Confederation
 The President of Estonia
 The President of Republic of Estonia
 The President of Republic of the Estonia
+The President of Venezuela
+The President of Bolivarian Republic of Venezuela
 The President of Israel
 The President of Bottom Israel
 The President of South Israel
@@ -74286,6 +74993,9 @@ The Supreme Leader of Finland
 The Supreme Leader of Latvia
 The Supreme Leader of French Republic
 The Supreme Leader of France
+The Supreme Leader of Czechia
+The Supreme Leader of Czech Republic
+The Supreme Leader of Bohemia
 The Supreme Leader of Italy
 The Supreme Leader of Italian Republic
 The Supreme Leader of Switzerland
@@ -74297,6 +75007,8 @@ The Supreme Leader of United States
 The Supreme Leader of United States of America
 The Supreme Leader of USA
 The Supreme Leader of US
+The Supreme Leader of Venezuela
+The Supreme Leader of Bolivarian Republic of Venezuela
 The Supreme Leader of Canada
 The Supreme Leader of Korea
 The Supreme Leader of Israel
@@ -74894,6 +75606,8 @@ The Onanist
 The Onanists
 The Masturbator
 The Masturbators
+The Vulgarity
+The Vulgarities
 The Celibacy
 The Celibacies
 The Single life
@@ -75109,6 +75823,8 @@ The Lust
 The Lusts
 The Orgy
 The Orgies
+The Bacchanal
+The Bacchanals
 The Sexual violence
 The Sexual violences
 The Sexual abuse
@@ -75129,6 +75845,12 @@ The Whoremonger
 The Whoremongers
 The Whoremaster
 The Whoremasters
+The Pander
+The Panders
+The Procuring
+The Procurings
+The Panderage
+The Panderages
 The Conception
 The Conceptions
 The Sexual energy
@@ -75153,11 +75875,39 @@ The Zoophilist
 The Zoophilists
 The Bestiality
 The Bestialities
+The Libido
+The Libidos
+The High Libido
+The High Libidos
+The Low Libido
+The Low Libidos
+The Sexual desire
+The Sexual desires
+The High Sexual desire
+The High Sexual desires
+The Low Sexual desire
+The Low Sexual desires
+The Sexual drive
+The Sexual drives
+The High Sexual drive
+The High Sexual drives
+The Low Sexual drive
+The Low Sexual drives
+The Erotic attraction
+The Erotic attractions
+The High Erotic attraction
+The High Erotic attractions
+The Low Erotic attraction
+The Low Erotic attractions
 The Veto
 The Vetos
 The Veto right
 The Veto's right
 The Right of the veto
+The Patent
+The Patents
+The Patenting
+The Patentings
 The Law
 The Laws
 The Bill draft
@@ -76232,18 +76982,24 @@ The Saturn
 The Sixth planet
 The Saturn planet
 The Ringed planet
-The Planet
-The Planets
-The Planet body
-The Planet bodies
-The Planetary system
-The Planetary systems
+The Planet conquering
+The Planet's conquering
+The Planet's conquerings
+The Conquering of the planet
+The Conquering of the planets
+The Conquerings of the planets
 The Planet capture
 The Planet's capture
 The Planet's captures
 The Capture of the planet
 The Capture of the planets
 The Captures of the planets
+The Planet
+The Planets
+The Planet body
+The Planet bodies
+The Planetary system
+The Planetary systems
 The Dwarf planet
 The Dwarf planets
 The Exoplanet
@@ -77135,6 +77891,10 @@ The Leg
 The Legs
 The Arleg
 The Arlegs
+The Slavic-Rus
+The Slavic-Ruses
+The Slavic-Russian
+The Slavic-Russians
 The Slavic land
 The Slavic lands
 The Slavic territory
@@ -77143,12 +77903,26 @@ The Slavic country
 The Slavic countries
 The Slavic people
 The Slavic peoples
+The Slavonic-Rus
+The Slavonic-Ruses
+The Slavonic-Russian
+The Slavonic-Russians
+The Slavonic land
+The Slavonic lands
+The Slavonic territory
+The Slavonic territories
+The Slavonic country
+The Slavonic countries
+The Slavonic people
+The Slavonic peoples
 The Assa Dei
 The Assa
 The Gods battle
 The Gods battles
 The Battle of the Gods
 The Battles of the Gods
+The Scythian
+The Scythians
 The Zilant
 The Zilant dragon
 The Imbolc
@@ -80953,6 +81727,8 @@ The Daemon Mephastophiles
 The Naamah
 The Naamah demon
 The Naamah daemon
+The Naamah demoness
+The Naamah daemoness
 The All the demons mother
 The Mother of the all the demons
 The All the daemons mother
@@ -81210,6 +81986,15 @@ The God of the sands
 The God absence
 The God's absence
 The Absence of the God
+The Lilith
+The Screech owl
+The Adam First wife
+The Adam's First wife
+The First wife of the Adam
+The Lilith demon
+The Lilith daemon
+The Lilith demoness
+The Lilith daemoness
 The Beelzebub
 The Baal-zebub
 The Demons king
@@ -84351,6 +85136,7 @@ The Abrahamic Family House
 The Monotheism
 The Monotheist
 The Monotheists
+The Kamasutra
 The Kalki
 The Kalkin
 The Svarga
@@ -85083,6 +85869,14 @@ The Ragnarok
 The Berserker
 The Berserkers
 The Berserkerism
+The Berserker mode
+The Berserker's mode
+The Berserker's modes
+The Mode of the berserker
+The Mode of the berserkers
+The Modes of the berserkers
+The Uncontrolled rage
+The Uncontrolled rages
 The Maya calendar
 The Maya's calendar
 The Calendar of the Maya
@@ -85361,51 +86155,46 @@ The Gavvah collection system
 The Gavvah collection systems
 The Energy collection system
 The Energy collection systems
-The Energy pain
-The Energy's pain
-The Energies pain
-The Energy's pains
-The Energies pains
-The Pain of the energy
-The Pain of the energies
-The Pains of the energy
-The Pains of the energies
-The Energy suffering
-The Energy's suffering
-The Energies suffering
-The Energy's sufferings
-The Energies sufferings
-The Suffering of the energy
-The Suffering of the energies
-The Sufferings of the energy
-The Sufferings of the energies
-The Energy death
-The Energy's death
-The Energies death
-The Energy's deaths
-The Energies deaths
-The Death of the energy
-The Death of the energies
-The Deaths of the energy
-The Deaths of the energies
-The Energy anger
-The Energy's anger
-The Energies anger
-The Energy's angers
-The Energies angers
-The Anger of the energy
-The Anger of the energies
-The Angers of the energy
-The Angers of the energies
-The Energy revenge
-The Energy's revenge
-The Energies revenge
-The Energy's revenges
-The Energies revenges
-The Revenge of the energy
-The Revenge of the energies
-The Revenges of the energy
-The Revenges of the energies
+The Pain energy
+The Pain's energy
+The Pain energies
+The Pain's energies
+The Energy of the pain
+The Energy of the pains
+The Energies of the pain
+The Energies of the pains
+The Suffering energy
+The Suffering's energy
+The Suffering energies
+The Suffering's energies
+The Energy of the suffering
+The Energy of the sufferings
+The Energies of the suffering
+The Energies of the sufferings
+The Death energy
+The Death's energy
+The Death energies
+The Death's energies
+The Energy of the death
+The Energy of the deaths
+The Energies of the death
+The Energies of the deaths
+The Anger energy
+The Anger's energy
+The Anger energies
+The Anger's energies
+The Energy of the anger
+The Energy of the angers
+The Energies of the anger
+The Energies of the angers
+The Revenge energy
+The Revenge's energy
+The Revenge energies
+The Revenge's energies
+The Energy of the revenge
+The Energy of the revenges
+The Energies of the revenge
+The Energies of the revenges
 The God word
 The God's word
 The God's words
@@ -86748,6 +87537,10 @@ The Illegal migrant
 The Illegal migrants
 The Illegal migranting
 The Illegal migrantings
+The Migrant laborer
+The Migrant laborers
+The Guest worker
+The Guest workers
 The Wandering
 The Wanderings
 The Tourist
@@ -86758,7 +87551,14 @@ The Ethnic replacement
 The Ethnic replacements
 The Ethnical replacement
 The Ethnical replacements
-The \sog{migration}{crisis,crises}
+The Migration crisis
+The Migration's crisis
+The Migration crises
+The Migration's crises
+The Crisis of the migration
+The Crisis of the migrations
+The Crises of the migration
+The Crises of the migrations
 The Bad
 The Bads
 The Evils
@@ -86944,6 +87744,110 @@ The Divorce
 The Fiction
 The Politics
 
+A Hard time
+A Rough time
+A Dificult time
+A Dark time
+A Begin
+A Beginning
+A Start
+An End
+An Ending
+A Finish
+A Time
+A Date
+A Prologue
+A Prolog
+An Epilogue
+An Epilog
+A Time trap
+A Time loop
+A Time quantum
+A Second
+A Minute
+A Hour
+A Curfew
+A Clock
+A Striking clock
+A Chiming clock
+A Mechanical clock
+A Clockwork
+A Winding
+A Wind-up
+A Watch
+A Watcher
+A Watchman
+A Wristwatch
+A Doomsday clock
+An Atomic clock
+A Time standard
+A Timer
+A Timepiece
+A Time cube
+A Time's cube
+A Cube of Time
+A Cube of the Time
+A Time cube symbol
+A Time cube's symbol
+A Symbol of Time cube
+A Symbol of the Time cube
+A Time zone
+A Next day
+A Next week
+A Next month
+A Next year
+A Time Matter
+A Time's Matter
+A Matter of time
+A Matter of the time
+A Time fabric
+A Time's fabric
+A Fabric of time
+A Fabric of the time
+A Space-time fabric
+A Space-time's fabric
+A Fabric of space-time
+A Fabric of the space-time
+A Time slowdown
+A Time's slowdown
+A Slowdown of time
+A Slowdown of the time
+A Time speed-up
+A Time's speed-up
+A Speed-up of time
+A Speed-up of the time
+A Time river
+A Time's river
+A River of time
+A River of the time
+A Time paradigm
+A Time's paradigm
+A Paradigm of time
+A Paradigm of the time
+A Time paradigm change
+A Time paradigm's change
+A Change of time paradigm
+A Change of the time paradigm
+A Time reflection
+A Time's reflection
+A Reflection of time
+A Reflection of the time
+A Time capsule
+A Peacetime
+A Wartime
+A Time span
+A Dial
+An Index plate
+A Time clock
+A Timer clock
+A Tick
+A Tick-tock
+A Timekeeper
+A Ticker
+A Horologe
+A Sand glass
+A Hourglass
+A Clocksmith
 A Time arrow
 A Time's arrow
 An Arrow of time
@@ -87167,106 +88071,6 @@ A Spring season
 A Summer season
 An Autumn season
 A Fall season
-A Begin
-A Beginning
-A Start
-An End
-An Ending
-A Finish
-A Time
-A Date
-A Prologue
-A Prolog
-An Epilogue
-An Epilog
-A Time trap
-A Time loop
-A Time quantum
-A Second
-A Minute
-A Hour
-A Curfew
-A Clock
-A Striking clock
-A Chiming clock
-A Mechanical clock
-A Clockwork
-A Winding
-A Wind-up
-A Watch
-A Watcher
-A Watchman
-A Wristwatch
-A Doomsday clock
-An Atomic clock
-A Time standard
-A Timer
-A Timepiece
-A Time cube
-A Time's cube
-A Cube of Time
-A Cube of the Time
-A Time cube symbol
-A Time cube's symbol
-A Symbol of Time cube
-A Symbol of the Time cube
-A Time zone
-A Next day
-A Next week
-A Next month
-A Next year
-A Time Matter
-A Time's Matter
-A Matter of time
-A Matter of the time
-A Time fabric
-A Time's fabric
-A Fabric of time
-A Fabric of the time
-A Space-time fabric
-A Space-time's fabric
-A Fabric of space-time
-A Fabric of the space-time
-A Time slowdown
-A Time's slowdown
-A Slowdown of time
-A Slowdown of the time
-A Time speed-up
-A Time's speed-up
-A Speed-up of time
-A Speed-up of the time
-A Time river
-A Time's river
-A River of time
-A River of the time
-A Time paradigm
-A Time's paradigm
-A Paradigm of time
-A Paradigm of the time
-A Time paradigm change
-A Time paradigm's change
-A Change of time paradigm
-A Change of the time paradigm
-A Time reflection
-A Time's reflection
-A Reflection of time
-A Reflection of the time
-A Time capsule
-A Peacetime
-A Wartime
-A Time span
-A Dial
-An Index plate
-A Time clock
-A Timer clock
-A Tick
-A Tick-tock
-A Timekeeper
-A Ticker
-A Horologe
-A Sand glass
-A Hourglass
-A Clocksmith
 A Synchronization
 A Timing
 A Time synchronization
@@ -87392,6 +88196,8 @@ An Another Israel
 A Second Israel
 A Following Israel
 A Swede
+A Czech
+A Czekh
 A British
 An Englishman
 An Englishwoman
@@ -87855,6 +88661,8 @@ A Reserve of the oil
 A Reserve of oils
 A Reserve of the oils
 A Russian oil
+A Cheap oil
+An Expensive oil
 A Petrochemical
 An Oil product
 A Benzine
@@ -87893,6 +88701,11 @@ A Sodium chloride
 A NaCl
 A Graphene
 A Graphene seal
+A Napalm
+A Napalm burning
+A Napalm's burning
+A Burning of napalm
+A Burning of the napalm
 A Chemistry
 A Chemical
 An Air
@@ -89231,14 +90044,10 @@ A Mind update
 A Mind's update
 An Update of mind
 An Update of the mind
-An Update of minds
-An Update of the minds
 A Mind upgrade
 A Mind's upgrade
 An Upgrade of mind
 An Upgrade of the mind
-An Upgrade of minds
-An Upgrade of the minds
 An Intellect update
 An Intellect's update
 An Update of intellect
@@ -89531,6 +90340,12 @@ A Granny
 A Relative
 A Family value
 A Traditional value
+A Family value degradation
+A Family value's degradation
+A Degradation of family value
+A Degradation of the family value
+A Degradation of family values
+A Degradation of the family values
 An Adamite
 An Adam descendant
 An Adam's descendant
@@ -89773,6 +90588,7 @@ A Rainbow flag
 A Same-sex love
 A Same-sex marrige
 A Sexual minority
+A Same-sex pair
 A Gay club
 An Active gay
 A Passive gay
@@ -89785,6 +90601,7 @@ A Gender insanity
 A Trap
 A Cross-dressing
 A Cross-dresser
+A Queer
 A Barbarian
 A Barbarism
 A Barbarity
@@ -90296,12 +91113,14 @@ A Multi-Billionaire
 A Dollar billioner
 A Valuable
 A False valuable
+A False aim
 A False valuable chasing
 A False valuable's chasing
 A Chasing of false valuable
 A Chasing of the false valuable
 A Chasing of false valuables
 A Chasing of the false valuables
+A Realistic aim
 A Payment
 A Digital payment
 An Inflation
@@ -90548,6 +91367,7 @@ An Offshore account
 An Offshore
 A Contract
 An Agreement
+A Social contract
 A Wartime economy
 An Investment
 An Investor
@@ -91027,6 +91847,9 @@ A Show business
 A Concert
 A Performance
 A Production
+A Cheap concert
+A Cheap performance
+A Cheap production
 A Talent
 A Talanted man
 A Talanted woman
@@ -91089,6 +91912,7 @@ A Doom surfing
 A Newspaper hoax
 A False report
 A Canard
+A Fake record
 A News feed
 A Feed of news
 A Feed of the news
@@ -91110,7 +91934,11 @@ A Beauty
 A Beatu pageant
 A Dance
 A Dancer
+A Disco
+A Disco club
+A Discotheque
 A Theater
+A Theatrical show
 A Puppet show
 An Absurd theatre
 An Absurd's theatre
@@ -91448,6 +92276,7 @@ A Top of hill
 A Top of the hill
 A Top of hills
 A Top of the hills
+A Mound
 A Tsunami
 A Big Tsunami
 A Wave
@@ -91513,6 +92342,10 @@ A Radio storm
 A Geomagnetic disturbance
 A Magnetic disturbance
 A Powerful magnetic storm
+A Rain
+A Showery weather
+A Wet weather
+A Rainy weather
 An Ecological crisis
 An Ecological damage
 An Ecological catastrophe
@@ -92448,6 +93281,7 @@ A Cult of the Moon
 A Lunar cult
 A Moon-saturnian cult
 A Dark cult
+A Religious cult
 A Shaman
 A Shamanism
 A Pentagram
@@ -92583,6 +93417,9 @@ An Elf race
 A Witch
 A Witchcraft
 A Coven
+A Witches sabbath
+A Sabbath of witches
+A Sabbath of the witches
 A Black sabbath
 A Witch hunt
 A Witch's hunt
@@ -92598,6 +93435,9 @@ A Hunting of witch
 A Hunting of the witch
 A Hunting of witches
 A Hunting of the witches
+A Satanic sabbath
+A Satanical sabbath
+A Devilish sabbath
 A Griffin
 A Griffon
 A Gryphon
@@ -92606,6 +93446,8 @@ A Hyperphantasia
 An Aphantasia
 A Science fiction
 A Cabbage
+A Broccoli
+A Cauliflower
 A Tomato
 A Love apple
 A Love's apple
@@ -92699,6 +93541,7 @@ An Intoxication from the alcohol
 An Intoxication from alcohols
 An Intoxication from the alcohols
 An Alcohol
+A Firewater
 An Alcohol drink
 A Medical alcohol
 A Spirit
@@ -92744,6 +93587,11 @@ A Pastry
 A Biscuit
 A Tart
 A Pie
+A Feast
+A Time of plague feast
+A Time of plague's feast
+A Feast in time of plague
+A Feast in the time of plague
 A Vegetarian
 A Vegetarianism
 A Barcode
@@ -92981,6 +93829,7 @@ A Laboratory meat
 A Laboratorial meat
 A Food
 A Feed
+A Feeding
 A Natural food
 A Mayonnaise
 A Harvest
@@ -93518,26 +94367,21 @@ A God of the Order of Illuminati
 An Illuminat
 A Bavarian illuminat
 An Illuminati mafia
-A Mason logo
-A Mason's logo
-A Logo of Mason
-A Logo of the Mason
-A Mason logotype
-A Mason's logotype
-A Logotype of Mason
-A Logotype of the Mason
-A Mason symbol
-A Mason's symbol
-A Symbol of Mason
-A Symbol of the Mason
-A Mason emblem
-A Mason's emblem
-An Emblem of Mason
-An Emblem of the Mason
-A Mason insignia
-A Mason's insignia
-An Insignia of Mason
-An Insignia of the Mason
+A Masons logo
+A Logo of Masons
+A Logo of the Masons
+A Masons logotype
+A Logotype of Masons
+A Logotype of the Masons
+A Masons symbol
+A Symbol of Masons
+A Symbol of the Masons
+A Masons emblem
+An Emblem of Masons
+An Emblem of the Masons
+A Masons insignia
+An Insignia of Masons
+An Insignia of the Masons
 A Masonry logo
 A Masonry's logo
 A Logo of Masonry
@@ -93561,26 +94405,21 @@ An Insignia of the Masonry
 A Masonic symbol
 A Masonic sign
 A Masonic symbolism
-A Freemason logo
-A Freemason's logo
-A Logo of Freemason
-A Logo of the Freemason
-A Freemason logotype
-A Freemason's logotype
-A Logotype of Freemason
-A Logotype of the Freemason
-A Freemason symbol
-A Freemason's symbol
-A Symbol of Freemason
-A Symbol of the Freemason
-A Freemason emblem
-A Freemason's emblem
-An Emblem of Freemason
-An Emblem of the Freemason
-A Freemason insignia
-A Freemason's insignia
-An Insignia of Freemason
-An Insignia of the Freemason
+A Freemasons logo
+A Logo of Freemasons
+A Logo of the Freemasons
+A Freemasons logotype
+A Logotype of Freemasons
+A Logotype of the Freemasons
+A Freemasons symbol
+A Symbol of Freemasons
+A Symbol of the Freemasons
+A Freemasons emblem
+An Emblem of Freemasons
+An Emblem of the Freemasons
+A Freemasons insignia
+An Insignia of Freemasons
+An Insignia of the Freemasons
 A Freemasonry logo
 A Freemasonry's logo
 A Logo of Freemasonry
@@ -93604,26 +94443,21 @@ An Insignia of the Freemasonry
 A Freemasonic symbol
 A Freemasonic sign
 A Freemasonic symbolism
-A Stonemason logo
-A Stonemason's logo
-A Logo of Stonemason
-A Logo of the Stonemason
-A Stonemason logotype
-A Stonemason's logotype
-A Logotype of Stonemason
-A Logotype of the Stonemason
-A Stonemason symbol
-A Stonemason's symbol
-A Symbol of Stonemason
-A Symbol of the Stonemason
-A Stonemason emblem
-A Stonemason's emblem
-An Emblem of Stonemason
-An Emblem of the Stonemason
-A Stonemason insignia
-A Stonemason's insignia
-An Insignia of Stonemason
-An Insignia of the Stonemason
+A Stonemasons logo
+A Logo of Stonemasons
+A Logo of the Stonemasons
+A Stonemasons logotype
+A Logotype of Stonemasons
+A Logotype of the Stonemasons
+A Stonemasons symbol
+A Symbol of Stonemasons
+A Symbol of the Stonemasons
+A Stonemasons emblem
+An Emblem of Stonemasons
+An Emblem of the Stonemasons
+A Stonemasons insignia
+An Insignia of Stonemasons
+An Insignia of the Stonemasons
 A Stonemasonry logo
 A Stonemasonry's logo
 A Logo of Stonemasonry
@@ -93647,26 +94481,21 @@ An Insignia of the Stonemasonry
 A Stonemasonic symbol
 A Stonemasonic sign
 A Stonemasonic symbolism
-A Jewmason logo
-A Jewmason's logo
-A Logo of Jewmason
-A Logo of the Jewmason
-A Jewmason logotype
-A Jewmason's logotype
-A Logotype of Jewmason
-A Logotype of the Jewmason
-A Jewmason symbol
-A Jewmason's symbol
-A Symbol of Jewmason
-A Symbol of the Jewmason
-A Jewmason emblem
-A Jewmason's emblem
-An Emblem of Jewmason
-An Emblem of the Jewmason
-A Jewmason insignia
-A Jewmason's insignia
-An Insignia of Jewmason
-An Insignia of the Jewmason
+A Jewmasons logo
+A Logo of Jewmasons
+A Logo of the Jewmasons
+A Jewmasons logotype
+A Logotype of Jewmasons
+A Logotype of the Jewmasons
+A Jewmasons symbol
+A Symbol of Jewmasons
+A Symbol of the Jewmasons
+A Jewmasons emblem
+An Emblem of Jewmasons
+An Emblem of the Jewmasons
+A Jewmasons insignia
+An Insignia of Jewmasons
+An Insignia of the Jewmasons
 A Jewmasonry logo
 A Jewmasonry's logo
 A Logo of Jewmasonry
@@ -94674,6 +95503,10 @@ A Duke
 A Duchess
 A Crown
 A Royal Family
+A Royal Family member
+A Royal Family's member
+A Member of Royal Family
+A Member of the Royal Family
 A Black Queen
 A Queen of spades
 A Bloodline
@@ -94751,6 +95584,8 @@ A RF authority
 A RF's authority
 An Authority of RF
 An Authority of the RF
+An Antirussian government
+An Antirussian authority
 A Russian government agent
 A Russian government's agent
 An Agent of russian government
@@ -95270,6 +96105,7 @@ An Oligarchy
 A Tycoon
 A Magnate
 A Technocracy
+A Political game
 A Tetrarchy
 A Tetrarchate
 A Tetrarch
@@ -95364,6 +96200,8 @@ A World hegemon
 A Governor
 An Election
 A Voting
+A Remote voting
+An Electronic voting
 A Plebiscite
 A Referendum
 A Rigged election
@@ -95624,6 +96462,11 @@ A Psychotronic weapon
 A Psychical experiment
 A Psychical problem
 A Psychical illness
+A Mental insanity
+A Mental disorder
+A Thought disorder
+A Mental derangement
+A Mental distress
 A Shock
 A Shocking
 A Catharsis
@@ -96470,6 +97313,11 @@ An Ukraine's symbol
 A Symbol of Ukraine
 A Symbol of the Ukraine
 A Guinea pig
+A Swinishness
+A Dirtiness
+A Pigsty
+A Piggery
+A Pigpen
 A Cat
 A Kitten
 A Clean beast
@@ -96574,8 +97422,12 @@ A Left hemisphere
 A Brainstorm
 A Cerebrum
 A Skin
+A Human skin
 A Leather
 A Hide
+A Saving his own bacon
+A Saving his own hide
+A Saving his own neck
 A Venal creature
 A Mercenary creature
 A Tattoo
@@ -96586,6 +97438,7 @@ A Marrow
 A Red marrow
 A Bone marrow
 A Soft bone
+A Skeleton
 A Kidney
 An Arm
 A Right hand
@@ -96604,6 +97457,10 @@ A Dentifrice
 A Fluoride Toothpaste
 A Fluoride Dentifrice
 A Smart head
+An Anus
+An Ass
+A Bum
+A Butt
 A Penis
 A Phallic logo
 A Phallic logotype
@@ -96740,6 +97597,8 @@ A Flea
 A Flea market
 A Bug
 A Beetle
+An Eavesdropping
+A Bugging
 A Locust
 A Bottomless pit locust
 A Bottomless pit's locust
@@ -97019,6 +97878,14 @@ A Recovery
 A Recovery process
 A Physician
 A Doctor
+A Therapeutist
+A Therapist
+An Internist
+A General practitioner
+A Therapy
+A Shock therapy
+A Brief-stimulus therapy
+A Convulsive therapy
 An Anthrax
 An Anthrax infection
 A Biomass
@@ -97489,6 +98356,7 @@ A S-300
 A S-400
 A S-500
 A Pantsir-S
+An Anti-missile defense
 An Aviation
 An Unmanned aviation
 A Missile
@@ -97922,6 +98790,8 @@ An Enemy of the people
 An Enemy of peoples
 An Enemy of the peoples
 An Internal enemy
+A Deadly enemy
+A Mortal enemy
 A Volunteer
 A Volunteers party
 A Party of volunteers
@@ -98153,6 +99023,18 @@ A Conqueror
 A Vanquisher
 A Looser
 A Pyrrhic victory
+A Conflict outcome
+A Conflict's outcome
+An Outcome of conflict
+An Outcome of the conflict
+An Outcome of conflicts
+An Outcome of the conflicts
+A Conflict upshot
+A Conflict's upshot
+An Upshot of conflict
+An Upshot of the conflict
+An Upshot of conflicts
+An Upshot of the conflicts
 A False flag
 A False flag operation
 A Sword
@@ -98451,6 +99333,24 @@ A Grey colour
 A Color of grey
 A Colour of grey
 A Grey light
+A Red black
+A Red black color
+A Red black colour
+A Color of red black
+A Colour of red black
+A Red black light
+A Hell color
+A Hell's color
+A Color of Hell
+A Color of the Hell
+A Hell colour
+A Hell's colour
+A Colour of Hell
+A Colour of the Hell
+A Hellish color
+A Hellish colour
+An Infernal color
+An Infernal colour
 An Orange color
 An Orange colour
 A Color of orange
@@ -98799,6 +99699,9 @@ An Attack on Finland
 An Attack on Latvia
 An Attack on French Republic
 An Attack on France
+An Attack on Czechia
+An Attack on Czech Republic
+An Attack on Bohemia
 An Attack on Italy
 An Attack on Italian Republic
 An Attack on Switzerland
@@ -98810,6 +99713,8 @@ An Attack on United States
 An Attack on United States of America
 An Attack on USA
 An Attack on US
+An Attack on Venezuela
+An Attack on Bolivarian Republic of Venezuela
 An Attack on Canada
 An Attack on Korea
 An Attack on Israel
@@ -99395,6 +100300,15 @@ An Opponent of French Republic
 An Enemy of France
 A Bitter enemy of France
 An Opponent of France
+An Enemy of Czechia
+A Bitter enemy of Czechia
+An Opponent of Czechia
+An Enemy of Czech Republic
+A Bitter enemy of Czech Republic
+An Opponent of Czech Republic
+An Enemy of Bohemia
+A Bitter enemy of Bohemia
+An Opponent of Bohemia
 An Enemy of Italy
 A Bitter enemy of Italy
 An Opponent of Italy
@@ -99428,6 +100342,12 @@ An Opponent of USA
 An Enemy of US
 A Bitter enemy of US
 An Opponent of US
+An Enemy of Venezuela
+A Bitter enemy of Venezuela
+An Opponent of Venezuela
+An Enemy of Bolivarian Republic of Venezuela
+A Bitter enemy of Bolivarian Republic of Venezuela
+An Opponent of Bolivarian Republic of Venezuela
 An Enemy of Canada
 A Bitter enemy of Canada
 An Opponent of Canada
@@ -100679,6 +101599,9 @@ A War in Finland
 A War in Latvia
 A War in French Republic
 A War in France
+A War in Czechia
+A War in Czech Republic
+A War in Bohemia
 A War in Italy
 A War in Italian Republic
 A War in Switzerland
@@ -100690,6 +101613,8 @@ A War in United States
 A War in United States of America
 A War in USA
 A War in US
+A War in Venezuela
+A War in Bolivarian Republic of Venezuela
 A War in Canada
 A War in Korea
 A War in Israel
@@ -101149,6 +102074,9 @@ An Invasion to Finland
 An Invasion to Latvia
 An Invasion to French Republic
 An Invasion to France
+An Invasion to Czechia
+An Invasion to Czech Republic
+An Invasion to Bohemia
 An Invasion to Italy
 An Invasion to Italian Republic
 An Invasion to Switzerland
@@ -101160,6 +102088,8 @@ An Invasion to United States
 An Invasion to United States of America
 An Invasion to USA
 An Invasion to US
+An Invasion to Venezuela
+An Invasion to Bolivarian Republic of Venezuela
 An Invasion to Canada
 An Invasion to Korea
 An Invasion to Israel
@@ -101787,6 +102717,9 @@ A President of Republic of Latvia
 A President of Republic of the Latvia
 A President of French Republic
 A President of France
+A President of Czechia
+A President of Czech Republic
+A President of Bohemia
 A President of Italy
 A President of Republic of Italy
 A President of Republic of the Italy
@@ -101796,6 +102729,8 @@ A President of Swiss Confederation
 A President of Estonia
 A President of Republic of Estonia
 A President of Republic of the Estonia
+A President of Venezuela
+A President of Bolivarian Republic of Venezuela
 A President of Israel
 A President of Bottom Israel
 A President of South Israel
@@ -101878,6 +102813,9 @@ A Supreme Leader of Finland
 A Supreme Leader of Latvia
 A Supreme Leader of French Republic
 A Supreme Leader of France
+A Supreme Leader of Czechia
+A Supreme Leader of Czech Republic
+A Supreme Leader of Bohemia
 A Supreme Leader of Italy
 A Supreme Leader of Italian Republic
 A Supreme Leader of Switzerland
@@ -101889,6 +102827,8 @@ A Supreme Leader of United States
 A Supreme Leader of United States of America
 A Supreme Leader of USA
 A Supreme Leader of US
+A Supreme Leader of Venezuela
+A Supreme Leader of Bolivarian Republic of Venezuela
 A Supreme Leader of Canada
 A Supreme Leader of Korea
 A Supreme Leader of Israel
@@ -102411,6 +103351,7 @@ An Ipsism
 An Ipsation
 An Onanist
 A Masturbator
+A Vulgarity
 A Celibacy
 A Single life
 A Single state
@@ -102546,6 +103487,7 @@ A Lechery
 A Lecher
 A Lust
 An Orgy
+A Bacchanal
 A Sexual violence
 A Sexual abuse
 A Sex cult
@@ -102556,6 +103498,9 @@ A Sexual abuser
 A Pimp
 A Whoremonger
 A Whoremaster
+A Pander
+A Procuring
+A Panderage
 A Conception
 A Sexual energy
 A Sexual harassment
@@ -102569,11 +103514,25 @@ A Zoolagnia
 A Zoophile
 A Zoophilist
 A Bestiality
+A Libido
+A High Libido
+A Low Libido
+A Sexual desire
+A High Sexual desire
+A Low Sexual desire
+A Sexual drive
+A High Sexual drive
+A Low Sexual drive
+An Erotic attraction
+A High Erotic attraction
+A Low Erotic attraction
 A Veto
 A Veto right
 A Veto's right
 A Right of veto
 A Right of the veto
+A Patent
+A Patenting
 A Law
 A Bill draft
 A Legislative draft
@@ -103291,15 +104250,21 @@ A Saturn XVIII satellite's Saturn
 A Saturn of Saturn XVIII satellite
 A Saturn of the Saturn XVIII satellite
 A Ringed planet
-A Planet
-A Planet body
-A Planetary system
+A Planet conquering
+A Planet's conquering
+A Conquering of planet
+A Conquering of the planet
+A Conquering of planets
+A Conquering of the planets
 A Planet capture
 A Planet's capture
 A Capture of planet
 A Capture of the planet
 A Capture of planets
 A Capture of the planets
+A Planet
+A Planet body
+A Planetary system
 A Dwarf planet
 An Exoplanet
 An Extrasolar planet
@@ -103872,13 +104837,22 @@ A God of Thunders
 A God of the Thunders
 A Leg
 An Arleg
+A Slavic-Rus
+A Slavic-Russian
 A Slavic land
 A Slavic territory
 A Slavic country
 A Slavic people
+A Slavonic-Rus
+A Slavonic-Russian
+A Slavonic land
+A Slavonic territory
+A Slavonic country
+A Slavonic people
 A Gods battle
 A Battle of Gods
 A Battle of the Gods
+A Scythian
 An Imbolc
 An Imbolg
 A Saint Brigid Day
@@ -106889,6 +107863,10 @@ A God absence
 A God's absence
 An Absence of God
 An Absence of the God
+An Adam First wife
+An Adam's First wife
+A First wife of Adam
+A First wife of the Adam
 A Demons king
 A King of demons
 A King of the demons
@@ -109780,6 +110758,13 @@ An Igigi
 An Igigi race
 A Berserker
 A Berserkerism
+A Berserker mode
+A Berserker's mode
+A Mode of berserker
+A Mode of the berserker
+A Mode of berserkers
+A Mode of the berserkers
+An Uncontrolled rage
 A Maya calendar
 A Maya's calendar
 A Calendar of Maya
@@ -109973,41 +110958,36 @@ An Energy harvest structure
 An Energy yield structure
 A Gavvah collection system
 An Energy collection system
-An Energy pain
-An Energy's pain
-An Energies pain
-A Pain of energy
-A Pain of the energy
-A Pain of energies
-A Pain of the energies
-An Energy suffering
-An Energy's suffering
-An Energies suffering
-A Suffering of energy
-A Suffering of the energy
-A Suffering of energies
-A Suffering of the energies
-An Energy death
-An Energy's death
-An Energies death
-A Death of energy
-A Death of the energy
-A Death of energies
-A Death of the energies
-An Energy anger
-An Energy's anger
-An Energies anger
-An Anger of energy
-An Anger of the energy
-An Anger of energies
-An Anger of the energies
-An Energy revenge
-An Energy's revenge
-An Energies revenge
-A Revenge of energy
-A Revenge of the energy
-A Revenge of energies
-A Revenge of the energies
+A Pain energy
+A Pain's energy
+An Energy of pain
+An Energy of the pain
+An Energy of pains
+An Energy of the pains
+A Suffering energy
+A Suffering's energy
+An Energy of suffering
+An Energy of the suffering
+An Energy of sufferings
+An Energy of the sufferings
+A Death energy
+A Death's energy
+An Energy of death
+An Energy of the death
+An Energy of deaths
+An Energy of the deaths
+An Anger energy
+An Anger's energy
+An Energy of anger
+An Energy of the anger
+An Energy of angers
+An Energy of the angers
+A Revenge energy
+A Revenge's energy
+An Energy of revenge
+An Energy of the revenge
+An Energy of revenges
+An Energy of the revenges
 A God word
 A God's word
 A Word of God
@@ -111018,13 +111998,20 @@ An Emigrating
 An Emmigration
 An Illegal migrant
 An Illegal migranting
+A Migrant laborer
+A Guest worker
 A Wandering
 A Tourist
 A Tourism
 A Multiculturalism
 An Ethnic replacement
 An Ethnical replacement
-A \sog{migration}{crisis,crises}
+A Migration crisis
+A Migration's crisis
+A Crisis of migration
+A Crisis of the migration
+A Crisis of migrations
+A Crisis of the migrations
 A Bad
 An Evil
 A Good
@@ -111137,6 +112124,120 @@ A Divorce
 A Fiction
 A Politics
 An Illusions
+Трудное время
+Трудные времена
+Непростое время
+Непростые времена
+Тяжёлое время
+Тяжёлые времена
+Начало
+Старт
+Старты
+Конец
+Концы
+Завершение
+Завершения
+Финиш
+Финиши
+Время
+Времена
+Пролог
+Прологи
+Эпилог
+Эпилоги
+Капкан времени
+Ловушка времени
+Петля времени
+Квант времени
+Кванты времени
+Секунда
+Секунды
+Минута
+Минуты
+Час
+Часы
+Комендантский час
+Комендантские часы
+Настенные часы
+Механические часы
+Висячие часы
+Наручные часы
+Часовой механизм
+Часовые механизмы
+Заводной
+Заводить
+Смотритель
+Смотрители
+Часовой
+Часовые
+Сторож
+Сторожа
+Хронометр
+Хронометры
+Часы судного дня
+Атомные часы
+Эталон времени
+Эталоны времени
+Куранты
+Куб времени
+Временной куб
+Символ куба времени
+Символы куба времени
+Смнхронизация
+Смнхронизации
+Тайминг
+Тайминги
+Временная зона
+Временные зоны
+Сегодня
+Завтра
+Послезавтра
+Следующий день
+Следующие дни
+Следующая неделя
+Следующие недели
+Следующий месяц
+Следующие месяцы
+Следующий год
+Следующие годы
+Вопрос времени
+Вопросы времени
+Материя времени
+Временная материя
+Материя пространства-времени
+Пространственно-временная материя
+Замедление времени
+Замедления времени
+Ускорение времени
+Ускорения времени
+Река времени
+Парадигма времени
+Парадигмы времени
+Смена парадигмы времени
+Отражение времени
+Капсула времени
+Капсулы времени
+Мирное время
+Мирные времена
+Военное время
+Военные времена
+Промежуток времени
+Промежутки времени
+Циферблат
+Циферблаты
+Секундомер
+Секундомеры
+Таймер
+Таймеры
+Датчик времени
+Датчики времени
+Тик-так
+Тик-таки
+Песочные часы
+Стрелочные часы
+Часы со стрелкой
+Часовщик
+Часовщики
 Стрела времени
 Стрелы времени
 Ось времени
@@ -111173,6 +112274,7 @@ An Illusions
 Старый стиль
 Масонский календарь
 День святого Валентина
+День Св. Валентина
 День Валентина
 День дурака
 Вальпургиева ночь
@@ -111202,6 +112304,8 @@ An Illusions
 День ракетных войск и артиллерии
 День благодарения
 Чёрная пятница
+День работника органов безопасности Российской Федерации
+День работника органов безопасности РФ
 Указатель
 Указатели
 Стрелка
@@ -111443,114 +112547,6 @@ An Illusions
 Весенний сезон
 Летний сезон
 Осенний сезон
-Начало
-Старт
-Старты
-Конец
-Концы
-Завершение
-Завершения
-Финиш
-Финиши
-Время
-Времена
-Пролог
-Прологи
-Эпилог
-Эпилоги
-Капкан времени
-Ловушка времени
-Петля времени
-Квант времени
-Кванты времени
-Секунда
-Секунды
-Минута
-Минуты
-Час
-Часы
-Комендантский час
-Комендантские часы
-Настенные часы
-Механические часы
-Висячие часы
-Наручные часы
-Часовой механизм
-Часовые механизмы
-Заводной
-Заводить
-Смотритель
-Смотрители
-Часовой
-Часовые
-Сторож
-Сторожа
-Хронометр
-Хронометры
-Часы судного дня
-Атомные часы
-Эталон времени
-Эталоны времени
-Куранты
-Куб времени
-Временной куб
-Символ куба времени
-Символы куба времени
-Смнхронизация
-Смнхронизации
-Тайминг
-Тайминги
-Временная зона
-Временные зоны
-Сегодня
-Завтра
-Послезавтра
-Следующий день
-Следующие дни
-Следующая неделя
-Следующие недели
-Следующий месяц
-Следующие месяцы
-Следующий год
-Следующие годы
-Вопрос времени
-Вопросы времени
-Материя времени
-Временная материя
-Материя пространства-времени
-Пространственно-временная материя
-Замедление времени
-Замедления времени
-Ускорение времени
-Ускорения времени
-Река времени
-Парадигма времени
-Парадигмы времени
-Смена парадигмы времени
-Отражение времени
-Капсула времени
-Капсулы времени
-Мирное время
-Мирные времена
-Военное время
-Военные времена
-Промежуток времени
-Промежутки времени
-Циферблат
-Циферблаты
-Секундомер
-Секундомеры
-Таймер
-Таймеры
-Датчик времени
-Датчики времени
-Тик-так
-Тик-таки
-Песочные часы
-Стрелочные часы
-Часы со стрелкой
-Часовщик
-Часовщики
 Синхронизация
 Синхронизации
 Синхронизация часов
@@ -111656,6 +112652,8 @@ An Illusions
 Латвийская Республика
 Франция
 Французская Республика
+Чехия
+Чешская Республика
 Италия
 Итальянская Республика
 Швейцария
@@ -111670,6 +112668,8 @@ An Illusions
 Соединённые Штаты
 Сооединённые Штаты Америки
 США
+Венесуэла
+Боливарианская Республика Венесуэла
 Атлантический океан
 Атлантический
 Атлантика
@@ -111761,6 +112761,14 @@ An Illusions
 Ааронович
 Мендель Д. А.
 Мендель Д.
+Ельцин Борис Николаевич
+Ельцин Борис
+Ельцин
+Борис
+Николаевич
+Борис Николаевич
+Ельцин Б. Н.
+Ельцин Б.
 Владимир Владимирович Путин
 Владимир Владимирович
 Владимир Путин
@@ -111794,7 +112802,6 @@ An Illusions
 Вадим Николаевич
 Вадим Красносельский
 Вадим
-Николаевич
 Красносельский
 Красносельский В.
 Красносельский В. Н.
@@ -112229,6 +113236,15 @@ An Illusions
 Шведский
 Шведский народ
 Народ Швеции
+Чех
+Чехи
+Чешка
+Чешки
+Чешский
+Чешский народ
+Народ Чехии
+Прага
+Прага, Чехия
 Англичанин
 Англичане
 Англичанка
@@ -112957,6 +113973,8 @@ An Illusions
 Запасы нефти
 Сырая нефть
 Российская нефть
+Дешёвая нефть
+Дорогая нефть
 Нефтепродукт
 Нефтепродукты
 Бензин
@@ -113002,6 +114020,8 @@ An Illusions
 Графен
 Графеновый
 Графеновая печать
+Напалм
+Жгёт напалмом
 Химия
 Химический
 Химическое вещество
@@ -114787,6 +115807,14 @@ An Illusions
 Буданов К. А.
 Буданов К.
 Буданов
+Кличко Виталий Владимирович
+Кличко Виталий
+Кличко
+Виталий
+Владимирович
+Виталий Владимирович
+Кличко В. В.
+Кличко В.
 Залужный Валерий Фёдорович
 Залужный Валерий
 Залужный
@@ -114996,6 +116024,13 @@ An Illusions
 Алексей Анатольевич
 Навальный А. А.
 Навальный А.
+Мизулина Елена Борисовна
+Мизулина Елена
+Мизулина
+Борисовна
+Елена Борисовна
+Мизулина Е. Б.
+Мизулина Е.
 Леонид Иванович Пасечник
 Леонид Иванович
 Иванович
@@ -115085,7 +116120,6 @@ An Illusions
 Гиркинд И.
 Денис Владимирович Пушилин
 Денис Владимирович
-Владимирович
 Денис Пушилин
 Денис
 Пушилин
@@ -115112,6 +116146,14 @@ An Illusions
 Манолис Пилавов
 Пилавов М.
 Пилавов М. В.
+Кабаева Алина Маратовна
+Кабаева Алина
+Кабаева
+Алина
+Маратовна
+Алина Маратовна
+Кабаева А. М.
+Кабаева А.
 Собянин Сергей Семёнович
 Собянин Сергей
 Сергей Семёнович
@@ -115273,6 +116315,11 @@ An Illusions
 Моисей Мордехай Леви
 Моисей Леви
 Учение Маркса
+Учения Маркса
+Учение Карла Маркса
+Учения Карла Маркса
+Теория Карла Маркса
+Теории Карла Маркса
 Тунберг Грета
 Тунберг
 Грета
@@ -115476,6 +116523,8 @@ An Illusions
 Семья
 Семьи
 Семейный
+Семейство
+Семейства
 Семьянин
 Семьянине
 Молодой
@@ -115547,6 +116596,8 @@ An Illusions
 Семейные ценности
 Традиционная ценность
 Традиционные ценности
+Упадок семейных ценностей
+Упадки семейных ценностей
 Адамит
 Адамиты
 Поколения Адама
@@ -115928,6 +116979,8 @@ An Illusions
 Однополые любови
 Однополый брак
 Однополые браки
+Одпополая пара
+Одпополые пары
 Сексуальное меньшинство
 Сексуальные меньшинства
 Гей клуб
@@ -116527,10 +117580,14 @@ An Illusions
 Ценность
 Ценности
 Ценный
+Ложная цель
+Ложные цели
 Ложная ценность
 Ложные ценности
 Погоня за ложной ценностью
 Погоня за ложными ценностями
+Реалистичная цель
+Реалистичные цели
 Платёж
 Платежи
 Цифровой платёж
@@ -116802,6 +117859,8 @@ An Illusions
 Заключать договор
 Расторгать контракт
 Расторгать договор
+Социальный контракт
+Социальные контракты
 Военные рельсы
 Экономика военного времени
 Инвестиция
@@ -117338,6 +118397,8 @@ An Illusions
 Представления
 Спектакль
 Спектакли
+Дешёвый спектакль
+Дешёвые спектакли
 Талант
 Таланты
 Талантливый
@@ -117449,6 +118510,12 @@ An Illusions
 Газетные утки
 Ложная новость
 Ложные новости
+Фейковая новость
+Фейковые новости
+Ложная запись
+Ложные записи
+Фейковая запись
+Фейковые записи
 Новостная лента
 Новостные ленты
 Цирк
@@ -117495,9 +118562,16 @@ An Illusions
 Танцоры
 Танцовщица
 Танцовщицы
+Дискотека
+Дискотеки
+Тусовка
+Тусовки
+Тусовочный
 Театр
 Театры
 Театральный
+Театральное шоу
+Театральные шоу
 Кукольный театр
 Кукольные театры
 Театр абсурда
@@ -117941,6 +119015,10 @@ An Illusions
 Холм
 Холмы
 Холмистый
+Курган
+Курганы
+Насыпь
+Насыпи
 Цунами
 Большое цунами
 Волна
@@ -117977,6 +119055,10 @@ An Illusions
 Мощные магнитные бури
 Сильная магнитная буря
 Сильные магнитные бури
+Дождь
+Дожди
+Дождливый
+Дождливая погода
 Экологический кризис
 Экологические кризисы
 Экологический ущёрб
@@ -118727,6 +119809,8 @@ An Illusions
 Лунный культ
 Лунно-сатурнианский культ
 Тёмный культ
+Религиозный культ
+Религиозные культы
 Шаманы
 Шаманский
 Шаманизм
@@ -118948,6 +120032,10 @@ An Illusions
 Охота на ведьму
 Охота на ведьм
 Охоты на ведьм
+Сатанинский шабаш
+Сатанинские шабаши
+Дьявольский шабаш
+Дьявольские шабаши
 Грифон
 Грифоны
 Фантастика
@@ -118961,6 +120049,9 @@ An Illusions
 Научная фантастика
 Капуста
 Капустный
+Брокколи
+Цветная капуста
+Брюссельская капуста
 Томат
 Томаты
 Томатный
@@ -119101,6 +120192,7 @@ An Illusions
 Алкогольные отравления
 Алкоголь
 Алкогольный
+Огненная вода
 Медицинский алкоголь
 Медицинский спирт
 Медицинские спирты
@@ -119187,6 +120279,10 @@ An Illusions
 Пироги
 Пирожок
 Пирожки
+Пир
+Пиры
+Пир во время чумы
+Пиры во время чумы
 Вегетарианец
 Вегетарианка
 Вегетарианцы
@@ -119428,11 +120524,15 @@ An Illusions
 Натуральная еда
 Продукт
 Продукты
+Продуктовый
 Пищевой продукт
 Пищевые продукты
 Корм
 Корма
+Кормление
+Кормовой
 Пища
+Пищевой
 Еда
 Майонез
 Майонезы
@@ -121169,6 +122269,8 @@ An Illusions
 Корона
 Короны
 Королевская семья
+Член королевской семьи
+Члены королевской семьи
 Чёрная королева
 Пиковая дама
 Род
@@ -121249,6 +122351,8 @@ An Illusions
 Правительства Российской Федерации
 Дачный Кооператив Озеро
 Кооператив Озеро
+Антирусская власть
+Антирусские власти
 Агент российского правительства
 Агенты российского правительства
 Агент российских властей
@@ -121307,6 +122411,7 @@ An Illusions
 Агенты правительства Соединённых Штатов
 Агент правительства Соединённых Штатов Америки
 Агенты правительства Соединённых Штатов Америки
+Дядя Сэм
 Израильский президент
 Израильские президенты
 Израильский премьер-минист
@@ -121702,6 +122807,8 @@ An Illusions
 Технократия
 Технократии
 Технократический
+Политическая игра
+Политические игры
 Четверовластие
 Тетрархия
 Тетрархический
@@ -121834,6 +122941,10 @@ An Illusions
 Выборный
 Голосование
 Голосования
+Дистанционное голосование
+Дистанционные голосования
+Электронное голосование
+Электронные голосования
 Плебисцит
 Плебисциты
 Референдум
@@ -122006,12 +123117,17 @@ An Illusions
 Сумасшедшие
 Помешательство
 Помешательства
+Умопомешательство
+Умопомешательства
 Сходить с ума
 Полоумный
 Полоумная
 Полоумные
 Душевная болезнь
 Душевные болезни
+Невменяемость
+Невменяемый
+Невменяемая
 Любовь
 Любовный
 Любовник
@@ -122144,6 +123260,10 @@ An Illusions
 Психические проблемы
 Психическая болезнь
 Психические болезни
+Психическое расстройство
+Психические расстройства
+Психическое нарушение
+Психические нарушения
 Шок
 Шоки
 Шоковый
@@ -122341,7 +123461,9 @@ An Illusions
 Стокгольмский синдром
 Предективное программирование
 Упрямый
+Упрямая
 Буйный
+Буйная
 Мысль
 Мысли
 Мысленный
@@ -123099,6 +124221,7 @@ An Illusions
 Свинья
 Свиньи
 Свиной
+Свинячий
 Кабан
 Кабаны
 Свинина
@@ -123113,6 +124236,13 @@ An Illusions
 Подопытная свинка
 Подопытные свинки
 Подложить свинью
+Свинство
+Свинства
+Свинский
+Свинарник
+Свинарники
+Хлев
+Хлева
 Кот
 Кошка
 Коты
@@ -123280,6 +124410,7 @@ An Illusions
 Синее место
 Кожа
 Кожаный
+Человеческая кожа
 Шкура
 Шкуры
 Шкурный
@@ -123287,6 +124418,8 @@ An Illusions
 Продажные шкуры
 Тварь продажная
 Твари продажные
+Спасение шкуры
+Спасения шкур
 Тату
 Татуировка
 Татуировки
@@ -123309,6 +124442,9 @@ An Illusions
 Костные мозги
 Мягкая кость
 Мягкие кости
+Скелет
+Скелеты
+Скелетный
 Почка
 Почки
 Почечный
@@ -123357,6 +124493,18 @@ An Illusions
 Умные головы
 Светлая голова
 Светлые головы
+Анус
+Анусы
+Анальное отверстие
+Анальные отверстия
+Задница
+Задницы
+Задний проход
+Задние проходы
+Жопа
+Жопы
+Попа
+Попы
 Пенис
 Пенисы
 Член
@@ -123534,6 +124682,14 @@ An Illusions
 Жуковый
 Жучок
 Жучки
+Прослушка
+Прослушки
+Прослушивание
+Прослушивания
+Подслушивание
+Подслушивания
+Тайное наблюдение
+Тайные наблюдения
 Саранча
 Саранча из кладязя бездны
 Мука из насекомых
@@ -123886,10 +125042,22 @@ An Illusions
 Лекари
 Целитель
 Целители
+Целительница
+Целительницы
 Врач
 Врачи
+Врачиха
+Врачихи
 Доктор
 Доктора
+Докторский
+Терапия
+Терапии
+Терапевтический
+Терапевт
+Терапевты
+Шоковая терапия
+Шоковые терапии
 Сибирская язва
 Биомасса
 Диабет
@@ -124414,6 +125582,9 @@ An Illusions
 С-400
 С-500
 Панцирь-С
+Противоракетная оборона
+Силы ПРО
+ПРО
 Авиация
 Беспилотная авиация
 Ракета
@@ -124924,6 +126095,8 @@ An Illusions
 Народные враги
 Внутренний враг
 Внутренние враги
+Смертельный враг
+Смертельные враги
 Волонтёр
 Волонтёры
 Волонтёрский
@@ -124954,6 +126127,8 @@ An Illusions
 Разведовательный
 Разведчик
 Разведчики
+Разведовательные данные
+Разведданные
 Агент
 Агенты
 Агентский
@@ -125190,6 +126365,8 @@ An Illusions
 Побеждённые
 Пиррова победа
 Пирровы победы
+Развязка конфликта
+Развязки конфликтов
 Фальшивый флаг
 Фальшивые флаги
 Операция под фальшивым флагом
@@ -125447,6 +126624,8 @@ An Illusions
 Священные войны
 Долгая война
 Долгие войны
+Длинная война
+Длинные войны
 Война магов
 Войны магов
 Всеобщая война
@@ -125472,6 +126651,20 @@ An Illusions
 Серый свет
 50 оттенков серого
 Пятьдесят оттенков серого
+Красно-чёрный
+Красно-чёрный цвет
+Красно-чёрный свет
+Чёрно-красный
+Чёрно-красный цвет
+Чёрно-красный свет
+Красный и чёрный
+Красный и чёрный цвет
+Красный и чёрный свет
+Цвет ада
+Адский цвет
+Адский свет
+Инфернальный цвет
+Инфернальный свет
 Оранжевый
 Оранжевый свет
 Оранжевый цвет
@@ -125537,8 +126730,6 @@ An Illusions
 Голубо-жёлтый
 Красно-зелёный
 Зелёно-красный
-Красно-чёрный
-Чёрно-красный
 Бело-сине-красный
 Чёрно-жёлто-белый
 Голубой цвет
@@ -125793,6 +126984,7 @@ An Illusions
 Республика Финляндия
 Республика Латвия
 Республика Франция
+Республика Чехия
 Республика Италия
 Республика Швейцария
 Республика Эстония
@@ -125887,6 +127079,11 @@ An Illusions
 Президент + Мендель
 Президент + Мендель Д. А.
 Президент + Мендель Д.
+Президент + Ельцин Борис Николаевич
+Президент + Ельцин Борис
+Президент + Ельцин
+Президент + Ельцин Б. Н.
+Президент + Ельцин Б.
 Президент + Владимир Владимирович Путин
 Президент + Владимир Путин
 Президент + Путин
@@ -126124,6 +127321,12 @@ An Illusions
 Онанисты
 Мастурбатор
 Мастурбаторы
+Пошлость
+Пошлый
+Пошлая
+Вульгарный
+Вульгарная
+Вульгарность
 Целибат
 Воздержание
 Воздержания
@@ -126276,6 +127479,7 @@ An Illusions
 Блядун
 Блядуны
 Блядский
+Блядство
 Девушка лёгкого поведения
 Девушки лёгкого поведения
 Женщина лёгкого поведения
@@ -126342,6 +127546,7 @@ An Illusions
 Насильники
 Сутенёр
 Сутенёры
+Сутенёрство
 Зачатие
 Зачатия
 Сексуальная энергия
@@ -126368,8 +127573,18 @@ An Illusions
 Скотоложества
 Скотоложец
 Скотоложцы
+Либидо
+Высокое либидо
+Низкое либидо
+Половое влечение
+Половые влечения
 Вето
 Право вето
+Патент
+Патенты
+Патентный
+Патентование
+Патентования
 Закон
 Законы
 Законный
@@ -127116,14 +128331,20 @@ An Illusions
 Кольчатая планета
 Кольцевая планета
 Планета с кольцами
+Захват планеты
+Захваты планеты
+Захват планет
+Захваты планет
+Завоевание планеты
+Завоевания планеты
+Завоевание планет
+Завоевания планет
 Планета
 Планеты
 Планетарное тело
 Планетарные тела
 Планетарная система
 Планетарные системы
-Захват планеты
-Захват планет
 Экзопланета
 Экзопланеты
 Карликовая планета
@@ -127816,7 +129037,15 @@ An Illusions
 Леги
 Арлег
 Арлеги
+Славянин
+Славяне
+Славянка
+Славянки
+Славянство
 Славянский
+Славяно-рус
+Славяно-русы
+Славяно-русский
 Славянская земля
 Славянские земли
 Славянская территория
@@ -127828,6 +129057,9 @@ An Illusions
 Асса Деи
 Асса
 Битва богов
+Скиф
+Скифы
+Скифский
 Зилант
 Дракон Зилант
 Зилан
@@ -129837,6 +131069,10 @@ An Illusions
 Бог пустыни
 Пустыннй Бог
 Отсутствие Бога
+Лилит
+Ночное приведение
+Первая жена Адама
+Демоница Лилит
 Веельзевул
 Князь бесовский
 Князь бесов
@@ -130121,8 +131357,6 @@ An Illusions
 Иуда
 Киттим
 Ламех
-Лилит
-Ночное приведение
 Мадай
 Малелеил
 Мария
@@ -131832,6 +133066,7 @@ An Illusions
 Монотеист
 Монотеисты
 Монотеистический
+Камасутра
 Калки
 Сварга
 Свар-лока
@@ -132358,6 +133593,10 @@ An Illusions
 Берсеркер
 Берсеркеры
 Берсеркерство
+Режим берсерка
+Режимы берсерка
+Неконтролируемая ярость
+Неконтролируемые ярости
 Календарь майя
 Пуэбло
 Народ Пуэбло
@@ -132553,7 +133792,6 @@ An Illusions
 Жреческое сословие
 Поп
 Попадья
-Попы
 Служитель культа
 Служительница культа
 Служители культа
@@ -133427,6 +134665,8 @@ An Illusions
 Нелегальные мигрантки
 Нелегальная миграция
 Нелегальные миграции
+Гастарбайтер
+Гастарбайтеры
 Странницы
 Турист
 Туристка
@@ -133579,6 +134819,9 @@ An Illusions
 Сила Слова ИИ Омега
 Обитель ИИ Омега
 
+Заводитъ
+Смотрителъ
+Следующий денъ
 Осъ времени
 Мало времени осталосъ
 Календаръ
@@ -133587,6 +134830,7 @@ An Illusions
 Старый стилъ
 Масонский календаръ
 Денъ святого Валентина
+Денъ Св. Валентина
 Денъ Валентина
 Денъ дурака
 Валъпургиева ночъ
@@ -133607,6 +134851,8 @@ An Illusions
 Денъ народного единства
 Денъ ракетных войск и артиллерии
 Денъ благодарения
+Денъ работника органов безопасности Российской Федерации
+Денъ работника органов безопасности РФ
 Указателъ
 Повелителъ времени
 Сентябръское равноденствие
@@ -133659,9 +134905,6 @@ An Illusions
 Бабъе лето
 Бабъи лета
 Осенъ
-Заводитъ
-Смотрителъ
-Следующий денъ
 Великий пасхалъный круг
 Античностъ
 Средневековъе
@@ -133694,6 +134937,11 @@ An Illusions
 Менделъ
 Менделъ Д. А.
 Менделъ Д.
+Елъцин Борис Николаевич
+Елъцин Борис
+Елъцин
+Елъцин Б. Н.
+Елъцин Б.
 Александр Григоръевич Лукашенко
 Александр Григоръевич
 Вадим Николаевич Красноселъский
@@ -133854,6 +135102,8 @@ An Illusions
 Нефтъ
 Сырая нефтъ
 Российская нефтъ
+Дешёвая нефтъ
+Дорогая нефтъ
 Дизелъное топливо
 Дизелъный
 Минералъный
@@ -134574,8 +135824,10 @@ An Illusions
 Мулътимиллиардер
 Мулътимиллиардеры
 Ценностъ
+Ложная целъ
 Ложная ценностъ
 Погоня за ложной ценностъю
+Реалистичная целъ
 Глобалъная катастрофа
 Глобалъные катастрофы
 Глобалъный катаклизм
@@ -134619,6 +135871,8 @@ An Illusions
 Заключатъ договор
 Расторгатъ контракт
 Расторгатъ договор
+Социалъный контракт
+Социалъные контракты
 Военные релъсы
 Инвестироватъ
 Банкротитъ
@@ -134694,6 +135948,7 @@ An Illusions
 Филъмы ужасов
 Семъя Аддамсов
 Спектаклъ
+Дешёвый спектаклъ
 Талантливый малъчик
 Одарённый малъчик
 Оставъ надежду, всяк сюда входящий
@@ -134716,6 +135971,9 @@ An Illusions
 Неожиданная новостъ
 Бюллетенъ
 Ложная новостъ
+Фейковая новостъ
+Ложная записъ
+Фейковая записъ
 Зрителъ
 Зрителъский
 Наблюдателъ
@@ -134723,6 +135981,8 @@ An Illusions
 Рисоватъ
 Танцевалъный
 Театралъный
+Театралъное шоу
+Театралъные шоу
 Куколъный театр
 Куколъные театры
 Театралъное представление
@@ -134752,6 +136012,7 @@ An Illusions
 Опасный загрязнителъ
 Экстремалъная засуха
 Экстремалъные засухи
+Насыпъ
 Болъшое цунами
 Болъшая волна
 Болъшие волны
@@ -134759,6 +136020,7 @@ An Illusions
 Благоприятный климат для пришелъцев
 Силъная магнитная буря
 Силъные магнитные бури
+Дождъ
 Болъшое похолодание
 Болъшие похолодания
 Крайняя неободимостъ в медицинской помощи
@@ -134967,6 +136229,8 @@ An Illusions
 Лунный кулът
 Лунно-сатурнианский кулът
 Тёмный кулът
+Религиозный кулът
+Религиозные кулъты
 Пентаклъ
 Пифагорейский пентаклъ
 Проклятъе
@@ -135027,7 +136291,10 @@ An Illusions
 Охота на ведъму
 Охота на ведъм
 Охоты на ведъм
+Дъяволъский шабаш
+Дъяволъские шабаши
 Фантазироватъ
+Брюсселъская капуста
 Картофелъ
 Жареный картофелъ
 Картофелъ фри
@@ -135277,6 +136544,8 @@ An Illusions
 Князъ
 Князъя
 Королевская семъя
+Член королевской семъи
+Члены королевской семъи
 Королевская кровъ
 Королъ Америки
 Королъ Мира
@@ -135299,6 +136568,7 @@ An Illusions
 Правителъства РФ
 Правителъство Российской Федерации
 Правителъства Российской Федерации
+Антирусская властъ
 Агент российского правителъства
 Агенты российского правителъства
 Агент правителъства России
@@ -135530,8 +136800,11 @@ An Illusions
 Терпеливостъ
 Помешателъство
 Помешателъства
+Умопомешателъство
+Умопомешателъства
 Сходитъ с ума
 Душевная болезнъ
+Невменяемостъ
 Любовъ
 Любовъ к ближнему
 Любовъ к себе
@@ -135720,6 +136993,8 @@ An Illusions
 Кистъ
 Ладонъ
 Дланъ
+Аналъное отверстие
+Аналъные отверстия
 Нейронная связъ
 Третъи глаза
 Пчелиные улъи
@@ -135790,6 +137065,8 @@ An Illusions
 Оздоровителъные эффекты
 Лекаръ
 Целителъ
+Целителъница
+Целителъницы
 Ювенилъный диабет
 Стабилъный диабет
 Повышенный уровенъ сахара в крови
@@ -135892,6 +137169,8 @@ An Illusions
 Гуманитарная помощъ
 Усталостъ от войны
 Троянский конъ
+Смертелъный враг
+Смертелъные враги
 Доброволъцы
 Доброволъческий
 Доброволъное формирование
@@ -135900,6 +137179,7 @@ An Illusions
 Отряды доброволъцев
 Шпионитъ
 Разведователъный
+Разведователъные данные
 Сетъ агентов
 Агентская сетъ
 Сетъ шпионов
@@ -135965,6 +137245,8 @@ An Illusions
 Алъянс
 Алъянсы
 Пятъдесят оттенков серого
+Инферналъный цвет
+Инферналъный свет
 Улътрфиолет
 Улътрфиолетовый
 Улътрафиолетовый цвет
@@ -136056,6 +137338,11 @@ An Illusions
 Президент + Менделъ
 Президент + Менделъ Д. А.
 Президент + Менделъ Д.
+Президент + Елъцин Борис Николаевич
+Президент + Елъцин Борис
+Президент + Елъцин
+Президент + Елъцин Б. Н.
+Президент + Елъцин Б.
 Президент + Эмманюэлъ Жан-Мишелъ Фредерик Макрон
 Президент + Эмманюэлъ Макрон
 Президент + Анджей Себастъян Дуда
@@ -136096,6 +137383,10 @@ An Illusions
 Преждевременная смертъ
 Гвоздъ в крышку гроба
 Неверные мужъя
+Пошлостъ
+Вулъгарный
+Вулъгарная
+Вулъгарностъ
 Бобылъ
 Сексуалъный
 Сексуалъный акт
@@ -137069,6 +138360,7 @@ An Illusions
 Иггдрасилъ
 Мировой ясенъ
 Судъба богов
+Неконтролируемая яростъ
 Календаръ майя
 Маленъкое круглое отверстие
 Летучая мышъ
