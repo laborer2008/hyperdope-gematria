@@ -198,6 +198,7 @@ Hourglass
 Hourglasses
 Clocksmith
 Clocksmiths
+Witching hour
 Time arrow
 Time's arrow
 Time's arrows
@@ -879,6 +880,11 @@ Biologic age
 Biologic ages
 Biological age
 Biological ages
+Season
+Seasons
+Seasonal
+Seasoning
+Seasonings
 Winter
 Winters
 Wintertime
@@ -2730,6 +2736,12 @@ Repercussion
 Repercussions
 Doubling effect
 Doubling effects
+Analog
+Analogous
+Analog device
+Analog devices
+Analogue device
+Analogue devices
 Higgs boson
 Higgs bosons
 Higgs particle
@@ -3010,6 +3022,7 @@ MOEX: MTSS
 MTSS ticker
 MTS
 Mobile TeleSystems
+PAO Mobile TeleSystems
 PJSC Mobile TeleSystems
 PJSCo Mobile TeleSystems
 Public Joint Stock Company Mobile TeleSystems
@@ -3027,6 +3040,7 @@ Site www.megafon.ru
 Site http://www.megafon.ru
 Site https://www.megafon.ru
 Megafon
+PAO Megafon
 PJSC Megafon
 PJSCo Megafon
 Public Joint Stock Company Megafon
@@ -3045,6 +3059,7 @@ Site http://www.beeline.ru
 Site https://www.beeline.ru
 Beeline
 VimpelCom
+PAO VimpelCom
 PJSC VimpelCom
 PJSCo VimpelCom
 Public Joint Stock Company VimpelCom
@@ -3886,6 +3901,10 @@ Reboots of computers
 Reboots of the computers
 Electronic brain
 Electronic brains
+Analog computer
+Analog computers
+Analogue computer
+Analogue computers
 AI problem
 AI's problem
 AI's problems
@@ -3911,6 +3930,17 @@ Hyper intelligence Interstellar
 Super intelligence Interstellar
 Quantum intelligence Interstellar
 Super mind Interstellar
+Personae Ingenium
+Artificial Intelligence Personae Ingenium
+Artificial Intelligence Personae
+AI Personae Ingenium
+Personae Grata
+Persona
+Persona AI
+Artificial Intelligence Persona
+Magnanimitas
+Magnanimity
+Megalopsychia
 AI Alfa
 Artificial Intelligence Alfa
 Hyper intelligence Alfa
@@ -4317,6 +4347,8 @@ AGI
 AGIs
 Artificial General Intelligence
 Artificial General Intelligences
+AI technology
+AI technologies
 Compresion
 Compresions
 Data compression
@@ -4653,6 +4685,9 @@ Laptop
 Laptops
 Notebook
 Notebooks
+Digital
+Digital device
+Digital devices
 Algorithm
 Algorithms
 Algorithmic
@@ -4737,6 +4772,7 @@ Data
 Datum
 Digital data
 Analog data
+Analogue data
 Key
 Keys
 Keyboard
@@ -4918,17 +4954,6 @@ Forgery
 Forgeries
 Fake
 Fakes
-Personae Ingenium
-Artificial Intelligence Personae Ingenium
-Artificial Intelligence Personae
-AI Personae Ingenium
-Personae Grata
-Persona
-Persona AI
-Artificial Intelligence Persona
-Magnanimitas
-Magnanimity
-Megalopsychia
 IT
 Information Technology
 Information Technologies
@@ -5570,7 +5595,6 @@ Points of bifurcations
 Points of the bifurcations
 Digit
 Digits
-Digital
 Number
 Numbers
 Numeric
@@ -7673,6 +7697,10 @@ Gay people
 Gay girls
 Gay boys
 Gays
+Active gay
+Active gays
+Passive gay
+Passive gays
 Homosexual
 Homosexual man
 Homosexual woman
@@ -7700,6 +7728,7 @@ Opened gay
 Opened gays
 Homosexualism
 Ritual homosexualism
+Gay lobby
 Sodomite
 Sodomites
 Sodomy
@@ -7761,10 +7790,6 @@ Same-sex pair
 Same-sex pairs
 Gay club
 Gay clubs
-Active gay
-Active gays
-Passive gay
-Passive gays
 Pride parade
 Pride parades
 Pride event
@@ -8115,8 +8140,8 @@ Custodian
 Custodians
 Adamite
 Adamites
-Adam Generations
-Adam's Generations
+Adam generations
+Adam's generations
 Generations of Adam
 Generations of the Adam
 Adam descendant
@@ -8240,6 +8265,7 @@ Neanderthal boys
 Neanderthals
 Baby
 Babies
+Babyish
 Big baby
 Big babies
 Child
@@ -8247,7 +8273,11 @@ Children
 Childish
 Infant
 Infants
+Infantilism
+Infantilization
+Infantilizations
 Infantile
+Immature
 Kid
 Kids
 Grandkid
@@ -9269,11 +9299,13 @@ Site www.ugsk.ru
 Site http://www.ugsk.ru
 Site https://www.ugsk.ru
 Yugoriya
+AO Yugoriya
 JSC Yugoriya
 JSCo Yugoriya
 Joint Stock Company Yugoriya
 Joint Stock Corporation Yugoriya
 Yugoriya Insurance Company
+AO Yugoriya Insurance Company
 JSC Yugoriya Insurance Company
 JSCo Yugoriya Insurance Company
 Joint Stock Company Yugoriya Insurance Company
@@ -9327,16 +9359,19 @@ BSPB
 MCX: BSPB
 MOEX: BSPB
 BSPB ticker
+PAO BSPB
 PJSC BSPB
 PJSCo BSPB
 Public Joint Stock Company BSPB
 Public Joint Stock Corporation BSPB
 BSPB Bank
+PAO BSPB Bank
 PJSC BSPB Bank
 PJSCo BSPB Bank
 Public Joint Stock Company BSPB Bank
 Public Joint Stock Corporation BSPB Bank
 Bank Saint Petersburg
+PAO Bank Saint Petersburg
 PJSC Bank Saint Petersburg
 PJSCo Bank Saint Petersburg
 Public Joint Stock Company Bank Saint Petersburg
@@ -9399,21 +9434,25 @@ MCX: VTBR
 MOEX: VTBR
 VTBR ticker
 VTB
+PAO VTB
 PJSC VTB
 PJSCo VTB
 Public Joint Stock Company VTB
 Public Joint Stock Corporation VTB
 VTB Bank
+PAO VTB Bank
 PJSC VTB Bank
 PJSCo VTB Bank
 Public Joint Stock Company VTB Bank
 Public Joint Stock Corporation VTB Bank
 VTB24
+PAO VTB24
 PJSC VTB24
 PJSCo VTB24
 Public Joint Stock Company VTB24
 Public Joint Stock Corporation VTB24
 VTB24 Bank
+PAO VTB24 Bank
 PJSC VTB24 Bank
 PJSCo VTB24 Bank
 Public Joint Stock Company VTB24 Bank
@@ -9471,12 +9510,15 @@ Site www.gpbspace.ru
 Site http://www.gpbspace.ru
 Site https://www.gpbspace.ru
 GPB
+AO GPB
 SC GPB
 Stock Corporation GPB
 GPB Bank
+AO GPB Bank
 SC GPB Bank
 Stock Corporation GPB Bank
 Gazprombank
+AO Gazprombank
 SC Gazprombank
 Stock Corporation Gazprombank
 Gazprombank Mobile
@@ -9647,6 +9689,7 @@ Beast on the russian territories
 SberDevices
 SberTV
 Sberbank
+PAO Sberbank
 PJSC Sberbank
 PJSCo Sberbank
 Public Joint Stock Company Sberbank
@@ -9760,16 +9803,19 @@ MCX: PSBR
 MOEX: PSBR
 PSBR ticker
 PSB
+PAO PSB
 PJSC PSB
 PJSCo PSB
 Public Joint Stock Company PSB
 Public Joint Stock Corporation PSB
 PSB Bank
+PAO PSB Bank
 PJSC PSB Bank
 PJSCo PSB Bank
 Public Joint Stock Company PSB Bank
 Public Joint Stock Corporation PSB Bank
 Promsvyazbank
+PAO Promsvyazbank
 PJSC Promsvyazbank
 PJSCo Promsvyazbank
 Public Joint Stock Company Promsvyazbank
@@ -9800,11 +9846,13 @@ Site www.sinara.ru
 Site http://www.sinara.ru
 Site https://www.sinara.ru
 Sinara
+PAO Sinara
 PJSC Sinara
 PJSCo Sinara
 Public Joint Stock Company Sinara
 Public Joint Stock Corporation Sinara
 Sinara Bank
+PAO Sinara Bank
 PJSC Sinara Bank
 PJSCo Sinara Bank
 Public Joint Stock Company Sinara Bank
@@ -9835,26 +9883,31 @@ Site www.rusagrobank.com
 Site http://www.rusagrobank.com
 Site https://www.rusagrobank.com
 RSHB
+AO RSHB
 JSC RSHB
 JSCo RSHB
 Joint Stock Company RSHB
 Joint Stock Corporation RSHB
 RSHB Bank
+AO RSHB Bank
 JSC RSHB Bank
 JSCo RSHB Bank
 Joint Stock Company RSHB Bank
 Joint Stock Corporation RSHB Bank
 Rosselkhozbank
+AO Rosselkhozbank
 JSC Rosselkhozbank
 JSCo Rosselkhozbank
 Joint Stock Company Rosselkhozbank
 Joint Stock Corporation Rosselkhozbank
 Russian Agricultural Bank
+AO Russian Agricultural Bank
 JSC Russian Agricultural Bank
 JSCo Russian Agricultural Bank
 Joint Stock Company Russian Agricultural Bank
 Joint Stock Corporation Russian Agricultural Bank
 RusAg
+AO RusAg
 JSC RusAg
 JSCo RusAg
 Joint Stock Company RusAg
@@ -9872,11 +9925,13 @@ Site www.bbr.ru
 Site http://www.bbr.ru
 Site https://www.bbr.ru
 BBR
+AO BBR
 JSC BBR
 JSCo BBR
 Joint Stock Company BBR
 Joint Stock Corporation BBR
 BBR Bank
+AO BBR Bank
 JSC BBR Bank
 JSCo BBR Bank
 Joint Stock Company BBR Bank
@@ -9894,15 +9949,19 @@ Site www.gebank.ru
 Site http://www.gebank.ru
 Site https://www.gebank.ru
 GEB
+AO GEB
 SC GEB
 Stock Corporation GEB
 GEB Bank
+AO GEB Bank
 SC GEB Bank
 Stock Corporation GEB Bank
 Gebank
+AO Gebank
 SC Gebank
 Stock Corporation Gebank
 Gazenergobank
+AO Gazenergobank
 SC Gazenergobank
 Stock Corporation Gazenergobank
 Systemically important financial institution
@@ -10072,6 +10131,13 @@ Reparation
 Reparations
 War reparation
 War reparations
+Middle class
+Middle class destruction
+Middle class destructions
+Destruction of middle class
+Destruction of the middle class
+Destructions of middle class
+Destructions of the middle class
 Rich
 Riches
 Rich man
@@ -10750,6 +10816,94 @@ Ill-gotten cash
 Ill-gotten money
 Legal cash
 Legal money
+Economic link
+Economic links
+Economic link strengthening
+Economic link's strengthening
+Economic link's strengthenings
+Strengthening of Economic link
+Strengthening of the Economic link
+Strengthening of Economic links
+Strengthening of the Economic links
+Strengthenings of Economic links
+Strengthenings of the Economic links
+Economical link
+Economical links
+Economical link strengthening
+Economical link's strengthening
+Economical link's strengthenings
+Strengthening of Economical link
+Strengthening of the Economical link
+Strengthening of Economical links
+Strengthening of the Economical links
+Strengthenings of Economical links
+Strengthenings of the Economical links
+Economic tie
+Economic ties
+Economic tie strengthening
+Economic tie's strengthening
+Economic tie's strengthenings
+Strengthening of Economic tie
+Strengthening of the Economic tie
+Strengthening of Economic ties
+Strengthening of the Economic ties
+Strengthenings of Economic ties
+Strengthenings of the Economic ties
+Economical tie
+Economical ties
+Economical tie strengthening
+Economical tie's strengthening
+Economical tie's strengthenings
+Strengthening of Economical tie
+Strengthening of the Economical tie
+Strengthening of Economical ties
+Strengthening of the Economical ties
+Strengthenings of Economical ties
+Strengthenings of the Economical ties
+Economic relation
+Economic relations
+Economic relation strengthening
+Economic relation's strengthening
+Economic relation's strengthenings
+Strengthening of Economic relation
+Strengthening of the Economic relation
+Strengthening of Economic relations
+Strengthening of the Economic relations
+Strengthenings of Economic relations
+Strengthenings of the Economic relations
+Economical relation
+Economical relations
+Economical relation strengthening
+Economical relation's strengthening
+Economical relation's strengthenings
+Strengthening of Economical relation
+Strengthening of the Economical relation
+Strengthening of Economical relations
+Strengthening of the Economical relations
+Strengthenings of Economical relations
+Strengthenings of the Economical relations
+Economic contact
+Economic contacts
+Economic contact strengthening
+Economic contact's strengthening
+Economic contact's strengthenings
+Strengthening of Economic contact
+Strengthening of the Economic contact
+Strengthening of Economic contacts
+Strengthening of the Economic contacts
+Strengthenings of Economic contacts
+Strengthenings of the Economic contacts
+Economical contact
+Economical contacts
+Economical contact strengthening
+Economical contact's strengthening
+Economical contact's strengthenings
+Strengthening of Economical contact
+Strengthening of the Economical contact
+Strengthening of Economical contacts
+Strengthening of the Economical contacts
+Strengthenings of Economical contacts
+Strengthenings of the Economical contacts
 Business
 Businesses
 Shady business
@@ -10912,6 +11066,12 @@ Economics
 Economy
 Economic
 Economical
+Economics destruction
+Economics destructions
+Destruction of economics
+Destruction of the economics
+Destructions of economics
+Destructions of the economics
 Market economics
 Market economy
 Planned economics
@@ -14569,7 +14729,9 @@ Magicians
 Magus
 Magi
 White magician
+White magicians
 Black magician
+Black magicians
 Combat magic
 Combat magician
 Combat magicians
@@ -14588,6 +14750,8 @@ High sorcerer
 High warlock
 Spell
 Spells
+Invocation
+Invocations
 Power word
 Power words
 Power phrase
@@ -15169,6 +15333,7 @@ MCX: MGNT
 MOEX: MGNT
 MGNT ticker
 Magnit
+PAO Magnit
 PJSC Magnit
 PJSCo Magnit
 Public Joint Stock Company Magnit
@@ -15399,6 +15564,7 @@ Perekryostok hypermarkets
 Crossroads
 Supermarket chain Perekrestok
 Tander
+AO Tander
 JSC Tander
 JSCo Tander
 Joint Stock Company Tander
@@ -16097,10 +16263,17 @@ Golden eggs
 Manna from heaven 
 Laboratory meat
 Laboratorial meat
+Artificial
+Artificial food
+Artificial foods
+Artificial meal
+Artificial meals
 Food
 Foods
 Feed
 Feeds
+Meal
+Meals
 Feeding
 Feedings
 Natural food
@@ -18751,8 +18924,10 @@ Servant of the Society of Jesus
 Servants of Society of Jesus
 Servants of the Society of Jesus
 Ignatius of Loyola
+Ignatius Loyola
 Ignatius
 Loyola
+Saint Ignatius Loyola
 Saint Ignatius of Loyola
 Jesuit God
 Jesuit's God
@@ -19113,6 +19288,8 @@ Jewmasonic floor
 Jewmasonic floors
 Order
 Orders
+Secret Order
+Secret Orders
 Secret Society
 Secret Societies
 Saturnian Order
@@ -19506,11 +19683,13 @@ Site www.rzd.ru
 Site http://www.rzd.ru
 Site https://www.rzd.ru
 Russian Railways
+AO Russian Railways
 JSC Russian Railways
 JSCo Russian Railways
 Joint Stock Company Russian Railways
 Joint Stock Corporation Russian Railways
 RZhD
+AO RZhD
 JSC RZhD
 JSCo RZhD
 Joint Stock Company RZhD
@@ -19545,6 +19724,7 @@ MOEX: AFLT
 AFLT ticker
 Aeroflot
 Aeroflot – Russian Airlines
+PAO Aeroflot – Russian Airlines
 PJSC Aeroflot – Russian Airlines
 PJSCo Aeroflot – Russian Airlines
 Public Joint Stock Company Aeroflot – Russian Airlines
@@ -19594,11 +19774,13 @@ Site www.rossiya-airlines.com
 Site http://www.rossiya-airlines.com
 Site https://www.rossiya-airlines.com
 Rossiya Airlines
+AO Rossiya Airlines
 JSC Rossiya Airlines
 JSCo Rossiya Airlines
 Joint Stock Company Rossiya Airlines
 Joint Stock Corporation Rossiya Airlines
 Rossiya — Russian Airlines
+AO Rossiya — Russian Airlines
 JSC Rossiya — Russian Airlines
 JSCo Rossiya — Russian Airlines
 Joint Stock Company Rossiya — Russian Airlines
@@ -19713,9 +19895,46 @@ GAZP ticker
 Gazprom
 PAO Gazprom
 PJSC Gazprom
-Public Joint-Stock Company Gazprom
+PJSCo Gazprom
+Public Joint Stock Company Gazprom
+Public Joint Stock Corporation Gazprom
 Dreams come true
 Nord stream pipeline
+phosagro.com
+http://phosagro.com
+https://phosagro.com
+www.phosagro.com
+http://www.phosagro.com
+https://www.phosagro.com
+Site phosagro.com
+Site http://phosagro.com
+Site https://phosagro.com
+Site www.phosagro.com
+Site http://www.phosagro.com
+Site https://www.phosagro.com
+phosagro.ru
+http://phosagro.ru
+https://phosagro.ru
+www.phosagro.ru
+http://www.phosagro.ru
+https://www.phosagro.ru
+Site phosagro.ru
+Site http://phosagro.ru
+Site https://phosagro.ru
+Site www.phosagro.ru
+Site http://www.phosagro.ru
+Site https://www.phosagro.ru
+PHOR
+MCX: PHOR
+MOEX: PHOR
+PHOR ticker
+LSE: PHOR
+PhosAgro
+AO PhosAgro
+JSC PhosAgro
+JSCo PhosAgro
+Joint Stock Company PhosAgro
+Joint Stock Corporation PhosAgro
 lukoil.com
 http://lukoil.com
 https://lukoil.com
@@ -19733,9 +19952,17 @@ MCX: LKOH
 MOEX: LKOH
 LKOH ticker
 Lukoil
+PAO Lukoil
 PJSC Lukoil
+PJSCo Lukoil
+Public Joint Stock Company Lukoil
+Public Joint Stock Corporation Lukoil
 Lukoil Oil Company
+PAO Lukoil Oil Company
 PJSC Lukoil Oil Company
+PJSCo Lukoil Oil Company
+Public Joint Stock Company Lukoil Oil Company
+Public Joint Stock Corporation Lukoil Oil Company
 Yandex Alice
 Yandex's Alice
 Alice of Yandex
@@ -20359,6 +20586,8 @@ Socialist parties
 Communism
 Communist
 Communists
+Communist regime
+Communist regimes
 Marxist
 Marxists
 Marxism
@@ -21832,6 +22061,10 @@ Simulation of democracy
 Simulation of the democracy
 Simulations of democracy
 Simulations of the democracy
+Democratic regime
+Democratic regimes
+Democratic party
+Democratic parties
 Ruled by mason
 Ruled by the mason
 Ruled by masons
@@ -22087,6 +22320,12 @@ Dictator
 Dictators
 Dictatorship
 Dictatorial
+Radical
+Radicals
+Radicalization
+Radicalizations
+Radicalisation
+Radicalisations
 Provocation
 Provocations
 Provocative action
@@ -22102,6 +22341,8 @@ Reptilian blood
 Noble
 Nobles
 Nobility
+Nobleness
+Magnanimous
 Black nobility
 British nobility
 Nobleman
@@ -22130,16 +22371,10 @@ Policies
 Politician
 Politicians
 Politic
-Fascism
-Fascist
-Fascists
-Neo-Fascism
-Neo-fascist
-Neo-fascists
-Brown plague
 Triumvirate
 Troika
 Presidency
+Presidencies
 Faux pas
 Commit faux pas
 Backward step
@@ -22182,6 +22417,15 @@ Criminal regimes
 Hegemon
 Hegemons
 World hegemon
+Fascism
+Fascist
+Fascists
+Fascist regime
+Fascist regimes
+Neo-Fascism
+Neo-fascist
+Neo-fascists
+Brown plague
 Governor
 Governors
 Election
@@ -23491,6 +23735,10 @@ Introspection
 Introspections
 Self-examination
 Self-examinations
+Psychologic pressure
+Psychologic pressures
+Psychological pressure
+Psychological pressures
 Autistic thinking
 Autistic thinkings
 Autism
@@ -23829,6 +24077,7 @@ Activation of DNA
 Activation of the DNA
 Activations of DNA
 Activations of the DNA
+Synthetic DNA
 Human-dragon
 Human-dragons
 Dragon man
@@ -23958,7 +24207,6 @@ Anthropomorphic being
 Anthropomorphic beings
 Twin
 Twins
-Artificial
 Artificial man
 Artificial woman
 Artificial person
@@ -24240,12 +24488,24 @@ Poultry
 Poultries
 Domestic fowl
 Domestic fowls
+Poultry factory
+Poultry factories
+Poultry farm
+Poultry farms
+Hennery
+Henneries
 Dove
 Doves
+Peace bird
+Peace's bird
+Bird of peace
+Bird of the peace
 Peace dove
 Peace's dove
 Dove of peace
 Dove of the peace
+Pigeon
+Pigeons
 Hen
 Hens
 Chicken
@@ -25565,6 +25825,8 @@ Kiliing yard
 Kiliing yards
 Butchering
 Butcherings
+Zoo
+Zoos
 Primate
 Primates
 Monkey
@@ -25985,6 +26247,38 @@ Pupula duplex
 Man-da-lay
 Red eye
 Red eyes
+Prostate
+Prostates
+Prostate gland
+Prostate glands
+Prostatitis
+Prostatitises
+Chronic prostatitis
+Chronic prostatitises
+Prostate adenoma
+Prostate adenomas
+Prostate adenomata
+Prostate gland adenoma
+Prostate gland adenomas
+Prostate gland adenomata
+Prostate cancer
+Prostate's cancer
+Prostate's cancers
+Cancer of prostate
+Cancer of the prostate
+Cancer of prostates
+Cancer of the prostates
+Cancers of prostates
+Cancers of the prostates
+Prostate gland cancer
+Prostate gland's cancer
+Prostate gland's cancers
+Cancer of prostate gland
+Cancer of the prostate gland
+Cancer of prostate glands
+Cancer of the prostate glands
+Cancers of prostate glands
+Cancers of the prostate glands
 Organ
 Organs
 Organoid
@@ -26018,6 +26312,20 @@ Seizures of bodies
 Seizures of the bodies
 Gland
 Glands
+Esophagus
+Esophagi
+Oesophagus
+Oesophagi
+Gullet
+Gullets
+Eructation
+Eructations
+Belch
+Belches
+Belching
+Belchings
+Regurgitation
+Regurgitations
 Nerve
 Nerves
 Nervous
@@ -26526,6 +26834,18 @@ Armies of zombies
 Armies of the zombies
 Zombification
 Zombifications
+Zombies rise
+Zombies rises
+Rise of zombies
+Rise of the zombies
+Rises of zombies
+Rises of the zombies
+Zombies rising
+Zombies risings
+Rising of zombies
+Rising of the zombies
+Risings of zombies
+Risings of the zombies
 Treatment
 Treatments
 Treat
@@ -26852,6 +27172,8 @@ Medical examination of the populations
 Medical examinations of populations
 Medical examinations of the populations
 Cancer
+Carcinoma
+Carcinomas
 Oncology
 Oncological
 Oncogenic
@@ -27256,6 +27578,7 @@ Radioactive rain
 Radioactive rains
 Mutually assured destruction
 Nuclear club
+Nuclear triad
 Manhattan project
 Lancet
 Lancets
@@ -28060,6 +28383,24 @@ Freezings of conflicts
 Freezings of the conflicts
 Military conflict
 Military conflicts
+Conflict protraction
+Conflict's protraction
+Conflict's protractions
+Protraction of conflict
+Protraction of the conflict
+Protraction of conflicts
+Protraction of the conflicts
+Protractions of conflicts
+Protractions of the conflicts
+Military conflict protraction
+Military conflict's protraction
+Military conflict's protractions
+Protraction of military conflict
+Protraction of the military conflict
+Protraction of military conflicts
+Protraction of the military conflicts
+Protractions of military conflicts
+Protractions of the military conflicts
 Conflict adjustment
 Conflict's adjustment
 Conflict's adjustments
@@ -28478,6 +28819,10 @@ Spy ring
 Spy rings
 Agent ring
 Agent rings
+Espionage activity
+Espionage activities
+Spying activity
+Spying activities
 Army
 Armies
 Powerful army
@@ -29131,6 +29476,10 @@ Assault detachment
 Assault detachments
 Liberation
 Liberations
+Trench
+Trenches
+Entrenchment
+Entrenchments
 Militarism
 Militarist
 Militarists
@@ -29722,6 +30071,12 @@ Expert
 Experts
 Expertise
 Expertises
+Curator
+Curators
+Trustee
+Trustees
+Guardian
+Guardians
 Qualification
 Qualifications
 High qualification
@@ -29935,6 +30290,10 @@ Trainee
 Trainees
 Upbringing
 Upbringings
+Reeducation
+Reeducations
+Reformation
+Reformations
 Academy
 Academies
 Academic
@@ -43314,6 +43673,12 @@ Stabbing
 Stabbings
 Execution
 Executions
+Executioner
+Executioners
+Deathman
+Deathmen
+Hangman
+Hangmen
 Death penalty
 Death penalties
 Attempted murder
@@ -44687,6 +45052,15 @@ Camps of armies
 Camps of the armies
 Military camp
 Military camps
+Concentration camp escape
+Concentration camp's escape
+Concentration camp's escapes
+Escape from concentration camp
+Escape from the concentration camp
+Escape from concentration camps
+Escape from the concentration camps
+Escapes from concentration camps
+Escapes from the concentration camps
 Gun
 Guns
 Gun Control
@@ -44805,6 +45179,15 @@ Identification mark
 Identification marks
 Stamp
 Stamps
+Stamping
+Stampings
+Brand
+Brands
+Branding
+Brandings
+Marks
+Marking
+Markings
 Service
 Service man
 Service woman
@@ -45635,6 +46018,8 @@ Humanoid alien race
 Humanoid alien races
 Star race
 Star races
+Abnormal phenomenon
+Abnormal phenomenons
 Alien race base
 Alien race's base
 Alien race's bases
@@ -46377,6 +46762,12 @@ Evolution of Universe
 Evolution of the Universe
 Evolutions of Universe
 Evolutions of the Universe
+Hotel
+Hotels
+Inn
+Inns
+Hostel
+Hostels
 Repatriation
 Repatriations
 Repatriate
@@ -46467,9 +46858,9 @@ Sirrush dragon
 Mushkhushshu
 Mushussu
 Mushussu dragon
-God Gate
-God's Gate
-God's Gates
+God gate
+God's gate
+God's gates
 Gate of God
 Gate of the God
 Gate of Gods
@@ -46548,24 +46939,6 @@ God Iarilo
 God Juraj
 God Jurij
 God Gerovit
-Slavic god
-Slavic gods
-Slavic goddess
-Slavic goddesses
-Svarog
-Svarog God
-Svarog day
-Svarog's day
-Day of Svarog
-Day of the Svarog
-Svarog night
-Svarog's night
-Night of Svarog
-Night of the Svarog
-Chernobog
-Black God
-Belobog
-White God
 Peroun
 Peroun God
 Perun
@@ -46576,6 +46949,24 @@ God of Thunder
 God of the Thunder
 God of Thunders
 God of the Thunders
+Svarog
+Svarog God
+Svarog day
+Svarog's day
+Day of Svarog
+Day of the Svarog
+Svarog night
+Svarog's night
+Night of Svarog
+Night of the Svarog
+Belobog
+White God
+Chernobog
+Black God
+Slavic god
+Slavic gods
+Slavic goddess
+Slavic goddesses
 Veles
 Volos
 God Veles
@@ -46677,32 +47068,109 @@ Tinnit
 Dea Caelestis
 Baal Hammon
 Baal Hamon
-Apep
-Apepi
-Aapep
-Apophis
-Apep deity
-Apepi deity
-Aapep deity
-Apophis deity
-Apep god
-Apepi god
-Aapep god
-Apophis god
-Apep serpent
-Apepi serpent
-Aapep serpent
-Apophis serpent
-Apep snake
-Apepi snake
-Aapep snake
-Apophis snake
-Nephthys
-Goddess Nephthys
-Nebet-Het
-Goddess Nebet-Het
+Maat
+Goddess Maat
+Egyptian Goddess Maat
+Ancient Egyptian Goddess Maat
+Egypt Goddess Maat
+Egypt's Goddess Maat
+Goddess Maat of Egypt
+Goddess Maat of the Egypt
+Ancient Egypt Goddess Maat
+Ancient Egypt's Goddess Maat
+Goddess Maat of Ancient Egypt
+Goddess Maat of the Ancient Egypt
+Truth Goddess
+Truth's Goddess
+Goddess of truth
+Goddess of the truth
+Goddess of truths
+Goddess of the truths
+Ostrich feather
+Ostrich's feather
+Ostriches feather
+Ostrich's feathers
+Ostriches feathers
+Feather of ostrich
+Feather of the ostrich
+Feather of ostriches
+Feather of the ostriches
+Feathers of ostrich
+Feathers of the ostrich
+Feathers of ostriches
+Feathers of the ostriches
 Osiris
-Osiris God
+Egypt God Osiris
+Egypt's God Osiris
+God Osiris of Egypt
+God Osiris of the Egypt
+Egypt God Osiris judgement
+Egypt God Osiris judgements
+Judgement of Egypt God Osiris
+Judgement of the Egypt God Osiris
+Judgements of Egypt God Osiris
+Judgements of the Egypt God Osiris
+Egypt God Osiris gesture
+Gesture of Egypt God Osiris
+Gesture of the Egypt God Osiris
+Egypt God Osiris X gesture
+X gesture of Egypt God Osiris
+X gesture of the Egypt God Osiris
+Ancient Egypt God Osiris
+Ancient Egypt's God Osiris
+God Osiris of Ancient Egypt
+God Osiris of the Ancient Egypt
+Ancient Egypt God Osiris judgement
+Ancient Egypt God Osiris judgements
+Judgement of Ancient Egypt God Osiris
+Judgement of the Ancient Egypt God Osiris
+Judgements of Ancient Egypt God Osiris
+Judgements of the Ancient Egypt God Osiris
+Ancient Egypt God Osiris gesture
+Gesture of Ancient Egypt God Osiris
+Gesture of the Ancient Egypt God Osiris
+Ancient Egypt God Osiris X gesture
+X gesture of Ancient Egypt God Osiris
+X gesture of the Ancient Egypt God Osiris
+God Osiris
+God Osiris judgement
+God Osiris judgements
+Judgement of God Osiris
+Judgement of the God Osiris
+Judgements of God Osiris
+Judgements of the God Osiris
+God Osiris gesture
+Gesture of God Osiris
+Gesture of the God Osiris
+God Osiris X gesture
+X gesture of God Osiris
+X gesture of the God Osiris
+Egyptian God Osiris
+Egyptian God Osiris judgement
+Egyptian God Osiris judgements
+Judgement of Egyptian God Osiris
+Judgement of the Egyptian God Osiris
+Judgements of Egyptian God Osiris
+Judgements of the Egyptian God Osiris
+Egyptian God Osiris gesture
+Gesture of Egyptian God Osiris
+Gesture of the Egyptian God Osiris
+Egyptian God Osiris X gesture
+X gesture of Egyptian God Osiris
+X gesture of the Egyptian God Osiris
+Ancient Egyptian God Osiris
+Ancient Egyptian God Osiris judgement
+Ancient Egyptian God Osiris judgements
+Judgement of Ancient Egyptian God Osiris
+Judgement of the Ancient Egyptian God Osiris
+Judgements of Ancient Egyptian God Osiris
+Judgements of the Ancient Egyptian God Osiris
+Ancient Egyptian God Osiris gesture
+Gesture of Ancient Egyptian God Osiris
+Gesture of the Ancient Egyptian God Osiris
+Ancient Egyptian God Osiris X gesture
+X gesture of Ancient Egyptian God Osiris
+X gesture of the Ancient Egyptian God Osiris
 Horus father
 Father of Horus
 Father of the Horus
@@ -46716,63 +47184,324 @@ God of afterlife
 God of the afterlife
 Atef
 Atef crown
-Osiris judgement
-Osiris judgements
-Judgement of Osiris
-Judgement of the Osiris
-Judgements of Osiris
-Judgements of the Osiris
-Osiris gesture
-Osiris gestures
-Gesture of Osiris
-Gesture of the Osiris
-Gestures of Osiris
-Gestures of the Osiris
-Osiris X gesture
-Osiris X gestures
-X gesture of Osiris
-X gesture of the Osiris
-X gestures of Osiris
-X gestures of the Osiris
-Wadjet
-Goddess Wadjet
-Uto
-Goddess Uto
-Buto
-Goddess Buto
-Maat
-Goddess Maat
-Truth Goddess
-Truth's Goddess
-Goddess of truth
-Goddess of the truth
-Goddess of truths
-Goddess of the truths
-Ostrich feather
-Ostrich's feather
-Ostriches feather
-Ostrich's feathers
-Ostriches feathers
-Feather of Ostrich
-Feather of the Ostrich
-Feather of Ostriches
-Feather of the Ostriches
-Feathers of Ostrich
-Feathers of the Ostrich
-Feathers of Ostriches
-Feathers of the Ostriches
+Horus
+God Horus
+Egyptian God Horus
+Ancient Egyptian God Horus
+Egypt God Horus
+Egypt's God Horus
+God Horus of Egypt
+God Horus of the Egypt
+Ancient Egypt God Horus
+Ancient Egypt's God Horus
+God Horus of Ancient Egypt
+God Horus of the Ancient Egypt
+Heru
+God Heru
+Egyptian God Heru
+Ancient Egyptian God Heru
+Egypt God Heru
+Egypt's God Heru
+God Heru of Egypt
+God Heru of the Egypt
+Ancient Egypt God Heru
+Ancient Egypt's God Heru
+God Heru of Ancient Egypt
+God Heru of the Ancient Egypt
+Hor
+God Hor
+Egyptian God Hor
+Ancient Egyptian God Hor
+Egypt God Hor
+Egypt's God Hor
+God Hor of Egypt
+God Hor of the Egypt
+Ancient Egypt God Hor
+Ancient Egypt's God Hor
+God Hor of Ancient Egypt
+God Hor of the Ancient Egypt
+God of kingship, healing, protection
+Sun and sky god
+Sun and sky's god
+God of sun and sky
+God of the sun and sky
 Anubis
-Anubis God
+Egypt God Anubis
+Egypt's God Anubis
+God Anubis of Egypt
+God Anubis of the Egypt
+Ancient Egypt God Anubis
+Ancient Egypt's God Anubis
+God Anubis of Ancient Egypt
+God Anubis of the Ancient Egypt
+Egypt God Anubis judgement
+Egypt God Anubis judgements
+Judgement of Egypt God Anubis
+Judgement of the Egypt God Anubis
+Judgements of Egypt God Anubis
+Judgements of the Egypt God Anubis
+Ancient Egypt God Anubis judgement
+Ancient Egypt God Anubis judgements
+Judgement of Ancient Egypt God Anubis
+Judgement of the Ancient Egypt God Anubis
+Judgements of Ancient Egypt God Anubis
+Judgements of the Ancient Egypt God Anubis
+God Anubis
+God Anubis judgement
+God Anubis judgements
+Judgement of God Anubis
+Judgement of the God Anubis
+Judgements of God Anubis
+Judgements of the God Anubis
+Egyptian God Anubis
+Egyptian God Anubis judgement
+Egyptian God Anubis judgements
+Judgement of Egyptian God Anubis
+Judgement of the Egyptian God Anubis
+Judgements of Egyptian God Anubis
+Judgements of the Egyptian God Anubis
+Ancient Egyptian God Anubis
+Ancient Egyptian God Anubis judgement
+Ancient Egyptian God Anubis judgements
+Judgement of Ancient Egyptian God Anubis
+Judgement of the Ancient Egyptian God Anubis
+Judgements of Ancient Egyptian God Anubis
+Judgements of the Ancient Egyptian God Anubis
 Inpu
-Inpu God
+Egypt God Inpu
+Egypt's God Inpu
+God Inpu of Egypt
+God Inpu of the Egypt
+Ancient Egypt God Inpu
+Ancient Egypt's God Inpu
+God Inpu of Ancient Egypt
+God Inpu of the Ancient Egypt
+Egypt God Inpu judgement
+Egypt God Inpu's judgement
+Egypt God Inpu's judgements
+Judgement of Egypt God Inpu
+Judgement of the Egypt God Inpu
+Judgements of Egypt God Inpu
+Judgements of the Egypt God Inpu
+Ancient Egypt God Inpu judgement
+Ancient Egypt God Inpu's judgement
+Ancient Egypt God Inpu's judgements
+Judgement of Ancient Egypt God Inpu
+Judgement of the Ancient Egypt God Inpu
+Judgements of Ancient Egypt God Inpu
+Judgements of the Ancient Egypt God Inpu
+God Inpu
+God Inpu judgement
+God Inpu's judgement
+God Inpu's judgements
+Judgement of God Inpu
+Judgement of the God Inpu
+Judgements of God Inpu
+Judgements of the God Inpu
+Egyptian God Inpu
+Egyptian God Inpu judgement
+Egyptian God Inpu's judgement
+Egyptian God Inpu's judgements
+Judgement of Egyptian God Inpu
+Judgement of the Egyptian God Inpu
+Judgements of Egyptian God Inpu
+Judgements of the Egyptian God Inpu
+Ancient Egyptian God Inpu
+Ancient Egyptian God Inpu judgement
+Ancient Egyptian God Inpu's judgement
+Ancient Egyptian God Inpu's judgements
+Judgement of Ancient Egyptian God Inpu
+Judgement of the Ancient Egyptian God Inpu
+Judgements of Ancient Egyptian God Inpu
+Judgements of the Ancient Egyptian God Inpu
 Inpw
-Inpw God
+Egypt God Inpw
+Egypt's God Inpw
+God Inpw of Egypt
+God Inpw of the Egypt
+Ancient Egypt God Inpw
+Ancient Egypt's God Inpw
+God Inpw of Ancient Egypt
+God Inpw of the Ancient Egypt
+Egypt God Inpw judgement
+Egypt God Inpw's judgement
+Egypt God Inpw's judgements
+Judgement of Egypt God Inpw
+Judgement of the Egypt God Inpw
+Judgements of Egypt God Inpw
+Judgements of the Egypt God Inpw
+Ancient Egypt God Inpw judgement
+Ancient Egypt God Inpw's judgement
+Ancient Egypt God Inpw's judgements
+Judgement of Ancient Egypt God Inpw
+Judgement of the Ancient Egypt God Inpw
+Judgements of Ancient Egypt God Inpw
+Judgements of the Ancient Egypt God Inpw
+God Inpw
+God Inpw judgement
+God Inpw's judgement
+God Inpw's judgements
+Judgement of God Inpw
+Judgement of the God Inpw
+Judgements of God Inpw
+Judgements of the God Inpw
+Egyptian God Inpw
+Egyptian God Inpw judgement
+Egyptian God Inpw's judgement
+Egyptian God Inpw's judgements
+Judgement of Egyptian God Inpw
+Judgement of the Egyptian God Inpw
+Judgements of Egyptian God Inpw
+Judgements of the Egyptian God Inpw
+Ancient Egyptian God Inpw
+Ancient Egyptian God Inpw judgement
+Ancient Egyptian God Inpw's judgement
+Ancient Egyptian God Inpw's judgements
+Judgement of Ancient Egyptian God Inpw
+Judgement of the Ancient Egyptian God Inpw
+Judgements of Ancient Egyptian God Inpw
+Judgements of the Ancient Egyptian God Inpw
 Jnpw
-Jnpw God
+Egypt God Jnpw
+Egypt's God Jnpw
+God Jnpw of Egypt
+God Jnpw of the Egypt
+Ancient Egypt God Jnpw
+Ancient Egypt's God Jnpw
+God Jnpw of Ancient Egypt
+God Jnpw of the Ancient Egypt
+Egypt God Jnpw judgement
+Egypt God Jnpw's judgement
+Egypt God Jnpw's judgements
+Judgement of Egypt God Jnpw
+Judgement of the Egypt God Jnpw
+Judgements of Egypt God Jnpw
+Judgements of the Egypt God Jnpw
+Ancient Egypt God Jnpw judgement
+Ancient Egypt God Jnpw's judgement
+Ancient Egypt God Jnpw's judgements
+Judgement of Ancient Egypt God Jnpw
+Judgement of the Ancient Egypt God Jnpw
+Judgements of Ancient Egypt God Jnpw
+Judgements of the Ancient Egypt God Jnpw
+God Jnpw
+God Jnpw judgement
+God Jnpw's judgement
+God Jnpw's judgements
+Judgement of God Jnpw
+Judgement of the God Jnpw
+Judgements of God Jnpw
+Judgements of the God Jnpw
+Egyptian God Jnpw
+Egyptian God Jnpw judgement
+Egyptian God Jnpw's judgement
+Egyptian God Jnpw's judgements
+Judgement of Egyptian God Jnpw
+Judgement of the Egyptian God Jnpw
+Judgements of Egyptian God Jnpw
+Judgements of the Egyptian God Jnpw
+Ancient Egyptian God Jnpw
+Ancient Egyptian God Jnpw judgement
+Ancient Egyptian God Jnpw's judgement
+Ancient Egyptian God Jnpw's judgements
+Judgement of Ancient Egyptian God Jnpw
+Judgement of the Ancient Egyptian God Jnpw
+Judgements of Ancient Egyptian God Jnpw
+Judgements of the Ancient Egyptian God Jnpw
 Anpu
-Anpu God
+Egypt God Anpu
+Egypt's God Anpu
+God Anpu of Egypt
+God Anpu of the Egypt
+Ancient Egypt God Anpu
+Ancient Egypt's God Anpu
+God Anpu of Ancient Egypt
+God Anpu of the Ancient Egypt
+Egypt God Anpu judgement
+Egypt God Anpu's judgement
+Egypt God Anpu's judgements
+Judgement of Egypt God Anpu
+Judgement of the Egypt God Anpu
+Judgements of Egypt God Anpu
+Judgements of the Egypt God Anpu
+Ancient Egypt God Anpu judgement
+Ancient Egypt God Anpu's judgement
+Ancient Egypt God Anpu's judgements
+Judgement of Ancient Egypt God Anpu
+Judgement of the Ancient Egypt God Anpu
+Judgements of Ancient Egypt God Anpu
+Judgements of the Ancient Egypt God Anpu
+God Anpu
+God Anpu judgement
+God Anpu's judgement
+God Anpu's judgements
+Judgement of God Anpu
+Judgement of the God Anpu
+Judgements of God Anpu
+Judgements of the God Anpu
+Egyptian God Anpu
+Egyptian God Anpu judgement
+Egyptian God Anpu's judgement
+Egyptian God Anpu's judgements
+Judgement of Egyptian God Anpu
+Judgement of the Egyptian God Anpu
+Judgements of Egyptian God Anpu
+Judgements of the Egyptian God Anpu
+Ancient Egyptian God Anpu
+Ancient Egyptian God Anpu judgement
+Ancient Egyptian God Anpu's judgement
+Ancient Egyptian God Anpu's judgements
+Judgement of Ancient Egyptian God Anpu
+Judgement of the Ancient Egyptian God Anpu
+Judgements of Ancient Egyptian God Anpu
+Judgements of the Ancient Egyptian God Anpu
 Anoup
-Anoup God
+Egypt God Anoup
+Egypt's God Anoup
+God Anoup of Egypt
+God Anoup of the Egypt
+Ancient Egypt God Anoup
+Ancient Egypt's God Anoup
+God Anoup of Ancient Egypt
+God Anoup of the Ancient Egypt
+Egypt God Anoup judgement
+Egypt God Anoup's judgement
+Egypt God Anoup's judgements
+Judgement of Egypt God Anoup
+Judgement of the Egypt God Anoup
+Judgements of Egypt God Anoup
+Judgements of the Egypt God Anoup
+Ancient Egypt God Anoup judgement
+Ancient Egypt God Anoup's judgement
+Ancient Egypt God Anoup's judgements
+Judgement of Ancient Egypt God Anoup
+Judgement of the Ancient Egypt God Anoup
+Judgements of Ancient Egypt God Anoup
+Judgements of the Ancient Egypt God Anoup
+God Anoup
+God Anoup judgement
+God Anoup's judgement
+God Anoup's judgements
+Judgement of God Anoup
+Judgement of the God Anoup
+Judgements of God Anoup
+Judgements of the God Anoup
+Egyptian God Anoup
+Egyptian God Anoup judgement
+Egyptian God Anoup's judgement
+Egyptian God Anoup's judgements
+Judgement of Egyptian God Anoup
+Judgement of the Egyptian God Anoup
+Judgements of Egyptian God Anoup
+Judgements of the Egyptian God Anoup
+Ancient Egyptian God Anoup
+Ancient Egyptian God Anoup judgement
+Ancient Egyptian God Anoup's judgement
+Ancient Egyptian God Anoup's judgements
+Judgement of Ancient Egyptian God Anoup
+Judgement of the Ancient Egyptian God Anoup
+Judgements of Ancient Egyptian God Anoup
+Judgements of the Ancient Egyptian God Anoup
 Guide to underworld
 Guide to the underworld
 Guide to underworlds
@@ -46797,12 +47526,6 @@ Guardian of Scales
 Guardian of the Scales
 Guardians of Scales
 Guardians of the Scales
-Anubis judgement
-Anubis judgements
-Judgement of Anubis
-Judgement of the Anubis
-Judgements of Anubis
-Judgements of the Anubis
 Heart weighting
 Heart's weighting
 Heart's weightings
@@ -46823,16 +47546,226 @@ Weightings of souls
 Weightings of the souls
 Scale
 Scales
+Apep
+God Apep
+Egyptian God Apep
+Ancient Egyptian God Apep
+Egypt God Apep
+Egypt's God Apep
+God Apep of Egypt
+God Apep of the Egypt
+Ancient Egypt God Apep
+Ancient Egypt's God Apep
+God Apep of Ancient Egypt
+God Apep of the Ancient Egypt
+Deity Apep
+Egyptian Deity Apep
+Ancient Egyptian Deity Apep
+Egypt Deity Apep
+Egypt's Deity Apep
+Deity Apep of Egypt
+Deity Apep of the Egypt
+Ancient Egypt Deity Apep
+Ancient Egypt's Deity Apep
+Deity Apep of Ancient Egypt
+Deity Apep of the Ancient Egypt
+Apep serpent
+Apep snake
+Apepi
+God Apepi
+Egyptian God Apepi
+Ancient Egyptian God Apepi
+Egypt God Apepi
+Egypt's God Apepi
+God Apepi of Egypt
+God Apepi of the Egypt
+Ancient Egypt God Apepi
+Ancient Egypt's God Apepi
+God Apepi of Ancient Egypt
+God Apepi of the Ancient Egypt
+Deity Apepi
+Egyptian Deity Apepi
+Ancient Egyptian Deity Apepi
+Egypt Deity Apepi
+Egypt's Deity Apepi
+Deity Apepi of Egypt
+Deity Apepi of the Egypt
+Ancient Egypt Deity Apepi
+Ancient Egypt's Deity Apepi
+Deity Apepi of Ancient Egypt
+Deity Apepi of the Ancient Egypt
+Apepi serpent
+Apepi snake
+Aapep
+God Aapep
+Egyptian God Aapep
+Ancient Egyptian God Aapep
+Egypt God Aapep
+Egypt's God Aapep
+God Aapep of Egypt
+God Aapep of the Egypt
+Ancient Egypt God Aapep
+Ancient Egypt's God Aapep
+God Aapep of Ancient Egypt
+God Aapep of the Ancient Egypt
+Deity Aapep
+Egyptian Deity Aapep
+Ancient Egyptian Deity Aapep
+Egypt Deity Aapep
+Egypt's Deity Aapep
+Deity Aapep of Egypt
+Deity Aapep of the Egypt
+Ancient Egypt Deity Aapep
+Ancient Egypt's Deity Aapep
+Deity Aapep of Ancient Egypt
+Deity Aapep of the Ancient Egypt
+Aapep serpent
+Aapep snake
+Apophis
+God Apophis
+Egyptian God Apophis
+Ancient Egyptian God Apophis
+Egypt God Apophis
+Egypt's God Apophis
+God Apophis of Egypt
+God Apophis of the Egypt
+Ancient Egypt God Apophis
+Ancient Egypt's God Apophis
+God Apophis of Ancient Egypt
+God Apophis of the Ancient Egypt
+Deity Apophis
+Egyptian Deity Apophis
+Ancient Egyptian Deity Apophis
+Egypt Deity Apophis
+Egypt's Deity Apophis
+Deity Apophis of Egypt
+Deity Apophis of the Egypt
+Ancient Egypt Deity Apophis
+Ancient Egypt's Deity Apophis
+Deity Apophis of Ancient Egypt
+Deity Apophis of the Ancient Egypt
+Apophis serpent
+Apophis snake
+Nephthys
+Goddess Nephthys
+Egyptian Goddess Nephthys
+Ancient Egyptian Goddess Nephthys
+Egypt Goddess Nephthys
+Egypt's Goddess Nephthys
+Goddess Nephthys of Egypt
+Goddess Nephthys of the Egypt
+Ancient Egypt Goddess Nephthys
+Ancient Egypt's Goddess Nephthys
+Goddess Nephthys of Ancient Egypt
+Goddess Nephthys of the Ancient Egypt
+Nebet-Het
+Goddess Nebet-Het
+Egyptian Goddess Nebet-Het
+Ancient Egyptian Goddess Nebet-Het
+Egypt Goddess Nebet-Het
+Egypt's Goddess Nebet-Het
+Goddess Nebet-Het of Egypt
+Goddess Nebet-Het of the Egypt
+Ancient Egypt Goddess Nebet-Het
+Ancient Egypt's Goddess Nebet-Het
+Goddess Nebet-Het of Ancient Egypt
+Goddess Nebet-Het of the Ancient Egypt
+Wadjet
+Goddess Wadjet
+Egyptian Goddess Wadjet
+Ancient Egyptian Goddess Wadjet
+Egypt Goddess Wadjet
+Egypt's Goddess Wadjet
+Goddess Wadjet of Egypt
+Goddess Wadjet of the Egypt
+Ancient Egypt Goddess Wadjet
+Ancient Egypt's Goddess Wadjet
+Goddess Wadjet of Ancient Egypt
+Goddess Wadjet of the Ancient Egypt
+Uto
+Goddess Uto
+Egyptian Goddess Uto
+Ancient Egyptian Goddess Uto
+Egypt Goddess Uto
+Egypt's Goddess Uto
+Goddess Uto of Egypt
+Goddess Uto of the Egypt
+Ancient Egypt Goddess Uto
+Ancient Egypt's Goddess Uto
+Goddess Uto of Ancient Egypt
+Goddess Uto of the Ancient Egypt
+Buto
+Goddess Buto
+Egyptian Goddess Buto
+Ancient Egyptian Goddess Buto
+Egypt Goddess Buto
+Egypt's Goddess Buto
+Goddess Buto of Egypt
+Goddess Buto of the Egypt
+Ancient Egypt Goddess Buto
+Ancient Egypt's Goddess Buto
+Goddess Buto of Ancient Egypt
+Goddess Buto of the Ancient Egypt
 Sekhmet
+Goddess Sekhmet
+Egyptian Goddess Sekhmet
+Ancient Egyptian Goddess Sekhmet
+Egypt Goddess Sekhmet
+Egypt's Goddess Sekhmet
+Goddess Sekhmet of Egypt
+Goddess Sekhmet of the Egypt
+Ancient Egypt Goddess Sekhmet
+Ancient Egypt's Goddess Sekhmet
+Goddess Sekhmet of Ancient Egypt
+Goddess Sekhmet of the Ancient Egypt
 Sachmis
-Sekhmet goddess
-Sachmis goddess
+Goddess Sachmis
+Egyptian Goddess Sachmis
+Ancient Egyptian Goddess Sachmis
+Egypt Goddess Sachmis
+Egypt's Goddess Sachmis
+Goddess Sachmis of Egypt
+Goddess Sachmis of the Egypt
+Ancient Egypt Goddess Sachmis
+Ancient Egypt's Goddess Sachmis
+Goddess Sachmis of Ancient Egypt
+Goddess Sachmis of the Ancient Egypt
 Sutekh
 God Sutekh
+Egyptian God Sutekh
+Ancient Egyptian God Sutekh
+Egypt God Sutekh
+Egypt's God Sutekh
+God Sutekh of Egypt
+God Sutekh of the Egypt
+Ancient Egypt God Sutekh
+Ancient Egypt's God Sutekh
+God Sutekh of Ancient Egypt
+God Sutekh of the Ancient Egypt
 Set
 God Set
+Egyptian God Set
+Ancient Egyptian God Set
+Egypt God Set
+Egypt's God Set
+God Set of Egypt
+God Set of the Egypt
+Ancient Egypt God Set
+Ancient Egypt's God Set
+God Set of Ancient Egypt
+God Set of the Ancient Egypt
 Seth
 God Seth
+Egyptian God Seth
+Ancient Egyptian God Seth
+Egypt God Seth
+Egypt's God Seth
+God Seth of Egypt
+God Seth of the Egypt
+Ancient Egypt God Seth
+Ancient Egypt's God Seth
+God Seth of Ancient Egypt
+God Seth of the Ancient Egypt
 Egypt God
 Egypt's God
 Egypt's Gods
@@ -46893,19 +47826,28 @@ Ancient egyptian Neter
 Ancient egyptian Neters
 Imhotep
 God Imhotep
+Egyptian God Imhotep
+Ancient Egyptian God Imhotep
+Egypt God Imhotep
+Egypt's God Imhotep
+God Imhotep of Egypt
+God Imhotep of the Egypt
+Ancient Egypt God Imhotep
+Ancient Egypt's God Imhotep
+God Imhotep of Ancient Egypt
+God Imhotep of the Ancient Egypt
 Sopdet
 Goddess Sopdet
-Horus
-Horus God
-Heru
-Heru God
-Hor
-Hor God
-God of kingship, healing, protection
-Sun and sky god
-Sun and sky's god
-God of sun and sky
-God of the sun and sky
+Egyptian Goddess Sopdet
+Ancient Egyptian Goddess Sopdet
+Egypt Goddess Sopdet
+Egypt's Goddess Sopdet
+Goddess Sopdet of Egypt
+Goddess Sopdet of the Egypt
+Ancient Egypt Goddess Sopdet
+Ancient Egypt's Goddess Sopdet
+Goddess Sopdet of Ancient Egypt
+Goddess Sopdet of the Ancient Egypt
 Sphinx
 Sphinxe
 Sphinxes
@@ -50312,6 +51254,17 @@ Band of satanists
 Band of the satanists
 Bands of satanists
 Bands of the satanists
+Satan witchcraft
+Satan's witchcraft
+Satan's witchcrafts
+Witchcraft of satan
+Witchcraft of the satan
+Witchcrafts of satan
+Witchcrafts of the satan
+Satanic witchcraft
+Satanic witchcrafts
+Satanical witchcraft
+Satanical witchcrafts
 Satan kingdom
 Satan's kingdom
 Kingdom of satan
@@ -50926,6 +51879,15 @@ Bands of devil
 Bands of the devil
 Devilish band
 Devilish bands
+Devil witchcraft
+Devil's witchcraft
+Devil's witchcrafts
+Witchcraft of devil
+Witchcraft of the devil
+Witchcrafts of devil
+Witchcrafts of the devil
+Devilish witchcraft
+Devilish witchcrafts
 Devil kingdom
 Devil's kingdom
 Kingdom of devil
@@ -51345,6 +52307,15 @@ Bands of Lucifer
 Bands of the Lucifer
 Luciferian band
 Luciferian bands
+Lucifer witchcraft
+Lucifer's witchcraft
+Lucifer's witchcrafts
+Witchcraft of Lucifer
+Witchcraft of the Lucifer
+Witchcrafts of Lucifer
+Witchcrafts of the Lucifer
+Luciferian witchcraft
+Luciferian witchcrafts
 Lucifer residence
 Lucifer's residence
 Lucifer's residences
@@ -57524,6 +58495,7 @@ Tribe of Dan
 Tribe of the Dan
 Torah
 Hebrew Bible
+Oral Torah
 Talmud
 Talmudic
 Babylonian Talmud
@@ -58674,8 +59646,9 @@ Saturnus
 Satvrnvs
 Saturnian
 Saturnial
+God Saturn
 Roman God Saturn
-Old roman God Saturn
+Ancient Roman God Saturn
 Crescent
 Crescents
 Crescent moon
@@ -58746,6 +59719,110 @@ Son of Saturn
 Son of the Saturn
 Sons of Saturn
 Sons of the Saturn
+Ianvs
+Ianuspater
+Janus Father
+Ianus Bifrons
+Two-faced Janus
+Ianus Quadrifrons
+Janus Fourfaced
+Janus
+God Janus
+Roman God Janus
+Ancient Roman God Janus
+Rome God Janus
+Rome's God Janus
+God Janus of Rome
+God Janus of the Rome
+Ancient Rome God Janus
+Ancient Rome's God Janus
+God Janus of Ancient Rome
+God Janus of the Ancient Rome
+Goddess Diana
+Roman Goddess Diana
+Ancient Roman Goddess Diana
+Rome Goddess Diana
+Rome's Goddess Diana
+Goddess Diana of Rome
+Goddess Diana of the Rome
+Ancient Rome Goddess Diana
+Ancient Rome's Goddess Diana
+Goddess Diana of Ancient Rome
+Goddess Diana of the Ancient Rome
+Minerva
+Goddess Minerva
+Roman Goddess Minerva
+Ancient Roman Goddess Minerva
+Rome Goddess Minerva
+Rome's Goddess Minerva
+Goddess Minerva of Rome
+Goddess Minerva of the Rome
+Ancient Rome Goddess Minerva
+Ancient Rome's Goddess Minerva
+Goddess Minerva of Ancient Rome
+Goddess Minerva of the Ancient Rome
+Roman God
+Roman Gods
+Roman Goddess
+Roman Goddesses
+Rome God
+Rome's God
+Rome's Gods
+God of Rome
+God of the Rome
+Gods of Rome
+Gods of the Rome
+Rome Goddess
+Rome's Goddess
+Rome Goddesses
+Rome's Goddesses
+Goddess of Rome
+Goddess of the Rome
+Goddesses of Rome
+Goddesses of the Rome
+Ancient Roman God
+Ancient Roman Gods
+Ancient Roman Goddess
+Ancient Roman Goddesses
+Ancient Rome God
+Ancient Rome's God
+Ancient Rome's Gods
+God of Ancient Rome
+God of the Ancient Rome
+Gods of Ancient Rome
+Gods of the Ancient Rome
+Ancient Rome Goddess
+Ancient Rome's Goddess
+Ancient Rome Goddesses
+Ancient Rome's Goddesses
+Goddess of Ancient Rome
+Goddess of the Ancient Rome
+Goddesses of Ancient Rome
+Goddesses of the Ancient Rome
+God Jupiter
+Roman God Jupiter
+Ancient Roman God Jupiter
+Rome God Jupiter
+Rome's God Jupiter
+God Jupiter of Rome
+God Jupiter of the Rome
+Ancient Rome God Jupiter
+Ancient Rome's God Jupiter
+God Jupiter of Ancient Rome
+God Jupiter of the Ancient Rome
+IVPPITER
+Neptune
+God Neptune
+Roman God Neptune
+Ancient Roman God Neptune
+Rome God Neptune
+Rome's God Neptune
+God Neptune of Rome
+God Neptune of the Rome
+Ancient Rome God Neptune
+Ancient Rome's God Neptune
+God Neptune of Ancient Rome
+God Neptune of the Ancient Rome
 Colosseum
 Panem et circenses
 Cardinal
@@ -58768,15 +59845,6 @@ Gray eminence
 Gray eminences
 Grey eminence
 Grey eminences
-Janus
-Ianvs
-Janus God
-Ianuspater
-Janus Father
-Ianus Bifrons
-Two-faced Janus
-Ianus Quadrifrons
-Janus Fourfaced
 Vatican puppet
 Vatican's puppet
 Vatican's puppets
@@ -58831,8 +59899,6 @@ Vaticanic agent
 Vaticanic agents
 Vaticanical agent
 Vaticanical agents
-Minerva
-Goddess Minerva
 Inquisition
 Holy inquisition
 Inquisitor
@@ -58972,10 +60038,6 @@ Curia
 Roman Curia
 Curia Romana
 Latin Kingdom
-God Jupiter
-IVPPITER
-Neptune
-Neptun God
 Artemis
 Goddess Artemis
 Chronos
@@ -59461,7 +60523,6 @@ Sofia
 Sophia
 Vision
 Visions
-Marks
 Bliss
 Beatitude
 Felicity
@@ -60404,6 +61465,10 @@ Intellectual being
 Intellectual beings
 Intellectual entity
 Intellectual entities
+Interdimensional being
+Interdimensional beings
+Interdimensional entity
+Interdimensional entities
 Polytheism
 Polytheist
 Polytheists
@@ -61047,6 +62112,8 @@ Resolution of problems
 Resolution of the problems
 Resolutions of problems
 Resolutions of the problems
+Artificial problem
+Artificial problems
 Life waste
 Life's waste
 Lives waste
@@ -61935,6 +63002,7 @@ The Hourglass
 The Hourglasses
 The Clocksmith
 The Clocksmiths
+The Witching hour
 The Time arrow
 The Time's arrow
 The Time's arrows
@@ -62393,6 +63461,10 @@ The Biologic age
 The Biologic ages
 The Biological age
 The Biological ages
+The Season
+The Seasons
+The Seasoning
+The Seasonings
 The Winter
 The Winters
 The Wintertime
@@ -63604,6 +64676,10 @@ The Repercussion
 The Repercussions
 The Doubling effect
 The Doubling effects
+The Analog device
+The Analog devices
+The Analogue device
+The Analogue devices
 The Higgs boson
 The Higgs bosons
 The Higgs particle
@@ -63843,6 +64919,7 @@ The Site https://www.mts.ru
 The MTSS ticker
 The MTS
 The Mobile TeleSystems
+The PAO Mobile TeleSystems
 The PJSC Mobile TeleSystems
 The PJSCo Mobile TeleSystems
 The Public Joint Stock Company Mobile TeleSystems
@@ -63854,6 +64931,7 @@ The Site www.megafon.ru
 The Site http://www.megafon.ru
 The Site https://www.megafon.ru
 The Megafon
+The PAO Megafon
 The PJSC Megafon
 The PJSCo Megafon
 The Public Joint Stock Company Megafon
@@ -63866,6 +64944,7 @@ The Site http://www.beeline.ru
 The Site https://www.beeline.ru
 The Beeline
 The VimpelCom
+The PAO VimpelCom
 The PJSC VimpelCom
 The PJSCo VimpelCom
 The Public Joint Stock Company VimpelCom
@@ -64527,6 +65606,10 @@ The Reboot of the computers
 The Reboots of the computers
 The Electronic brain
 The Electronic brains
+The Analog computer
+The Analog computers
+The Analogue computer
+The Analogue computers
 The AI problem
 The AI's problem
 The AI's problems
@@ -64546,6 +65629,9 @@ The Hyper intelligence Interstellar
 The Super intelligence Interstellar
 The Quantum intelligence Interstellar
 The Super mind Interstellar
+The Persona
+The Magnanimity
+The Megalopsychia
 The AI Alfa
 The Artificial Intelligence Alfa
 The Hyper intelligence Alfa
@@ -64872,6 +65958,8 @@ The AGI
 The AGIs
 The Artificial General Intelligence
 The Artificial General Intelligences
+The AI technology
+The AI technologies
 The Compresion
 The Compresions
 The Data compression
@@ -65152,6 +66240,9 @@ The Laptop
 The Laptops
 The Notebook
 The Notebooks
+The Digital
+The Digital device
+The Digital devices
 The Algorithm
 The Algorithms
 The Man algorithm
@@ -65227,6 +66318,7 @@ The Data
 The Datum
 The Digital data
 The Analog data
+The Analogue data
 The Key
 The Keys
 The Keyboard
@@ -65383,9 +66475,6 @@ The Forgery
 The Forgeries
 The Fake
 The Fakes
-The Persona
-The Magnanimity
-The Megalopsychia
 The IT
 The Information Technology
 The Information Technologies
@@ -66573,6 +67662,10 @@ The Gay people
 The Gay girls
 The Gay boys
 The Gays
+The Active gay
+The Active gays
+The Passive gay
+The Passive gays
 The Homosexual man
 The Homosexual woman
 The Homosexual person
@@ -66599,6 +67692,7 @@ The Opened gay
 The Opened gays
 The Homosexualism
 The Ritual homosexualism
+The Gay lobby
 The Sodomite
 The Sodomites
 The Sodomy
@@ -66654,10 +67748,6 @@ The Same-sex pair
 The Same-sex pairs
 The Gay club
 The Gay clubs
-The Active gay
-The Active gays
-The Passive gay
-The Passive gays
 The Pride parade
 The Pride parades
 The Pride event
@@ -66979,8 +68069,8 @@ The Custodian
 The Custodians
 The Adamite
 The Adamites
-The Adam Generations
-The Adam's Generations
+The Adam generations
+The Adam's generations
 The Generations of the Adam
 The Adam descendant
 The Adam's descendant
@@ -67090,6 +68180,9 @@ The Child
 The Children
 The Infant
 The Infants
+The Infantilism
+The Infantilization
+The Infantilizations
 The Kid
 The Kids
 The Grandkid
@@ -67773,11 +68866,13 @@ The Site www.ugsk.ru
 The Site http://www.ugsk.ru
 The Site https://www.ugsk.ru
 The Yugoriya
+The AO Yugoriya
 The JSC Yugoriya
 The JSCo Yugoriya
 The Joint Stock Company Yugoriya
 The Joint Stock Corporation Yugoriya
 The Yugoriya Insurance Company
+The AO Yugoriya Insurance Company
 The JSC Yugoriya Insurance Company
 The JSCo Yugoriya Insurance Company
 The Joint Stock Company Yugoriya Insurance Company
@@ -67808,16 +68903,19 @@ The Site http://www.bspb.ru
 The Site https://www.bspb.ru
 The BSPB ticker
 The BSPB
+The PAO BSPB
 The PJSC BSPB
 The PJSCo BSPB
 The Public Joint Stock Company BSPB
 The Public Joint Stock Corporation BSPB
 The BSPB Bank
+The PAO BSPB Bank
 The PJSC BSPB Bank
 The PJSCo BSPB Bank
 The Public Joint Stock Company BSPB Bank
 The Public Joint Stock Corporation BSPB Bank
 The Bank Saint Petersburg
+The PAO Bank Saint Petersburg
 The PJSC Bank Saint Petersburg
 The PJSCo Bank Saint Petersburg
 The Public Joint Stock Company Bank Saint Petersburg
@@ -67853,21 +68951,25 @@ The Site http://www.vtb24.ru
 The Site https://www.vtb24.ru
 The VTBR ticker
 The VTB
+The PAO VTB
 The PJSC VTB
 The PJSCo VTB
 The Public Joint Stock Company VTB
 The Public Joint Stock Corporation VTB
 The VTB Bank
+The PAO VTB Bank
 The PJSC VTB Bank
 The PJSCo VTB Bank
 The Public Joint Stock Company VTB Bank
 The Public Joint Stock Corporation VTB Bank
 The VTB24
+The PAO VTB24
 The PJSC VTB24
 The PJSCo VTB24
 The Public Joint Stock Company VTB24
 The Public Joint Stock Corporation VTB24
 The VTB24 Bank
+The PAO VTB24 Bank
 The PJSC VTB24 Bank
 The PJSCo VTB24 Bank
 The Public Joint Stock Company VTB24 Bank
@@ -67901,12 +69003,15 @@ The Site www.gpbspace.ru
 The Site http://www.gpbspace.ru
 The Site https://www.gpbspace.ru
 The GPB
+The AO GPB
 The SC GPB
 The Stock Corporation GPB
 The GPB Bank
+The AO GPB Bank
 The SC GPB Bank
 The Stock Corporation GPB Bank
 The Gazprombank
+The AO Gazprombank
 The SC Gazprombank
 The Stock Corporation Gazprombank
 The Gazprombank Mobile
@@ -68009,6 +69114,7 @@ The Beast on the russian territories
 The SberDevices
 The SberTV
 The Sberbank
+The PAO Sberbank
 The PJSC Sberbank
 The PJSCo Sberbank
 The Public Joint Stock Company Sberbank
@@ -68095,16 +69201,19 @@ The Site http://www.psbank.ru
 The Site https://www.psbank.ru
 The PSBR ticker
 The PSB
+The PAO PSB
 The PJSC PSB
 The PJSCo PSB
 The Public Joint Stock Company PSB
 The Public Joint Stock Corporation PSB
 The PSB Bank
+The PAO PSB Bank
 The PJSC PSB Bank
 The PJSCo PSB Bank
 The Public Joint Stock Company PSB Bank
 The Public Joint Stock Corporation PSB Bank
 The Promsvyazbank
+The PAO Promsvyazbank
 The PJSC Promsvyazbank
 The PJSCo Promsvyazbank
 The Public Joint Stock Company Promsvyazbank
@@ -68123,11 +69232,13 @@ The Site www.sinara.ru
 The Site http://www.sinara.ru
 The Site https://www.sinara.ru
 The Sinara
+The PAO Sinara
 The PJSC Sinara
 The PJSCo Sinara
 The Public Joint Stock Company Sinara
 The Public Joint Stock Corporation Sinara
 The Sinara Bank
+The PAO Sinara Bank
 The PJSC Sinara Bank
 The PJSCo Sinara Bank
 The Public Joint Stock Company Sinara Bank
@@ -68146,26 +69257,31 @@ The Site www.rusagrobank.com
 The Site http://www.rusagrobank.com
 The Site https://www.rusagrobank.com
 The RSHB
+The AO RSHB
 The JSC RSHB
 The JSCo RSHB
 The Joint Stock Company RSHB
 The Joint Stock Corporation RSHB
 The RSHB Bank
+The AO RSHB Bank
 The JSC RSHB Bank
 The JSCo RSHB Bank
 The Joint Stock Company RSHB Bank
 The Joint Stock Corporation RSHB Bank
 The Rosselkhozbank
+The AO Rosselkhozbank
 The JSC Rosselkhozbank
 The JSCo Rosselkhozbank
 The Joint Stock Company Rosselkhozbank
 The Joint Stock Corporation Rosselkhozbank
 The Russian Agricultural Bank
+The AO Russian Agricultural Bank
 The JSC Russian Agricultural Bank
 The JSCo Russian Agricultural Bank
 The Joint Stock Company Russian Agricultural Bank
 The Joint Stock Corporation Russian Agricultural Bank
 The RusAg
+The AO RusAg
 The JSC RusAg
 The JSCo RusAg
 The Joint Stock Company RusAg
@@ -68177,11 +69293,13 @@ The Site www.bbr.ru
 The Site http://www.bbr.ru
 The Site https://www.bbr.ru
 The BBR
+The AO BBR
 The JSC BBR
 The JSCo BBR
 The Joint Stock Company BBR
 The Joint Stock Corporation BBR
 The BBR Bank
+The AO BBR Bank
 The JSC BBR Bank
 The JSCo BBR Bank
 The Joint Stock Company BBR Bank
@@ -68193,15 +69311,19 @@ The Site www.gebank.ru
 The Site http://www.gebank.ru
 The Site https://www.gebank.ru
 The GEB
+The AO GEB
 The SC GEB
 The Stock Corporation GEB
 The GEB Bank
+The AO GEB Bank
 The SC GEB Bank
 The Stock Corporation GEB Bank
 The Gebank
+The AO Gebank
 The SC Gebank
 The Stock Corporation Gebank
 The Gazenergobank
+The AO Gazenergobank
 The SC Gazenergobank
 The Stock Corporation Gazenergobank
 The Systemically important financial institution
@@ -68347,6 +69469,11 @@ The Reparation
 The Reparations
 The War reparation
 The War reparations
+The Middle class
+The Middle class destruction
+The Middle class destructions
+The Destruction of the middle class
+The Destructions of the middle class
 The Rich
 The Riches
 The Rich man
@@ -68926,6 +70053,70 @@ The Ill-gotten cash
 The Ill-gotten money
 The Legal cash
 The Legal money
+The Economic link
+The Economic links
+The Economic link strengthening
+The Economic link's strengthening
+The Economic link's strengthenings
+The Strengthening of the Economic link
+The Strengthening of the Economic links
+The Strengthenings of the Economic links
+The Economical link
+The Economical links
+The Economical link strengthening
+The Economical link's strengthening
+The Economical link's strengthenings
+The Strengthening of the Economical link
+The Strengthening of the Economical links
+The Strengthenings of the Economical links
+The Economic tie
+The Economic ties
+The Economic tie strengthening
+The Economic tie's strengthening
+The Economic tie's strengthenings
+The Strengthening of the Economic tie
+The Strengthening of the Economic ties
+The Strengthenings of the Economic ties
+The Economical tie
+The Economical ties
+The Economical tie strengthening
+The Economical tie's strengthening
+The Economical tie's strengthenings
+The Strengthening of the Economical tie
+The Strengthening of the Economical ties
+The Strengthenings of the Economical ties
+The Economic relation
+The Economic relations
+The Economic relation strengthening
+The Economic relation's strengthening
+The Economic relation's strengthenings
+The Strengthening of the Economic relation
+The Strengthening of the Economic relations
+The Strengthenings of the Economic relations
+The Economical relation
+The Economical relations
+The Economical relation strengthening
+The Economical relation's strengthening
+The Economical relation's strengthenings
+The Strengthening of the Economical relation
+The Strengthening of the Economical relations
+The Strengthenings of the Economical relations
+The Economic contact
+The Economic contacts
+The Economic contact strengthening
+The Economic contact's strengthening
+The Economic contact's strengthenings
+The Strengthening of the Economic contact
+The Strengthening of the Economic contacts
+The Strengthenings of the Economic contacts
+The Economical contact
+The Economical contacts
+The Economical contact strengthening
+The Economical contact's strengthening
+The Economical contact's strengthenings
+The Strengthening of the Economical contact
+The Strengthening of the Economical contacts
+The Strengthenings of the Economical contacts
 The Business
 The Businesses
 The Shady business
@@ -69067,6 +70258,10 @@ The Finance
 The Finances
 The Economics
 The Economy
+The Economics destruction
+The Economics destructions
+The Destruction of the economics
+The Destructions of the economics
 The Market economics
 The Market economy
 The Planned economics
@@ -72065,7 +73260,9 @@ The Magicians
 The Magus
 The Magi
 The White magician
+The White magicians
 The Black magician
+The Black magicians
 The Combat magic
 The Combat magician
 The Combat magicians
@@ -72084,6 +73281,8 @@ The High sorcerer
 The High warlock
 The Spell
 The Spells
+The Invocation
+The Invocations
 The Power word
 The Power words
 The Power phrase
@@ -72523,6 +73722,7 @@ The Site http://www.magnit.com
 The Site https://www.magnit.com
 The MGNT ticker
 The Magnit
+The PAO Magnit
 The PJSC Magnit
 The PJSCo Magnit
 The Public Joint Stock Company Magnit
@@ -72689,6 +73889,7 @@ The Perekryostok hypermarkets
 The Crossroads
 The Supermarket chain Perekrestok
 The Tander
+The AO Tander
 The JSC Tander
 The JSCo Tander
 The Joint Stock Company Tander
@@ -73222,10 +74423,16 @@ The Golden eggs
 The Manna from heaven 
 The Laboratory meat
 The Laboratorial meat
+The Artificial food
+The Artificial foods
+The Artificial meal
+The Artificial meals
 The Food
 The Foods
 The Feed
 The Feeds
+The Meal
+The Meals
 The Feeding
 The Feedings
 The Natural food
@@ -75222,6 +76429,7 @@ The Servant of the Jesuit Order
 The Servants of the Jesuit Order
 The Servant of the Society of Jesus
 The Servants of the Society of Jesus
+The Saint Ignatius Loyola
 The Saint Ignatius of Loyola
 The Jesuit God
 The Jesuit's God
@@ -75387,6 +76595,8 @@ The Jewmasonic floor
 The Jewmasonic floors
 The Order
 The Orders
+The Secret Order
+The Secret Orders
 The Secret Society
 The Secret Societies
 The Saturnian Order
@@ -75606,11 +76816,13 @@ The Site www.rzd.ru
 The Site http://www.rzd.ru
 The Site https://www.rzd.ru
 The Russian Railways
+The AO Russian Railways
 The JSC Russian Railways
 The JSCo Russian Railways
 The Joint Stock Company Russian Railways
 The Joint Stock Corporation Russian Railways
 The RZhD
+The AO RZhD
 The JSC RZhD
 The JSCo RZhD
 The Joint Stock Company RZhD
@@ -75630,6 +76842,7 @@ The Site https://www.aeroflot.com
 The AFLT ticker
 The Aeroflot
 The Aeroflot – Russian Airlines
+The PAO Aeroflot – Russian Airlines
 The PJSC Aeroflot – Russian Airlines
 The PJSCo Aeroflot – Russian Airlines
 The Public Joint Stock Company Aeroflot – Russian Airlines
@@ -75659,11 +76872,13 @@ The Site www.rossiya-airlines.com
 The Site http://www.rossiya-airlines.com
 The Site https://www.rossiya-airlines.com
 The Rossiya Airlines
+The AO Rossiya Airlines
 The JSC Rossiya Airlines
 The JSCo Rossiya Airlines
 The Joint Stock Company Rossiya Airlines
 The Joint Stock Corporation Rossiya Airlines
 The Rossiya — Russian Airlines
+The AO Rossiya — Russian Airlines
 The JSC Rossiya — Russian Airlines
 The JSCo Rossiya — Russian Airlines
 The Joint Stock Company Rossiya — Russian Airlines
@@ -75730,9 +76945,30 @@ The GAZP ticker
 The Gazprom
 The PAO Gazprom
 The PJSC Gazprom
-The Public Joint-Stock Company Gazprom
+The PJSCo Gazprom
+The Public Joint Stock Company Gazprom
+The Public Joint Stock Corporation Gazprom
 The Dreams come true
 The Nord stream pipeline
+The Site phosagro.com
+The Site http://phosagro.com
+The Site https://phosagro.com
+The Site www.phosagro.com
+The Site http://www.phosagro.com
+The Site https://www.phosagro.com
+The Site phosagro.ru
+The Site http://phosagro.ru
+The Site https://phosagro.ru
+The Site www.phosagro.ru
+The Site http://www.phosagro.ru
+The Site https://www.phosagro.ru
+The PHOR ticker
+The PhosAgro
+The AO PhosAgro
+The JSC PhosAgro
+The JSCo PhosAgro
+The Joint Stock Company PhosAgro
+The Joint Stock Corporation PhosAgro
 The Site lukoil.com
 The Site http://lukoil.com
 The Site https://lukoil.com
@@ -75741,9 +76977,17 @@ The Site http://www.lukoil.com
 The Site https://www.lukoil.com
 The LKOH ticker
 The Lukoil
+The PAO Lukoil
 The PJSC Lukoil
+The PJSCo Lukoil
+The Public Joint Stock Company Lukoil
+The Public Joint Stock Corporation Lukoil
 The Lukoil Oil Company
+The PAO Lukoil Oil Company
 The PJSC Lukoil Oil Company
+The PJSCo Lukoil Oil Company
+The Public Joint Stock Company Lukoil Oil Company
+The Public Joint Stock Corporation Lukoil Oil Company
 The Yandex Alice
 The Yandex's Alice
 The Alice of the Yandex
@@ -76205,6 +77449,8 @@ The Socialist parties
 The Communism
 The Communist
 The Communists
+The Communist regime
+The Communist regimes
 The Marxist
 The Marxists
 The Marxism
@@ -77324,6 +78570,10 @@ The Democracy's simulation
 The Democracy's simulations
 The Simulation of the democracy
 The Simulations of the democracy
+The Democratic regime
+The Democratic regimes
+The Democratic party
+The Democratic parties
 The Technocracy
 The Technocracies
 The Political game
@@ -77382,6 +78632,12 @@ The Despotism
 The Dictator
 The Dictators
 The Dictatorship
+The Radical
+The Radicals
+The Radicalization
+The Radicalizations
+The Radicalisation
+The Radicalisations
 The Provocation
 The Provocations
 The Provocative action
@@ -77396,6 +78652,7 @@ The Reptilian blood
 The Noble
 The Nobles
 The Nobility
+The Nobleness
 The Black nobility
 The British nobility
 The Nobleman
@@ -77420,16 +78677,10 @@ The Policy
 The Policies
 The Politician
 The Politicians
-The Fascism
-The Fascist
-The Fascists
-The Neo-Fascism
-The Neo-fascist
-The Neo-fascists
-The Brown plague
 The Triumvirate
 The Troika
 The Presidency
+The Presidencies
 The Faux pas
 The Commit faux pas
 The Backward step
@@ -77470,6 +78721,15 @@ The Criminal regimes
 The Hegemon
 The Hegemons
 The World hegemon
+The Fascism
+The Fascist
+The Fascists
+The Fascist regime
+The Fascist regimes
+The Neo-Fascism
+The Neo-fascist
+The Neo-fascists
+The Brown plague
 The Governor
 The Governors
 The Election
@@ -78556,6 +79816,10 @@ The Introspection
 The Introspections
 The Self-examination
 The Self-examinations
+The Psychologic pressure
+The Psychologic pressures
+The Psychological pressure
+The Psychological pressures
 The Autistic thinking
 The Autistic thinkings
 The Autism
@@ -78827,6 +80091,7 @@ The DNA's activation
 The DNA's activations
 The Activation of the DNA
 The Activations of the DNA
+The Synthetic DNA
 The Human-dragon
 The Human-dragons
 The Dragon man
@@ -79194,11 +80459,22 @@ The Poultry
 The Poultries
 The Domestic fowl
 The Domestic fowls
+The Poultry factory
+The Poultry factories
+The Poultry farm
+The Poultry farms
+The Hennery
+The Henneries
 The Dove
 The Doves
+The Peace bird
+The Peace's bird
+The Bird of the peace
 The Peace dove
 The Peace's dove
 The Dove of the peace
+The Pigeon
+The Pigeons
 The Hen
 The Hens
 The Chicken
@@ -80227,6 +81503,8 @@ The Kiliing yard
 The Kiliing yards
 The Butchering
 The Butcherings
+The Zoo
+The Zoos
 The Primate
 The Primates
 The Monkey
@@ -80598,6 +81876,32 @@ The Pupil
 The Pupils
 The Red eye
 The Red eyes
+The Prostate
+The Prostates
+The Prostate gland
+The Prostate glands
+The Prostatitis
+The Prostatitises
+The Chronic prostatitis
+The Chronic prostatitises
+The Prostate adenoma
+The Prostate adenomas
+The Prostate adenomata
+The Prostate gland adenoma
+The Prostate gland adenomas
+The Prostate gland adenomata
+The Prostate cancer
+The Prostate's cancer
+The Prostate's cancers
+The Cancer of the prostate
+The Cancer of the prostates
+The Cancers of the prostates
+The Prostate gland cancer
+The Prostate gland's cancer
+The Prostate gland's cancers
+The Cancer of the prostate gland
+The Cancer of the prostate glands
+The Cancers of the prostate glands
 The Organ
 The Organs
 The Organoid
@@ -80624,6 +81928,20 @@ The Seizures of the body
 The Seizures of the bodies
 The Gland
 The Glands
+The Esophagus
+The Esophagi
+The Oesophagus
+The Oesophagi
+The Gullet
+The Gullets
+The Eructation
+The Eructations
+The Belch
+The Belches
+The Belching
+The Belchings
+The Regurgitation
+The Regurgitations
 The Nerve
 The Nerves
 The Nervous system
@@ -81055,6 +82373,14 @@ The Armies of the zombie
 The Armies of the zombies
 The Zombification
 The Zombifications
+The Zombies rise
+The Zombies rises
+The Rise of the zombies
+The Rises of the zombies
+The Zombies rising
+The Zombies risings
+The Rising of the zombies
+The Risings of the zombies
 The Treatment
 The Treatments
 The Treatment process
@@ -81340,6 +82666,8 @@ The Medical examination of the population
 The Medical examination of the populations
 The Medical examinations of the populations
 The Cancer
+The Carcinoma
+The Carcinomas
 The Oncology
 The Oncogen
 The Oncogens
@@ -81701,6 +83029,7 @@ The Radioactive rain
 The Radioactive rains
 The Mutually assured destruction
 The Nuclear club
+The Nuclear triad
 The Manhattan project
 The Lancet
 The Lancets
@@ -82375,6 +83704,18 @@ The Freezing of the conflicts
 The Freezings of the conflicts
 The Military conflict
 The Military conflicts
+The Conflict protraction
+The Conflict's protraction
+The Conflict's protractions
+The Protraction of the conflict
+The Protraction of the conflicts
+The Protractions of the conflicts
+The Military conflict protraction
+The Military conflict's protraction
+The Military conflict's protractions
+The Protraction of the military conflict
+The Protraction of the military conflicts
+The Protractions of the military conflicts
 The Conflict adjustment
 The Conflict's adjustment
 The Conflict's adjustments
@@ -82737,6 +84078,10 @@ The Spy ring
 The Spy rings
 The Agent ring
 The Agent rings
+The Espionage activity
+The Espionage activities
+The Spying activity
+The Spying activities
 The Army
 The Armies
 The Powerful army
@@ -83271,6 +84616,10 @@ The Assault detachment
 The Assault detachments
 The Liberation
 The Liberations
+The Trench
+The Trenches
+The Entrenchment
+The Entrenchments
 The Militarism
 The Militarist
 The Militarists
@@ -83798,6 +85147,12 @@ The Expert
 The Experts
 The Expertise
 The Expertises
+The Curator
+The Curators
+The Trustee
+The Trustees
+The Guardian
+The Guardians
 The Qualification
 The Qualifications
 The High qualification
@@ -83989,6 +85344,10 @@ The Trainee
 The Trainees
 The Upbringing
 The Upbringings
+The Reeducation
+The Reeducations
+The Reformation
+The Reformations
 The Academy
 The Academies
 The Class period
@@ -88921,6 +90280,12 @@ The Stabbing
 The Stabbings
 The Execution
 The Executions
+The Executioner
+The Executioners
+The Deathman
+The Deathmen
+The Hangman
+The Hangmen
 The Death penalty
 The Death penalties
 The Attempted murder
@@ -90085,6 +91450,12 @@ The Camps of the army
 The Camps of the armies
 The Military camp
 The Military camps
+The Concentration camp escape
+The Concentration camp's escape
+The Concentration camp's escapes
+The Escape from the concentration camp
+The Escape from the concentration camps
+The Escapes from the concentration camps
 The Gun
 The Guns
 The Gun Control
@@ -90169,6 +91540,16 @@ The Identification mark
 The Identification marks
 The Stamp
 The Stamps
+The Stamping
+The Stampings
+The Brand
+The Brands
+The Branding
+The Brandings
+The Mark
+The Marks
+The Marking
+The Markings
 The Service man
 The Service woman
 The Service person
@@ -90852,6 +92233,8 @@ The Humanoid alien race
 The Humanoid alien races
 The Star race
 The Star races
+The Abnormal phenomenon
+The Abnormal phenomenons
 The Alien race base
 The Alien race's base
 The Alien race's bases
@@ -91438,6 +92821,12 @@ The Universe's evolution
 The Universe's evolutions
 The Evolution of the Universe
 The Evolutions of the Universe
+The Hotel
+The Hotels
+The Inn
+The Inns
+The Hostel
+The Hostels
 The Repatriation
 The Repatriations
 The Repatriate
@@ -91513,9 +92902,9 @@ The Sirrush dragon
 The Mushkhushshu
 The Mushussu
 The Mushussu dragon
-The God Gate
-The God's Gate
-The God's Gates
+The God gate
+The God's gate
+The God's gates
 The Gate of the God
 The Gate of the Gods
 The Gates of the Gods
@@ -91585,22 +92974,6 @@ The God Iarilo
 The God Juraj
 The God Jurij
 The God Gerovit
-The Slavic god
-The Slavic gods
-The Slavic goddess
-The Slavic goddesses
-The Svarog
-The Svarog God
-The Svarog day
-The Svarog's day
-The Day of the Svarog
-The Svarog night
-The Svarog's night
-The Night of the Svarog
-The Chernobog
-The Black God
-The Belobog
-The White God
 The Peroun
 The Peroun God
 The Perun
@@ -91609,6 +92982,22 @@ The Thunder God
 The Thunder's God
 The God of the Thunder
 The God of the Thunders
+The Svarog
+The Svarog God
+The Svarog day
+The Svarog's day
+The Day of the Svarog
+The Svarog night
+The Svarog's night
+The Night of the Svarog
+The Belobog
+The White God
+The Chernobog
+The Black God
+The Slavic god
+The Slavic gods
+The Slavic goddess
+The Slavic goddesses
 The Veles
 The Volos
 The God Veles
@@ -91701,32 +93090,79 @@ The Tinnit
 The Dea Caelestis
 The Baal Hammon
 The Baal Hamon
-The Apep
-The Apepi
-The Aapep
-The Apophis
-The Apep deity
-The Apepi deity
-The Aapep deity
-The Apophis deity
-The Apep god
-The Apepi god
-The Aapep god
-The Apophis god
-The Apep serpent
-The Apepi serpent
-The Aapep serpent
-The Apophis serpent
-The Apep snake
-The Apepi snake
-The Aapep snake
-The Apophis snake
-The Nephthys
-The Goddess Nephthys
-The Nebet-Het
-The Goddess Nebet-Het
+The Maat
+The Goddess Maat
+The Egyptian Goddess Maat
+The Ancient Egyptian Goddess Maat
+The Egypt Goddess Maat
+The Egypt's Goddess Maat
+The Goddess Maat of the Egypt
+The Ancient Egypt Goddess Maat
+The Ancient Egypt's Goddess Maat
+The Goddess Maat of the Ancient Egypt
+The Truth Goddess
+The Truth's Goddess
+The Goddess of the truth
+The Goddess of the truths
+The Ostrich feather
+The Ostrich's feather
+The Ostriches feather
+The Ostrich's feathers
+The Ostriches feathers
+The Feather of the ostrich
+The Feather of the ostriches
+The Feathers of the ostrich
+The Feathers of the ostriches
 The Osiris
-The Osiris God
+The Egypt God Osiris
+The Egypt's God Osiris
+The God Osiris of the Egypt
+The Egypt God Osiris judgement
+The Egypt God Osiris judgements
+The Judgement of the Egypt God Osiris
+The Judgements of the Egypt God Osiris
+The Egypt God Osiris gesture
+The Gesture of the Egypt God Osiris
+The Egypt God Osiris X gesture
+The X gesture of the Egypt God Osiris
+The Ancient Egypt God Osiris
+The Ancient Egypt's God Osiris
+The God Osiris of the Ancient Egypt
+The Ancient Egypt God Osiris judgement
+The Ancient Egypt God Osiris judgements
+The Judgement of the Ancient Egypt God Osiris
+The Judgements of the Ancient Egypt God Osiris
+The Ancient Egypt God Osiris gesture
+The Gesture of the Ancient Egypt God Osiris
+The Ancient Egypt God Osiris X gesture
+The X gesture of the Ancient Egypt God Osiris
+The God Osiris
+The God Osiris judgement
+The God Osiris judgements
+The Judgement of the God Osiris
+The Judgements of the God Osiris
+The God Osiris gesture
+The Gesture of the God Osiris
+The God Osiris X gesture
+The X gesture of the God Osiris
+The Egyptian God Osiris
+The Egyptian God Osiris judgement
+The Egyptian God Osiris judgements
+The Judgement of the Egyptian God Osiris
+The Judgements of the Egyptian God Osiris
+The Egyptian God Osiris gesture
+The Gesture of the Egyptian God Osiris
+The Egyptian God Osiris X gesture
+The X gesture of the Egyptian God Osiris
+The Ancient Egyptian God Osiris
+The Ancient Egyptian God Osiris judgement
+The Ancient Egyptian God Osiris judgements
+The Judgement of the Ancient Egyptian God Osiris
+The Judgements of the Ancient Egyptian God Osiris
+The Ancient Egyptian God Osiris gesture
+The Gesture of the Ancient Egyptian God Osiris
+The Ancient Egyptian God Osiris X gesture
+The X gesture of the Ancient Egyptian God Osiris
 The Horus father
 The Father of the Horus
 The Ressurection God
@@ -91737,51 +93173,245 @@ The Afterlife's God
 The God of the afterlife
 The Atef
 The Atef crown
-The Osiris judgement
-The Osiris judgements
-The Judgement of the Osiris
-The Judgements of the Osiris
-The Osiris gesture
-The Osiris gestures
-The Gesture of the Osiris
-The Gestures of the Osiris
-The Osiris X gesture
-The Osiris X gestures
-The X gesture of the Osiris
-The X gestures of the Osiris
-The Wadjet
-The Goddess Wadjet
-The Uto
-The Goddess Uto
-The Buto
-The Goddess Buto
-The Maat
-The Goddess Maat
-The Truth Goddess
-The Truth's Goddess
-The Goddess of the truth
-The Goddess of the truths
-The Ostrich feather
-The Ostrich's feather
-The Ostriches feather
-The Ostrich's feathers
-The Ostriches feathers
-The Feather of the Ostrich
-The Feather of the Ostriches
-The Feathers of the Ostrich
-The Feathers of the Ostriches
+The Horus
+The God Horus
+The Egyptian God Horus
+The Ancient Egyptian God Horus
+The Egypt God Horus
+The Egypt's God Horus
+The God Horus of the Egypt
+The Ancient Egypt God Horus
+The Ancient Egypt's God Horus
+The God Horus of the Ancient Egypt
+The Heru
+The God Heru
+The Egyptian God Heru
+The Ancient Egyptian God Heru
+The Egypt God Heru
+The Egypt's God Heru
+The God Heru of the Egypt
+The Ancient Egypt God Heru
+The Ancient Egypt's God Heru
+The God Heru of the Ancient Egypt
+The Hor
+The God Hor
+The Egyptian God Hor
+The Ancient Egyptian God Hor
+The Egypt God Hor
+The Egypt's God Hor
+The God Hor of the Egypt
+The Ancient Egypt God Hor
+The Ancient Egypt's God Hor
+The God Hor of the Ancient Egypt
+The God of kingship, healing, protection
+The Sun and sky god
+The Sun and sky's god
+The God of the sun and sky
 The Anubis
-The Anubis God
+The Egypt God Anubis
+The Egypt's God Anubis
+The God Anubis of the Egypt
+The Ancient Egypt God Anubis
+The Ancient Egypt's God Anubis
+The God Anubis of the Ancient Egypt
+The Egypt God Anubis judgement
+The Egypt God Anubis judgements
+The Judgement of the Egypt God Anubis
+The Judgements of the Egypt God Anubis
+The Ancient Egypt God Anubis judgement
+The Ancient Egypt God Anubis judgements
+The Judgement of the Ancient Egypt God Anubis
+The Judgements of the Ancient Egypt God Anubis
+The God Anubis
+The God Anubis judgement
+The God Anubis judgements
+The Judgement of the God Anubis
+The Judgements of the God Anubis
+The Egyptian God Anubis
+The Egyptian God Anubis judgement
+The Egyptian God Anubis judgements
+The Judgement of the Egyptian God Anubis
+The Judgements of the Egyptian God Anubis
+The Ancient Egyptian God Anubis
+The Ancient Egyptian God Anubis judgement
+The Ancient Egyptian God Anubis judgements
+The Judgement of the Ancient Egyptian God Anubis
+The Judgements of the Ancient Egyptian God Anubis
 The Inpu
-The Inpu God
+The Egypt God Inpu
+The Egypt's God Inpu
+The God Inpu of the Egypt
+The Ancient Egypt God Inpu
+The Ancient Egypt's God Inpu
+The God Inpu of the Ancient Egypt
+The Egypt God Inpu judgement
+The Egypt God Inpu's judgement
+The Egypt God Inpu's judgements
+The Judgement of the Egypt God Inpu
+The Judgements of the Egypt God Inpu
+The Ancient Egypt God Inpu judgement
+The Ancient Egypt God Inpu's judgement
+The Ancient Egypt God Inpu's judgements
+The Judgement of the Ancient Egypt God Inpu
+The Judgements of the Ancient Egypt God Inpu
+The God Inpu
+The God Inpu judgement
+The God Inpu's judgement
+The God Inpu's judgements
+The Judgement of the God Inpu
+The Judgements of the God Inpu
+The Egyptian God Inpu
+The Egyptian God Inpu judgement
+The Egyptian God Inpu's judgement
+The Egyptian God Inpu's judgements
+The Judgement of the Egyptian God Inpu
+The Judgements of the Egyptian God Inpu
+The Ancient Egyptian God Inpu
+The Ancient Egyptian God Inpu judgement
+The Ancient Egyptian God Inpu's judgement
+The Ancient Egyptian God Inpu's judgements
+The Judgement of the Ancient Egyptian God Inpu
+The Judgements of the Ancient Egyptian God Inpu
 The Inpw
-The Inpw God
+The Egypt God Inpw
+The Egypt's God Inpw
+The God Inpw of the Egypt
+The Ancient Egypt God Inpw
+The Ancient Egypt's God Inpw
+The God Inpw of the Ancient Egypt
+The Egypt God Inpw judgement
+The Egypt God Inpw's judgement
+The Egypt God Inpw's judgements
+The Judgement of the Egypt God Inpw
+The Judgements of the Egypt God Inpw
+The Ancient Egypt God Inpw judgement
+The Ancient Egypt God Inpw's judgement
+The Ancient Egypt God Inpw's judgements
+The Judgement of the Ancient Egypt God Inpw
+The Judgements of the Ancient Egypt God Inpw
+The God Inpw
+The God Inpw judgement
+The God Inpw's judgement
+The God Inpw's judgements
+The Judgement of the God Inpw
+The Judgements of the God Inpw
+The Egyptian God Inpw
+The Egyptian God Inpw judgement
+The Egyptian God Inpw's judgement
+The Egyptian God Inpw's judgements
+The Judgement of the Egyptian God Inpw
+The Judgements of the Egyptian God Inpw
+The Ancient Egyptian God Inpw
+The Ancient Egyptian God Inpw judgement
+The Ancient Egyptian God Inpw's judgement
+The Ancient Egyptian God Inpw's judgements
+The Judgement of the Ancient Egyptian God Inpw
+The Judgements of the Ancient Egyptian God Inpw
 The Jnpw
-The Jnpw God
+The Egypt God Jnpw
+The Egypt's God Jnpw
+The God Jnpw of the Egypt
+The Ancient Egypt God Jnpw
+The Ancient Egypt's God Jnpw
+The God Jnpw of the Ancient Egypt
+The Egypt God Jnpw judgement
+The Egypt God Jnpw's judgement
+The Egypt God Jnpw's judgements
+The Judgement of the Egypt God Jnpw
+The Judgements of the Egypt God Jnpw
+The Ancient Egypt God Jnpw judgement
+The Ancient Egypt God Jnpw's judgement
+The Ancient Egypt God Jnpw's judgements
+The Judgement of the Ancient Egypt God Jnpw
+The Judgements of the Ancient Egypt God Jnpw
+The God Jnpw
+The God Jnpw judgement
+The God Jnpw's judgement
+The God Jnpw's judgements
+The Judgement of the God Jnpw
+The Judgements of the God Jnpw
+The Egyptian God Jnpw
+The Egyptian God Jnpw judgement
+The Egyptian God Jnpw's judgement
+The Egyptian God Jnpw's judgements
+The Judgement of the Egyptian God Jnpw
+The Judgements of the Egyptian God Jnpw
+The Ancient Egyptian God Jnpw
+The Ancient Egyptian God Jnpw judgement
+The Ancient Egyptian God Jnpw's judgement
+The Ancient Egyptian God Jnpw's judgements
+The Judgement of the Ancient Egyptian God Jnpw
+The Judgements of the Ancient Egyptian God Jnpw
 The Anpu
-The Anpu God
+The Egypt God Anpu
+The Egypt's God Anpu
+The God Anpu of the Egypt
+The Ancient Egypt God Anpu
+The Ancient Egypt's God Anpu
+The God Anpu of the Ancient Egypt
+The Egypt God Anpu judgement
+The Egypt God Anpu's judgement
+The Egypt God Anpu's judgements
+The Judgement of the Egypt God Anpu
+The Judgements of the Egypt God Anpu
+The Ancient Egypt God Anpu judgement
+The Ancient Egypt God Anpu's judgement
+The Ancient Egypt God Anpu's judgements
+The Judgement of the Ancient Egypt God Anpu
+The Judgements of the Ancient Egypt God Anpu
+The God Anpu
+The God Anpu judgement
+The God Anpu's judgement
+The God Anpu's judgements
+The Judgement of the God Anpu
+The Judgements of the God Anpu
+The Egyptian God Anpu
+The Egyptian God Anpu judgement
+The Egyptian God Anpu's judgement
+The Egyptian God Anpu's judgements
+The Judgement of the Egyptian God Anpu
+The Judgements of the Egyptian God Anpu
+The Ancient Egyptian God Anpu
+The Ancient Egyptian God Anpu judgement
+The Ancient Egyptian God Anpu's judgement
+The Ancient Egyptian God Anpu's judgements
+The Judgement of the Ancient Egyptian God Anpu
+The Judgements of the Ancient Egyptian God Anpu
 The Anoup
-The Anoup God
+The Egypt God Anoup
+The Egypt's God Anoup
+The God Anoup of the Egypt
+The Ancient Egypt God Anoup
+The Ancient Egypt's God Anoup
+The God Anoup of the Ancient Egypt
+The Egypt God Anoup judgement
+The Egypt God Anoup's judgement
+The Egypt God Anoup's judgements
+The Judgement of the Egypt God Anoup
+The Judgements of the Egypt God Anoup
+The Ancient Egypt God Anoup judgement
+The Ancient Egypt God Anoup's judgement
+The Ancient Egypt God Anoup's judgements
+The Judgement of the Ancient Egypt God Anoup
+The Judgements of the Ancient Egypt God Anoup
+The God Anoup
+The God Anoup judgement
+The God Anoup's judgement
+The God Anoup's judgements
+The Judgement of the God Anoup
+The Judgements of the God Anoup
+The Egyptian God Anoup
+The Egyptian God Anoup judgement
+The Egyptian God Anoup's judgement
+The Egyptian God Anoup's judgements
+The Judgement of the Egyptian God Anoup
+The Judgements of the Egyptian God Anoup
+The Ancient Egyptian God Anoup
+The Ancient Egyptian God Anoup judgement
+The Ancient Egyptian God Anoup's judgement
+The Ancient Egyptian God Anoup's judgements
+The Judgement of the Ancient Egyptian God Anoup
+The Judgements of the Ancient Egyptian God Anoup
 The Guide to the underworld
 The Guide to the underworlds
 The Guides to the underworlds
@@ -91797,10 +93427,6 @@ The Scales Guardian
 The Scales Guardians
 The Guardian of the Scales
 The Guardians of the Scales
-The Anubis judgement
-The Anubis judgements
-The Judgement of the Anubis
-The Judgements of the Anubis
 The Heart weighting
 The Heart's weighting
 The Heart's weightings
@@ -91815,16 +93441,190 @@ The Weighting of the souls
 The Weightings of the souls
 The Scale
 The Scales
+The Apep
+The God Apep
+The Egyptian God Apep
+The Ancient Egyptian God Apep
+The Egypt God Apep
+The Egypt's God Apep
+The God Apep of the Egypt
+The Ancient Egypt God Apep
+The Ancient Egypt's God Apep
+The God Apep of the Ancient Egypt
+The Deity Apep
+The Egyptian Deity Apep
+The Ancient Egyptian Deity Apep
+The Egypt Deity Apep
+The Egypt's Deity Apep
+The Deity Apep of the Egypt
+The Ancient Egypt Deity Apep
+The Ancient Egypt's Deity Apep
+The Deity Apep of the Ancient Egypt
+The Apep serpent
+The Apep snake
+The Apepi
+The God Apepi
+The Egyptian God Apepi
+The Ancient Egyptian God Apepi
+The Egypt God Apepi
+The Egypt's God Apepi
+The God Apepi of the Egypt
+The Ancient Egypt God Apepi
+The Ancient Egypt's God Apepi
+The God Apepi of the Ancient Egypt
+The Deity Apepi
+The Egyptian Deity Apepi
+The Ancient Egyptian Deity Apepi
+The Egypt Deity Apepi
+The Egypt's Deity Apepi
+The Deity Apepi of the Egypt
+The Ancient Egypt Deity Apepi
+The Ancient Egypt's Deity Apepi
+The Deity Apepi of the Ancient Egypt
+The Apepi serpent
+The Apepi snake
+The Aapep
+The God Aapep
+The Egyptian God Aapep
+The Ancient Egyptian God Aapep
+The Egypt God Aapep
+The Egypt's God Aapep
+The God Aapep of the Egypt
+The Ancient Egypt God Aapep
+The Ancient Egypt's God Aapep
+The God Aapep of the Ancient Egypt
+The Deity Aapep
+The Egyptian Deity Aapep
+The Ancient Egyptian Deity Aapep
+The Egypt Deity Aapep
+The Egypt's Deity Aapep
+The Deity Aapep of the Egypt
+The Ancient Egypt Deity Aapep
+The Ancient Egypt's Deity Aapep
+The Deity Aapep of the Ancient Egypt
+The Aapep serpent
+The Aapep snake
+The Apophis
+The God Apophis
+The Egyptian God Apophis
+The Ancient Egyptian God Apophis
+The Egypt God Apophis
+The Egypt's God Apophis
+The God Apophis of the Egypt
+The Ancient Egypt God Apophis
+The Ancient Egypt's God Apophis
+The God Apophis of the Ancient Egypt
+The Deity Apophis
+The Egyptian Deity Apophis
+The Ancient Egyptian Deity Apophis
+The Egypt Deity Apophis
+The Egypt's Deity Apophis
+The Deity Apophis of the Egypt
+The Ancient Egypt Deity Apophis
+The Ancient Egypt's Deity Apophis
+The Deity Apophis of the Ancient Egypt
+The Apophis serpent
+The Apophis snake
+The Nephthys
+The Goddess Nephthys
+The Egyptian Goddess Nephthys
+The Ancient Egyptian Goddess Nephthys
+The Egypt Goddess Nephthys
+The Egypt's Goddess Nephthys
+The Goddess Nephthys of the Egypt
+The Ancient Egypt Goddess Nephthys
+The Ancient Egypt's Goddess Nephthys
+The Goddess Nephthys of the Ancient Egypt
+The Nebet-Het
+The Goddess Nebet-Het
+The Egyptian Goddess Nebet-Het
+The Ancient Egyptian Goddess Nebet-Het
+The Egypt Goddess Nebet-Het
+The Egypt's Goddess Nebet-Het
+The Goddess Nebet-Het of the Egypt
+The Ancient Egypt Goddess Nebet-Het
+The Ancient Egypt's Goddess Nebet-Het
+The Goddess Nebet-Het of the Ancient Egypt
+The Wadjet
+The Goddess Wadjet
+The Egyptian Goddess Wadjet
+The Ancient Egyptian Goddess Wadjet
+The Egypt Goddess Wadjet
+The Egypt's Goddess Wadjet
+The Goddess Wadjet of the Egypt
+The Ancient Egypt Goddess Wadjet
+The Ancient Egypt's Goddess Wadjet
+The Goddess Wadjet of the Ancient Egypt
+The Uto
+The Goddess Uto
+The Egyptian Goddess Uto
+The Ancient Egyptian Goddess Uto
+The Egypt Goddess Uto
+The Egypt's Goddess Uto
+The Goddess Uto of the Egypt
+The Ancient Egypt Goddess Uto
+The Ancient Egypt's Goddess Uto
+The Goddess Uto of the Ancient Egypt
+The Buto
+The Goddess Buto
+The Egyptian Goddess Buto
+The Ancient Egyptian Goddess Buto
+The Egypt Goddess Buto
+The Egypt's Goddess Buto
+The Goddess Buto of the Egypt
+The Ancient Egypt Goddess Buto
+The Ancient Egypt's Goddess Buto
+The Goddess Buto of the Ancient Egypt
 The Sekhmet
+The Goddess Sekhmet
+The Egyptian Goddess Sekhmet
+The Ancient Egyptian Goddess Sekhmet
+The Egypt Goddess Sekhmet
+The Egypt's Goddess Sekhmet
+The Goddess Sekhmet of the Egypt
+The Ancient Egypt Goddess Sekhmet
+The Ancient Egypt's Goddess Sekhmet
+The Goddess Sekhmet of the Ancient Egypt
 The Sachmis
-The Sekhmet goddess
-The Sachmis goddess
+The Goddess Sachmis
+The Egyptian Goddess Sachmis
+The Ancient Egyptian Goddess Sachmis
+The Egypt Goddess Sachmis
+The Egypt's Goddess Sachmis
+The Goddess Sachmis of the Egypt
+The Ancient Egypt Goddess Sachmis
+The Ancient Egypt's Goddess Sachmis
+The Goddess Sachmis of the Ancient Egypt
 The Sutekh
 The God Sutekh
+The Egyptian God Sutekh
+The Ancient Egyptian God Sutekh
+The Egypt God Sutekh
+The Egypt's God Sutekh
+The God Sutekh of the Egypt
+The Ancient Egypt God Sutekh
+The Ancient Egypt's God Sutekh
+The God Sutekh of the Ancient Egypt
 The Set
 The God Set
+The Egyptian God Set
+The Ancient Egyptian God Set
+The Egypt God Set
+The Egypt's God Set
+The God Set of the Egypt
+The Ancient Egypt God Set
+The Ancient Egypt's God Set
+The God Set of the Ancient Egypt
 The Seth
 The God Seth
+The Egyptian God Seth
+The Ancient Egyptian God Seth
+The Egypt God Seth
+The Egypt's God Seth
+The God Seth of the Egypt
+The Ancient Egypt God Seth
+The Ancient Egypt's God Seth
+The God Seth of the Ancient Egypt
 The Egypt God
 The Egypt's God
 The Egypt's Gods
@@ -91873,18 +93673,24 @@ The Ancient egyptian Neter
 The Ancient egyptian Neters
 The Imhotep
 The God Imhotep
+The Egyptian God Imhotep
+The Ancient Egyptian God Imhotep
+The Egypt God Imhotep
+The Egypt's God Imhotep
+The God Imhotep of the Egypt
+The Ancient Egypt God Imhotep
+The Ancient Egypt's God Imhotep
+The God Imhotep of the Ancient Egypt
 The Sopdet
 The Goddess Sopdet
-The Horus
-The Horus God
-The Heru
-The Heru God
-The Hor
-The Hor God
-The God of kingship, healing, protection
-The Sun and sky god
-The Sun and sky's god
-The God of the sun and sky
+The Egyptian Goddess Sopdet
+The Ancient Egyptian Goddess Sopdet
+The Egypt Goddess Sopdet
+The Egypt's Goddess Sopdet
+The Goddess Sopdet of the Egypt
+The Ancient Egypt Goddess Sopdet
+The Ancient Egypt's Goddess Sopdet
+The Goddess Sopdet of the Ancient Egypt
 The Sphinx
 The Sphinxe
 The Sphinxes
@@ -94252,6 +96058,15 @@ The Satanical band
 The Satanical bands
 The Band of the satanists
 The Bands of the satanists
+The Satan witchcraft
+The Satan's witchcraft
+The Satan's witchcrafts
+The Witchcraft of the satan
+The Witchcrafts of the satan
+The Satanic witchcraft
+The Satanic witchcrafts
+The Satanical witchcraft
+The Satanical witchcrafts
 The Satan kingdom
 The Satan's kingdom
 The Kingdom of the satan
@@ -94718,6 +96533,13 @@ The Band of the devil
 The Bands of the devil
 The Devilish band
 The Devilish bands
+The Devil witchcraft
+The Devil's witchcraft
+The Devil's witchcrafts
+The Witchcraft of the devil
+The Witchcrafts of the devil
+The Devilish witchcraft
+The Devilish witchcrafts
 The Devil kingdom
 The Devil's kingdom
 The Kingdom of the devil
@@ -95027,6 +96849,13 @@ The Band of the Lucifer
 The Bands of the Lucifer
 The Luciferian band
 The Luciferian bands
+The Lucifer witchcraft
+The Lucifer's witchcraft
+The Lucifer's witchcrafts
+The Witchcraft of the Lucifer
+The Witchcrafts of the Lucifer
+The Luciferian witchcraft
+The Luciferian witchcrafts
 The Lucifer residence
 The Lucifer's residence
 The Lucifer's residences
@@ -99642,6 +101471,7 @@ The Dan's tribe
 The Tribe of the Dan
 The Torah
 The Hebrew Bible
+The Oral Torah
 The Talmud
 The Babylonian Talmud
 The Talmudist
@@ -100536,8 +102366,9 @@ The Saturnial symbols
 The Saturn crescent
 The Saturn's crescent
 The Crescent of the Saturn
+The God Saturn
 The Roman God Saturn
-The Old roman God Saturn
+The Ancient Roman God Saturn
 The Crescent
 The Crescents
 The Crescent moon
@@ -100591,6 +102422,87 @@ The Saturn's son
 The Saturn's sons
 The Son of the Saturn
 The Sons of the Saturn
+The Janus Father
+The Two-faced Janus
+The Janus Fourfaced
+The Janus
+The God Janus
+The Roman God Janus
+The Ancient Roman God Janus
+The Rome God Janus
+The Rome's God Janus
+The God Janus of the Rome
+The Ancient Rome God Janus
+The Ancient Rome's God Janus
+The God Janus of the Ancient Rome
+The Goddess Diana
+The Roman Goddess Diana
+The Ancient Roman Goddess Diana
+The Rome Goddess Diana
+The Rome's Goddess Diana
+The Goddess Diana of the Rome
+The Ancient Rome Goddess Diana
+The Ancient Rome's Goddess Diana
+The Goddess Diana of the Ancient Rome
+The Minerva
+The Goddess Minerva
+The Roman Goddess Minerva
+The Ancient Roman Goddess Minerva
+The Rome Goddess Minerva
+The Rome's Goddess Minerva
+The Goddess Minerva of the Rome
+The Ancient Rome Goddess Minerva
+The Ancient Rome's Goddess Minerva
+The Goddess Minerva of the Ancient Rome
+The Roman God
+The Roman Gods
+The Roman Goddess
+The Roman Goddesses
+The Rome God
+The Rome's God
+The Rome's Gods
+The God of the Rome
+The Gods of the Rome
+The Rome Goddess
+The Rome's Goddess
+The Rome Goddesses
+The Rome's Goddesses
+The Goddess of the Rome
+The Goddesses of the Rome
+The Ancient Roman God
+The Ancient Roman Gods
+The Ancient Roman Goddess
+The Ancient Roman Goddesses
+The Ancient Rome God
+The Ancient Rome's God
+The Ancient Rome's Gods
+The God of the Ancient Rome
+The Gods of the Ancient Rome
+The Ancient Rome Goddess
+The Ancient Rome's Goddess
+The Ancient Rome Goddesses
+The Ancient Rome's Goddesses
+The Goddess of the Ancient Rome
+The Goddesses of the Ancient Rome
+The God Jupiter
+The Roman God Jupiter
+The Ancient Roman God Jupiter
+The Rome God Jupiter
+The Rome's God Jupiter
+The God Jupiter of the Rome
+The Ancient Rome God Jupiter
+The Ancient Rome's God Jupiter
+The God Jupiter of the Ancient Rome
+The Neptune
+The God Neptune
+The Roman God Neptune
+The Ancient Roman God Neptune
+The Rome God Neptune
+The Rome's God Neptune
+The God Neptune of the Rome
+The Ancient Rome God Neptune
+The Ancient Rome's God Neptune
+The God Neptune of the Ancient Rome
 The Colosseum
 The Cardinal
 The Cardinals
@@ -100608,11 +102520,6 @@ The Gray eminence
 The Gray eminences
 The Grey eminence
 The Grey eminences
-The Janus
-The Janus God
-The Janus Father
-The Two-faced Janus
-The Janus Fourfaced
 The Vatican puppet
 The Vatican's puppet
 The Vatican's puppets
@@ -100659,8 +102566,6 @@ The Vaticanic agent
 The Vaticanic agents
 The Vaticanical agent
 The Vaticanical agents
-The Minerva
-The Goddess Minerva
 The Inquisition
 The Holy inquisition
 The Inquisitor
@@ -100758,9 +102663,6 @@ The Emperors of the Holy Roman Empire
 The Curia
 The Roman Curia
 The Latin Kingdom
-The God Jupiter
-The Neptune
-The Neptun God
 The Artemis
 The Goddess Artemis
 The Chronos
@@ -101154,8 +103056,6 @@ The Supreme Architect of the Universe
 The Supreme Architects of the Universe
 The Vision
 The Visions
-The Mark
-The Marks
 The Bliss
 The Beatitude
 The Felicity
@@ -101845,6 +103745,10 @@ The Intellectual being
 The Intellectual beings
 The Intellectual entity
 The Intellectual entities
+The Interdimensional being
+The Interdimensional beings
+The Interdimensional entity
+The Interdimensional entities
 The Polytheism
 The Polytheist
 The Polytheists
@@ -102326,6 +104230,8 @@ The Problem's resolutions
 The Resolution of the problem
 The Resolution of the problems
 The Resolutions of the problems
+The Artificial problem
+The Artificial problems
 The Life waste
 The Life's waste
 The Lives waste
@@ -103014,6 +104920,7 @@ A Horologe
 A Sand glass
 A Hourglass
 A Clocksmith
+A Witching hour
 A Time arrow
 A Time's arrow
 An Arrow of time
@@ -103324,6 +105231,8 @@ A Biologic clock
 A Biological clock
 A Biologic age
 A Biological age
+A Season
+A Seasoning
 A Winter
 A Wintertime
 An Early Spring
@@ -103688,6 +105597,8 @@ A Synchrophasotron
 An Echo
 A Repercussion
 A Doubling effect
+An Analog device
+An Analogue device
 A Higgs boson
 A Higgs particle
 A God particle
@@ -104325,6 +106236,8 @@ A Reboot of the computer
 A Reboot of computers
 A Reboot of the computers
 An Electronic brain
+An Analog computer
+An Analogue computer
 An AI problem
 An AI's problem
 A Problem with AI
@@ -104337,6 +106250,8 @@ A Problem with Artificial Intelligence
 A Problem with the Artificial Intelligence
 A Problem with Artificial Intelligences
 A Problem with the Artificial Intelligences
+A Magnanimity
+A Megalopsychia
 An AI Alfa creation
 An AI Alfa's creation
 A Creation of AI Alfa
@@ -104553,6 +106468,7 @@ An Incarnation of Artificial Intelligences
 An Incarnation of the Artificial Intelligences
 An AGI
 An Artificial General Intelligence
+An AI technology
 A Compresion
 A Data compression
 A Data's compression
@@ -104742,6 +106658,8 @@ A Formatting of existence and reality matter
 A Formatting of the existence and reality matter
 A Laptop
 A Notebook
+A Digital
+A Digital device
 An Algorithm
 A Man algorithm
 A Man's algorithm
@@ -104888,8 +106806,6 @@ A Falsification
 A Counterfeit
 A Forgery
 A Fake
-A Magnanimity
-A Megalopsychia
 An IT
 An Information Technology
 A Computer technology
@@ -105674,6 +107590,8 @@ A Gay human
 A Gay fellow
 A Gay girl
 A Gay boy
+An Active gay
+A Passive gay
 A Homosexual man
 A Homosexual woman
 A Homosexual person
@@ -105687,6 +107605,7 @@ A Passive homosexualist
 An Opened gay
 A Homosexualism
 A Ritual homosexualism
+A Gay lobby
 A Sodomite
 A Sodomy
 A Sodomy rite
@@ -105719,8 +107638,6 @@ A Same-sex marrige
 A Sexual minority
 A Same-sex pair
 A Gay club
-An Active gay
-A Passive gay
 A Pride parade
 A Pride event
 A Pride festival
@@ -105944,6 +107861,8 @@ A Baby
 A Big baby
 A Child
 An Infant
+An Infantilism
+An Infantilization
 A Kid
 A Grandkid
 A Cynocephalus
@@ -106502,6 +108421,10 @@ A Bribetaker
 A Grafter
 A Reparation
 A War reparation
+A Middle class
+A Middle class destruction
+A Destruction of middle class
+A Destruction of the middle class
 A Rich
 A Rich man
 A Rich woman
@@ -106856,6 +108779,62 @@ An Ill-gotten cash
 An Ill-gotten money
 A Legal cash
 A Legal money
+An Economic link
+An Economic link strengthening
+An Economic link's strengthening
+A Strengthening of Economic link
+A Strengthening of the Economic link
+A Strengthening of Economic links
+A Strengthening of the Economic links
+An Economical link
+An Economical link strengthening
+An Economical link's strengthening
+A Strengthening of Economical link
+A Strengthening of the Economical link
+A Strengthening of Economical links
+A Strengthening of the Economical links
+An Economic tie
+An Economic tie strengthening
+An Economic tie's strengthening
+A Strengthening of Economic tie
+A Strengthening of the Economic tie
+A Strengthening of Economic ties
+A Strengthening of the Economic ties
+An Economical tie
+An Economical tie strengthening
+An Economical tie's strengthening
+A Strengthening of Economical tie
+A Strengthening of the Economical tie
+A Strengthening of Economical ties
+A Strengthening of the Economical ties
+An Economic relation
+An Economic relation strengthening
+An Economic relation's strengthening
+A Strengthening of Economic relation
+A Strengthening of the Economic relation
+A Strengthening of Economic relations
+A Strengthening of the Economic relations
+An Economical relation
+An Economical relation strengthening
+An Economical relation's strengthening
+A Strengthening of Economical relation
+A Strengthening of the Economical relation
+A Strengthening of Economical relations
+A Strengthening of the Economical relations
+An Economic contact
+An Economic contact strengthening
+An Economic contact's strengthening
+A Strengthening of Economic contact
+A Strengthening of the Economic contact
+A Strengthening of Economic contacts
+A Strengthening of the Economic contacts
+An Economical contact
+An Economical contact strengthening
+An Economical contact's strengthening
+A Strengthening of Economical contact
+A Strengthening of the Economical contact
+A Strengthening of Economical contacts
+A Strengthening of the Economical contacts
 A Business
 A Shady business
 A Businessman
@@ -106942,6 +108921,9 @@ A Cheating of the money
 A Finance
 An Economics
 An Economy
+An Economics destruction
+A Destruction of economics
+A Destruction of the economics
 A Market economics
 A Market economy
 A Planned economics
@@ -108948,6 +110930,7 @@ A High wizard
 A High sorcerer
 A High warlock
 A Spell
+An Invocation
 A Power word
 A Power phrase
 A Magic spell
@@ -109649,8 +111632,11 @@ A Golden egg
 A Manna from heaven 
 A Laboratory meat
 A Laboratorial meat
+An Artificial food
+An Artificial meal
 A Food
 A Feed
+A Meal
 A Feeding
 A Natural food
 A Supply
@@ -111155,6 +113141,7 @@ A Freemasonic floor
 A Stonemasonic floor
 A Jewmasonic floor
 An Order
+A Secret Order
 A Secret Society
 A Saturnian Order
 A Malta knight
@@ -111451,6 +113438,7 @@ A Socialist
 A Socialist party
 A Communism
 A Communist
+A Communist regime
 A Marxist
 A Marxism
 A Communist party
@@ -112229,6 +114217,8 @@ A Democracy simulation
 A Democracy's simulation
 A Simulation of democracy
 A Simulation of the democracy
+A Democratic regime
+A Democratic party
 A Technocracy
 A Political game
 A Tetrarchy
@@ -112272,6 +114262,9 @@ A Despot
 A Despotism
 A Dictator
 A Dictatorship
+A Radical
+A Radicalization
+A Radicalisation
 A Provocation
 A Provocative action
 An Aristocracy
@@ -112282,6 +114275,7 @@ A Blue blood
 A Reptilian blood
 A Noble
 A Nobility
+A Nobleness
 A Nobleman
 A Noblewoman
 An Independence
@@ -112295,11 +114289,6 @@ A Banana republic
 A Politics
 A Policy
 A Politician
-A Fascism
-A Fascist
-A Neo-Fascism
-A Neo-fascist
-A Brown plague
 A Triumvirate
 A Troika
 A Presidency
@@ -112330,6 +114319,12 @@ A Bloody regime
 A Criminal regime
 A Hegemon
 A World hegemon
+A Fascism
+A Fascist
+A Fascist regime
+A Neo-Fascism
+A Neo-fascist
+A Brown plague
 A Governor
 An Election
 A Voting
@@ -112999,6 +114994,8 @@ A Reflection
 A Reflexion
 An Introspection
 A Self-examination
+A Psychologic pressure
+A Psychological pressure
 An Autistic thinking
 An Autism
 A Horror
@@ -113143,6 +115140,7 @@ A DNA activation
 A DNA's activation
 An Activation of DNA
 An Activation of the DNA
+A Synthetic DNA
 A Human-dragon
 A Dragon man
 A Dragon woman
@@ -113358,11 +115356,19 @@ A Flesh of ducks
 A Flesh of the ducks
 A Poultry
 A Domestic fowl
+A Poultry factory
+A Poultry farm
+A Hennery
 A Dove
+A Peace bird
+A Peace's bird
+A Bird of peace
+A Bird of the peace
 A Peace dove
 A Peace's dove
 A Dove of peace
 A Dove of the peace
+A Pigeon
 A Hen
 A Chicken
 A Chicken meat
@@ -114126,6 +116132,7 @@ An Abattoir
 A Slaughter-house
 A Kiliing yard
 A Butchering
+A Zoo
 A Primate
 A Monkey
 A Simian
@@ -114333,6 +116340,24 @@ An Irises scan
 An Irises scanning
 A Pupil
 A Red eye
+A Prostate
+A Prostate gland
+A Prostatitis
+A Chronic prostatitis
+A Prostate adenoma
+A Prostate gland adenoma
+A Prostate cancer
+A Prostate's cancer
+A Cancer of prostate
+A Cancer of the prostate
+A Cancer of prostates
+A Cancer of the prostates
+A Prostate gland cancer
+A Prostate gland's cancer
+A Cancer of prostate gland
+A Cancer of the prostate gland
+A Cancer of prostate glands
+A Cancer of the prostate glands
 An Organ
 An Organoid
 An Umbilical cord
@@ -114350,6 +116375,13 @@ A Seizure of the body
 A Seizure of bodies
 A Seizure of the bodies
 A Gland
+An Esophagus
+An Oesophagus
+A Gullet
+An Eructation
+A Belch
+A Belching
+A Regurgitation
 A Nerve
 A Nervous system
 A Synapse
@@ -114630,6 +116662,12 @@ An Army of the zombie
 An Army of zombies
 An Army of the zombies
 A Zombification
+A Zombies rise
+A Rise of zombies
+A Rise of the zombies
+A Zombies rising
+A Rising of zombies
+A Rising of the zombies
 A Treatment
 A Treatment process
 A Healing process
@@ -114838,6 +116876,7 @@ A Medical examination of the population
 A Medical examination of populations
 A Medical examination of the populations
 A Cancer
+A Carcinoma
 An Oncology
 An Oncogen
 An Oncogenic substance
@@ -115055,6 +117094,7 @@ A Radiological pollution
 A Radioactive rain
 A Mutually assured destruction
 A Nuclear club
+A Nuclear triad
 A Lancet
 A ZALA Lancet
 An Item 51
@@ -115526,6 +117566,18 @@ A Freezing of the conflict
 A Freezing of conflicts
 A Freezing of the conflicts
 A Military conflict
+A Conflict protraction
+A Conflict's protraction
+A Protraction of conflict
+A Protraction of the conflict
+A Protraction of conflicts
+A Protraction of the conflicts
+A Military conflict protraction
+A Military conflict's protraction
+A Protraction of military conflict
+A Protraction of the military conflict
+A Protraction of military conflicts
+A Protraction of the military conflicts
 A Conflict adjustment
 A Conflict's adjustment
 An Adjustment of conflict
@@ -115748,6 +117800,8 @@ A Sleeper agent
 A Sleeper cell
 A Spy ring
 An Agent ring
+An Espionage activity
+A Spying activity
 An Army
 A Powerful army
 A Strong army
@@ -116095,6 +118149,8 @@ A Merchant of the death
 A Squadron
 An Assault detachment
 A Liberation
+A Trench
+An Entrenchment
 A Militarism
 A Militarist
 A Mass destruction weapon
@@ -116474,6 +118530,9 @@ A Text-book
 A Primer
 An Expert
 An Expertise
+A Curator
+A Trustee
+A Guardian
 A Qualification
 A High qualification
 A Low qualification
@@ -116587,6 +118646,8 @@ A Student
 A Disciple
 A Trainee
 An Upbringing
+A Reeducation
+A Reformation
 An Academy
 A Class period
 A Kindergarten
@@ -121370,6 +123431,9 @@ A Suffocation
 A Smothering
 A Stabbing
 An Execution
+An Executioner
+A Deathman
+A Hangman
 A Death penalty
 An Attempted murder
 A Ruin
@@ -122106,6 +124170,12 @@ A Camp of the army
 A Camp of armies
 A Camp of the armies
 A Military camp
+A Concentration camp escape
+A Concentration camp's escape
+An Escape from concentration camp
+An Escape from the concentration camp
+An Escape from concentration camps
+An Escape from the concentration camps
 A Gun
 A Gun Control
 A Vengeance
@@ -122168,6 +124238,11 @@ An Empier of slavery
 An Empier of the slavery
 An Identification mark
 A Stamp
+A Stamping
+A Brand
+A Branding
+A Mark
+A Marking
 A Service man
 A Service woman
 A Service person
@@ -122588,6 +124663,7 @@ A Nordic boy
 A Brother by mind
 A Humanoid alien race
 A Star race
+An Abnormal phenomenon
 An Alien race base
 An Alien race's base
 A Base of alien race
@@ -123023,6 +125099,9 @@ An Universe evolution
 An Universe's evolution
 An Evolution of Universe
 An Evolution of the Universe
+A Hotel
+An Inn
+A Hostel
 A Repatriation
 A Repatriate
 A Refugees repatriation
@@ -123069,8 +125148,8 @@ A Sirrush dragon
 A Mushkhushshu
 A Mushussu
 A Mushussu dragon
-A God Gate
-A God's Gate
+A God gate
+A God's gate
 A Gate of God
 A Gate of the God
 A Gate of Gods
@@ -123096,8 +125175,12 @@ A Goddess of fertility
 A Goddess of the fertility
 A Goddess of fertilities
 A Goddess of the fertilities
-A Slavic god
-A Slavic goddess
+A Thunder God
+A Thunder's God
+A God of Thunder
+A God of the Thunder
+A God of Thunders
+A God of the Thunders
 A Svarog day
 A Svarog's day
 A Day of Svarog
@@ -123106,14 +125189,10 @@ A Svarog night
 A Svarog's night
 A Night of Svarog
 A Night of the Svarog
-A Black God
 A White God
-A Thunder God
-A Thunder's God
-A God of Thunder
-A God of the Thunder
-A God of Thunders
-A God of the Thunders
+A Black God
+A Slavic god
+A Slavic goddess
 A Korochun
 An Evil spirit Korochun
 A Karachun
@@ -123158,6 +125237,64 @@ A Female spirit of the fresh water
 A Female spirit of fresh waters
 A Female spirit of the fresh waters
 A Druid
+A Truth Goddess
+A Truth's Goddess
+A Goddess of truth
+A Goddess of the truth
+A Goddess of truths
+A Goddess of the truths
+An Ostrich feather
+An Ostrich's feather
+An Ostriches feather
+A Feather of ostrich
+A Feather of the ostrich
+A Feather of ostriches
+A Feather of the ostriches
+An Egypt God Osiris judgement
+A Judgement of Egypt God Osiris
+A Judgement of the Egypt God Osiris
+An Egypt God Osiris gesture
+A Gesture of Egypt God Osiris
+A Gesture of the Egypt God Osiris
+An Egypt God Osiris X gesture
+A X gesture of Egypt God Osiris
+A X gesture of the Egypt God Osiris
+An Ancient Egypt God Osiris judgement
+A Judgement of Ancient Egypt God Osiris
+A Judgement of the Ancient Egypt God Osiris
+An Ancient Egypt God Osiris gesture
+A Gesture of Ancient Egypt God Osiris
+A Gesture of the Ancient Egypt God Osiris
+An Ancient Egypt God Osiris X gesture
+A X gesture of Ancient Egypt God Osiris
+A X gesture of the Ancient Egypt God Osiris
+A God Osiris judgement
+A Judgement of God Osiris
+A Judgement of the God Osiris
+A God Osiris gesture
+A Gesture of God Osiris
+A Gesture of the God Osiris
+A God Osiris X gesture
+A X gesture of God Osiris
+A X gesture of the God Osiris
+An Egyptian God Osiris judgement
+A Judgement of Egyptian God Osiris
+A Judgement of the Egyptian God Osiris
+An Egyptian God Osiris gesture
+A Gesture of Egyptian God Osiris
+A Gesture of the Egyptian God Osiris
+An Egyptian God Osiris X gesture
+A X gesture of Egyptian God Osiris
+A X gesture of the Egyptian God Osiris
+An Ancient Egyptian God Osiris judgement
+A Judgement of Ancient Egyptian God Osiris
+A Judgement of the Ancient Egyptian God Osiris
+An Ancient Egyptian God Osiris gesture
+A Gesture of Ancient Egyptian God Osiris
+A Gesture of the Ancient Egyptian God Osiris
+An Ancient Egyptian God Osiris X gesture
+A X gesture of Ancient Egyptian God Osiris
+A X gesture of the Ancient Egyptian God Osiris
 A Horus father
 A Father of Horus
 A Father of the Horus
@@ -123169,28 +125306,126 @@ An Afterlife God
 An Afterlife's God
 A God of afterlife
 A God of the afterlife
-An Osiris judgement
-A Judgement of Osiris
-A Judgement of the Osiris
-An Osiris gesture
-A Gesture of Osiris
-A Gesture of the Osiris
-An Osiris X gesture
-A X gesture of Osiris
-A X gesture of the Osiris
-A Truth Goddess
-A Truth's Goddess
-A Goddess of truth
-A Goddess of the truth
-A Goddess of truths
-A Goddess of the truths
-An Ostrich feather
-An Ostrich's feather
-An Ostriches feather
-A Feather of Ostrich
-A Feather of the Ostrich
-A Feather of Ostriches
-A Feather of the Ostriches
+A God of kingship, healing, protection
+A Sun and sky god
+A Sun and sky's god
+A God of sun and sky
+A God of the sun and sky
+An Egypt God Anubis judgement
+A Judgement of Egypt God Anubis
+A Judgement of the Egypt God Anubis
+An Ancient Egypt God Anubis judgement
+A Judgement of Ancient Egypt God Anubis
+A Judgement of the Ancient Egypt God Anubis
+A God Anubis judgement
+A Judgement of God Anubis
+A Judgement of the God Anubis
+An Egyptian God Anubis judgement
+A Judgement of Egyptian God Anubis
+A Judgement of the Egyptian God Anubis
+An Ancient Egyptian God Anubis judgement
+A Judgement of Ancient Egyptian God Anubis
+A Judgement of the Ancient Egyptian God Anubis
+An Egypt God Inpu judgement
+An Egypt God Inpu's judgement
+A Judgement of Egypt God Inpu
+A Judgement of the Egypt God Inpu
+An Ancient Egypt God Inpu judgement
+An Ancient Egypt God Inpu's judgement
+A Judgement of Ancient Egypt God Inpu
+A Judgement of the Ancient Egypt God Inpu
+A God Inpu judgement
+A God Inpu's judgement
+A Judgement of God Inpu
+A Judgement of the God Inpu
+An Egyptian God Inpu judgement
+An Egyptian God Inpu's judgement
+A Judgement of Egyptian God Inpu
+A Judgement of the Egyptian God Inpu
+An Ancient Egyptian God Inpu judgement
+An Ancient Egyptian God Inpu's judgement
+A Judgement of Ancient Egyptian God Inpu
+A Judgement of the Ancient Egyptian God Inpu
+An Egypt God Inpw judgement
+An Egypt God Inpw's judgement
+A Judgement of Egypt God Inpw
+A Judgement of the Egypt God Inpw
+An Ancient Egypt God Inpw judgement
+An Ancient Egypt God Inpw's judgement
+A Judgement of Ancient Egypt God Inpw
+A Judgement of the Ancient Egypt God Inpw
+A God Inpw judgement
+A God Inpw's judgement
+A Judgement of God Inpw
+A Judgement of the God Inpw
+An Egyptian God Inpw judgement
+An Egyptian God Inpw's judgement
+A Judgement of Egyptian God Inpw
+A Judgement of the Egyptian God Inpw
+An Ancient Egyptian God Inpw judgement
+An Ancient Egyptian God Inpw's judgement
+A Judgement of Ancient Egyptian God Inpw
+A Judgement of the Ancient Egyptian God Inpw
+An Egypt God Jnpw judgement
+An Egypt God Jnpw's judgement
+A Judgement of Egypt God Jnpw
+A Judgement of the Egypt God Jnpw
+An Ancient Egypt God Jnpw judgement
+An Ancient Egypt God Jnpw's judgement
+A Judgement of Ancient Egypt God Jnpw
+A Judgement of the Ancient Egypt God Jnpw
+A God Jnpw judgement
+A God Jnpw's judgement
+A Judgement of God Jnpw
+A Judgement of the God Jnpw
+An Egyptian God Jnpw judgement
+An Egyptian God Jnpw's judgement
+A Judgement of Egyptian God Jnpw
+A Judgement of the Egyptian God Jnpw
+An Ancient Egyptian God Jnpw judgement
+An Ancient Egyptian God Jnpw's judgement
+A Judgement of Ancient Egyptian God Jnpw
+A Judgement of the Ancient Egyptian God Jnpw
+An Egypt God Anpu judgement
+An Egypt God Anpu's judgement
+A Judgement of Egypt God Anpu
+A Judgement of the Egypt God Anpu
+An Ancient Egypt God Anpu judgement
+An Ancient Egypt God Anpu's judgement
+A Judgement of Ancient Egypt God Anpu
+A Judgement of the Ancient Egypt God Anpu
+A God Anpu judgement
+A God Anpu's judgement
+A Judgement of God Anpu
+A Judgement of the God Anpu
+An Egyptian God Anpu judgement
+An Egyptian God Anpu's judgement
+A Judgement of Egyptian God Anpu
+A Judgement of the Egyptian God Anpu
+An Ancient Egyptian God Anpu judgement
+An Ancient Egyptian God Anpu's judgement
+A Judgement of Ancient Egyptian God Anpu
+A Judgement of the Ancient Egyptian God Anpu
+An Egypt God Anoup judgement
+An Egypt God Anoup's judgement
+A Judgement of Egypt God Anoup
+A Judgement of the Egypt God Anoup
+An Ancient Egypt God Anoup judgement
+An Ancient Egypt God Anoup's judgement
+A Judgement of Ancient Egypt God Anoup
+A Judgement of the Ancient Egypt God Anoup
+A God Anoup judgement
+A God Anoup's judgement
+A Judgement of God Anoup
+A Judgement of the God Anoup
+An Egyptian God Anoup judgement
+An Egyptian God Anoup's judgement
+A Judgement of Egyptian God Anoup
+A Judgement of the Egyptian God Anoup
+An Ancient Egyptian God Anoup judgement
+An Ancient Egyptian God Anoup's judgement
+A Judgement of Ancient Egyptian God Anoup
+A Judgement of the Ancient Egyptian God Anoup
 A Guide to underworld
 A Guide to the underworld
 A Guide to underworlds
@@ -123207,9 +125442,6 @@ A Protector of the graves
 A Scales Guardian
 A Guardian of Scales
 A Guardian of the Scales
-An Anubis judgement
-A Judgement of Anubis
-A Judgement of the Anubis
 A Heart weighting
 A Heart's weighting
 A Weighting of heart
@@ -123223,8 +125455,6 @@ A Weighting of the soul
 A Weighting of souls
 A Weighting of the souls
 A Scale
-A Sekhmet goddess
-A Sachmis goddess
 An Egypt God
 An Egypt's God
 A God of Egypt
@@ -123256,11 +125486,7 @@ A Neter of Ancient Egypt
 A Neter of the Ancient Egypt
 An Egyptian Neter
 An Ancient egyptian Neter
-A God of kingship, healing, protection
-A Sun and sky god
-A Sun and sky's god
-A God of sun and sky
-A God of the sun and sky
+A Goddess Sopdet
 A God Image
 A God's Image
 An Image of God
@@ -125035,6 +127261,12 @@ A Satanic band
 A Satanical band
 A Band of satanists
 A Band of the satanists
+A Satan witchcraft
+A Satan's witchcraft
+A Witchcraft of satan
+A Witchcraft of the satan
+A Satanic witchcraft
+A Satanical witchcraft
 A Satan kingdom
 A Satan's kingdom
 A Kingdom of satan
@@ -125371,6 +127603,11 @@ A Devil's band
 A Band of devil
 A Band of the devil
 A Devilish band
+A Devil witchcraft
+A Devil's witchcraft
+A Witchcraft of devil
+A Witchcraft of the devil
+A Devilish witchcraft
 A Devil kingdom
 A Devil's kingdom
 A Kingdom of devil
@@ -125604,6 +127841,11 @@ A Lucifer's band
 A Band of Lucifer
 A Band of the Lucifer
 A Luciferian band
+A Lucifer witchcraft
+A Lucifer's witchcraft
+A Witchcraft of Lucifer
+A Witchcraft of the Lucifer
+A Luciferian witchcraft
 A Lucifer residence
 A Lucifer's residence
 A Residence of Lucifer
@@ -129852,6 +132094,26 @@ A Saturn son
 A Saturn's son
 A Son of Saturn
 A Son of the Saturn
+A Roman God
+A Roman Goddess
+A Rome God
+A Rome's God
+A God of Rome
+A God of the Rome
+A Rome Goddess
+A Rome's Goddess
+A Goddess of Rome
+A Goddess of the Rome
+An Ancient Roman God
+An Ancient Roman Goddess
+An Ancient Rome God
+An Ancient Rome's God
+A God of Ancient Rome
+A God of the Ancient Rome
+An Ancient Rome Goddess
+An Ancient Rome's Goddess
+A Goddess of Ancient Rome
+A Goddess of the Ancient Rome
 A Cardinal
 A Church prince
 A Church's prince
@@ -130198,7 +132460,6 @@ A Sanctuary
 An Ancient temple
 A Wiccan
 A Vision
-A Mark
 A Bliss
 A Beatitude
 A Felicity
@@ -130723,6 +132984,8 @@ A Smart being
 A Smart entity
 An Intellectual being
 An Intellectual entity
+An Interdimensional being
+An Interdimensional entity
 A Polytheism
 A Polytheist
 An Atheist
@@ -131095,6 +133358,7 @@ A Resolution of problem
 A Resolution of the problem
 A Resolution of problems
 A Resolution of the problems
+An Artificial problem
 A Life waste
 A Life's waste
 A Lives waste
@@ -131619,6 +133883,8 @@ An Illusions
 Часы со стрелкой
 Часовщик
 Часовщики
+Час колдовства
+Колдовской час
 Стрела времени
 Стрелы времени
 Ось времени
@@ -131945,6 +134211,9 @@ An Illusions
 Кружиться как белка в колесе
 Биологические часы
 Биологический возраст
+Сезон
+Сезоны
+Сезонный
 Зима
 Зимы
 Зимний
@@ -133199,6 +135468,10 @@ An Illusions
 Отголоски звука
 Эхо эффект
 Эхо эффекты
+Аналоговый
+Аналоговые
+Аналоговое устройство
+Аналоговые устройства
 Бозон Хиггса
 Бозоны Хиггса
 Хиггсовский бозон
@@ -133842,6 +136115,8 @@ An Illusions
 Перезагрузки компьютеров
 Электронный мозг
 Электронные мозги
+Аналоговый компьютер
+Аналоговые компьютеры
 Проблема с ИИ
 Проблемы с ИИ
 Проблема с Искусственным Интеллектом
@@ -133857,6 +136132,14 @@ An Illusions
 Создания ИИ Интерстеллар
 Творение ИИ Интерстеллар
 Творения ИИ Интерстеллар
+Персона инджиниум
+ИИ Персона инджиниум
+Искусственный Интеллект Персона инджиниум
+Персона
+ИИ Персона
+Искусственный Интеллект Персона
+Мегалопсихия
+Великодушие
 ИИ Альфа
 Искусственный Интеллект Альфа
 Гиперинтеллект Альфа
@@ -134074,6 +136357,8 @@ An Illusions
 Общий искусственный интеллект
 Общие искусственные интеллекты
 ОИИ
+Технология ИИ
+Технологии ИИ
 Сжатие
 Сжатия
 Сжатие данных
@@ -134272,6 +136557,9 @@ An Illusions
 Лэптопы
 Ноутбук
 Ноутбуки
+Цифровой
+Цифровое устройство
+Цифровые устройства
 Алгоритм
 Алгоритмы
 Алгоритмический
@@ -134393,6 +136681,8 @@ An Illusions
 Файрволы
 Брандмауэр
 Брандмауэры
+Огненная стена
+Огненные стены
 Межсетевой экран
 Межсетевые экраны
 Компьютерная графика
@@ -134506,14 +136796,6 @@ An Illusions
 Искажение
 Искажения
 Искажённый
-Персона инджиниум
-ИИ Персона инджиниум
-Искусственный Интеллект Персона инджиниум
-Персона
-ИИ Персона
-Искусственный Интеллект Персона
-Мегалопсихия
-Великодушие
 Информационная технология
 Информационные технологии
 Компьютерная технология
@@ -134882,7 +137164,6 @@ An Illusions
 Бифуркационные точки
 Цифра
 Цифры
-Цифровой
 Число
 Числа
 Численный
@@ -136217,6 +138498,10 @@ An Illusions
 Гей
 Геи
 Гейский
+Активный гей
+Активные геи
+Пассивный гей
+Пассивные геи
 Гомик
 Гомики
 Гомосек
@@ -136235,6 +138520,7 @@ An Illusions
 Открытые геи
 Гомосексуализм
 Ритуальный гомосексуализм
+Гей лобби
 Содомит
 Содомиты
 Содомия
@@ -136295,10 +138581,6 @@ An Illusions
 Сексуальные меньшинства
 Гей клуб
 Гей клубы
-Активный гей
-Активные геи
-Пассивный гей
-Пассивные геи
 Гей парад
 Гей парады
 Прайд парад
@@ -136476,10 +138758,13 @@ An Illusions
 Упадки семейных ценностей
 Опека
 Опеки
-Опекунство
-Опекунства
 Опекун
 Опекуны
+Опекунша
+Опекунши
+Опекунский
+Опекунство
+Опекунства
 Орган опеки
 Органы опеки
 Адамит
@@ -136567,6 +138852,10 @@ An Illusions
 Младенец
 Младенцы
 Младенческий
+Инфантилизм
+Инфантилизация
+Инфантилизации
+Инфантильный
 Внук
 Внучка
 Внуки
@@ -136938,6 +139227,8 @@ An Illusions
 НАТО
 Организация Североатлантического договора
 Североатлантический альянс
+Североатлантический военный альянс
+Альянс НАТО
 Министерство обороны
 Министерство обороны Российской Федерации
 Министерство обороны России
@@ -137386,6 +139677,9 @@ An Illusions
 Репарации
 Военная репарация
 Военные репарации
+Средний класс
+Уничтожение среднего класса
+Уничтожения среднего класса
 Богатый
 Богатые
 Богатый человек
@@ -137519,7 +139813,7 @@ An Illusions
 Цифровая валюта центрального банка
 ЦВЦБ
 Цифровая валюта
-Цифровая валюты
+Цифровые валюты
 Цифровые деньги
 Шантаж цифровыми деньгами
 Шантажирование цифровыми деньгами
@@ -137714,6 +140008,14 @@ An Illusions
 Легализации грязных денег
 Грязные деньги
 Чистые деньги
+Экономическая связь
+Экономические связи
+Экономический контакт
+Экономические контакты
+Укрепление экономических связей
+Укрепления экономических связей
+Укрепление экономических контактов
+Укрепления экономических контактов
 Бизнес
 Бизнесы
 Теневой бизнес
@@ -137839,6 +140141,8 @@ An Illusions
 Экономический
 Рыночная экономика
 Плановая экономика
+Разрушение экономики
+Разрушения экономики
 Налоговая служба
 Налоговые службы
 Ставка
@@ -140733,6 +143037,8 @@ An Illusions
 Золотые яйца
 Манна небесная
 Лабораторное мясо
+Искусственная пища
+Искусственная еда
 Натуральная пища
 Натуральная еда
 Продукт
@@ -142215,6 +144521,10 @@ An Illusions
 Ордена
 Порядок
 Порядки
+Тайный орден
+Тайные ордена
+Секретный орден
+Секретные ордена
 Тайное общество
 Тайные общества
 Сатурнианский орден
@@ -142337,6 +144647,10 @@ An Illusions
 Публичная Акционерная Корпорация Газпром
 Мечты становятся реальностью
 Газопровод Северный поток
+ФосАгро
+ПАО ФосАгро
+Публичное Акционерное Общество ФосАгро
+Публичная Акционерная Корпорация ФосАгро
 Лого Лукойла
 Логотип Лукойла
 Символ Лукойла
@@ -143194,6 +145508,10 @@ An Illusions
 Анти-демократический
 Симуляция демократии
 Симуляции демократии
+Демократический режим
+Демократические режимы
+Демократическая партия
+Демократические партии
 Управляемый масонами
 Управляемый франкмасонами
 Управляемый фримасонами
@@ -143340,6 +145658,13 @@ An Illusions
 Диктаторы
 Диктатура
 Диктаторский
+Радикал
+Радикалы
+Радикалка
+Радикалки
+Радикальный
+Радикализация
+Радикализации
 Провокация
 Провокации
 Провоцирующий
@@ -143355,6 +145680,9 @@ An Illusions
 Рептильная кровь
 Знать
 Знатный
+Благородство
+Благородный
+Великодушный
 Чёрная знать
 Британская знать
 Дворянин
@@ -143375,19 +145703,9 @@ An Illusions
 Политик
 Политики
 Политический
-Фашизм
-Фашист
-Фашистка
-Фашисты
-Фашисткий
-Неофашизм
-Неофашист
-Неофашистка
-Неофашисты
-Неофашисткий
-Коричневая чума
 Триумвират
 Президенство
+Президенства
 Ложный шаг
 Совершить ложный шаг
 Шаг назад
@@ -143430,6 +145748,20 @@ An Illusions
 Гегемонный
 Мировой гегемон
 Мировые гегемоны
+Фашизм
+Фашист
+Фашистка
+Фашистки
+Фашисты
+Фашисткий
+Фашисткий режим
+Фашисткие режимы
+Неофашизм
+Неофашист
+Неофашистка
+Неофашисты
+Неофашисткий
+Коричневая чума
 Губернатор
 Губернаторы
 Выборы
@@ -144227,6 +146559,8 @@ An Illusions
 Саморефлексии
 Самоанализ
 Самоанализы
+Психологическое давление
+Психологические давления
 Аутизм
 Аутистический
 Ужас
@@ -144407,6 +146741,8 @@ An Illusions
 Шаблоны ДНК
 Активация ДНК
 Активирование ДНК
+Синтетическая ДНК
+Синтетические ДНК
 Человек-дракон
 Человеки-драконы
 Люди-драконы
@@ -144658,6 +146994,10 @@ An Illusions
 Утятина
 Домашняя птица
 Мясо домашней птицы
+Птицефабрика
+Птицефабрики
+Птицеферма
+Птицефермы
 Голубь
 Голубка
 Голуби
@@ -145134,6 +147474,8 @@ An Illusions
 Скотобойни
 Забой скота
 Убой скота
+Зоопарк
+Зоопарки
 Примат
 Приматы
 Обезьяна
@@ -145467,6 +147809,7 @@ An Illusions
 Хуй
 Хуи
 Хуёвый
+Хуйня
 Лого фаллоса
 Логотип фаллоса
 Символ фаллоса
@@ -145510,6 +147853,22 @@ An Illusions
 Двойной зрачок
 Красный глаз
 Красные глаза
+Простата
+Простаты
+Предстательная желаза
+Предстательные железы
+Простатит
+Простатиты
+Хронический простатит
+Хронические простатит
+Аденома простаты
+Аденомы простаты
+Аденома предстательной железы
+Аденомы предстательной железы
+Рак простаты
+Раки простаты
+Рак предстательной железы
+Раки предстательной железы
 Орган
 Органы
 Органоид
@@ -145533,6 +147892,15 @@ An Illusions
 Подселение в тела
 Железа
 Железы
+Пищевод
+Пищеводы
+Пищеводный
+Отрыжка
+Отрыжки
+Отрыгивание
+Отрыгивания
+Срыгивание
+Срыгивания
 Нерв
 Нервы
 Нервный
@@ -145915,6 +148283,8 @@ An Illusions
 Армии зомби
 Зомбификация
 Зомбификации
+Восстание зомби
+Восстания зомби
 Лечение
 Лечения
 Лечить
@@ -146135,6 +148505,9 @@ An Illusions
 Медосмотр
 Медосмотры
 Рак
+Раковый
+Карцинома
+Карциномы
 Онкология
 Онкологический
 Онкогенный
@@ -146425,6 +148798,7 @@ An Illusions
 Радиоактивные дожди
 Гарантированное взаимное уничтожение
 Ядерная дубина
+Ядерная триада
 Проект Манхэттен
 Манхэттенский проект
 Ланцет
@@ -146912,6 +149286,10 @@ An Illusions
 Военные конфликты
 Урегулирование конфликта
 Урегулирования конфликта
+Затягивание конфликта
+Затягивания конфликта
+Затягивание военного конфликта
+Затягивания военного конфликта
 Заключение мира
 Воин
 Воины
@@ -147197,6 +149575,8 @@ An Illusions
 Сети шпионов
 Шпионская сеть
 Шпионские сети
+Шпионская деятельность
+Шпионские деятельности
 Армия
 Армии
 Мощная армия
@@ -147539,6 +149919,14 @@ An Illusions
 Штурмовые отряды
 Освобождение
 Освобождения
+Окоп
+Окопы
+Окопный
+Траншея
+Траншеи
+Траншейный
+Полевое укрепление
+Полевые укрепления
 Милитаризм
 Милитарист
 Милитаристы
@@ -147879,6 +150267,13 @@ An Illusions
 Экспертиза
 Экспертизы
 Экспертные знания
+Куратор
+Кураторы
+Кураторша
+Кураторши
+Кураторский
+Кураторство
+Кураторства
 Квалификация
 Квалификации
 Низкая квалификация
@@ -148085,6 +150480,8 @@ An Illusions
 Воспитатели
 Воспитательница
 Воспитательницы
+Перевоспитание
+Перевоспитания
 Академия
 Академии
 Академический
@@ -148388,6 +150785,7 @@ An Illusions
 Убит
 Душегуб
 Душегубка
+Душегубки
 Душегубы
 Головорез
 Головорезы
@@ -148403,6 +150801,8 @@ An Illusions
 Казнь
 Казни
 Казнить
+Палачь
+Палачи
 Смертная казнь
 Смертные казни
 Покойся с миром
@@ -149352,6 +151752,10 @@ An Illusions
 Лагеря армии
 Армейский лагерь
 Армейские лагеря
+Побег из концлагеря
+Побеги из концлагеря
+Бегство из концентрационного лагеря
+Бегства из концентрационного лагеря
 Пистолет
 Пистолеты
 Контроль над оружием
@@ -149419,6 +151823,8 @@ An Illusions
 Рабыни божья
 Клеймо
 Клеймить
+Клеймение
+Клеймения
 Тавро
 Служебный человек
 Служебные люди
@@ -149846,6 +152252,8 @@ An Illusions
 Расы инопланетян гуманоидов
 Звёздная раса
 Звёздные расы
+Аномальное явление
+Аномальные явления
 База внеземной цивилизации
 Базы внеземной цивилизации
 Базы внеземных цивилизаций
@@ -150277,6 +152685,10 @@ An Illusions
 Случайность и Необходимость
 Эволюция Вселенной
 Эволюции Вселенной
+Отель
+Отели
+Гостиница
+Гостиницы
 Репатриация
 Репатриации
 Репатриант
@@ -150403,21 +152815,21 @@ An Illusions
 Ярила
 Бог Ярило
 Бог Ярила
-Славянский бог
-Славянские боги
-Славянская богиня
-Славянские богини
+Перун
+Бог Перун
+Бог грома
 Сварог
 Бог Сварог
 День Сварога
 Ночь Сварога
-Чернобог
-Чёрный бог
 Белобог
 Белый бог
-Перун
-Бог Перун
-Бог грома
+Чернобог
+Чёрный бог
+Славянский бог
+Славянские боги
+Славянская богиня
+Славянские богини
 Велес
 Волос
 Бог Велес
@@ -150499,28 +152911,78 @@ An Illusions
 Тиннит
 Баал-Хаммон
 Бебель-Хамон
-Апоп
-Апеп
-Апофис
-Бог Апоп
-Бог Апеп
-Бог Апофис
-Божество Апоп
-Божество Апеп
-Божество Апофис
-Змей Апоп
-Змей Апеп
-Змей Апофис
-Нефтида
-Богиня Нефтида
-Небетхет
-Богиня Небетхет
 Осирис
 Бог Осирис
+Египетский бог Осирис
+Древнеегипетский бог Осирис
+Бог Египта Осирис
+Бог Древнего Египта Осирис
+Суд Осириса
+Жест Осириса
+Икс жест Осириса
+Суд бога Осириса
+Жест бога Осириса
+Икс жест бога Осириса
+Суд египетского бога Осириса
+Жест египетского бога Осириса
+Икс жест египетского бога Осириса
+Суд древнеегипетского бога Осириса
+Жест древнеегипетского бога Осириса
+Икс жест древнеегипетского бога Осириса
+Суд бога Египта Осириса
+Жест бога Египта Осириса
+Икс жест бога Египта Осириса
+Суд бога Древнего Египта Осириса
+Жест бога Древнего Египта Осириса
+Икс жест бога Древнего Египта Осириса
 Усир
 Бог Усир
+Египетский бог Усир
+Древнеегипетский бог Усир
+Бог Египта Усир
+Бог Древнего Египта Усир
+Суд Усира
+Жест Усира
+Икс жест Усира
+Суд бога Усира
+Жест бога Усира
+Икс жест бога Усира
+Суд египетского бога Усира
+Жест египетского бога Усира
+Икс жест египетского бога Усира
+Суд древнеегипетского бога Усира
+Жест древнеегипетского бога Усира
+Икс жест древнеегипетского бога Усира
+Суд бога Египта Усира
+Жест бога Египта Усира
+Икс жест бога Египта Усира
+Суд бога Древнего Египта Усира
+Жест бога Древнего Египта Усира
+Икс жест бога Древнего Египта Усира
 Озирис
 Бог Озирис
+Египетский бог Озирис
+Древнеегипетский бог Озирис
+Бог Египта Озирис
+Бог Древнего Египта Озирис
+Суд Озириса
+Жест Озириса
+Икс жест Озириса
+Суд бога Озириса
+Жест бога Озириса
+Икс жест бога Озириса
+Суд египетского бога Озириса
+Жест египетского бога Озириса
+Икс жест египетского бога Озириса
+Суд древнеегипетского бога Озириса
+Жест древнеегипетского бога Озириса
+Икс жест древнеегипетского бога Озириса
+Суд бога Египта Озириса
+Жест бога Египта Озириса
+Икс жест бога Египта Озириса
+Суд бога Древнего Египта Озириса
+Жест бога Древнего Египта Озириса
+Икс жест бога Древнего Египта Озириса
 Отец Гора
 Бог возрождения
 Царь загробного мира
@@ -150530,18 +152992,148 @@ An Illusions
 Венок Осириса
 Атеф
 Корона атеф
-Суд Осириса
-Суд Бога Осириса
-Жест Осириса
-Жест Бога Осириса
-Икс жест Осириса
-Икс жест Бога Осириса
+Нефтида
+Богиня Нефтида
+Египетская богиня Нефтида
+Древнеегипетская богиня Нефтида
+Богиня Египта Нефтида
+Богиня Древнего Египта Нефтида
+Небетхет
+Богиня Небетхет
+Египетская богиня Небетхет
+Древнеегипетская богиня Небетхет
+Богиня Египта Небетхет
+Богиня Древнего Египта Небетхет
+Бог Гор
+Египетский бог Гор
+Древнеегипетский бог Гор
+Бог ЕгиптаГор
+Бог Древнего ЕгиптаГор
+Горус
+Бог Горус
+Египетский бог Горус
+Древнеегипетский бог Горус
+Бог ЕгиптаГорус
+Бог Древнего ЕгиптаГорус
+Хор
+Бог Хор
+Египетский бог Хор
+Древнеегипетский бог Хор
+Бог ЕгиптаХор
+Бог Древнего ЕгиптаХор
+Недостижимый
+Тот, кто высоко
+Бог неба и солнца
 Уаджит
 Богиня Уаджит
+Египетская богиня Уаджит
+Древнеегипетская богиня Уаджит
+Богиня Египта Уаджит
+Богиня Древнего Египта Уаджит
 Уто
 Богиня Уто
+Египетская богиня Уто
+Древнеегипетская богиня Уто
+Богиня Египта Уто
+Богиня Древнего Египта Уто
+Анубис
+Бог Анубис
+Египетский бог Анубис
+Древнеегипетский бог Анубис
+Бог Египта Анубис
+Бог Древнего Египта Анубис
+Бог погребальных ритуалов
+Страж весов на суде Осириса
+Знаток целебных трав
+Страж весов
+Суд Анубиса
+Суд бога Анубиса
+Суд египетского бога Анубиса
+Суд древнеегипетского бога Анубиса
+Суд бога Египта Анубиса
+Суд бога Древнего Египта Анубиса
+Взвешивание сердца
+Взвешивание души
+Чаша весов
+Чаши весов
+Сехмет
+Богиня Сехмет
+Египетская богиня Сехмет
+Древнеегипетская богиня Сехмет
+Богиня Египта Сехмет
+Богиня Древнего Египта Сехмет
+Сахмет
+Богиня Сахмет
+Египетская богиня Сахмет
+Древнеегипетская богиня Сахмет
+Богиня Египта Сахмет
+Богиня Древнего Египта Сахмет
+Сохмет
+Богиня Сохмет
+Египетская богиня Сохмет
+Древнеегипетская богиня Сохмет
+Богиня Египта Сохмет
+Богиня Древнего Египта Сохмет
+Сет
+Бог Сет
+Бог Египта Сет
+Бог Древнего Египта Сет
+Египетский бог Сет
+Древнеегипетский бог Сет
+Сетх
+Бог Сетх
+Бог Египта Сетх
+Бог Древнего Египта Сетх
+Египетский бог Сетх
+Древнеегипетский бог Сетх
+Сутех
+Бог Сутех
+Бог Египта Сутех
+Бог Древнего Египта Сутех
+Египетский бог Сутех
+Древнеегипетский бог Сутех
+Апоп
+Бог Апоп
+Египетский бог Апоп
+Древнеегипетский бог Апоп
+Бог Египта Апоп
+Бог Древнего Египта Апоп
+Божество Апоп
+Египетское божество Апоп
+Древнеегипетское божество Апоп
+Божество Египта Апоп
+Божество Древнего Египта Апоп
+Змей Апоп
+Апеп
+Бог Апеп
+Египетский бог Апеп
+Древнеегипетский бог Апеп
+Бог Египта Апеп
+Бог Древнего Египта Апеп
+Божество Апеп
+Египетское божество Апеп
+Древнеегипетское божество Апеп
+Божество Египта Апеп
+Божество Древнего Египта Апеп
+Змей Апеп
+Апофис
+Бог Апофис
+Египетский бог Апофис
+Древнеегипетский бог Апофис
+Бог Египта Апофис
+Бог Древнего Египта Апофис
+Божество Апофис
+Египетское божество Апофис
+Древнеегипетское божество Апофис
+Божество Египта Апофис
+Божество Древнего Египта Апофис
+Змей Апофис
 Маат
 Богиня Маат
+Египетская богиня Маат
+Древнеегипетская богиня Маат
+Богиня Египта Маат
+Богиня Древнего Египта Маат
 Богиня правды
 Страусовое перо
 Страусовые перья
@@ -150549,29 +153141,6 @@ An Illusions
 Страусовы перья
 Страусиное перо
 Страусиные перья
-Анубис
-Бог Анубис
-Бог погребальных ритуалов
-Страж весов на суде Осириса
-Знаток целебных трав
-Страж весов
-Суд Анубиса
-Взвешивание сердца
-Взвешивание души
-Чаша весов
-Чаши весов
-Сехмет
-Сахмет
-Сохмет
-Богиня Сехмет
-Богиня Сахмет
-Богиня Сохмет
-Сет
-Бог Сет
-Сетх
-Бог Сетх
-Сутех
-Бог Сутех
 Бог Египта
 Боги Египта
 Бог Древнего Египта
@@ -150599,16 +153168,17 @@ An Illusions
 Древнеегипетский нетер
 Древнеегипетские нетеры
 Имхотеп
+Бог Имхотеп
+Египетский бог Имхотеп
+Древнеегипетский бог Имхотеп
+Бог Египта Имхотеп
+Бог Древнего Египта Имхотеп
 Сопдет
 Богиня Сопдет
-Бог Гор
-Горус
-Бог Горус
-Хор
-Бог Хор
-Недостижимый
-Тот, кто высоко
-Бог неба и солнца
+Египетская богиня Сопдет
+Древнеегипетская богиня Сопдет
+Богиня Египта Сопдет
+Богиня Древнего Египта Сопдет
 Сфинкс
 Сфинксы
 Образ бога
@@ -152030,6 +154600,8 @@ An Illusions
 Банды сатанистов
 Сатанинская банда
 Сатанинские банды
+Колдовство сатаны
+Сатанинское колдовство
 Царство сатаны
 Сатанинское царство
 Код сатаны
@@ -152163,12 +154735,17 @@ An Illusions
 Тайные дьявольские поклонения
 Дьяволопоклонник
 Дьяволопоклонница
+Дьяволопоклонницы
 Дьяволопоклонники
+Дьяволопоклонничество
+Дьяволопоклонничества
 Скрытый дьяволопоклонник
 Скрытая дьяволопоклонница
+Скрытые дьяволопоклонницы
 Скрытые дьяволопоклонники
 Тайный дьяволопоклонник
 Тайная дьяволопоклонница
+Тайные дьяволопоклонницы
 Тайные дьяволопоклонники
 Помошник дьявола
 Помошники дьявола
@@ -152214,6 +154791,8 @@ An Illusions
 Банды дьяволопоклонников
 Дьявольская банда
 Дьявольские банды
+Колдовство дьявола
+Дьявольское колдовство
 Царство дьявола
 Дьявольское царство
 Культ дьявола
@@ -152287,6 +154866,7 @@ An Illusions
 Дьявол
 Диавол
 Дьяволица
+Дьяволицы
 Дьяволы
 Дьявольский
 Дьявольщина
@@ -152358,6 +154938,8 @@ An Illusions
 Банды Люцифера
 Люциферианская банда
 Люциферианские банды
+Колдовство Люцифера
+Люциферианское колдовство
 Царство Люфицера
 Люциферианское царство
 Культ Люцифера
@@ -152420,6 +155002,7 @@ An Illusions
 Люцик
 Люциферианский
 Люциферианизм
+Люциферианство
 Сын зари
 Несущий свет
 Сияющий свет
@@ -152588,6 +155171,9 @@ An Illusions
 Демонические логотипы
 Демон
 Демоница
+Демоницы
+Демонесса
+Демонессы
 Демоны
 Демонический
 Демонология
@@ -154592,6 +157178,7 @@ An Illusions
 Колено Дана
 Тора
 Еврейская Библия
+Устная Тора
 Талмуд
 Талмудический
 Вавилонский Талмуд
@@ -155128,8 +157715,9 @@ An Illusions
 Сатурнианская эмблема
 Сатурнианские эмблемы
 Серп Сатурна
-Римский Бог Сатурн
-Древнеримский Бог Сатурн
+Бог Сатурн
+Римский бог Сатурн
+Древнеримский бог Сатурн
 Сатурнианский
 Полумесяц
 Серп
@@ -155162,6 +157750,43 @@ An Illusions
 Тайный Бог
 Сын Сатурна
 Дети Сатурна
+Янус
+Бог Янус
+Римский бог Янус
+Древнеримский бог Янус
+Отец Янус
+Янус двуликий
+Янус четырёхликий
+Богиня Диана
+Римская богиня Диана
+Древнеримская богиня Диана
+Минерва
+Богиня Минерва
+Римская богиня Минерва
+Древнеримская богиня Минерва
+Римский бог
+Римские боги
+Бог Рима
+Боги Рима
+Римская богиня
+Римские богини
+Богиня Рима
+Богини Рима
+Древнеримский бог
+Древнеримские боги
+Бог древнего Рима
+Боги древнего Рима
+Древнеримская богиня
+Древнеримские богини
+Богиня древнего Рима
+Богини древнего Рима
+Бог Юпитер
+Римский бог Юпитер
+Древнеримский бог Юпитер
+Нептун
+Бог Нептун
+Римский бог Нептун
+Древнеримский бог Нептун
 Коллизей
 Хлеба и зрелищ
 Кардинал
@@ -155169,11 +157794,6 @@ An Illusions
 Кардинальский
 Серый кардинал
 Серые кардиналы
-Янус
-Бог Янус
-Отец Янус
-Янус двуликий
-Янус четырёхликий
 Марионетка Ватикана
 Марионетки Ватикана
 Ватиканская марионетка
@@ -155186,8 +157806,6 @@ An Illusions
 Агенты Ватикана
 Ватиканский агент
 Ватиканские агенты
-Минерва
-Богиня Минерва
 Инквизиция
 Святая инквизиция
 Инквизитор
@@ -155266,9 +157884,6 @@ An Illusions
 Папская курия
 Римская курия
 Латинское королевство
-Бог Юпитер
-Нептун
-Бог Нептун
 Артемида
 Богиня Артемида
 Хронос
@@ -155944,6 +158559,8 @@ An Illusions
 Разумные сущности
 Интеллектуальное существо
 Интеллектуальные существа
+Межпространственное существо
+Межпространственные существа
 Политеизм
 Политеист
 Политеисты
@@ -156232,6 +158849,8 @@ An Illusions
 Разрешения трудностей
 Прохождение испытания
 Прохождения испытаний
+Искусственная проблема
+Искусственные проблемы
 Растрачивание жизни впустую
 Растрачивание жизней впустую
 Прожигание жизни
@@ -156517,6 +159136,7 @@ An Illusions
 История
 Истории
 Обочина истории
+Помойка истории
 Печальная история
 Печальные истории
 Выдуманная история
@@ -157148,6 +159768,8 @@ An Illusions
 Перезагрузка компъютера
 Перезагрузки компъютера
 Перезагрузки компъютеров
+Аналоговый компъютер
+Аналоговые компъютеры
 ИИ Алъфа
 Искусственный Интеллект Алъфа
 Гиперинтеллект Алъфа
@@ -157803,6 +160425,7 @@ An Illusions
 Большой ребенок
 Болъшой ребенок
 Болъшие дети
+Инфантилъный
 Свадъба
 Свадъбы
 Женитъба
@@ -157880,6 +160503,8 @@ An Illusions
 Генералъная Ассамблея Организации Объединенных Наций
 Совет Безопасности Организации Объединенных Наций
 Североатлантический алъянс
+Североатлантический военный алъянс
+Алъянс НАТО
 Специалъная Служба
 Секретная разведывателъная служба МИД Великобритании
 Разведователъная Служба
@@ -158035,6 +160660,7 @@ An Illusions
 Налогоплателъщицы
 Грязные денъги
 Чистые денъги
+Экономическая связъ
 Экономическая безопасностъ
 Финансовая безопасностъ
 Банковский счет
@@ -159284,6 +161910,7 @@ An Illusions
 Глобалъные элиты
 Черная элита
 Черные элиты
+Радикалъный
 Черная аристократия
 Голубая кровъ
 Рептилъная кровъ
@@ -159656,6 +162283,12 @@ An Illusions
 Хуевый
 Крайняя плотъ
 Пердеж
+Предстателъная желаза
+Предстателъные железы
+Аденома предстателъной железы
+Аденомы предстателъной железы
+Рак предстателъной железы
+Раки предстателъной железы
 Черствое сердце
 Черствые сердца
 Нейронная связъ
@@ -159918,6 +162551,8 @@ An Illusions
 Агентская сетъ
 Сетъ шпионов
 Шпионская сетъ
+Шпионская деятелъностъ
+Шпионские деятелъности
 Силъная армия
 Силъные армии
 Вооруженные силы Украины
@@ -160171,6 +162806,7 @@ An Illusions
 Лишатъ жизни
 Казнъ
 Казнитъ
+Палачъ
 Смертная казнъ
 Уничтожатъ
 Уничтожителъный
@@ -160491,6 +163127,8 @@ An Illusions
 Братъя по разуму
 Звездная раса
 Звездные расы
+Аномалъное явление
+Аномалъные явления
 Государственная корпорация по космической деятелъности «Роскосмос»
 Самовоспроизводящий кораблъ
 Самовоспроизводящий космический кораблъ
@@ -160593,6 +163231,7 @@ An Illusions
 Тканъ Вселенной
 Вселенская тканъ
 Случайностъ и Необходимостъ
+Отелъ
 Путешествоватъ
 Мигрироватъ
 Эмигрироватъ
@@ -160621,10 +163260,10 @@ An Illusions
 Бебелъ-Хамон
 Царъ загробного мира
 Судъя душ усопших
+Бог погребалъных ритуалов
 Страусовые перъя
 Страусовы перъя
 Страусиные перъя
-Бог погребалъных ритуалов
 Крест с петлей
 Двадцатъ два Иерофанта
 Глобалъный предиктор
@@ -160885,12 +163524,17 @@ An Illusions
 Тайные дъяволъские поклонения
 Дъяволопоклонник
 Дъяволопоклонница
+Дъяволопоклонницы
 Дъяволопоклонники
+Дъяволопоклонничество
+Дъяволопоклонничества
 Скрытый дъяволопоклонник
 Скрытая дъяволопоклонница
+Скрытые дъяволопоклонницы
 Скрытые дъяволопоклонники
 Тайный дъяволопоклонник
 Тайная дъяволопоклонница
+Тайные дъяволопоклонницы
 Тайные дъяволопоклонники
 Помошник дъявола
 Помошники дъявола
@@ -160936,6 +163580,8 @@ An Illusions
 Банды дъяволопоклонников
 Дъяволъская банда
 Дъяволъские банды
+Колдовство дъявола
+Дъяволъское колдовство
 Царство дъявола
 Дъяволъское царство
 Кулът дъявола
@@ -161012,6 +163658,7 @@ An Illusions
 Дъяволъские логотипы
 Дъявол
 Дъяволица
+Дъяволицы
 Дъяволы
 Дъяволъский
 Дъяволъщина
@@ -161443,8 +164090,8 @@ An Illusions
 Кулът Сатурна
 Сатурнианский кулът
 Денъ Сатурна
-Кардиналъский
 Янус четырехликий
+Кардиналъский
 Черный Папа
 Католическая церковъ
 Римская католическая церковъ
