@@ -1122,6 +1122,12 @@ North Korea
 Democratic People's Republic of Korea
 DPRK
 Japan
+Denmark
+Kingdom of Denmark
+Belgium
+Kingdom of Belgium
+Norway
+Kingdom of Norway
 England
 Britain
 United Kingdom
@@ -2540,6 +2546,9 @@ Evil empire
 Evil empires
 Powerful empire
 Powerful empires
+Imperialist
+Imperialists
+Imperialism
 Transistor
 Transistors
 Xsistor
@@ -3021,6 +3030,12 @@ Trident
 Tridents
 Chain
 Chains
+Link
+Links
+Weak link
+Weak links
+Vulnerability
+Vulnerabilities
 Hammer
 Hammers
 Sledgehammer
@@ -3137,6 +3152,12 @@ SMS alert
 SMS alerts
 AI phone
 AI phones
+Abonent
+Abonents
+Net abonent
+Net abonents
+Network abonent
+Network abonents
 Taxi
 Roadmap
 Roadmaps
@@ -3196,6 +3217,8 @@ Steels
 Stainless steel
 Stainless steels
 Stainless
+Concrete
+Concretes
 Narcobaron
 Narcobarons
 Drug tzar
@@ -3377,6 +3400,30 @@ Petrol
 Diesel oil
 Diesel fuel
 Kerosene
+Resource
+Resources
+Asset
+Assets
+Resource lack
+Resource's lack
+Resource's lacks
+Lack of resource
+Lack of the resource
+Lack of resources
+Lack of the resources
+Lacks of resources
+Lacks of the resources
+Resource lacking
+Resource's lacking
+Resource's lackings
+Lacking of resource
+Lacking of the resource
+Lacking of resources
+Lacking of the resources
+Lackings of resources
+Lackings of the resources
+Natural resource
+Natural resources
 Fossil
 Fossils
 Fossil fuel
@@ -5431,6 +5478,8 @@ Encrypted message
 Encrypted messages
 Decrypted message
 Decrypted messages
+Hidden message
+Hidden messages
 Quantum cipher
 Quantum ciphers
 Quantum ciphering
@@ -5575,6 +5624,10 @@ Tetractys
 Tetractys of the decad
 Tetrad
 Tetrads
+Geometry
+Geometrical
+Euclidean geometry
+Non-Euclidean geometry
 Ellipse
 Ellipses
 Elliptic
@@ -5766,8 +5819,6 @@ Advanced calculations
 Math
 Mathematics
 Mathematical
-Geometry
-Geometrical
 Equation
 Equations
 Solve equation
@@ -6819,6 +6870,14 @@ Mikhail Sergeyevich
 Gorbachev M. S.
 Gorbachev M.
 Gorbachev Mikhail S.
+Brezhnev Leonid Ilyich
+Brezhnev Leonid
+Brezhnev
+Ilyich
+Leonid Ilyich
+Brezhnev L. I.
+Brezhnev L.
+Brezhnev Leonid I.
 Vladimir Lenin
 Vladimir Ilyich Lenin
 Vladimir I. Lenin
@@ -6826,13 +6885,29 @@ Lenin
 Lenin V.
 Lenin V. I.
 Vladimir Ilyich
-Ilyich
 Vladimir Ilyich Ulyanov
 Vladimir I. Ulyanov
 Vladimir Ulyanov
 Ulyanov V.
 Ulyanov V. I.
 Ulyanov
+Chernenko Konstantin Ustinovich
+Chernenko Konstantin
+Chernenko
+Konstantin
+Ustinovich
+Konstantin Ustinovich
+Chernenko K. U.
+Chernenko K.
+Chernenko Konstantin U.
+Andropov Yuri Vladimirovich
+Andropov Yuri
+Andropov
+Yuri
+Yuri Vladimirovich
+Andropov Y. V.
+Andropov Y.
+Andropov Yuri V.
 Zhirinovsky Vladimir Volfovich
 Zhirinovsky Vladimir
 Zhirinovsky
@@ -8946,6 +9021,19 @@ Society
 Societies
 Social stratum
 Social strata
+Society division
+Society's division
+Societies division
+Society's divisions
+Societies divisions
+Division in society
+Division in the society
+Division in societies
+Division in the societies
+Divisions in society
+Divisions in the society
+Divisions in societies
+Divisions in the societies
 Mankurt
 Mankurts
 Ahnenerbe
@@ -10419,6 +10507,25 @@ Import substitution
 Import substitutions
 Face Pay
 SelfieToPay
+Partner
+Partners
+Reliable partner
+Reliable partners
+Unreliable partner
+Unreliable partners
+Mate
+Mates
+Reliable mate
+Reliable mates
+Unreliable mate
+Unreliable mates
+Companion
+Companions
+Reliable companion
+Reliable companions
+Unreliable companion
+Unreliable companions
+Partnership
 Gold
 Gilded
 Gold coin
@@ -10602,9 +10709,29 @@ Easy money
 Money out of thin air
 Job
 Jobs
+Labour
+Labours
+Laborious
 Worker
 Workers
 Work
+Works
+Industry
+Industries
+Industrious
+Diligence
+Diligences
+Diligent
+Hard-working
+Assiduous
+Workman
+Workmen
+Workwoman
+Workwomen
+Laborer
+Laborers
+Labourer
+Labourers
 Hard work
 Hard works
 Unemployment
@@ -10658,10 +10785,13 @@ Loss of works
 Loss of the works
 Mass unemployment
 Mass unemployments
+Work force
+Work forces
 Labor force
 Labor forces
 Labour force
 Labour forces
+Human resources
 Cheap labor force
 Cheap labor forces
 Cheap labour force
@@ -10682,6 +10812,15 @@ Resources of humans
 Resources of the humans
 White collar
 White collars
+Qualified worker
+Qualified workers
+Qualified labor
+Qualified labors
+Qualified labour
+Qualified labours
+Qualified labour force
+Qualified labour forces
+Qualified human resource
 Pension
 Pensions
 Retired pay
@@ -10838,6 +10977,10 @@ Pauper girls
 Pauper boys
 Tax
 Taxes
+Taxing
+Taxings
+Taxation
+Taxations
 Duty
 Duties
 Tax collection
@@ -11231,6 +11374,16 @@ Embargo
 Embargos
 Restrictive measure
 Restrictive measures
+Profit
+Profits
+Lucre
+Lucres
+Gain
+Gains
+Benefit
+Benefits
+Benefiting
+Benefitings
 Debt
 Debts
 Debt crisis
@@ -11355,6 +11508,8 @@ Credit
 Credits
 Creditor
 Creditors
+Crediting
+Creditings
 Credit slavery
 Debt slavery
 Irrevocable credit
@@ -11549,7 +11704,6 @@ Chess gamers
 Chess party
 Chess parties
 Check
-Mate
 Check + Mate
 The Check + The Mate
 A Check + A Mate
@@ -12587,6 +12741,35 @@ Bunker
 Bunkers
 Underground bunker
 Underground bunkers
+Sewerage
+Sewerages
+Sewage
+Sewages
+Sewage system
+Sewage systems
+Water carriage
+Water carriages
+Sanitary piping
+Sanitary pipings
+Drainage
+Drainages
+Draining
+Drainings
+Water supply
+Water supplies
+Aqueduct
+Aqueducts
+\{Water duct}
+Water conduit
+Water conduits
+Tap water
+Tap waters
+City water
+City waters
+Mains water
+Mains waters
+Piped water
+Piped waters
 House
 Houses
 Town house
@@ -15013,6 +15196,8 @@ Magical organization
 Magical organizations
 Magical order
 Magical orders
+Magic moment
+Magic moments
 Medium
 Mediums
 Channeller
@@ -17548,6 +17733,12 @@ Servant of Order of Illuminati
 Servant of the Order of Illuminati
 Servants of Order of Illuminati
 Servants of the Order of Illuminati
+Works for illuminati
+Works for the illuminati
+Works for Illuminati Order
+Works for the Illuminati Order
+Works for Order of Illuminati
+Works for the Order of Illuminati
 Illuminati God
 Illuminati's God
 God of illuminati
@@ -18600,51 +18791,6 @@ Agent of masonry
 Agent of the masonry
 Agents of masonry
 Agents of the masonry
-Freemasons agent
-Freemasons agents
-Agent of freemasons
-Agent of the freemasons
-Agents of freemasons
-Agents of the freemasons
-Freemasonic agent
-Freemasonic agents
-Freemasonry agent
-Freemasonry's agent
-Freemasonry's agents
-Agent of freemasonry
-Agent of the freemasonry
-Agents of freemasonry
-Agents of the freemasonry
-Stonemasons agent
-Stonemasons agents
-Agent of stonemasons
-Agent of the stonemasons
-Agents of stonemasons
-Agents of the stonemasons
-Stonemasonic agent
-Stonemasonic agents
-Stonemasonry agent
-Stonemasonry's agent
-Stonemasonry's agents
-Agent of stonemasonry
-Agent of the stonemasonry
-Agents of stonemasonry
-Agents of the stonemasonry
-Jewmasons agent
-Jewmasons agents
-Agent of jewmasons
-Agent of the jewmasons
-Agents of jewmasons
-Agents of the jewmasons
-Jewmasonic agent
-Jewmasonic agents
-Jewmasonry agent
-Jewmasonry's agent
-Jewmasonry's agents
-Agent of jewmasonry
-Agent of the jewmasonry
-Agents of jewmasonry
-Agents of the jewmasonry
 Masons spy
 Masons spies
 Spy of masons
@@ -18661,6 +18807,38 @@ Spy of masonry
 Spy of the masonry
 Spies of masonry
 Spies of the masonry
+Masons servant
+Masons servants
+Servant of masons
+Servant of the masons
+Servants of masons
+Servants of the masons
+Masonic servant
+Masonic servants
+Masonry servant
+Masonry's servant
+Masonry's servants
+Servant of masonry
+Servant of the masonry
+Servants of masonry
+Servants of the masonry
+Works for masons
+Works for the masons
+Freemasons agent
+Freemasons agents
+Agent of freemasons
+Agent of the freemasons
+Agents of freemasons
+Agents of the freemasons
+Freemasonic agent
+Freemasonic agents
+Freemasonry agent
+Freemasonry's agent
+Freemasonry's agents
+Agent of freemasonry
+Agent of the freemasonry
+Agents of freemasonry
+Agents of the freemasonry
 Freemasons spy
 Freemasons spies
 Spy of freemasons
@@ -18677,6 +18855,38 @@ Spy of freemasonry
 Spy of the freemasonry
 Spies of freemasonry
 Spies of the freemasonry
+Freemasons servant
+Freemasons servants
+Servant of freemasons
+Servant of the freemasons
+Servants of freemasons
+Servants of the freemasons
+Freemasonic servant
+Freemasonic servants
+Freemasonry servant
+Freemasonry's servant
+Freemasonry's servants
+Servant of freemasonry
+Servant of the freemasonry
+Servants of freemasonry
+Servants of the freemasonry
+Works for freemasons
+Works for the freemasons
+Stonemasons agent
+Stonemasons agents
+Agent of stonemasons
+Agent of the stonemasons
+Agents of stonemasons
+Agents of the stonemasons
+Stonemasonic agent
+Stonemasonic agents
+Stonemasonry agent
+Stonemasonry's agent
+Stonemasonry's agents
+Agent of stonemasonry
+Agent of the stonemasonry
+Agents of stonemasonry
+Agents of the stonemasonry
 Stonemasons spy
 Stonemasons spies
 Spy of stonemasons
@@ -18693,6 +18903,38 @@ Spy of stonemasonry
 Spy of the stonemasonry
 Spies of stonemasonry
 Spies of the stonemasonry
+Stonemasons servant
+Stonemasons servants
+Servant of stonemasons
+Servant of the stonemasons
+Servants of stonemasons
+Servants of the stonemasons
+Stonemasonic servant
+Stonemasonic servants
+Stonemasonry servant
+Stonemasonry's servant
+Stonemasonry's servants
+Servant of stonemasonry
+Servant of the stonemasonry
+Servants of stonemasonry
+Servants of the stonemasonry
+Works for stonemasons
+Works for the stonemasons
+Jewmasons agent
+Jewmasons agents
+Agent of jewmasons
+Agent of the jewmasons
+Agents of jewmasons
+Agents of the jewmasons
+Jewmasonic agent
+Jewmasonic agents
+Jewmasonry agent
+Jewmasonry's agent
+Jewmasonry's agents
+Agent of jewmasonry
+Agent of the jewmasonry
+Agents of jewmasonry
+Agents of the jewmasonry
 Jewmasons spy
 Jewmasons spies
 Spy of jewmasons
@@ -18709,51 +18951,6 @@ Spy of jewmasonry
 Spy of the jewmasonry
 Spies of jewmasonry
 Spies of the jewmasonry
-Masons servant
-Masons servants
-Servant of masons
-Servant of the masons
-Servants of masons
-Servants of the masons
-Masonic servant
-Masonic servants
-Masonry servant
-Masonry's servant
-Masonry's servants
-Servant of masonry
-Servant of the masonry
-Servants of masonry
-Servants of the masonry
-Freemasons servant
-Freemasons servants
-Servant of freemasons
-Servant of the freemasons
-Servants of freemasons
-Servants of the freemasons
-Freemasonic servant
-Freemasonic servants
-Freemasonry servant
-Freemasonry's servant
-Freemasonry's servants
-Servant of freemasonry
-Servant of the freemasonry
-Servants of freemasonry
-Servants of the freemasonry
-Stonemasons servant
-Stonemasons servants
-Servant of stonemasons
-Servant of the stonemasons
-Servants of stonemasons
-Servants of the stonemasons
-Stonemasonic servant
-Stonemasonic servants
-Stonemasonry servant
-Stonemasonry's servant
-Stonemasonry's servants
-Servant of stonemasonry
-Servant of the stonemasonry
-Servants of stonemasonry
-Servants of the stonemasonry
 Jewmasons servant
 Jewmasons servants
 Servant of jewmasons
@@ -18769,6 +18966,8 @@ Servant of jewmasonry
 Servant of the jewmasonry
 Servants of jewmasonry
 Servants of the jewmasonry
+Works for jewmasons
+Works for the jewmasons
 Masons God
 God of masons
 God of the masons
@@ -19338,6 +19537,14 @@ Servant of Society of Jesus
 Servant of the Society of Jesus
 Servants of Society of Jesus
 Servants of the Society of Jesus
+Works for jesuit
+Works for the jesuit
+Works for jesuits
+Works for the jesuits
+Works for Jesuit Order
+Works for the Jesuit Order
+Works for Society of Jesus
+Works for the Society of Jesus
 Ignatius of Loyola
 Ignatius Loyola
 Ignatius
@@ -21012,6 +21219,14 @@ Tzarinas
 Czarina
 Czarinas
 God Save the Tsar
+Czar blood
+Czar's blood
+Blood of czar
+Blood of the czar
+Tsar blood
+Tsar's blood
+Blood of tsar
+Blood of the tsar
 Gulag
 Gulags
 Chief Administration of Corrective Labour Camps
@@ -22908,6 +23123,7 @@ Fascist-communist regime
 Fascist-communist regimes
 Fascist-communist project
 Fascist-communist projects
+Nazi salute
 Governor
 Governors
 Election
@@ -23223,7 +23439,16 @@ Execrations
 Detesting
 Detestings
 Stress
+Stresses
 Stressful
+Big stress
+Big stresses
+Huge stress
+Huge stresses
+Leads to stress
+Leads to the stress
+Leads to stresses
+Leads to the stresses
 Insanity
 Insanities
 Insane
@@ -23483,6 +23708,14 @@ Useful idiot
 Useful idiots
 Profitable idiot
 Profitable idiots
+Psychologic experiment
+Psychologic experiments
+Psychological experiment
+Psychological experiments
+Psychologic test
+Psychologic tests
+Psychological test
+Psychological tests
 Sleep
 Sleeps
 Sleepy
@@ -26754,6 +26987,14 @@ Fart
 Farts
 Farting
 Fartings
+Hemorrhoid
+Hemorrhoids
+Haemorrhoid
+Haemorrhoids
+Hemorrhoidal
+Haemorrhoidal
+Pile
+Piles
 Cell
 Cells
 Somatic cell
@@ -27018,6 +27259,69 @@ Infectious
 Contagious
 Bacterial infection
 Bacterial infections
+Disease
+Diseases
+Ill
+Sick
+Illness
+Illnesses
+Sick man
+Sick woman
+Sick person
+Sick human
+Sick fellow
+Sick girl
+Sick boy
+Sick men
+Sick women
+Sick persons
+Sick humans
+Sick fellows
+Sick people
+Sick girls
+Sick boys
+Ill man
+Ill woman
+Ill person
+Ill human
+Ill fellow
+Ill girl
+Ill boy
+Ill men
+Ill women
+Ill persons
+Ill humans
+Ill fellows
+Ill people
+Ill girls
+Ill boys
+Body wearing
+Body's wearing
+Wearing of body
+Wearing of the body
+Body aging
+Body's aging
+Aging of body
+Aging of the body
+Premature senility
+Premature senilities
+Old age
+Old ages
+Senility
+Senilities
+Late adulthood
+Late adulthoods
+Senium
+Contagion
+Contagions
+Catastrophic contagion
+Catastrophic contagions
+Incurable disease
+Incurable diseases
+Immedicable disease
+Immedicable diseases
+Tribal disease
+Tribal diseases
 Plague
 Plagues
 Black Death
@@ -27225,6 +27529,10 @@ General anaesthesia
 General anaesthesias
 Biotechnology
 Biotechnologies
+Symbiosis
+Symbiose
+Symbioses
+Symbiotic
 Vaccine
 Vaccines
 Vaccinate
@@ -27344,6 +27652,34 @@ Forced vaccines
 Forced vaccination
 Forced vaccinations
 Forced
+influenza
+Spanish influenza
+Virus influenza
+Viruses influenza
+Virus influenzas
+Viruses influenzas
+Influenza of virus
+Influenza of the virus
+Influenza of viruses
+Influenza of the viruses
+Influenzas of virus
+Influenzas of the virus
+Influenzas of viruses
+Influenzas of the viruses
+flu
+Spanish flu
+Virus flu
+Viruses flu
+Virus flus
+Viruses flus
+Flu of virus
+Flu of the virus
+Flu of viruses
+Flu of the viruses
+Flus of virus
+Flus of the virus
+Flus of viruses
+Flus of the viruses
 Allergy
 Allergies
 Allergic
@@ -27594,75 +27930,28 @@ Hospitalizations
 Infirmary
 Infirmaries
 Sick quarters
-Disease
-Diseases
-Ill
-Sick
-Illness
-Illnesses
-Sick man
-Sick woman
-Sick person
-Sick human
-Sick fellow
-Sick girl
-Sick boy
-Sick men
-Sick women
-Sick persons
-Sick humans
-Sick fellows
-Sick people
-Sick girls
-Sick boys
-Ill man
-Ill woman
-Ill person
-Ill human
-Ill fellow
-Ill girl
-Ill boy
-Ill men
-Ill women
-Ill persons
-Ill humans
-Ill fellows
-Ill people
-Ill girls
-Ill boys
-Body wearing
-Body's wearing
-Wearing of body
-Wearing of the body
-Body aging
-Body's aging
-Aging of body
-Aging of the body
-Premature senility
-Premature senilities
-Old age
-Old ages
-Senility
-Senilities
-Late adulthood
-Late adulthoods
-Senium
-Contagion
-Contagions
-Catastrophic contagion
-Catastrophic contagions
-Incurable disease
-Incurable diseases
-Immedicable disease
-Immedicable diseases
-Tribal desease
-Tribal deseases
 Anthropogenesis
 Artificial anthropogenesis
 Natural anthropogenesis
 Toxin
 Toxins
 Toxics
+Intoxication
+Intoxications
+Intoxification
+Intoxifications
+Detoxication
+Detoxications
+Detoxification
+Detoxifications
+Detoxicant
+Detoxicants
+Detoxifier
+Detoxifiers
+Detoxicator
+Detoxicators
+Disintoxicant
+Disintoxicants
 Agony
 Agonies
 Death agony
@@ -27699,8 +27988,6 @@ Marburg fever
 Ebola
 Ebola virus
 Project NextGen
-Influenza
-Flu
 Paralysis
 Palsy
 Fertility
@@ -28277,6 +28564,12 @@ Ka-52 Alligator
 Ka-52 Helicopter
 Ka-52
 Hokum B
+Bomb shelter
+Bomb shelters
+Bomb-proof
+Bomb-proofs
+Air-raid shelter
+Air-raid shelters
 Jet
 Jets
 Fighter jet
@@ -29227,6 +29520,18 @@ Schismatic
 Schismatics
 World war
 World wars
+World war 1
+World war I
+World war one
+First world war
+WW 1
+WW I
+World war 2
+World war II
+World war two
+Second world war
+WW 2
+WW II
 World war 3
 World war III
 World war three
@@ -29273,6 +29578,10 @@ Meaningless carnage
 Meaningless carnages
 Bloody carnage
 Bloody carnages
+Beating
+Beatings
+Blow
+Blows
 Military Company
 Military Companies
 Private Military Company
@@ -29776,6 +30085,12 @@ Freezing of warfares
 Freezing of the warfares
 Freezings of warfares
 Freezings of the warfares
+Peace negotiations
+Peace talks
+Unit
+Units
+Battalion
+Battalions
 War prisoner
 War's prisoner
 War's prisoners
@@ -30369,6 +30684,8 @@ Weapon of gods
 Weapon of the gods
 Weapons of gods
 Weapons of the gods
+Wonder weapon
+Wonder weapons
 Counterattack
 Counterattacks
 Counteroffensive
@@ -30377,6 +30694,8 @@ HAMAS
 Islamic Resistance Movement
 War
 Wars
+High war risk
+High war risks
 Military operation
 Military operations
 Hostilities
@@ -30838,6 +31157,16 @@ Poetic
 Poetical
 USE
 Unified State Exam
+Grant
+Grants
+Fellowship
+Fellowships
+Scholarship
+Scholarships
+Task
+Tasks
+Hard task
+Hard tasks
 School
 Schools
 Schoolboy
@@ -30869,6 +31198,8 @@ Professor
 Professors
 Education
 Educations
+Bad education
+Bad educations
 Quality education
 Quality educations
 Primary education
@@ -30877,8 +31208,12 @@ Elementary education
 Elementary educations
 Middle education
 Middle educations
+School education
+School educations
 Higher education
 Higher educations
+University education
+University educations
 Educator
 Educators
 Educationist
@@ -30897,6 +31232,11 @@ Kindergartner
 Kindergartners
 Kindergartener
 Kindergarteners
+Bylina
+Bylinas
+Epic
+Epic hero
+Epic heroes
 Logic
 Logics
 Logical
@@ -30916,10 +31256,12 @@ Teacher
 Teachers
 Teach
 Teaching
+Teachings
 Trainer
 Trainers
 Train
 Training
+Trainings
 Instructor
 Instructors
 Instruction
@@ -30928,6 +31270,8 @@ Lesson
 Lessons
 Hard lesson
 Hard lessons
+Important lesson
+Important lessons
 Knowledge
 Rubbish knowledge
 Garbage knowledge
@@ -32032,7 +32376,6 @@ President of Ukraina Vladimir Aleksandrovych Zelenskiy
 President of the Ukraina Vladimir Aleksandrovych Zelenskiy
 Ukraina President Vladimir Aleksandrovych Zelenskiy
 Attack on Poland
-Attack on Romania
 Attack on Georgia
 Attack on Iran
 Attack on Islamic Republic of Iran
@@ -32100,6 +32443,7 @@ Attack on Czech Republic
 Attack on Bohemia
 Attack on Italy
 Attack on Italian Republic
+Attack on Romania
 Attack on Switzerland
 Attack on Swiss Confederation
 Attack on Hungary
@@ -32132,6 +32476,12 @@ Attack on North Korea
 Attack on Democratic People's Republic of Korea
 Attack on DPRK
 Attack on Japan
+Attack on Denmark
+Attack on Kingdom of Denmark
+Attack on Belgium
+Attack on Kingdom of Belgium
+Attack on Norway
+Attack on Kingdom of Norway
 Attack on England
 Attack on Britain
 Attack on United Kingdom
@@ -32145,7 +32495,6 @@ Attack on Deutschland
 Attack on Spain
 Attack on Kingdom of Spain
 Attack on Republic of Poland
-Attack on Republic of Romania
 Attack on Republic of Georgia
 Attack on Republic of Turkey
 Attack on Republic of Turkiye
@@ -33579,9 +33928,6 @@ The Attack on the Alaska
 Enemy of Poland
 Bitter enemy of Poland
 Opponent of Poland
-Enemy of Romania
-Bitter enemy of Romania
-Opponent of Romania
 Enemy of Georgia
 Bitter enemy of Georgia
 Opponent of Georgia
@@ -33783,6 +34129,9 @@ Opponent of Italy
 Enemy of Italian Republic
 Bitter enemy of Italian Republic
 Opponent of Italian Republic
+Enemy of Romania
+Bitter enemy of Romania
+Opponent of Romania
 Enemy of Switzerland
 Bitter enemy of Switzerland
 Opponent of Switzerland
@@ -33879,6 +34228,24 @@ Opponent of DPRK
 Enemy of Japan
 Bitter enemy of Japan
 Opponent of Japan
+Enemy of Denmark
+Bitter enemy of Denmark
+Opponent of Denmark
+Enemy of Kingdom of Denmark
+Bitter enemy of Kingdom of Denmark
+Opponent of Kingdom of Denmark
+Enemy of Belgium
+Bitter enemy of Belgium
+Opponent of Belgium
+Enemy of Kingdom of Belgium
+Bitter enemy of Kingdom of Belgium
+Opponent of Kingdom of Belgium
+Enemy of Norway
+Bitter enemy of Norway
+Opponent of Norway
+Enemy of Kingdom of Norway
+Bitter enemy of Kingdom of Norway
+Opponent of Kingdom of Norway
 Enemy of England
 Bitter enemy of England
 Opponent of England
@@ -33918,9 +34285,6 @@ Opponent of Kingdom of Spain
 Enemy of Republic of Poland
 Bitter enemy of Republic of Poland
 Opponent of Republic of Poland
-Enemy of Republic of Romania
-Bitter enemy of Republic of Romania
-Opponent of Republic of Romania
 Enemy of Republic of Georgia
 Bitter enemy of Republic of Georgia
 Opponent of Republic of Georgia
@@ -38212,7 +38576,6 @@ The Bitter enemy of the Alaska
 An Opponent of the Alaska
 The Opponent of the Alaska
 War in Poland
-War in Romania
 War in Georgia
 War in Iran
 War in Islamic Republic of Iran
@@ -38280,6 +38643,7 @@ War in Czech Republic
 War in Bohemia
 War in Italy
 War in Italian Republic
+War in Romania
 War in Switzerland
 War in Swiss Confederation
 War in Hungary
@@ -38312,6 +38676,12 @@ War in North Korea
 War in Democratic People's Republic of Korea
 War in DPRK
 War in Japan
+War in Denmark
+War in Kingdom of Denmark
+War in Belgium
+War in Kingdom of Belgium
+War in Norway
+War in Kingdom of Norway
 War in England
 War in Britain
 War in United Kingdom
@@ -38325,7 +38695,6 @@ War in Deutschland
 War in Spain
 War in Kingdom of Spain
 War in Republic of Poland
-War in Republic of Romania
 War in Republic of Georgia
 War in Republic of Turkey
 War in Republic of Turkiye
@@ -39757,7 +40126,6 @@ War in Alaska
 A War in the Alaska
 The War in the Alaska
 Invasion to Poland
-Invasion to Romania
 Invasion to Georgia
 Invasion to Iran
 Invasion to Islamic Republic of Iran
@@ -39825,6 +40193,7 @@ Invasion to Czech Republic
 Invasion to Bohemia
 Invasion to Italy
 Invasion to Italian Republic
+Invasion to Romania
 Invasion to Switzerland
 Invasion to Swiss Confederation
 Invasion to Hungary
@@ -39857,6 +40226,12 @@ Invasion to North Korea
 Invasion to Democratic People's Republic of Korea
 Invasion to DPRK
 Invasion to Japan
+Invasion to Denmark
+Invasion to Kingdom of Denmark
+Invasion to Belgium
+Invasion to Kingdom of Belgium
+Invasion to Norway
+Invasion to Kingdom of Norway
 Invasion to England
 Invasion to Britain
 Invasion to United Kingdom
@@ -39870,7 +40245,6 @@ Invasion to Deutschland
 Invasion to Spain
 Invasion to Kingdom of Spain
 Invasion to Republic of Poland
-Invasion to Republic of Romania
 Invasion to Republic of Georgia
 Invasion to Republic of Turkey
 Invasion to Republic of Turkiye
@@ -42104,8 +42478,6 @@ Armenian Republic Chief of cabinet
 Armenian Republic Chiefs of cabinet
 Republic of Poland
 The Republic of the Poland
-Republic of Romania
-The Republic of the Romania
 Republic of Georgia
 The Republic of the Georgia
 Republic of Turkey
@@ -42168,6 +42540,42 @@ Premier of Japan
 The Premier of the Japan
 Chief of cabinet of Japan
 The Chief of cabinet of the Japan
+Prime minister of Denmark
+The Prime minister of the Denmark
+Premier of Denmark
+The Premier of the Denmark
+Chief of cabinet of Denmark
+The Chief of cabinet of the Denmark
+Prime minister of Kingdom of Denmark
+The Prime minister of the Kingdom of Denmark
+Premier of Kingdom of Denmark
+The Premier of the Kingdom of Denmark
+Chief of cabinet of Kingdom of Denmark
+The Chief of cabinet of the Kingdom of Denmark
+Prime minister of Belgium
+The Prime minister of the Belgium
+Premier of Belgium
+The Premier of the Belgium
+Chief of cabinet of Belgium
+The Chief of cabinet of the Belgium
+Prime minister of Kingdom of Belgium
+The Prime minister of the Kingdom of Belgium
+Premier of Kingdom of Belgium
+The Premier of the Kingdom of Belgium
+Chief of cabinet of Kingdom of Belgium
+The Chief of cabinet of the Kingdom of Belgium
+Prime minister of Norway
+The Prime minister of the Norway
+Premier of Norway
+The Premier of the Norway
+Chief of cabinet of Norway
+The Chief of cabinet of the Norway
+Prime minister of Kingdom of Norway
+The Prime minister of the Kingdom of Norway
+Premier of Kingdom of Norway
+The Premier of the Kingdom of Norway
+Chief of cabinet of Kingdom of Norway
+The Chief of cabinet of the Kingdom of Norway
 Prime minister of England
 The Prime minister of the England
 Premier of England
@@ -42317,10 +42725,6 @@ President of Republic of Poland
 The President of the Republic of Poland
 President of Republic of the Poland
 The President of the Republic of the Poland
-President of Republic of Romania
-The President of the Republic of Romania
-President of Republic of the Romania
-The President of the Republic of the Romania
 President of Georgia
 The President of the Georgia
 President of Republic of Georgia
@@ -42726,7 +43130,6 @@ President Javier Gerardo Milei
 President Milei J. G.
 Supreme Leader
 Supreme Leader of Poland
-Supreme Leader of Romania
 Supreme Leader of Georgia
 Supreme Leader of Iran
 Supreme Leader of Islamic Republic of Iran
@@ -42794,6 +43197,7 @@ Supreme Leader of Czech Republic
 Supreme Leader of Bohemia
 Supreme Leader of Italy
 Supreme Leader of Italian Republic
+Supreme Leader of Romania
 Supreme Leader of Switzerland
 Supreme Leader of Swiss Confederation
 Supreme Leader of Hungary
@@ -42826,6 +43230,12 @@ Supreme Leader of North Korea
 Supreme Leader of Democratic People's Republic of Korea
 Supreme Leader of DPRK
 Supreme Leader of Japan
+Supreme Leader of Denmark
+Supreme Leader of Kingdom of Denmark
+Supreme Leader of Belgium
+Supreme Leader of Kingdom of Belgium
+Supreme Leader of Norway
+Supreme Leader of Kingdom of Norway
 Supreme Leader of England
 Supreme Leader of Britain
 Supreme Leader of United Kingdom
@@ -42839,7 +43249,6 @@ Supreme Leader of Deutschland
 Supreme Leader of Spain
 Supreme Leader of Kingdom of Spain
 Supreme Leader of Republic of Poland
-Supreme Leader of Republic of Romania
 Supreme Leader of Republic of Georgia
 Supreme Leader of Republic of Turkey
 Supreme Leader of Republic of Turkiye
@@ -44880,28 +45289,28 @@ Bestiality
 Bestialities
 Libido
 Libidos
-High Libido
-High Libidos
-Low Libido
-Low Libidos
+High libido
+High libidos
+Low libido
+Low libidos
 Sexual desire
 Sexual desires
-High Sexual desire
-High Sexual desires
-Low Sexual desire
-Low Sexual desires
+High sexual desire
+High sexual desires
+Low sexual desire
+Low sexual desires
 Sexual drive
 Sexual drives
-High Sexual drive
-High Sexual drives
-Low Sexual drive
-Low Sexual drives
+High sexual drive
+High sexual drives
+Low sexual drive
+Low sexual drives
 Erotic attraction
 Erotic attractions
-High Erotic attraction
-High Erotic attractions
-Low Erotic attraction
-Low Erotic attractions
+High erotic attraction
+High erotic attractions
+Low erotic attraction
+Low erotic attractions
 Veto
 Vetos
 Veto right
@@ -45345,6 +45754,23 @@ Hazard
 Hazards
 Hazard zone
 Hazard zones
+Deadly danger
+Deadly dangers
+Lethal danger
+Lethal dangers
+Mortal danger
+Mortal dangers
+Fatal danger
+Fatal dangers
+Death danger
+Death's danger
+Death's dangers
+Danger of death
+Danger of the death
+Danger of deaths
+Danger of the deaths
+Dangers of deaths
+Dangers of the deaths
 Blackmail
 Blackmails
 Blackmailer
@@ -46248,6 +46674,8 @@ Nuclear terror
 Nuclear terrors
 Nuclear terrorist
 Nuclear terrorists
+Terrorist regime
+Terrorist regimes
 nasa.gov
 http://nasa.gov
 https://nasa.gov
@@ -46880,6 +47308,12 @@ Self-replicating spacecraft
 Self-replicating spacecrafts
 Von Neumann probe
 Von Neumann probes
+Orbital station
+Orbital stations
+Orbiting station
+Orbiting stations
+Orbital platform
+Orbital platforms
 ISS
 International Space Station
 Space ship
@@ -47112,6 +47546,13 @@ Total eclipses of Moon
 Total eclipses of the Moon
 Total lunar eclipse
 Total lunar eclipses
+Space development
+Space's development
+Space's developments
+Development of space
+Development of the space
+Developments of space
+Developments of the space
 Zodiac
 Zodiac sign
 Zodiac's sign
@@ -47275,6 +47716,15 @@ Intelligence satellite
 Intelligence satellites
 Military satellite
 Military satellites
+Satellite group
+Satellite's group
+Satellite's groups
+Group of satellite
+Group of the satellite
+Group of satellites
+Group of the satellites
+Groups of satellites
+Groups of the satellites
 Observatory
 Observatories
 Star gate
@@ -47407,6 +47857,10 @@ Solar wind
 Two suns
 Sun + Sun
 Sun and Sun
+Solar maximum
+Solar maxima
+Solar minimum
+Solar minima
 Dark fleet
 Solar Warden
 Shining Warden
@@ -47658,6 +48112,27 @@ Crises of migration
 Crises of the migration
 Crises of migrations
 Crises of the migrations
+Population replacement
+Population's replacement
+Population's replacements
+Replacement of population
+Replacement of the population
+Replacements of population
+Replacements of the population
+Native population replacement
+Native population's replacement
+Native population's replacements
+Replacement of native population
+Replacement of the native population
+Replacements of native population
+Replacements of the native population
+Indigenous population replacement
+Indigenous population's replacement
+Indigenous population's replacements
+Replacement of indigenous population
+Replacement of the indigenous population
+Replacements of indigenous population
+Replacements of the indigenous population
 Sirrush
 Sirrush dragon
 Mushkhushshu
@@ -52753,6 +53228,13 @@ Satanism
 Hidden satanism
 Secret satanism
 Clandestine satanism
+Satanism propaganda
+Satanism's propaganda
+Satanism's propagandas
+Propaganda of satanism
+Propaganda of the satanism
+Propagandas of satanism
+Propagandas of the satanism
 Satan spirit
 Satan's spirit
 Spirit of satan
@@ -52793,6 +53275,10 @@ Satanic incarnation
 Satanic incarnations
 Satanical incarnation
 Satanical incarnations
+Satanic organization
+Satanic organizations
+Satanical organization
+Satanical organizations
 Satan service
 Satan's service
 Satan's services
@@ -54700,6 +55186,8 @@ Evocation of spirits
 Evocation of the spirits
 Evocations of spirits
 Evocations of the spirits
+Spiritual evocation
+Spiritual evocations
 Spirit evocator
 Spirit's evocator
 Spirit's evocators
@@ -54718,6 +55206,8 @@ Summoning of spirits
 Summoning of the spirits
 Summonings of spirits
 Summonings of the spirits
+Spiritual summoning
+Spiritual summonings
 Spirit summoner
 Spirit's summoner
 Spirit's summoners
@@ -54731,6 +55221,27 @@ Theomachy
 Theomachies
 Theomachist
 Theomachists
+Exorcism
+Exorcist
+Exorcists
+Demons driving out
+Driving out of demons
+Driving out of the demons
+Daemons driving out
+Driving out of daemons
+Driving out of the daemons
+Evil spirits driving out
+Driving out of evil spirits
+Driving out of the evil spirits
+Demons casting
+Casting of demons
+Casting of the demons
+Daemons casting
+Casting of daemons
+Casting of the daemons
+Evil spirits casting
+Casting of evil spirits
+Casting of the evil spirits
 Abaddon
 Apollyon
 Bottomless pit angel
@@ -56554,6 +57065,25 @@ Houris
 Jihad
 Sacred war
 Sacred wars
+Islam symbol
+Islam's symbol
+Islam's symbols
+Symbol of Islam
+Symbol of the Islam
+Symbols of Islam
+Symbols of the Islam
+Islamic symbol
+Islamic symbols
+Muslim symbol
+Muslim symbols
+Moslem symbol
+Moslem symbols
+Moslemic symbol
+Moslemic symbols
+Mussulmanish symbol
+Mussulmanish symbols
+Mussulmanic symbol
+Mussulmanic symbols
 Shahada
 Shahadah
 Shaheed
@@ -59214,6 +59744,18 @@ Agent of ashkenazim jewry
 Agent of the ashkenazim jewry
 Agents of ashkenazim jewry
 Agents of the ashkenazim jewry
+Ashkenazi jews agent
+Ashkenazi jews agents
+Agent of ashkenazi jews
+Agent of the ashkenazi jews
+Agents of ashkenazi jews
+Agents of the ashkenazi jews
+Ashkenazim jews agent
+Ashkenazim jews agents
+Agent of ashkenazim jews
+Agent of the ashkenazim jews
+Agents of ashkenazim jews
+Agents of the ashkenazim jews
 Ashkenazic jewish agent
 Ashkenazic jewish agents
 Khazar agent
@@ -59241,8 +59783,242 @@ Agent of Zion
 Agent of the Zion
 Agents of Zion
 Agents of the Zion
+Zionists agent
+Zionists agents
+Agent of zionists
+Agent of the zionists
+Agents of zionists
+Agents of the zionists
 Zionistic agent
 Zionistic agents
+Jewry spy
+Jewry's spy
+Jewry spies
+Jewry's spies
+Spy of jewry
+Spy of the jewry
+Spies of jewry
+Spies of the jewry
+Jews spy
+Jews spies
+Spy of jews
+Spy of the jews
+Spies of jews
+Spies of the jews
+Jewish spy
+Jewish spies
+Judaic spy
+Judaic spies
+Judaical spy
+Judaical spies
+Ashkenazi spy
+Ashkenazi's spy
+Ashkenazi spies
+Ashkenazi's spies
+Spy of ashkenazi
+Spy of the ashkenazi
+Spies of ashkenazi
+Spies of the ashkenazi
+Ashkenazim spy
+Ashkenazim's spy
+Ashkenazim spies
+Ashkenazim's spies
+Spy of ashkenazim
+Spy of the ashkenazim
+Spies of ashkenazim
+Spies of the ashkenazim
+Ashkenazic spy
+Ashkenazic spies
+Ashkenazi jewry spy
+Ashkenazi jewry's spy
+Ashkenazi jewry spies
+Ashkenazi jewry's spies
+Spy of ashkenazi jewry
+Spy of the ashkenazi jewry
+Spies of ashkenazi jewry
+Spies of the ashkenazi jewry
+Ashkenazim jewry spy
+Ashkenazim jewry's spy
+Ashkenazim jewry spies
+Ashkenazim jewry's spies
+Spy of ashkenazim jewry
+Spy of the ashkenazim jewry
+Spies of ashkenazim jewry
+Spies of the ashkenazim jewry
+Ashkenazi jews spy
+Ashkenazi jews spies
+Spy of ashkenazi jews
+Spy of the ashkenazi jews
+Spies of ashkenazi jews
+Spies of the ashkenazi jews
+Ashkenazim jews spy
+Ashkenazim jews spies
+Spy of ashkenazim jews
+Spy of the ashkenazim jews
+Spies of ashkenazim jews
+Spies of the ashkenazim jews
+Ashkenazic jewish spy
+Ashkenazic jewish spies
+Khazar spy
+Khazar's spy
+Khazar spies
+Khazar's spies
+Spy of khazar
+Spy of the khazar
+Spy of khazars
+Spy of the khazars
+Spies of khazar
+Spies of the khazar
+Spies of khazars
+Spies of the khazars
+Khazarian spy
+Khazarian's spy
+Khazarian spies
+Khazarian's spies
+Spy of khazarian
+Spy of the khazarian
+Spy of khazarians
+Spy of the khazarians
+Spies of khazarian
+Spies of the khazarian
+Spies of khazarians
+Spies of the khazarians
+Zion spy
+Zion's spy
+Zion spies
+Zion's spies
+Spy of Zion
+Spy of the Zion
+Spies of Zion
+Spies of the Zion
+Zionists spy
+Zionists spies
+Spy of zionists
+Spy of the zionists
+Spies of zionists
+Spies of the zionists
+Zionistic spy
+Zionistic spies
+Jewry servant
+Jewry's servant
+Jewry's servants
+Servant of jewry
+Servant of the jewry
+Servants of jewry
+Servants of the jewry
+Jews servant
+Jews servants
+Servant of jews
+Servant of the jews
+Servants of jews
+Servants of the jews
+Jewish servant
+Jewish servants
+Judaic servant
+Judaic servants
+Judaical servant
+Judaical servants
+Ashkenazi servant
+Ashkenazi's servant
+Ashkenazi's servants
+Servant of ashkenazi
+Servant of the ashkenazi
+Servants of ashkenazi
+Servants of the ashkenazi
+Ashkenazim servant
+Ashkenazim's servant
+Ashkenazim's servants
+Servant of ashkenazim
+Servant of the ashkenazim
+Servants of ashkenazim
+Servants of the ashkenazim
+Ashkenazic servant
+Ashkenazic servants
+Ashkenazi jewry servant
+Ashkenazi jewry's servant
+Ashkenazi jewry's servants
+Servant of ashkenazi jewry
+Servant of the ashkenazi jewry
+Servants of ashkenazi jewry
+Servants of the ashkenazi jewry
+Ashkenazim jewry servant
+Ashkenazim jewry's servant
+Ashkenazim jewry's servants
+Servant of ashkenazim jewry
+Servant of the ashkenazim jewry
+Servants of ashkenazim jewry
+Servants of the ashkenazim jewry
+Ashkenazi jews servant
+Ashkenazi jews servants
+Servant of ashkenazi jews
+Servant of the ashkenazi jews
+Servants of ashkenazi jews
+Servants of the ashkenazi jews
+Ashkenazim jews servant
+Ashkenazim jews servants
+Servant of ashkenazim jews
+Servant of the ashkenazim jews
+Servants of ashkenazim jews
+Servants of the ashkenazim jews
+Ashkenazic jewish servant
+Ashkenazic jewish servants
+Khazar servant
+Khazar's servant
+Khazar's servants
+Servant of khazar
+Servant of the khazar
+Servant of khazars
+Servant of the khazars
+Servants of khazars
+Servants of the khazars
+Khazarian servant
+Khazarian's servant
+Khazarian's servants
+Servant of khazarian
+Servant of the khazarian
+Servant of khazarians
+Servant of the khazarians
+Servants of khazarians
+Servants of the khazarians
+Zion servant
+Zion's servant
+Zion's servants
+Servant of Zion
+Servant of the Zion
+Servants of Zion
+Servants of the Zion
+Zionists servant
+Zionists servants
+Servant of zionists
+Servant of the zionists
+Servants of zionists
+Servants of the zionists
+Zionistic servant
+Zionistic servants
+Works for jews
+Works for the jews
+Works for jewry
+Works for the jewry
+Works for ashkenazi
+Works for the ashkenazi
+Works for ashkenazim
+Works for the ashkenazim
+Works for ashkenazi jews
+Works for the ashkenazi jews
+Works for ashkenazim jews
+Works for the ashkenazim jews
+Works for ashkenazi jewry
+Works for the ashkenazi jewry
+Works for ashkenazim jewry
+Works for the ashkenazim jewry
+Works for khazars
+Works for the khazars
+Works for khazarians
+Works for the khazarians
+Works for Zion
+Works for the Zion
+Works for zionists
+Works for the zionists
 Semite
 Semites
 Semitic
@@ -59747,9 +60523,10 @@ Tzabar
 Tzabarim
 Halakah
 Halacha
-Halakah jew
-Halakah jews
-Halakah jewry
+Halakhic
+Halakhic jew
+Halakhic jews
+Halakhic jewry
 Holocaust
 Armilus
 Armilos
@@ -60289,6 +61066,14 @@ Red Pope
 Dalai Lama
 Akasha
 Akash
+Karma
+Karma clearing
+Karma's clearing
+Karma's clearings
+Clearing of karma
+Clearing of the karma
+Clearings of karma
+Clearings of the karma
 Kundalini
 Hinduism
 Sanatana Dharma
@@ -60333,7 +61118,6 @@ Half-human + Half-serpent
 The Half-human + The half-serpent
 Half-human and Half-serpent
 The Half-human and The half-serpent
-Karma
 Shani
 Shanaishchara
 Sanskrit
@@ -62824,16 +63608,12 @@ Sellings of souls
 Sellings of the souls
 Soul selling to devil
 Soul selling to the devil
-Soul selling to devils
-Soul selling to the devils
-Soul sellings to devils
-Soul sellings to the devils
+Soul sellings to devil
+Soul sellings to the devil
 Soul selling to satan
 Soul selling to the satan
-Soul selling to satans
-Soul selling to the satans
-Soul sellings to satans
-Soul sellings to the satans
+Soul sellings to satan
+Soul sellings to the satan
 Sin
 Sins
 Transgression
@@ -63670,6 +64450,23 @@ Cave of Plato
 Cave of the Plato
 Caves of Plato
 Caves of the Plato
+Life level
+Life's level
+Lives level
+Life's levels
+Lives levels
+Level of life
+Level of the life
+Level of lives
+Level of the lives
+Levels of life
+Levels of the life
+Levels of lives
+Levels of the lives
+High life level
+High life levels
+Low life level
+Low life levels
 Silicon life
 Silicon lives
 Life silicon based form
@@ -65335,6 +66132,12 @@ The North Korea
 The Democratic People's Republic of Korea
 The DPRK
 The Japan
+The Denmark
+The Kingdom of Denmark
+The Belgium
+The Kingdom of Belgium
+The Norway
+The Kingdom of Norway
 The England
 The Britain
 The United Kingdom
@@ -66165,6 +66968,9 @@ The Evil empire
 The Evil empires
 The Powerful empire
 The Powerful empires
+The Imperialist
+The Imperialists
+The Imperialism
 The Transistor
 The Transistors
 The Xsistor
@@ -66574,6 +67380,12 @@ The Trident
 The Tridents
 The Chain
 The Chains
+The Link
+The Links
+The Weak link
+The Weak links
+The Vulnerability
+The Vulnerabilities
 The Hammer
 The Hammers
 The Sledgehammer
@@ -66660,6 +67472,12 @@ The SMS alert
 The SMS alerts
 The AI phone
 The AI phones
+The Abonent
+The Abonents
+The Net abonent
+The Net abonents
+The Network abonent
+The Network abonents
 The Taxi
 The Roadmap
 The Roadmaps
@@ -66715,6 +67533,8 @@ The Steel
 The Steels
 The Stainless steel
 The Stainless steels
+The Concrete
+The Concretes
 The Narcobaron
 The Narcobarons
 The Drug tzar
@@ -66868,6 +67688,24 @@ The Petrol
 The Diesel oil
 The Diesel fuel
 The Kerosene
+The Resource
+The Resources
+The Asset
+The Assets
+The Resource lack
+The Resource's lack
+The Resource's lacks
+The Lack of the resource
+The Lack of the resources
+The Lacks of the resources
+The Resource lacking
+The Resource's lacking
+The Resource's lackings
+The Lacking of the resource
+The Lacking of the resources
+The Lackings of the resources
+The Natural resource
+The Natural resources
 The Fossil
 The Fossils
 The Fossil fuel
@@ -68500,6 +69338,8 @@ The Encrypted message
 The Encrypted messages
 The Decrypted message
 The Decrypted messages
+The Hidden message
+The Hidden messages
 The Quantum cipher
 The Quantum ciphers
 The Quantum ciphering
@@ -68627,6 +69467,9 @@ The Tetractys
 The Tetractys of the decad
 The Tetrad
 The Tetrads
+The Geometry
+The Euclidean geometry
+The Non-Euclidean geometry
 The Ellipse
 The Ellipses
 The Oval
@@ -68758,7 +69601,6 @@ The Advanced calculation
 The Advanced calculations
 The Math
 The Mathematics
-The Geometry
 The Equation
 The Equations
 The Equation solution
@@ -70235,6 +71077,15 @@ The Society
 The Societies
 The Social stratum
 The Social strata
+The Society division
+The Society's division
+The Societies division
+The Society's divisions
+The Societies divisions
+The Division in the society
+The Division in the societies
+The Divisions in the society
+The Divisions in the societies
 The Mankurt
 The Mankurts
 The Ahnenerbe
@@ -71330,6 +72181,25 @@ The Import substitution
 The Import substitutions
 The Face Pay
 The SelfieToPay
+The Partner
+The Partners
+The Reliable partner
+The Reliable partners
+The Unreliable partner
+The Unreliable partners
+The Mate
+The Mates
+The Reliable mate
+The Reliable mates
+The Unreliable mate
+The Unreliable mates
+The Companion
+The Companions
+The Reliable companion
+The Reliable companions
+The Unreliable companion
+The Unreliable companions
+The Partnership
 The Gold
 The Gilded
 The Gold coin
@@ -71482,8 +72352,24 @@ The Easy money
 The Money out of thin air
 The Job
 The Jobs
+The Labour
+The Labours
 The Worker
 The Workers
+The Work
+The Works
+The Industry
+The Industries
+The Diligence
+The Diligences
+The Workman
+The Workmen
+The Workwoman
+The Workwomen
+The Laborer
+The Laborers
+The Labourer
+The Labourers
 The Hard work
 The Hard works
 The Unemployment
@@ -71531,10 +72417,13 @@ The Loss of the work
 The Loss of the works
 The Mass unemployment
 The Mass unemployments
+The Work force
+The Work forces
 The Labor force
 The Labor forces
 The Labour force
 The Labour forces
+The Human resources
 The Cheap labor force
 The Cheap labor forces
 The Cheap labour force
@@ -71552,6 +72441,15 @@ The Resource of the humans
 The Resources of the humans
 The White collar
 The White collars
+The Qualified worker
+The Qualified workers
+The Qualified labor
+The Qualified labors
+The Qualified labour
+The Qualified labours
+The Qualified labour force
+The Qualified labour forces
+The Qualified human resource
 The Pension
 The Pensions
 The Retired pay
@@ -71706,6 +72604,10 @@ The Pauper girls
 The Pauper boys
 The Tax
 The Taxes
+The Taxing
+The Taxings
+The Taxation
+The Taxations
 The Duty
 The Duties
 The Tax collection
@@ -72024,6 +72926,16 @@ The Embargo
 The Embargos
 The Restrictive measure
 The Restrictive measures
+The Profit
+The Profits
+The Lucre
+The Lucres
+The Gain
+The Gains
+The Benefit
+The Benefits
+The Benefiting
+The Benefitings
 The Debt
 The Debts
 The Debt crisis
@@ -72121,6 +73033,8 @@ The Credit
 The Credits
 The Creditor
 The Creditors
+The Crediting
+The Creditings
 The Credit slavery
 The Debt slavery
 The Irrevocable credit
@@ -72287,7 +73201,6 @@ The Chess gamers
 The Chess party
 The Chess parties
 The Check
-The Mate
 The Stalemate
 The Stalemates
 The Debut
@@ -73151,6 +74064,35 @@ The Bunker
 The Bunkers
 The Underground bunker
 The Underground bunkers
+The Sewerage
+The Sewerages
+The Sewage
+The Sewages
+The Sewage system
+The Sewage systems
+The Water carriage
+The Water carriages
+The Sanitary piping
+The Sanitary pipings
+The Drainage
+The Drainages
+The Draining
+The Drainings
+The Water supply
+The Water supplies
+The Aqueduct
+The Aqueducts
+The \{Water duct}
+The Water conduit
+The Water conduits
+The Tap water
+The Tap waters
+The City water
+The City waters
+The Mains water
+The Mains waters
+The Piped water
+The Piped waters
 The House
 The Houses
 The Town house
@@ -75132,6 +76074,8 @@ The Magical organization
 The Magical organizations
 The Magical order
 The Magical orders
+The Magic moment
+The Magic moments
 The Medium
 The Mediums
 The Channeller
@@ -77842,39 +78786,6 @@ The Masonry's agent
 The Masonry's agents
 The Agent of the masonry
 The Agents of the masonry
-The Freemasons agent
-The Freemasons agents
-The Agent of the freemasons
-The Agents of the freemasons
-The Freemasonic agent
-The Freemasonic agents
-The Freemasonry agent
-The Freemasonry's agent
-The Freemasonry's agents
-The Agent of the freemasonry
-The Agents of the freemasonry
-The Stonemasons agent
-The Stonemasons agents
-The Agent of the stonemasons
-The Agents of the stonemasons
-The Stonemasonic agent
-The Stonemasonic agents
-The Stonemasonry agent
-The Stonemasonry's agent
-The Stonemasonry's agents
-The Agent of the stonemasonry
-The Agents of the stonemasonry
-The Jewmasons agent
-The Jewmasons agents
-The Agent of the jewmasons
-The Agents of the jewmasons
-The Jewmasonic agent
-The Jewmasonic agents
-The Jewmasonry agent
-The Jewmasonry's agent
-The Jewmasonry's agents
-The Agent of the jewmasonry
-The Agents of the jewmasonry
 The Masons spy
 The Masons spies
 The Spy of the masons
@@ -77887,6 +78798,28 @@ The Masonry spies
 The Masonry's spies
 The Spy of the masonry
 The Spies of the masonry
+The Masons servant
+The Masons servants
+The Servant of the masons
+The Servants of the masons
+The Masonic servant
+The Masonic servants
+The Masonry servant
+The Masonry's servant
+The Masonry's servants
+The Servant of the masonry
+The Servants of the masonry
+The Freemasons agent
+The Freemasons agents
+The Agent of the freemasons
+The Agents of the freemasons
+The Freemasonic agent
+The Freemasonic agents
+The Freemasonry agent
+The Freemasonry's agent
+The Freemasonry's agents
+The Agent of the freemasonry
+The Agents of the freemasonry
 The Freemasons spy
 The Freemasons spies
 The Spy of the freemasons
@@ -77899,6 +78832,28 @@ The Freemasonry spies
 The Freemasonry's spies
 The Spy of the freemasonry
 The Spies of the freemasonry
+The Freemasons servant
+The Freemasons servants
+The Servant of the freemasons
+The Servants of the freemasons
+The Freemasonic servant
+The Freemasonic servants
+The Freemasonry servant
+The Freemasonry's servant
+The Freemasonry's servants
+The Servant of the freemasonry
+The Servants of the freemasonry
+The Stonemasons agent
+The Stonemasons agents
+The Agent of the stonemasons
+The Agents of the stonemasons
+The Stonemasonic agent
+The Stonemasonic agents
+The Stonemasonry agent
+The Stonemasonry's agent
+The Stonemasonry's agents
+The Agent of the stonemasonry
+The Agents of the stonemasonry
 The Stonemasons spy
 The Stonemasons spies
 The Spy of the stonemasons
@@ -77911,6 +78866,28 @@ The Stonemasonry spies
 The Stonemasonry's spies
 The Spy of the stonemasonry
 The Spies of the stonemasonry
+The Stonemasons servant
+The Stonemasons servants
+The Servant of the stonemasons
+The Servants of the stonemasons
+The Stonemasonic servant
+The Stonemasonic servants
+The Stonemasonry servant
+The Stonemasonry's servant
+The Stonemasonry's servants
+The Servant of the stonemasonry
+The Servants of the stonemasonry
+The Jewmasons agent
+The Jewmasons agents
+The Agent of the jewmasons
+The Agents of the jewmasons
+The Jewmasonic agent
+The Jewmasonic agents
+The Jewmasonry agent
+The Jewmasonry's agent
+The Jewmasonry's agents
+The Agent of the jewmasonry
+The Agents of the jewmasonry
 The Jewmasons spy
 The Jewmasons spies
 The Spy of the jewmasons
@@ -77923,39 +78900,6 @@ The Jewmasonry spies
 The Jewmasonry's spies
 The Spy of the jewmasonry
 The Spies of the jewmasonry
-The Masons servant
-The Masons servants
-The Servant of the masons
-The Servants of the masons
-The Masonic servant
-The Masonic servants
-The Masonry servant
-The Masonry's servant
-The Masonry's servants
-The Servant of the masonry
-The Servants of the masonry
-The Freemasons servant
-The Freemasons servants
-The Servant of the freemasons
-The Servants of the freemasons
-The Freemasonic servant
-The Freemasonic servants
-The Freemasonry servant
-The Freemasonry's servant
-The Freemasonry's servants
-The Servant of the freemasonry
-The Servants of the freemasonry
-The Stonemasons servant
-The Stonemasons servants
-The Servant of the stonemasons
-The Servants of the stonemasons
-The Stonemasonic servant
-The Stonemasonic servants
-The Stonemasonry servant
-The Stonemasonry's servant
-The Stonemasonry's servants
-The Servant of the stonemasonry
-The Servants of the stonemasonry
 The Jewmasons servant
 The Jewmasons servants
 The Servant of the jewmasons
@@ -79421,6 +80365,12 @@ The Tzarinas
 The Czarina
 The Czarinas
 The God Save the Tsar
+The Czar blood
+The Czar's blood
+The Blood of the czar
+The Tsar blood
+The Tsar's blood
+The Blood of the tsar
 The Gulag
 The Gulags
 The Chief Administration of Corrective Labour Camps
@@ -80731,6 +81681,7 @@ The Fascist-communist regime
 The Fascist-communist regimes
 The Fascist-communist project
 The Fascist-communist projects
+The Nazi salute
 The Governor
 The Governors
 The Election
@@ -80986,6 +81937,11 @@ The Execrations
 The Detesting
 The Detestings
 The Stress
+The Stresses
+The Big stress
+The Big stresses
+The Huge stress
+The Huge stresses
 The Insanity
 The Insanities
 The Insane
@@ -81189,6 +82145,14 @@ The Useful idiot
 The Useful idiots
 The Profitable idiot
 The Profitable idiots
+The Psychologic experiment
+The Psychologic experiments
+The Psychological experiment
+The Psychological experiments
+The Psychologic test
+The Psychologic tests
+The Psychological test
+The Psychological tests
 The Sleep
 The Sleeps
 The Dream
@@ -83899,6 +84863,12 @@ The Fart
 The Farts
 The Farting
 The Fartings
+The Hemorrhoid
+The Hemorrhoids
+The Haemorrhoid
+The Haemorrhoids
+The Pile
+The Piles
 The Cell
 The Cells
 The Somatic cell
@@ -84115,6 +85085,64 @@ The Infection
 The Infections
 The Bacterial infection
 The Bacterial infections
+The Disease
+The Diseases
+The Illness
+The Illnesses
+The Sick man
+The Sick woman
+The Sick person
+The Sick human
+The Sick fellow
+The Sick girl
+The Sick boy
+The Sick men
+The Sick women
+The Sick persons
+The Sick humans
+The Sick fellows
+The Sick people
+The Sick girls
+The Sick boys
+The Ill man
+The Ill woman
+The Ill person
+The Ill human
+The Ill fellow
+The Ill girl
+The Ill boy
+The Ill men
+The Ill women
+The Ill persons
+The Ill humans
+The Ill fellows
+The Ill people
+The Ill girls
+The Ill boys
+The Body wearing
+The Body's wearing
+The Wearing of the body
+The Body aging
+The Body's aging
+The Aging of the body
+The Premature senility
+The Premature senilities
+The Old age
+The Old ages
+The Senility
+The Senilities
+The Late adulthood
+The Late adulthoods
+The Contagion
+The Contagions
+The Catastrophic contagion
+The Catastrophic contagions
+The Incurable disease
+The Incurable diseases
+The Immedicable disease
+The Immedicable diseases
+The Tribal disease
+The Tribal diseases
 The Plague
 The Plagues
 The Black Death
@@ -84295,6 +85323,9 @@ The General anaesthesia
 The General anaesthesias
 The Biotechnology
 The Biotechnologies
+The Symbiosis
+The Symbiose
+The Symbioses
 The Vaccine
 The Vaccines
 The Vector vaccine
@@ -84397,6 +85428,26 @@ The Forced vaccine
 The Forced vaccines
 The Forced vaccination
 The Forced vaccinations
+The influenza
+The Spanish influenza
+The Virus influenza
+The Viruses influenza
+The Virus influenzas
+The Viruses influenzas
+The Influenza of the virus
+The Influenza of the viruses
+The Influenzas of the virus
+The Influenzas of the viruses
+The flu
+The Spanish flu
+The Virus flu
+The Viruses flu
+The Virus flus
+The Viruses flus
+The Flu of the virus
+The Flu of the viruses
+The Flus of the virus
+The Flus of the viruses
 The Allergy
 The Allergies
 The Allergen
@@ -84605,64 +85656,6 @@ The Hospitalizations
 The Infirmary
 The Infirmaries
 The Sick quarters
-The Disease
-The Diseases
-The Illness
-The Illnesses
-The Sick man
-The Sick woman
-The Sick person
-The Sick human
-The Sick fellow
-The Sick girl
-The Sick boy
-The Sick men
-The Sick women
-The Sick persons
-The Sick humans
-The Sick fellows
-The Sick people
-The Sick girls
-The Sick boys
-The Ill man
-The Ill woman
-The Ill person
-The Ill human
-The Ill fellow
-The Ill girl
-The Ill boy
-The Ill men
-The Ill women
-The Ill persons
-The Ill humans
-The Ill fellows
-The Ill people
-The Ill girls
-The Ill boys
-The Body wearing
-The Body's wearing
-The Wearing of the body
-The Body aging
-The Body's aging
-The Aging of the body
-The Premature senility
-The Premature senilities
-The Old age
-The Old ages
-The Senility
-The Senilities
-The Late adulthood
-The Late adulthoods
-The Contagion
-The Contagions
-The Catastrophic contagion
-The Catastrophic contagions
-The Incurable disease
-The Incurable diseases
-The Immedicable disease
-The Immedicable diseases
-The Tribal desease
-The Tribal deseases
 The Anthropogenesis
 The Artificial anthropogenesis
 The Natural anthropogenesis
@@ -84670,6 +85663,22 @@ The Toxin
 The Toxins
 The Toxic
 The Toxics
+The Intoxication
+The Intoxications
+The Intoxification
+The Intoxifications
+The Detoxication
+The Detoxications
+The Detoxification
+The Detoxifications
+The Detoxicant
+The Detoxicants
+The Detoxifier
+The Detoxifiers
+The Detoxicator
+The Detoxicators
+The Disintoxicant
+The Disintoxicants
 The Agony
 The Agonies
 The Death agony
@@ -84702,8 +85711,6 @@ The Marburg fever
 The Ebola
 The Ebola virus
 The Project NextGen
-The Influenza
-The Flu
 The Paralysis
 The Palsy
 The Fertility
@@ -85215,6 +86222,12 @@ The Ka-52 Alligator
 The Ka-52 Helicopter
 The Ka-52
 The Hokum B
+The Bomb shelter
+The Bomb shelters
+The Bomb-proof
+The Bomb-proofs
+The Air-raid shelter
+The Air-raid shelters
 The Jet
 The Jets
 The Fighter jet
@@ -86006,6 +87019,18 @@ The Schismatic
 The Schismatics
 The World war
 The World wars
+The World war 1
+The World war I
+The World war one
+The First world war
+The WW 1
+The WW I
+The World war 2
+The World war II
+The World war two
+The Second world war
+The WW 2
+The WW II
 The World war 3
 The World war III
 The World war three
@@ -86049,6 +87074,10 @@ The Meaningless carnage
 The Meaningless carnages
 The Bloody carnage
 The Bloody carnages
+The Beating
+The Beatings
+The Blow
+The Blows
 The Military Company
 The Military Companies
 The Private Military Company
@@ -86482,6 +87511,12 @@ The Warfare's freezings
 The Freezing of the warfare
 The Freezing of the warfares
 The Freezings of the warfares
+The Peace negotiations
+The Peace talks
+The Unit
+The Units
+The Battalion
+The Battalions
 The War prisoner
 The War's prisoner
 The War's prisoners
@@ -86964,6 +87999,8 @@ The God's weapons
 The Weapon of the god
 The Weapon of the gods
 The Weapons of the gods
+The Wonder weapon
+The Wonder weapons
 The Counterattack
 The Counterattacks
 The Counteroffensive
@@ -86972,6 +88009,8 @@ The HAMAS
 The Islamic Resistance Movement
 The War
 The Wars
+The High war risk
+The High war risks
 The Military operation
 The Military operations
 The Hostilities
@@ -87393,6 +88432,16 @@ The Poetess
 The Poetesses
 The USE
 The Unified State Exam
+The Grant
+The Grants
+The Fellowship
+The Fellowships
+The Scholarship
+The Scholarships
+The Task
+The Tasks
+The Hard task
+The Hard tasks
 The School
 The Schools
 The Schoolboy
@@ -87421,6 +88470,8 @@ The Professor
 The Professors
 The Education
 The Educations
+The Bad education
+The Bad educations
 The Quality education
 The Quality educations
 The Primary education
@@ -87429,8 +88480,12 @@ The Elementary education
 The Elementary educations
 The Middle education
 The Middle educations
+The School education
+The School educations
 The Higher education
 The Higher educations
+The University education
+The University educations
 The Educator
 The Educators
 The Educationist
@@ -87449,6 +88504,10 @@ The Kindergartner
 The Kindergartners
 The Kindergartener
 The Kindergarteners
+The Bylina
+The Bylinas
+The Epic hero
+The Epic heroes
 The Logic
 The Logics
 The Library
@@ -87466,9 +88525,11 @@ The Archivists
 The Teacher
 The Teachers
 The Teaching
+The Teachings
 The Trainer
 The Trainers
 The Training
+The Trainings
 The Instructor
 The Instructors
 The Instruction
@@ -87477,6 +88538,8 @@ The Lesson
 The Lessons
 The Hard lesson
 The Hard lessons
+The Important lesson
+The Important lessons
 The Knowledge
 The Rubbish knowledge
 The Garbage knowledge
@@ -87581,7 +88644,6 @@ The President of Rossiya
 The Rossiya President
 The Rossiya Presidents
 The Attack on Poland
-The Attack on Romania
 The Attack on Georgia
 The Attack on Iran
 The Attack on Islamic Republic of Iran
@@ -87649,6 +88711,7 @@ The Attack on Czech Republic
 The Attack on Bohemia
 The Attack on Italy
 The Attack on Italian Republic
+The Attack on Romania
 The Attack on Switzerland
 The Attack on Swiss Confederation
 The Attack on Hungary
@@ -87681,6 +88744,12 @@ The Attack on North Korea
 The Attack on Democratic People's Republic of Korea
 The Attack on DPRK
 The Attack on Japan
+The Attack on Denmark
+The Attack on Kingdom of Denmark
+The Attack on Belgium
+The Attack on Kingdom of Belgium
+The Attack on Norway
+The Attack on Kingdom of Norway
 The Attack on England
 The Attack on Britain
 The Attack on United Kingdom
@@ -87694,7 +88763,6 @@ The Attack on Deutschland
 The Attack on Spain
 The Attack on Kingdom of Spain
 The Attack on Republic of Poland
-The Attack on Republic of Romania
 The Attack on Republic of Georgia
 The Attack on Republic of Turkey
 The Attack on Republic of Turkiye
@@ -88214,9 +89282,6 @@ The Attack on Alaska
 The Enemy of Poland
 The Bitter enemy of Poland
 The Opponent of Poland
-The Enemy of Romania
-The Bitter enemy of Romania
-The Opponent of Romania
 The Enemy of Georgia
 The Bitter enemy of Georgia
 The Opponent of Georgia
@@ -88418,6 +89483,9 @@ The Opponent of Italy
 The Enemy of Italian Republic
 The Bitter enemy of Italian Republic
 The Opponent of Italian Republic
+The Enemy of Romania
+The Bitter enemy of Romania
+The Opponent of Romania
 The Enemy of Switzerland
 The Bitter enemy of Switzerland
 The Opponent of Switzerland
@@ -88514,6 +89582,24 @@ The Opponent of DPRK
 The Enemy of Japan
 The Bitter enemy of Japan
 The Opponent of Japan
+The Enemy of Denmark
+The Bitter enemy of Denmark
+The Opponent of Denmark
+The Enemy of Kingdom of Denmark
+The Bitter enemy of Kingdom of Denmark
+The Opponent of Kingdom of Denmark
+The Enemy of Belgium
+The Bitter enemy of Belgium
+The Opponent of Belgium
+The Enemy of Kingdom of Belgium
+The Bitter enemy of Kingdom of Belgium
+The Opponent of Kingdom of Belgium
+The Enemy of Norway
+The Bitter enemy of Norway
+The Opponent of Norway
+The Enemy of Kingdom of Norway
+The Bitter enemy of Kingdom of Norway
+The Opponent of Kingdom of Norway
 The Enemy of England
 The Bitter enemy of England
 The Opponent of England
@@ -88553,9 +89639,6 @@ The Opponent of Kingdom of Spain
 The Enemy of Republic of Poland
 The Bitter enemy of Republic of Poland
 The Opponent of Republic of Poland
-The Enemy of Republic of Romania
-The Bitter enemy of Republic of Romania
-The Opponent of Republic of Romania
 The Enemy of Republic of Georgia
 The Bitter enemy of Republic of Georgia
 The Opponent of Republic of Georgia
@@ -90105,7 +91188,6 @@ The Enemy of Alaska
 The Bitter enemy of Alaska
 The Opponent of Alaska
 The War in Poland
-The War in Romania
 The War in Georgia
 The War in Iran
 The War in Islamic Republic of Iran
@@ -90173,6 +91255,7 @@ The War in Czech Republic
 The War in Bohemia
 The War in Italy
 The War in Italian Republic
+The War in Romania
 The War in Switzerland
 The War in Swiss Confederation
 The War in Hungary
@@ -90205,6 +91288,12 @@ The War in North Korea
 The War in Democratic People's Republic of Korea
 The War in DPRK
 The War in Japan
+The War in Denmark
+The War in Kingdom of Denmark
+The War in Belgium
+The War in Kingdom of Belgium
+The War in Norway
+The War in Kingdom of Norway
 The War in England
 The War in Britain
 The War in United Kingdom
@@ -90218,7 +91307,6 @@ The War in Deutschland
 The War in Spain
 The War in Kingdom of Spain
 The War in Republic of Poland
-The War in Republic of Romania
 The War in Republic of Georgia
 The War in Republic of Turkey
 The War in Republic of Turkiye
@@ -90736,7 +91824,6 @@ The War in City New York
 The War in City of New York
 The War in Alaska
 The Invasion to Poland
-The Invasion to Romania
 The Invasion to Georgia
 The Invasion to Iran
 The Invasion to Islamic Republic of Iran
@@ -90804,6 +91891,7 @@ The Invasion to Czech Republic
 The Invasion to Bohemia
 The Invasion to Italy
 The Invasion to Italian Republic
+The Invasion to Romania
 The Invasion to Switzerland
 The Invasion to Swiss Confederation
 The Invasion to Hungary
@@ -90836,6 +91924,12 @@ The Invasion to North Korea
 The Invasion to Democratic People's Republic of Korea
 The Invasion to DPRK
 The Invasion to Japan
+The Invasion to Denmark
+The Invasion to Kingdom of Denmark
+The Invasion to Belgium
+The Invasion to Kingdom of Belgium
+The Invasion to Norway
+The Invasion to Kingdom of Norway
 The Invasion to England
 The Invasion to Britain
 The Invasion to United Kingdom
@@ -90849,7 +91943,6 @@ The Invasion to Deutschland
 The Invasion to Spain
 The Invasion to Kingdom of Spain
 The Invasion to Republic of Poland
-The Invasion to Republic of Romania
 The Invasion to Republic of Georgia
 The Invasion to Republic of Turkey
 The Invasion to Republic of Turkiye
@@ -91502,7 +92595,6 @@ The Chief of cabinet of Armenian Republic
 The Armenian Republic Chief of cabinet
 The Armenian Republic Chiefs of cabinet
 The Republic of Poland
-The Republic of Romania
 The Republic of Georgia
 The Republic of Turkey
 The Republic of Turkiye
@@ -91535,6 +92627,24 @@ The Chief of cabinet of Canada
 The Prime minister of Japan
 The Premier of Japan
 The Chief of cabinet of Japan
+The Prime minister of Denmark
+The Premier of Denmark
+The Chief of cabinet of Denmark
+The Prime minister of Kingdom of Denmark
+The Premier of Kingdom of Denmark
+The Chief of cabinet of Kingdom of Denmark
+The Prime minister of Belgium
+The Premier of Belgium
+The Chief of cabinet of Belgium
+The Prime minister of Kingdom of Belgium
+The Premier of Kingdom of Belgium
+The Chief of cabinet of Kingdom of Belgium
+The Prime minister of Norway
+The Premier of Norway
+The Chief of cabinet of Norway
+The Prime minister of Kingdom of Norway
+The Premier of Kingdom of Norway
+The Chief of cabinet of Kingdom of Norway
 The Prime minister of England
 The Premier of England
 The Chief of cabinet of England
@@ -91575,8 +92685,6 @@ The President
 The President of Poland
 The President of Republic of Poland
 The President of Republic of the Poland
-The President of Republic of Romania
-The President of Republic of the Romania
 The President of Georgia
 The President of Republic of Georgia
 The President of Republic of the Georgia
@@ -91707,7 +92815,6 @@ The President of FRG
 The President of Deutschland
 The Supreme Leader
 The Supreme Leader of Poland
-The Supreme Leader of Romania
 The Supreme Leader of Georgia
 The Supreme Leader of Iran
 The Supreme Leader of Islamic Republic of Iran
@@ -91775,6 +92882,7 @@ The Supreme Leader of Czech Republic
 The Supreme Leader of Bohemia
 The Supreme Leader of Italy
 The Supreme Leader of Italian Republic
+The Supreme Leader of Romania
 The Supreme Leader of Switzerland
 The Supreme Leader of Swiss Confederation
 The Supreme Leader of Hungary
@@ -91807,6 +92915,12 @@ The Supreme Leader of North Korea
 The Supreme Leader of Democratic People's Republic of Korea
 The Supreme Leader of DPRK
 The Supreme Leader of Japan
+The Supreme Leader of Denmark
+The Supreme Leader of Kingdom of Denmark
+The Supreme Leader of Belgium
+The Supreme Leader of Kingdom of Belgium
+The Supreme Leader of Norway
+The Supreme Leader of Kingdom of Norway
 The Supreme Leader of England
 The Supreme Leader of Britain
 The Supreme Leader of United Kingdom
@@ -91820,7 +92934,6 @@ The Supreme Leader of Deutschland
 The Supreme Leader of Spain
 The Supreme Leader of Kingdom of Spain
 The Supreme Leader of Republic of Poland
-The Supreme Leader of Republic of Romania
 The Supreme Leader of Republic of Georgia
 The Supreme Leader of Republic of Turkey
 The Supreme Leader of Republic of Turkiye
@@ -92853,28 +93966,28 @@ The Bestiality
 The Bestialities
 The Libido
 The Libidos
-The High Libido
-The High Libidos
-The Low Libido
-The Low Libidos
+The High libido
+The High libidos
+The Low libido
+The Low libidos
 The Sexual desire
 The Sexual desires
-The High Sexual desire
-The High Sexual desires
-The Low Sexual desire
-The Low Sexual desires
+The High sexual desire
+The High sexual desires
+The Low sexual desire
+The Low sexual desires
 The Sexual drive
 The Sexual drives
-The High Sexual drive
-The High Sexual drives
-The Low Sexual drive
-The Low Sexual drives
+The High sexual drive
+The High sexual drives
+The Low sexual drive
+The Low sexual drives
 The Erotic attraction
 The Erotic attractions
-The High Erotic attraction
-The High Erotic attractions
-The Low Erotic attraction
-The Low Erotic attractions
+The High erotic attraction
+The High erotic attractions
+The Low erotic attraction
+The Low erotic attractions
 The Veto
 The Vetos
 The Veto right
@@ -93259,6 +94372,20 @@ The Hazard
 The Hazards
 The Hazard zone
 The Hazard zones
+The Deadly danger
+The Deadly dangers
+The Lethal danger
+The Lethal dangers
+The Mortal danger
+The Mortal dangers
+The Fatal danger
+The Fatal dangers
+The Death danger
+The Death's danger
+The Death's dangers
+The Danger of the death
+The Danger of the deaths
+The Dangers of the deaths
 The Blackmail
 The Blackmails
 The Blackmailer
@@ -93986,6 +95113,8 @@ The Nuclear terror
 The Nuclear terrors
 The Nuclear terrorist
 The Nuclear terrorists
+The Terrorist regime
+The Terrorist regimes
 The Site nasa.gov
 The Site http://nasa.gov
 The Site https://nasa.gov
@@ -94502,6 +95631,12 @@ The Self-replicating spacecraft
 The Self-replicating spacecrafts
 The Von Neumann probe
 The Von Neumann probes
+The Orbital station
+The Orbital stations
+The Orbiting station
+The Orbiting stations
+The Orbital platform
+The Orbital platforms
 The ISS
 The International Space Station
 The Space ship
@@ -94707,6 +95842,11 @@ The Total eclipse of the Moon
 The Total eclipses of the Moon
 The Total lunar eclipse
 The Total lunar eclipses
+The Space development
+The Space's development
+The Space's developments
+The Development of the space
+The Developments of the space
 The Planet Earth
 The Jenna
 The Earth shape
@@ -94822,6 +95962,12 @@ The Intelligence satellite
 The Intelligence satellites
 The Military satellite
 The Military satellites
+The Satellite group
+The Satellite's group
+The Satellite's groups
+The Group of the satellite
+The Group of the satellites
+The Groups of the satellites
 The Observatory
 The Observatories
 The Star gate
@@ -94926,6 +96072,10 @@ The Energy of the Sun
 The Solar energy
 The Solar wind
 The Two suns
+The Solar maximum
+The Solar maxima
+The Solar minimum
+The Solar minima
 The Dark fleet
 The Solar Warden
 The Shining Warden
@@ -95128,6 +96278,21 @@ The Crisis of the migration
 The Crisis of the migrations
 The Crises of the migration
 The Crises of the migrations
+The Population replacement
+The Population's replacement
+The Population's replacements
+The Replacement of the population
+The Replacements of the population
+The Native population replacement
+The Native population's replacement
+The Native population's replacements
+The Replacement of the native population
+The Replacements of the native population
+The Indigenous population replacement
+The Indigenous population's replacement
+The Indigenous population's replacements
+The Replacement of the indigenous population
+The Replacements of the indigenous population
 The Sirrush
 The Sirrush dragon
 The Mushkhushshu
@@ -98789,6 +99954,11 @@ The Satanism
 The Hidden satanism
 The Secret satanism
 The Clandestine satanism
+The Satanism propaganda
+The Satanism's propaganda
+The Satanism's propagandas
+The Propaganda of the satanism
+The Propagandas of the satanism
 The Satan spirit
 The Satan's spirit
 The Spirit of the satan
@@ -98818,6 +99988,10 @@ The Satanic incarnation
 The Satanic incarnations
 The Satanical incarnation
 The Satanical incarnations
+The Satanic organization
+The Satanic organizations
+The Satanical organization
+The Satanical organizations
 The Satan service
 The Satan's service
 The Satan's services
@@ -100234,6 +101408,8 @@ The Spirit's evocations
 The Evocation of the spirit
 The Evocation of the spirits
 The Evocations of the spirits
+The Spiritual evocation
+The Spiritual evocations
 The Spirit evocator
 The Spirit's evocator
 The Spirit's evocators
@@ -100246,6 +101422,8 @@ The Spirit's summonings
 The Summoning of the spirit
 The Summoning of the spirits
 The Summonings of the spirits
+The Spiritual summoning
+The Spiritual summonings
 The Spirit summoner
 The Spirit's summoner
 The Spirit's summoners
@@ -100256,6 +101434,21 @@ The Theomachy
 The Theomachies
 The Theomachist
 The Theomachists
+The Exorcism
+The Exorcist
+The Exorcists
+The Demons driving out
+The Driving out of the demons
+The Daemons driving out
+The Driving out of the daemons
+The Evil spirits driving out
+The Driving out of the evil spirits
+The Demons casting
+The Casting of the demons
+The Daemons casting
+The Casting of the daemons
+The Evil spirits casting
+The Casting of the evil spirits
 The Abaddon
 The Apollyon
 The Bottomless pit angel
@@ -101635,6 +102828,23 @@ The Houris
 The Jihad
 The Sacred war
 The Sacred wars
+The Islam symbol
+The Islam's symbol
+The Islam's symbols
+The Symbol of the Islam
+The Symbols of the Islam
+The Islamic symbol
+The Islamic symbols
+The Muslim symbol
+The Muslim symbols
+The Moslem symbol
+The Moslem symbols
+The Moslemic symbol
+The Moslemic symbols
+The Mussulmanish symbol
+The Mussulmanish symbols
+The Mussulmanic symbol
+The Mussulmanic symbols
 The Shahada
 The Shahadah
 The Shaheed
@@ -103601,6 +104811,14 @@ The Ashkenazim jewry's agent
 The Ashkenazim jewry's agents
 The Agent of the ashkenazim jewry
 The Agents of the ashkenazim jewry
+The Ashkenazi jews agent
+The Ashkenazi jews agents
+The Agent of the ashkenazi jews
+The Agents of the ashkenazi jews
+The Ashkenazim jews agent
+The Ashkenazim jews agents
+The Agent of the ashkenazim jews
+The Agents of the ashkenazim jews
 The Ashkenazic jewish agent
 The Ashkenazic jewish agents
 The Khazar agent
@@ -103620,8 +104838,162 @@ The Zion's agent
 The Zion's agents
 The Agent of the Zion
 The Agents of the Zion
+The Zionists agent
+The Zionists agents
+The Agent of the zionists
+The Agents of the zionists
 The Zionistic agent
 The Zionistic agents
+The Jewry spy
+The Jewry's spy
+The Jewry spies
+The Jewry's spies
+The Spy of the jewry
+The Spies of the jewry
+The Jews spy
+The Jews spies
+The Spy of the jews
+The Spies of the jews
+The Jewish spy
+The Jewish spies
+The Judaic spy
+The Judaic spies
+The Judaical spy
+The Judaical spies
+The Ashkenazi spy
+The Ashkenazi's spy
+The Ashkenazi spies
+The Ashkenazi's spies
+The Spy of the ashkenazi
+The Spies of the ashkenazi
+The Ashkenazim spy
+The Ashkenazim's spy
+The Ashkenazim spies
+The Ashkenazim's spies
+The Spy of the ashkenazim
+The Spies of the ashkenazim
+The Ashkenazic spy
+The Ashkenazic spies
+The Ashkenazi jewry spy
+The Ashkenazi jewry's spy
+The Ashkenazi jewry spies
+The Ashkenazi jewry's spies
+The Spy of the ashkenazi jewry
+The Spies of the ashkenazi jewry
+The Ashkenazim jewry spy
+The Ashkenazim jewry's spy
+The Ashkenazim jewry spies
+The Ashkenazim jewry's spies
+The Spy of the ashkenazim jewry
+The Spies of the ashkenazim jewry
+The Ashkenazi jews spy
+The Ashkenazi jews spies
+The Spy of the ashkenazi jews
+The Spies of the ashkenazi jews
+The Ashkenazim jews spy
+The Ashkenazim jews spies
+The Spy of the ashkenazim jews
+The Spies of the ashkenazim jews
+The Ashkenazic jewish spy
+The Ashkenazic jewish spies
+The Khazar spy
+The Khazar's spy
+The Khazar spies
+The Khazar's spies
+The Spy of the khazar
+The Spy of the khazars
+The Spies of the khazar
+The Spies of the khazars
+The Khazarian spy
+The Khazarian's spy
+The Khazarian spies
+The Khazarian's spies
+The Spy of the khazarian
+The Spy of the khazarians
+The Spies of the khazarian
+The Spies of the khazarians
+The Zion spy
+The Zion's spy
+The Zion spies
+The Zion's spies
+The Spy of the Zion
+The Spies of the Zion
+The Zionists spy
+The Zionists spies
+The Spy of the zionists
+The Spies of the zionists
+The Zionistic spy
+The Zionistic spies
+The Jewry servant
+The Jewry's servant
+The Jewry's servants
+The Servant of the jewry
+The Servants of the jewry
+The Jews servant
+The Jews servants
+The Servant of the jews
+The Servants of the jews
+The Jewish servant
+The Jewish servants
+The Judaic servant
+The Judaic servants
+The Judaical servant
+The Judaical servants
+The Ashkenazi servant
+The Ashkenazi's servant
+The Ashkenazi's servants
+The Servant of the ashkenazi
+The Servants of the ashkenazi
+The Ashkenazim servant
+The Ashkenazim's servant
+The Ashkenazim's servants
+The Servant of the ashkenazim
+The Servants of the ashkenazim
+The Ashkenazic servant
+The Ashkenazic servants
+The Ashkenazi jewry servant
+The Ashkenazi jewry's servant
+The Ashkenazi jewry's servants
+The Servant of the ashkenazi jewry
+The Servants of the ashkenazi jewry
+The Ashkenazim jewry servant
+The Ashkenazim jewry's servant
+The Ashkenazim jewry's servants
+The Servant of the ashkenazim jewry
+The Servants of the ashkenazim jewry
+The Ashkenazi jews servant
+The Ashkenazi jews servants
+The Servant of the ashkenazi jews
+The Servants of the ashkenazi jews
+The Ashkenazim jews servant
+The Ashkenazim jews servants
+The Servant of the ashkenazim jews
+The Servants of the ashkenazim jews
+The Ashkenazic jewish servant
+The Ashkenazic jewish servants
+The Khazar servant
+The Khazar's servant
+The Khazar's servants
+The Servant of the khazar
+The Servant of the khazars
+The Servants of the khazars
+The Khazarian servant
+The Khazarian's servant
+The Khazarian's servants
+The Servant of the khazarian
+The Servant of the khazarians
+The Servants of the khazarians
+The Zion servant
+The Zion's servant
+The Zion's servants
+The Servant of the Zion
+The Servants of the Zion
+The Zionists servant
+The Zionists servants
+The Servant of the zionists
+The Servants of the zionists
+The Zionistic servant
+The Zionistic servants
 The Semite
 The Semites
 The Semitic man
@@ -104022,9 +105394,9 @@ The Tzabar
 The Tzabarim
 The Halakah
 The Halacha
-The Halakah jew
-The Halakah jews
-The Halakah jewry
+The Halakhic jew
+The Halakhic jews
+The Halakhic jewry
 The Holocaust
 The Armilus
 The Armilos
@@ -104462,6 +105834,12 @@ The Red Pope
 The Dalai Lama
 The Akasha
 The Akash
+The Karma
+The Karma clearing
+The Karma's clearing
+The Karma's clearings
+The Clearing of the karma
+The Clearings of the karma
 The Kundalini
 The Hinduism
 The Sanatana Dharma
@@ -104502,7 +105880,6 @@ The Half-humans
 The Half-serpents
 The Half-human
 The Half-serpent
-The Karma
 The Shani
 The Shanaishchara
 The Sanskrit
@@ -106353,11 +107730,9 @@ The Selling of the soul
 The Selling of the souls
 The Sellings of the souls
 The Soul selling to the devil
-The Soul selling to the devils
-The Soul sellings to the devils
+The Soul sellings to the devil
 The Soul selling to the satan
-The Soul selling to the satans
-The Soul sellings to the satans
+The Soul sellings to the satan
 The Sin
 The Sins
 The Transgression
@@ -106973,6 +108348,19 @@ The Plato's cave
 The Plato's caves
 The Cave of the Plato
 The Caves of the Plato
+The Life level
+The Life's level
+The Lives level
+The Life's levels
+The Lives levels
+The Level of the life
+The Level of the lives
+The Levels of the life
+The Levels of the lives
+The High life level
+The High life levels
+The Low life level
+The Low life levels
 The Silicon life
 The Silicon lives
 The Life silicon based form
@@ -108304,6 +109692,8 @@ An Empire of lies
 An Empire of the lies
 An Evil empire
 A Powerful empire
+An Imperialist
+An Imperialism
 A Transistor
 A Xsistor
 A Xistor
@@ -108564,6 +109954,9 @@ A Fork
 A Pitchfork
 A Trident
 A Chain
+A Link
+A Weak link
+A Vulnerability
 A Hammer
 A Sledgehammer
 A Sledge
@@ -108583,6 +109976,9 @@ A Short Message Service
 A SMS warning
 A SMS alert
 An AI phone
+An Abonent
+A Net abonent
+A Network abonent
 A Taxi
 A Roadmap
 A Plan
@@ -108611,6 +110007,7 @@ A Brick
 A Red brick
 A Steel
 A Stainless steel
+A Concrete
 A Narcobaron
 A Drug tzar
 A Drug czar
@@ -108726,6 +110123,21 @@ A Petrol
 A Diesel oil
 A Diesel fuel
 A Kerosene
+A Resource
+An Asset
+A Resource lack
+A Resource's lack
+A Lack of resource
+A Lack of the resource
+A Lack of resources
+A Lack of the resources
+A Resource lacking
+A Resource's lacking
+A Lacking of resource
+A Lacking of the resource
+A Lacking of resources
+A Lacking of the resources
+A Natural resource
 A Fossil
 A Fossil fuel
 An Iodine
@@ -109882,6 +111294,7 @@ A Decrypt
 A Crypted message
 An Encrypted message
 A Decrypted message
+A Hidden message
 A Quantum cipher
 A Quantum ciphering
 A Military robot
@@ -109957,6 +111370,9 @@ A Labyrinth
 A Tetractys
 A Tetractys of the decad
 A Tetrad
+A Geometry
+An Euclidean geometry
+A Non-Euclidean geometry
 An Ellipse
 An Oval
 A Sphere
@@ -110044,7 +111460,6 @@ A Calculation limit
 An Advanced calculation
 A Math
 A Mathematics
-A Geometry
 An Equation
 An Equation solution
 An Equation's solution
@@ -110905,6 +112320,13 @@ A Primordial savagery
 A Primitive savagery
 A Society
 A Social stratum
+A Society division
+A Society's division
+A Societies division
+A Division in society
+A Division in the society
+A Division in societies
+A Division in the societies
 A Mankurt
 An Ancestral Heritage
 A Mind control
@@ -111375,6 +112797,16 @@ An Auditing
 An Import
 An Export
 An Import substitution
+A Partner
+A Reliable partner
+An Unreliable partner
+A Mate
+A Reliable mate
+An Unreliable mate
+A Companion
+A Reliable companion
+An Unreliable companion
+A Partnership
 A Gold
 A Gilded
 A Gold coin
@@ -111472,7 +112904,15 @@ A Reserve currency
 An Easy money
 A Money out of thin air
 A Job
+A Labour
 A Worker
+A Work
+An Industry
+A Diligence
+A Workman
+A Workwoman
+A Laborer
+A Labourer
 A Hard work
 An Unemployment
 An Unemployed man
@@ -111503,6 +112943,7 @@ A Loss of the work
 A Loss of works
 A Loss of the works
 A Mass unemployment
+A Work force
 A Labor force
 A Labour force
 A Cheap labor force
@@ -111517,6 +112958,10 @@ A Resource of the human
 A Resource of humans
 A Resource of the humans
 A White collar
+A Qualified worker
+A Qualified labor
+A Qualified labour
+A Qualified labour force
 A Pension
 A Retired pay
 A Retirement benefit
@@ -111593,6 +113038,8 @@ A Pauper fellow
 A Pauper girl
 A Pauper boy
 A Tax
+A Taxing
+A Taxation
 A Duty
 A Tax collection
 A Tax's collection
@@ -111815,6 +113262,11 @@ A Breaking of blockages
 A Breaking of the blockages
 An Embargo
 A Restrictive measure
+A Profit
+A Lucre
+A Gain
+A Benefit
+A Benefiting
 A Debt
 A Debt crisis
 A State debt
@@ -111887,6 +113339,7 @@ A Middleman
 A Mediator
 A Credit
 A Creditor
+A Crediting
 A Credit slavery
 A Debt slavery
 An Irrevocable credit
@@ -112536,6 +113989,21 @@ A Worshipper
 A Devotee
 A Bunker
 An Underground bunker
+A Sewerage
+A Sewage
+A Sewage system
+A Water carriage
+A Sanitary piping
+A Drainage
+A Draining
+A Water supply
+An Aqueduct
+A \{Water duct}
+A Water conduit
+A Tap water
+A City water
+A Mains water
+A Piped water
 A House
 A Town house
 A Home
@@ -113877,6 +115345,7 @@ A Learned magic
 An Occult magic
 A Magical organization
 A Magical order
+A Magic moment
 A Medium
 A Channeller
 A Coat of arms
@@ -115689,30 +117158,6 @@ A Masonry agent
 A Masonry's agent
 An Agent of masonry
 An Agent of the masonry
-A Freemasons agent
-An Agent of freemasons
-An Agent of the freemasons
-A Freemasonic agent
-A Freemasonry agent
-A Freemasonry's agent
-An Agent of freemasonry
-An Agent of the freemasonry
-A Stonemasons agent
-An Agent of stonemasons
-An Agent of the stonemasons
-A Stonemasonic agent
-A Stonemasonry agent
-A Stonemasonry's agent
-An Agent of stonemasonry
-An Agent of the stonemasonry
-A Jewmasons agent
-An Agent of jewmasons
-An Agent of the jewmasons
-A Jewmasonic agent
-A Jewmasonry agent
-A Jewmasonry's agent
-An Agent of jewmasonry
-An Agent of the jewmasonry
 A Masons spy
 A Spy of masons
 A Spy of the masons
@@ -115721,30 +117166,6 @@ A Masonry spy
 A Masonry's spy
 A Spy of masonry
 A Spy of the masonry
-A Freemasons spy
-A Spy of freemasons
-A Spy of the freemasons
-A Freemasonic spy
-A Freemasonry spy
-A Freemasonry's spy
-A Spy of freemasonry
-A Spy of the freemasonry
-A Stonemasons spy
-A Spy of stonemasons
-A Spy of the stonemasons
-A Stonemasonic spy
-A Stonemasonry spy
-A Stonemasonry's spy
-A Spy of stonemasonry
-A Spy of the stonemasonry
-A Jewmasons spy
-A Spy of jewmasons
-A Spy of the jewmasons
-A Jewmasonic spy
-A Jewmasonry spy
-A Jewmasonry's spy
-A Spy of jewmasonry
-A Spy of the jewmasonry
 A Masons servant
 A Servant of masons
 A Servant of the masons
@@ -115753,6 +117174,22 @@ A Masonry servant
 A Masonry's servant
 A Servant of masonry
 A Servant of the masonry
+A Freemasons agent
+An Agent of freemasons
+An Agent of the freemasons
+A Freemasonic agent
+A Freemasonry agent
+A Freemasonry's agent
+An Agent of freemasonry
+An Agent of the freemasonry
+A Freemasons spy
+A Spy of freemasons
+A Spy of the freemasons
+A Freemasonic spy
+A Freemasonry spy
+A Freemasonry's spy
+A Spy of freemasonry
+A Spy of the freemasonry
 A Freemasons servant
 A Servant of freemasons
 A Servant of the freemasons
@@ -115761,6 +117198,22 @@ A Freemasonry servant
 A Freemasonry's servant
 A Servant of freemasonry
 A Servant of the freemasonry
+A Stonemasons agent
+An Agent of stonemasons
+An Agent of the stonemasons
+A Stonemasonic agent
+A Stonemasonry agent
+A Stonemasonry's agent
+An Agent of stonemasonry
+An Agent of the stonemasonry
+A Stonemasons spy
+A Spy of stonemasons
+A Spy of the stonemasons
+A Stonemasonic spy
+A Stonemasonry spy
+A Stonemasonry's spy
+A Spy of stonemasonry
+A Spy of the stonemasonry
 A Stonemasons servant
 A Servant of stonemasons
 A Servant of the stonemasons
@@ -115769,6 +117222,22 @@ A Stonemasonry servant
 A Stonemasonry's servant
 A Servant of stonemasonry
 A Servant of the stonemasonry
+A Jewmasons agent
+An Agent of jewmasons
+An Agent of the jewmasons
+A Jewmasonic agent
+A Jewmasonry agent
+A Jewmasonry's agent
+An Agent of jewmasonry
+An Agent of the jewmasonry
+A Jewmasons spy
+A Spy of jewmasons
+A Spy of the jewmasons
+A Jewmasonic spy
+A Jewmasonry spy
+A Jewmasonry's spy
+A Spy of jewmasonry
+A Spy of the jewmasonry
 A Jewmasons servant
 A Servant of jewmasons
 A Servant of the jewmasons
@@ -116457,6 +117926,14 @@ A Tsarina
 A Tzarina
 A Czarina
 A God Save the Tsar
+A Czar blood
+A Czar's blood
+A Blood of czar
+A Blood of the czar
+A Tsar blood
+A Tsar's blood
+A Blood of tsar
+A Blood of the tsar
 A Gulag
 A Trotskyism
 A Trotskyist
@@ -117358,6 +118835,7 @@ A Neo-fascist
 A Brown plague
 A Fascist-communist regime
 A Fascist-communist project
+A Nazi salute
 A Governor
 An Election
 A Voting
@@ -117521,6 +118999,8 @@ An Odium
 An Execration
 A Detesting
 A Stress
+A Big stress
+A Huge stress
 An Insanity
 An Insane
 A Crazy
@@ -117652,6 +119132,10 @@ A Stampede
 An Idiot
 An Useful idiot
 A Profitable idiot
+A Psychologic experiment
+A Psychological experiment
+A Psychologic test
+A Psychological test
 A Sleep
 A Dream
 A Dreamer
@@ -119382,6 +120866,9 @@ An Intestine
 A Flatulence
 A Fart
 A Farting
+A Hemorrhoid
+A Haemorrhoid
+A Pile
 A Cell
 A Somatic cell
 A Body cell
@@ -119528,6 +121015,39 @@ A Bio terrorism
 A Bio terrorist
 An Infection
 A Bacterial infection
+A Disease
+An Illness
+A Sick man
+A Sick woman
+A Sick person
+A Sick human
+A Sick fellow
+A Sick girl
+A Sick boy
+An Ill man
+An Ill woman
+An Ill person
+An Ill human
+An Ill fellow
+An Ill girl
+An Ill boy
+A Body wearing
+A Body's wearing
+A Wearing of body
+A Wearing of the body
+A Body aging
+A Body's aging
+An Aging of body
+An Aging of the body
+A Premature senility
+An Old age
+A Senility
+A Late adulthood
+A Contagion
+A Catastrophic contagion
+An Incurable disease
+An Immedicable disease
+A Tribal disease
 A Plague
 A Black Death
 A Pestilence
@@ -119640,6 +121160,8 @@ A Local anaesthesia
 A General anesthesia
 A General anaesthesia
 A Biotechnology
+A Symbiosis
+A Symbiose
 A Vaccine
 A Vector vaccine
 A Viral vector vaccine
@@ -119706,6 +121228,22 @@ A Mandatory vaccination
 A Mandatory
 A Forced vaccine
 A Forced vaccination
+An influenza
+A Spanish influenza
+A Virus influenza
+A Viruses influenza
+An Influenza of virus
+An Influenza of the virus
+An Influenza of viruses
+An Influenza of the viruses
+A flu
+A Spanish flu
+A Virus flu
+A Viruses flu
+A Flu of virus
+A Flu of the virus
+A Flu of viruses
+A Flu of the viruses
 An Allergy
 An Allergen
 An Offending agent
@@ -119870,44 +121408,19 @@ A Zoonotic infection
 A Hospital
 A Hospitalization
 An Infirmary
-A Disease
-An Illness
-A Sick man
-A Sick woman
-A Sick person
-A Sick human
-A Sick fellow
-A Sick girl
-A Sick boy
-An Ill man
-An Ill woman
-An Ill person
-An Ill human
-An Ill fellow
-An Ill girl
-An Ill boy
-A Body wearing
-A Body's wearing
-A Wearing of body
-A Wearing of the body
-A Body aging
-A Body's aging
-An Aging of body
-An Aging of the body
-A Premature senility
-An Old age
-A Senility
-A Late adulthood
-A Contagion
-A Catastrophic contagion
-An Incurable disease
-An Immedicable disease
-A Tribal desease
 An Anthropogenesis
 An Artificial anthropogenesis
 A Natural anthropogenesis
 A Toxin
 A Toxic
+An Intoxication
+An Intoxification
+A Detoxication
+A Detoxification
+A Detoxicant
+A Detoxifier
+A Detoxicator
+A Disintoxicant
 An Agony
 A Death agony
 A Mortal agony
@@ -119925,8 +121438,6 @@ A Suffering
 A Medicine
 A Cancer medicine
 A Fever
-An Influenza
-A Flu
 A Paralysis
 A Palsy
 A Fertility
@@ -120253,6 +121764,9 @@ A Ka-52 Alligator
 A Ka-52 Helicopter
 A Ka-52
 A Hokum B
+A Bomb shelter
+A Bomb-proof
+An Air-raid shelter
 A Jet
 A Fighter jet
 A Fighter
@@ -120816,6 +122330,8 @@ A Bloody butchery
 A Carnage
 A Meaningless carnage
 A Bloody carnage
+A Beating
+A Blow
 A Military Company
 A Private Military Company
 A PMC
@@ -121071,6 +122587,8 @@ A Freezing of warfare
 A Freezing of the warfare
 A Freezing of warfares
 A Freezing of the warfares
+An Unit
+A Battalion
 A War prisoner
 A War's prisoner
 A Prisoner of war
@@ -121405,9 +122923,11 @@ A Weapon of god
 A Weapon of the god
 A Weapon of gods
 A Weapon of the gods
+A Wonder weapon
 A Counterattack
 A Counteroffensive
 A War
+A High war risk
 A Military operation
 A War act
 A War's act
@@ -121714,6 +123234,11 @@ A Poet
 A Poetess
 An USE
 An Unified State Exam
+A Grant
+A Fellowship
+A Scholarship
+A Task
+A Hard task
 A School
 A Schoolboy
 A Schoolgirl
@@ -121731,11 +123256,14 @@ An Institute of higher educations
 An Institute of the higher educations
 A Professor
 An Education
+A Bad education
 A Quality education
 A Primary education
 An Elementary education
 A Middle education
+A School education
 A Higher education
+An University education
 An Educator
 An Educationist
 An Educationalist
@@ -121745,6 +123273,8 @@ A Governess
 A Kindergarten teacher
 A Kindergartner
 A Kindergartener
+A Bylina
+An Epic hero
 A Logic
 A Library
 A Cloud library
@@ -121760,6 +123290,7 @@ An Instructor
 An Instruction
 A Lesson
 A Hard lesson
+An Important lesson
 A Knowledge
 A Rubbish knowledge
 A Garbage knowledge
@@ -121827,7 +123358,6 @@ A RF President
 A President of Rossiya
 A Rossiya President
 An Attack on Poland
-An Attack on Romania
 An Attack on Georgia
 An Attack on Iran
 An Attack on Islamic Republic of Iran
@@ -121895,6 +123425,7 @@ An Attack on Czech Republic
 An Attack on Bohemia
 An Attack on Italy
 An Attack on Italian Republic
+An Attack on Romania
 An Attack on Switzerland
 An Attack on Swiss Confederation
 An Attack on Hungary
@@ -121927,6 +123458,12 @@ An Attack on North Korea
 An Attack on Democratic People's Republic of Korea
 An Attack on DPRK
 An Attack on Japan
+An Attack on Denmark
+An Attack on Kingdom of Denmark
+An Attack on Belgium
+An Attack on Kingdom of Belgium
+An Attack on Norway
+An Attack on Kingdom of Norway
 An Attack on England
 An Attack on Britain
 An Attack on United Kingdom
@@ -121940,7 +123477,6 @@ An Attack on Deutschland
 An Attack on Spain
 An Attack on Kingdom of Spain
 An Attack on Republic of Poland
-An Attack on Republic of Romania
 An Attack on Republic of Georgia
 An Attack on Republic of Turkey
 An Attack on Republic of Turkiye
@@ -122460,9 +123996,6 @@ An Attack on Alaska
 An Enemy of Poland
 A Bitter enemy of Poland
 An Opponent of Poland
-An Enemy of Romania
-A Bitter enemy of Romania
-An Opponent of Romania
 An Enemy of Georgia
 A Bitter enemy of Georgia
 An Opponent of Georgia
@@ -122664,6 +124197,9 @@ An Opponent of Italy
 An Enemy of Italian Republic
 A Bitter enemy of Italian Republic
 An Opponent of Italian Republic
+An Enemy of Romania
+A Bitter enemy of Romania
+An Opponent of Romania
 An Enemy of Switzerland
 A Bitter enemy of Switzerland
 An Opponent of Switzerland
@@ -122760,6 +124296,24 @@ An Opponent of DPRK
 An Enemy of Japan
 A Bitter enemy of Japan
 An Opponent of Japan
+An Enemy of Denmark
+A Bitter enemy of Denmark
+An Opponent of Denmark
+An Enemy of Kingdom of Denmark
+A Bitter enemy of Kingdom of Denmark
+An Opponent of Kingdom of Denmark
+An Enemy of Belgium
+A Bitter enemy of Belgium
+An Opponent of Belgium
+An Enemy of Kingdom of Belgium
+A Bitter enemy of Kingdom of Belgium
+An Opponent of Kingdom of Belgium
+An Enemy of Norway
+A Bitter enemy of Norway
+An Opponent of Norway
+An Enemy of Kingdom of Norway
+A Bitter enemy of Kingdom of Norway
+An Opponent of Kingdom of Norway
 An Enemy of England
 A Bitter enemy of England
 An Opponent of England
@@ -122799,9 +124353,6 @@ An Opponent of Kingdom of Spain
 An Enemy of Republic of Poland
 A Bitter enemy of Republic of Poland
 An Opponent of Republic of Poland
-An Enemy of Republic of Romania
-A Bitter enemy of Republic of Romania
-An Opponent of Republic of Romania
 An Enemy of Republic of Georgia
 A Bitter enemy of Republic of Georgia
 An Opponent of Republic of Georgia
@@ -124351,7 +125902,6 @@ An Enemy of Alaska
 A Bitter enemy of Alaska
 An Opponent of Alaska
 A War in Poland
-A War in Romania
 A War in Georgia
 A War in Iran
 A War in Islamic Republic of Iran
@@ -124419,6 +125969,7 @@ A War in Czech Republic
 A War in Bohemia
 A War in Italy
 A War in Italian Republic
+A War in Romania
 A War in Switzerland
 A War in Swiss Confederation
 A War in Hungary
@@ -124451,6 +126002,12 @@ A War in North Korea
 A War in Democratic People's Republic of Korea
 A War in DPRK
 A War in Japan
+A War in Denmark
+A War in Kingdom of Denmark
+A War in Belgium
+A War in Kingdom of Belgium
+A War in Norway
+A War in Kingdom of Norway
 A War in England
 A War in Britain
 A War in United Kingdom
@@ -124464,7 +126021,6 @@ A War in Deutschland
 A War in Spain
 A War in Kingdom of Spain
 A War in Republic of Poland
-A War in Republic of Romania
 A War in Republic of Georgia
 A War in Republic of Turkey
 A War in Republic of Turkiye
@@ -124982,7 +126538,6 @@ A War in City New York
 A War in City of New York
 A War in Alaska
 An Invasion to Poland
-An Invasion to Romania
 An Invasion to Georgia
 An Invasion to Iran
 An Invasion to Islamic Republic of Iran
@@ -125050,6 +126605,7 @@ An Invasion to Czech Republic
 An Invasion to Bohemia
 An Invasion to Italy
 An Invasion to Italian Republic
+An Invasion to Romania
 An Invasion to Switzerland
 An Invasion to Swiss Confederation
 An Invasion to Hungary
@@ -125082,6 +126638,12 @@ An Invasion to North Korea
 An Invasion to Democratic People's Republic of Korea
 An Invasion to DPRK
 An Invasion to Japan
+An Invasion to Denmark
+An Invasion to Kingdom of Denmark
+An Invasion to Belgium
+An Invasion to Kingdom of Belgium
+An Invasion to Norway
+An Invasion to Kingdom of Norway
 An Invasion to England
 An Invasion to Britain
 An Invasion to United Kingdom
@@ -125095,7 +126657,6 @@ An Invasion to Deutschland
 An Invasion to Spain
 An Invasion to Kingdom of Spain
 An Invasion to Republic of Poland
-An Invasion to Republic of Romania
 An Invasion to Republic of Georgia
 An Invasion to Republic of Turkey
 An Invasion to Republic of Turkiye
@@ -125711,6 +127272,24 @@ A Chief of cabinet of Canada
 A Prime minister of Japan
 A Premier of Japan
 A Chief of cabinet of Japan
+A Prime minister of Denmark
+A Premier of Denmark
+A Chief of cabinet of Denmark
+A Prime minister of Kingdom of Denmark
+A Premier of Kingdom of Denmark
+A Chief of cabinet of Kingdom of Denmark
+A Prime minister of Belgium
+A Premier of Belgium
+A Chief of cabinet of Belgium
+A Prime minister of Kingdom of Belgium
+A Premier of Kingdom of Belgium
+A Chief of cabinet of Kingdom of Belgium
+A Prime minister of Norway
+A Premier of Norway
+A Chief of cabinet of Norway
+A Prime minister of Kingdom of Norway
+A Premier of Kingdom of Norway
+A Chief of cabinet of Kingdom of Norway
 A Prime minister of England
 A Premier of England
 A Chief of cabinet of England
@@ -125751,8 +127330,6 @@ A President
 A President of Poland
 A President of Republic of Poland
 A President of Republic of the Poland
-A President of Republic of Romania
-A President of Republic of the Romania
 A President of Georgia
 A President of Republic of Georgia
 A President of Republic of the Georgia
@@ -125883,7 +127460,6 @@ A President of FRG
 A President of Deutschland
 A Supreme Leader
 A Supreme Leader of Poland
-A Supreme Leader of Romania
 A Supreme Leader of Georgia
 A Supreme Leader of Iran
 A Supreme Leader of Islamic Republic of Iran
@@ -125951,6 +127527,7 @@ A Supreme Leader of Czech Republic
 A Supreme Leader of Bohemia
 A Supreme Leader of Italy
 A Supreme Leader of Italian Republic
+A Supreme Leader of Romania
 A Supreme Leader of Switzerland
 A Supreme Leader of Swiss Confederation
 A Supreme Leader of Hungary
@@ -125983,6 +127560,12 @@ A Supreme Leader of North Korea
 A Supreme Leader of Democratic People's Republic of Korea
 A Supreme Leader of DPRK
 A Supreme Leader of Japan
+A Supreme Leader of Denmark
+A Supreme Leader of Kingdom of Denmark
+A Supreme Leader of Belgium
+A Supreme Leader of Kingdom of Belgium
+A Supreme Leader of Norway
+A Supreme Leader of Kingdom of Norway
 A Supreme Leader of England
 A Supreme Leader of Britain
 A Supreme Leader of United Kingdom
@@ -125996,7 +127579,6 @@ A Supreme Leader of Deutschland
 A Supreme Leader of Spain
 A Supreme Leader of Kingdom of Spain
 A Supreme Leader of Republic of Poland
-A Supreme Leader of Republic of Romania
 A Supreme Leader of Republic of Georgia
 A Supreme Leader of Republic of Turkey
 A Supreme Leader of Republic of Turkiye
@@ -126829,17 +128411,17 @@ A Zoophile
 A Zoophilist
 A Bestiality
 A Libido
-A High Libido
-A Low Libido
+A High libido
+A Low libido
 A Sexual desire
-A High Sexual desire
-A Low Sexual desire
+A High sexual desire
+A Low sexual desire
 A Sexual drive
-A High Sexual drive
-A Low Sexual drive
+A High sexual drive
+A Low sexual drive
 An Erotic attraction
-A High Erotic attraction
-A Low Erotic attraction
+A High erotic attraction
+A Low erotic attraction
 A Veto
 A Veto right
 A Veto's right
@@ -127074,6 +128656,16 @@ A Risk
 A Threat
 A Hazard
 A Hazard zone
+A Deadly danger
+A Lethal danger
+A Mortal danger
+A Fatal danger
+A Death danger
+A Death's danger
+A Danger of death
+A Danger of the death
+A Danger of deaths
+A Danger of the deaths
 A Blackmail
 A Blackmailer
 A Blackmailing
@@ -127580,6 +129172,7 @@ A Terrorist country
 A Nuclear terrorism
 A Nuclear terror
 A Nuclear terrorist
+A Terrorist regime
 A Nibiru logo
 A Nibiru's logo
 A Logo of Nibiru
@@ -127882,6 +129475,9 @@ A Base of the extraterrestrial civilizations
 A Self-replicating spaceship
 A Self-replicating spacecraft
 A Von Neumann probe
+An Orbital station
+An Orbiting station
+An Orbital platform
 A Space ship
 A Spacecraft
 An Interstellar spacecraft
@@ -128021,6 +129617,10 @@ A Moon's total eclipse
 A Total eclipse of Moon
 A Total eclipse of the Moon
 A Total lunar eclipse
+A Space development
+A Space's development
+A Development of space
+A Development of the space
 An Earth shape
 An Earth's shape
 A Shape of Earth
@@ -128105,6 +129705,12 @@ An Artificial satellite
 A Spy satellite
 An Intelligence satellite
 A Military satellite
+A Satellite group
+A Satellite's group
+A Group of satellite
+A Group of the satellite
+A Group of satellites
+A Group of the satellites
 An Observatory
 A Star gate
 A Stone star gate
@@ -128191,6 +129797,8 @@ An Energy of Sun
 An Energy of the Sun
 A Solar energy
 A Solar wind
+A Solar maximum
+A Solar minimum
 A Dark fleet
 A Solar Warden
 A Shining Warden
@@ -128334,6 +129942,18 @@ A Crisis of migration
 A Crisis of the migration
 A Crisis of migrations
 A Crisis of the migrations
+A Population replacement
+A Population's replacement
+A Replacement of population
+A Replacement of the population
+A Native population replacement
+A Native population's replacement
+A Replacement of native population
+A Replacement of the native population
+An Indigenous population replacement
+An Indigenous population's replacement
+A Replacement of indigenous population
+A Replacement of the indigenous population
 A Sirrush
 A Sirrush dragon
 A Mushkhushshu
@@ -130730,6 +132350,10 @@ A Satanism
 A Hidden satanism
 A Secret satanism
 A Clandestine satanism
+A Satanism propaganda
+A Satanism's propaganda
+A Propaganda of satanism
+A Propaganda of the satanism
 A Satan spirit
 A Satan's spirit
 A Spirit of satan
@@ -130753,6 +132377,8 @@ An Incarnation of satan
 An Incarnation of the satan
 A Satanic incarnation
 A Satanical incarnation
+A Satanic organization
+A Satanical organization
 A Satan service
 A Satan's service
 A Service of satan
@@ -131852,6 +133478,7 @@ An Evocation of spirit
 An Evocation of the spirit
 An Evocation of spirits
 An Evocation of the spirits
+A Spiritual evocation
 A Spirit evocator
 A Spirit's evocator
 An Evocator of spirit
@@ -131864,6 +133491,7 @@ A Summoning of spirit
 A Summoning of the spirit
 A Summoning of spirits
 A Summoning of the spirits
+A Spiritual summoning
 A Spirit summoner
 A Spirit's summoner
 A Summoner of spirit
@@ -131872,6 +133500,26 @@ A Summoner of spirits
 A Summoner of the spirits
 A Theomachy
 A Theomachist
+An Exorcism
+An Exorcist
+A Demons driving out
+A Driving out of demons
+A Driving out of the demons
+A Daemons driving out
+A Driving out of daemons
+A Driving out of the daemons
+An Evil spirits driving out
+A Driving out of evil spirits
+A Driving out of the evil spirits
+A Demons casting
+A Casting of demons
+A Casting of the demons
+A Daemons casting
+A Casting of daemons
+A Casting of the daemons
+An Evil spirits casting
+A Casting of evil spirits
+A Casting of the evil spirits
 A Bottomless pit angel
 A Bottomless pit's angel
 An Angel of bottomless pit
@@ -132985,6 +134633,16 @@ A Prayer tower
 A Houri
 A Jihad
 A Sacred war
+An Islam symbol
+An Islam's symbol
+A Symbol of Islam
+A Symbol of the Islam
+An Islamic symbol
+A Muslim symbol
+A Moslem symbol
+A Moslemic symbol
+A Mussulmanish symbol
+A Mussulmanic symbol
 A Shahada
 A Shahadah
 A Shaheed
@@ -134546,6 +136204,12 @@ An Ashkenazim jewry agent
 An Ashkenazim jewry's agent
 An Agent of ashkenazim jewry
 An Agent of the ashkenazim jewry
+An Ashkenazi jews agent
+An Agent of ashkenazi jews
+An Agent of the ashkenazi jews
+An Ashkenazim jews agent
+An Agent of ashkenazim jews
+An Agent of the ashkenazim jews
 An Ashkenazic jewish agent
 A Khazar agent
 A Khazar's agent
@@ -134563,7 +136227,118 @@ A Zion agent
 A Zion's agent
 An Agent of Zion
 An Agent of the Zion
+A Zionists agent
+An Agent of zionists
+An Agent of the zionists
 A Zionistic agent
+A Jewry spy
+A Jewry's spy
+A Spy of jewry
+A Spy of the jewry
+A Jews spy
+A Spy of jews
+A Spy of the jews
+A Jewish spy
+A Judaic spy
+A Judaical spy
+An Ashkenazi spy
+An Ashkenazi's spy
+A Spy of ashkenazi
+A Spy of the ashkenazi
+An Ashkenazim spy
+An Ashkenazim's spy
+A Spy of ashkenazim
+A Spy of the ashkenazim
+An Ashkenazic spy
+An Ashkenazi jewry spy
+An Ashkenazi jewry's spy
+A Spy of ashkenazi jewry
+A Spy of the ashkenazi jewry
+An Ashkenazim jewry spy
+An Ashkenazim jewry's spy
+A Spy of ashkenazim jewry
+A Spy of the ashkenazim jewry
+An Ashkenazi jews spy
+A Spy of ashkenazi jews
+A Spy of the ashkenazi jews
+An Ashkenazim jews spy
+A Spy of ashkenazim jews
+A Spy of the ashkenazim jews
+An Ashkenazic jewish spy
+A Khazar spy
+A Khazar's spy
+A Spy of khazar
+A Spy of the khazar
+A Spy of khazars
+A Spy of the khazars
+A Khazarian spy
+A Khazarian's spy
+A Spy of khazarian
+A Spy of the khazarian
+A Spy of khazarians
+A Spy of the khazarians
+A Zion spy
+A Zion's spy
+A Spy of Zion
+A Spy of the Zion
+A Zionists spy
+A Spy of zionists
+A Spy of the zionists
+A Zionistic spy
+A Jewry servant
+A Jewry's servant
+A Servant of jewry
+A Servant of the jewry
+A Jews servant
+A Servant of jews
+A Servant of the jews
+A Jewish servant
+A Judaic servant
+A Judaical servant
+An Ashkenazi servant
+An Ashkenazi's servant
+A Servant of ashkenazi
+A Servant of the ashkenazi
+An Ashkenazim servant
+An Ashkenazim's servant
+A Servant of ashkenazim
+A Servant of the ashkenazim
+An Ashkenazic servant
+An Ashkenazi jewry servant
+An Ashkenazi jewry's servant
+A Servant of ashkenazi jewry
+A Servant of the ashkenazi jewry
+An Ashkenazim jewry servant
+An Ashkenazim jewry's servant
+A Servant of ashkenazim jewry
+A Servant of the ashkenazim jewry
+An Ashkenazi jews servant
+A Servant of ashkenazi jews
+A Servant of the ashkenazi jews
+An Ashkenazim jews servant
+A Servant of ashkenazim jews
+A Servant of the ashkenazim jews
+An Ashkenazic jewish servant
+A Khazar servant
+A Khazar's servant
+A Servant of khazar
+A Servant of the khazar
+A Servant of khazars
+A Servant of the khazars
+A Khazarian servant
+A Khazarian's servant
+A Servant of khazarian
+A Servant of the khazarian
+A Servant of khazarians
+A Servant of the khazarians
+A Zion servant
+A Zion's servant
+A Servant of Zion
+A Servant of the Zion
+A Zionists servant
+A Servant of zionists
+A Servant of the zionists
+A Zionistic servant
 A Semite
 A Semitic man
 A Semitic woman
@@ -134807,8 +136582,8 @@ A Sabra
 A Tzabar
 A Halakah
 A Halacha
-A Halakah jew
-A Halakah jewry
+A Halakhic jew
+A Halakhic jewry
 A Holocaust
 An Armilus
 An Armilos
@@ -135100,9 +136875,13 @@ A Monotheist
 A Henotheism
 A Henotheist
 A Chakra
+A Karma
+A Karma clearing
+A Karma's clearing
+A Clearing of karma
+A Clearing of the karma
 A Naga
 A Nagi
-A Karma
 A Sanskrit
 A Veda
 A Vedic priest
@@ -136258,12 +138037,8 @@ A Selling of souls
 A Selling of the souls
 A Soul selling to devil
 A Soul selling to the devil
-A Soul selling to devils
-A Soul selling to the devils
 A Soul selling to satan
 A Soul selling to the satan
-A Soul selling to satans
-A Soul selling to the satans
 A Sin
 A Transgression
 A Wrongdoing
@@ -136729,6 +138504,15 @@ A Plato cave
 A Plato's cave
 A Cave of Plato
 A Cave of the Plato
+A Life level
+A Life's level
+A Lives level
+A Level of life
+A Level of the life
+A Level of lives
+A Level of the lives
+A High life level
+A Low life level
 A Silicon life
 A Life silicon based form
 A Life's silicon based form
@@ -137827,6 +139611,13 @@ An Illusions
 Япония
 Государство Япония
 Страна восходящего солнца
+Дания
+Королевство Дания
+Бельгия
+Королевство Бельгия
+Королевство Бельгии
+Норвегия
+Королевство Норвегия
 Англия
 Британия
 Великобритания
@@ -138786,6 +140577,14 @@ An Illusions
 Империи зла
 Могучая империя
 Могучие империи
+Имперец
+Имперцы
+Империалист
+Империалистка
+Империалистки
+Империалисты
+Империалистический
+Империализм
 Транзистор
 Транзисторы
 Транзисторный
@@ -139123,6 +140922,10 @@ An Illusions
 Цепь
 Цепи
 Цепной
+Звено
+Звенья
+Слабое звено
+Слабые звенья
 Молоток
 Молотки
 Кувалда
@@ -139178,6 +140981,11 @@ An Illusions
 СМС оповещения
 ИИфон
 ИИфоны
+Абонент
+Абоненты
+Абонентский
+Абонент сети
+Абоненты сети
 Такси
 Дорожная карта
 Дорожные карты
@@ -139232,6 +141040,10 @@ An Illusions
 Нержавеющие стали
 Нержавеющий
 Нержавейка
+Бетон
+Бетоны
+Бетонный
+Бетонированный
 Наркобарон
 Наркобароны
 Глава наркомафии
@@ -139316,6 +141128,13 @@ An Illusions
 Дизельный
 Керосин
 Керосиновый
+Ресурс
+Ресурсы
+Ресурсный
+Нехватка ресурсов
+Нехватки ресурсов
+Природный ресурс
+Природные ресурсы
 Ископаемое
 Ископаемый
 Окаменелость
@@ -140448,6 +142267,8 @@ An Illusions
 Расшифрованный
 Расшифрованное сообщение
 Расшифрованные сообщения
+Скрытое послание
+Скрытые послания
 Квантовый шифр
 Квантовые шифры
 Квантовое шифрование
@@ -140553,6 +142374,10 @@ An Illusions
 Лабиринты
 Тетраксис
 Тетраксисы
+Геометрия
+Геометрический
+Евклидова геометрия
+Неевклидова геометрия
 Эллипс
 Эллипсы
 Эллиптический
@@ -140697,8 +142522,6 @@ An Illusions
 Передовые вычисления
 Математика
 Математический
-Геометрия
-Геометрический
 Уравнение
 Уравнения
 Решение уравнения
@@ -141348,6 +143171,15 @@ An Illusions
 Лев Давидович
 Троцкий Л. Д.
 Троцкий Л.
+Бронштейн Лейба Давидович
+Бронштейн Лейба
+Бронштейн
+Лейба
+Лейба Давидович
+Бронштейн Л. Д.
+Бронштейн Л.
+Бронштейн Лев Давидович
+Бронштейн Лев
 Елена Петровна
 Петровна
 Елена Петровна Блаватская
@@ -141385,9 +143217,15 @@ An Illusions
 Михаил Сергеевич
 Горбачёв М. С.
 Горбачёв М.
+Брежнев Леонид Ильич
+Брежнев Леонид
+Брежнев
+Ильич
+Леонид Ильич
+Брежнев Л. И.
+Брежнев Л.
 Владимир Ильич Ленин
 Владимир Ильич
-Ильич
 Владимир Ленин
 Ленин В.
 Ленин В. И.
@@ -141397,6 +143235,21 @@ An Illusions
 Ульянов
 Ульянов В.
 Ульянов В. И.
+Черненко Константин Устинович
+Черненко Константин
+Черненко
+Константин
+Устинович
+Константин Устинович
+Черненко К. У.
+Черненко К.
+Андропов Юрий Владимирович
+Андропов Юрий
+Андропов
+Юрий
+Юрий Владимирович
+Андропов Ю. В.
+Андропов Ю.
 Жириновский Владимир Вольфович
 Жириновский Владимир
 Жириновский
@@ -142164,7 +144017,7 @@ An Illusions
 Семейство
 Семейства
 Семьянин
-Семьянине
+Семьянины
 Молодой
 Молодая семья
 Молодые семьи
@@ -142362,6 +144215,10 @@ An Illusions
 Младенец
 Младенцы
 Младенческий
+Малыш
+Малыши
+Малышка
+Малышки
 Инфантилизм
 Инфантилизация
 Инфантилизации
@@ -142658,6 +144515,10 @@ An Illusions
 Общественный
 Социальный слой
 Социальные слои
+Раскол общества
+Расколы общества
+Раскол в обществе
+Расколы в обществе
 Манкурт
 Манкурты
 Манкуртка
@@ -143245,6 +145106,20 @@ An Illusions
 Фейс Пей
 Оплата по лицу
 СелфиТуПей
+Партнёр
+Партнёры
+Надёжный партнёр
+Надёжные партнёры
+Ненадёжный партнёр
+Ненадёжные партнёры
+Компаньон
+Компаньоны
+Надёжный компаньон
+Надёжные компаньоны
+Ненадёжный компаньон
+Ненадёжные компаньоны
+Партнёрский
+Партнёрство
 Золото
 Золотой
 Золочёный
@@ -143356,8 +145231,23 @@ An Illusions
 Работы
 Работник
 Работница
+Работницы
 Работники
 Работать
+Рабочий
+Рабочая
+Рабочие
+Труд
+Труды
+Трудовой
+Трудолюбие
+Трудолюбия
+Трудолюбивый
+Усердный
+Труженник
+Труженники
+Труженница
+Труженницы
 Тяжёлая работа
 Тяжёлые работы
 Безработица
@@ -143381,6 +145271,9 @@ An Illusions
 Человеческие ресурсы
 Белый воротничёк
 Белые воротнички
+Квалифицированный рабочий
+Квалифицированные рабочие
+Квалифицированная рабочая сила
 Пенсия
 Пенсии
 Пенсионный
@@ -143481,6 +145374,8 @@ An Illusions
 Налог
 Налоги
 Налоговый
+Налогообложение
+Налогообложения
 Пошлина
 Пошлины
 Пошлинный
@@ -143641,6 +145536,18 @@ An Illusions
 Ограничетельные меры
 Вторичная сенкция
 Вторичные сенкции
+Выгода
+Выгоды
+Выгодный
+Прибыль
+Прибыли
+Прибыльный
+Барыш
+Барыши
+Нажива
+Наживы
+Приносящий выгоду
+Приносящий барыши
 Долг
 Долги
 Долговой
@@ -143721,6 +145628,8 @@ An Illusions
 Кредит
 Кредиты
 Кредитный
+Кредитование
+Кредитования
 Кредитор
 Кредиторы
 Невозвратный кредит
@@ -144594,6 +146503,23 @@ An Illusions
 Бункерный
 Подземный бункер
 Подземные бункеры
+Канализация
+Канализации
+Канализационный
+Сточная вода
+Сточные воды
+Нечистоты
+Водоотведение
+Водоотведения
+Водопровод
+Водопроводы
+Водопроводный
+Водоснабжение
+Водоснабжения
+Водовод
+Водоводы
+Водопроводная вода
+Водопроводные воды
 Дом
 Дома
 Домашний
@@ -145336,7 +147262,7 @@ An Illusions
 Ритуалы чёрной магии
 Ритуальная чёрная магия
 Ритуальные чёрные магии
-Церемония чёрная магии
+Церемония чёрной магии
 Церемонии чёрной магии
 Церемониальная чёрная магия
 Церемониальные чёрные магии
@@ -145820,6 +147746,8 @@ An Illusions
 Магическая организация
 Магический орден
 Магические чары
+Магический момент
+Магические моменты
 Медиум
 Медиумы
 Контактёр
@@ -147140,6 +149068,10 @@ An Illusions
 Иллюминатские служанки
 Служанка Ордена иллюминатов
 Служанки Ордена иллюминатов
+На службе у иллюминатов
+Работает на иллюминатов
+На службе у Ордена иллюминатов
+Работает на Орден иллюминатов
 Бог иллюминатов
 Бог Ордена иллюминатов
 Иллюминатский Бог
@@ -147643,6 +149575,8 @@ An Illusions
 Проекты вольных каменщиков
 Проект братства вольных каменщиков
 Проекты братства вольных каменщиков
+Проект ордена вольных каменщиков
+Проекты ордена вольных каменщиков
 Жидомасонский проект
 Жидомасонские проекты
 Проект жидомасонов
@@ -147680,6 +149614,8 @@ An Illusions
 Марионетки вольных каменщиков
 Марионетка братства вольных каменщиков
 Марионетки братства вольных каменщиков
+Марионетка ордена вольных каменщиков
+Марионетки ордена вольных каменщиков
 Марионетка жидомасонов
 Марионетки жидомасонов
 Марионетка жидомасонства
@@ -147717,118 +149653,149 @@ An Illusions
 Агенты масонства
 Масонский агент
 Масонские агенты
-Агент франкмасонов
-Агент франкмасонства
-Агенты франкмасонов
-Агенты франкмасонства
-Франкмасонский агент
-Франкмасонские агенты
-Агент фримасонов
-Агент фримасонства
-Агенты фримасонов
-Агенты фримасонства
-Фримасонский агент
-Фримасонские агенты
-Агент жидомасонов
-Агент жидомасонства
-Агенты жидомасонов
-Агенты жидомасонства
-Жидомасонский агент
-Жидомасонские агенты
-Агент вольных каменщиков
-Агенты вольных каменщиков
-Агент братства вольных каменщиков
-Агенты братства вольных каменщиков
 Шпион масонов
 Шпион масонства
 Шпионы масонов
 Шпионы масонства
 Масонский шпион
 Масонские шпионы
-Шпион франкмасонов
-Шпион франкмасонства
-Шпионы франкмасонов
-Шпионы франкмасонства
-Франкмасонский шпион
-Франкмасонские шпионы
-Шпион фримасонов
-Шпион фримасонства
-Шпионы фримасонов
-Шпионы фримасонства
-Фримасонский шпион
-Фримасонские шпионы
-Шпион жидомасонов
-Шпион жидомасонства
-Шпионы жидомасонов
-Шпионы жидомасонства
-Жидомасонский шпион
-Жидомасонские шпионы
-Шпион вольных каменщиков
-Шпионы вольных каменщиков
-Шпион братства вольных каменщиков
-Шпионы братства вольных каменщиков
 Слуга масонов
 Слуга масонства
 Слуги масонов
 Слуги масонства
 Масонский слуга
 Масонские слуги
+Служанка масонов
+Служанка масонства
+Служанки масонов
+Служанки масонства
+Масонская служанка
+Масонские служанки
+Работает на масонов
+На службе у масонов
+Работает на масонство
+На службе у масонства
+Агент франкмасонов
+Агент франкмасонства
+Агенты франкмасонов
+Агенты франкмасонства
+Франкмасонский агент
+Франкмасонские агенты
+Шпион франкмасонов
+Шпион франкмасонства
+Шпионы франкмасонов
+Шпионы франкмасонства
+Франкмасонский шпион
+Франкмасонские шпионы
 Слуга франкмасонов
 Слуга франкмасонства
 Слуги франкмасонов
 Слуги франкмасонства
 Франкмасонский слуга
 Франкмасонские слуги
+Служанка франкмасонов
+Служанка франкмасонства
+Служанки франкмасонов
+Служанки франкмасонства
+Франкмасонская служанка
+Франкмасонские служанки
+Работает на франкмасонов
+На службе у франкмасонов
+Работает на франкмасонство
+На службе у франкмасонства
+Агент фримасонов
+Агент фримасонства
+Агенты фримасонов
+Агенты фримасонства
+Фримасонский агент
+Фримасонские агенты
+Шпион фримасонов
+Шпион фримасонства
+Шпионы фримасонов
+Шпионы фримасонства
+Фримасонский шпион
+Фримасонские шпионы
 Слуга фримасонов
 Слуга фримасонства
 Слуги фримасонов
 Слуги фримасонства
 Фримасонский слуга
 Фримасонские слуги
+Служанка фримасонов
+Служанка фримасонства
+Служанки фримасонов
+Служанки фримасонства
+Фримасонская служанка
+Фримасонские служанки
+Работает на фримасонов
+На службе у фримасонов
+Работает на фримасонство
+На службе у фримасонства
+Агент жидомасонов
+Агент жидомасонства
+Агенты жидомасонов
+Агенты жидомасонства
+Жидомасонский агент
+Жидомасонские агенты
+Шпион жидомасонов
+Шпион жидомасонства
+Шпионы жидомасонов
+Шпионы жидомасонства
+Жидомасонский шпион
+Жидомасонские шпионы
 Слуга жидомасонов
 Слуга жидомасонства
 Слуги жидомасонов
 Слуги жидомасонства
 Жидомасонский слуга
 Жидомасонские слуги
-Слуга вольных каменщиков
-Слуги вольных каменщиков
-Слуга братства вольных каменщиков
-Слуги братства вольных каменщиков
-Служанка масонов
-Служанка масонства
-Служанки масонов
-Служанки масонства
-Масонский служанка
-Масонские служанки
-Служанка франкмасонов
-Служанка франкмасонства
-Служанки франкмасонов
-Служанки франкмасонства
-Франкмасонский служанка
-Франкмасонские служанки
-Служанка фримасонов
-Служанка фримасонства
-Служанки фримасонов
-Служанки фримасонства
-Фримасонский служанка
-Фримасонские служанки
 Служанка жидомасонов
 Служанка жидомасонства
 Служанки жидомасонов
 Служанки жидомасонства
-Жидомасонский служанка
+Жидомасонская служанка
 Жидомасонские служанки
+Работает на жидомасонов
+На службе у жидомасонов
+Работает на жидомасонство
+На службе у жидомасонства
+Агент вольных каменщиков
+Агенты вольных каменщиков
+Агент братства вольных каменщиков
+Агенты братства вольных каменщиков
+Агент ордена вольных каменщиков
+Агенты ордена вольных каменщиков
+Шпион вольных каменщиков
+Шпионы вольных каменщиков
+Шпион братства вольных каменщиков
+Шпионы братства вольных каменщиков
+Шпион ордена вольных каменщиков
+Шпионы ордена вольных каменщиков
+Слуга вольных каменщиков
+Слуги вольных каменщиков
+Слуга братства вольных каменщиков
+Слуги братства вольных каменщиков
+Слуга ордена вольных каменщиков
+Слуги ордена вольных каменщиков
 Служанка вольных каменщиков
 Служанки вольных каменщиков
 Служанка братства вольных каменщиков
 Служанки братства вольных каменщиков
+Служанка ордена вольных каменщиков
+Служанки ордена вольных каменщиков
+Работает на вольных каменщиков
+На службе у вольных каменщиков
+Работает на братство вольных каменщиков
+На службе у братства вольных каменщиков
+Работает на орден вольных каменщиков
+На службе у ордена вольных каменщиков
 Бог масонов
 Бог франкмасонов
 Бог фримасонов
+Бог жидомасонов
 Бог вольных каменщиков
 Бог братства вольных каменщиков
-Бог жидомасонов
+Бог ордена вольных каменщиков
 Бог масонства
 Бог франкмасонства
 Бог фримасонства
@@ -147848,11 +149815,13 @@ An Illusions
 Американский устав масонства
 Франкмасон
 Франкмасонка
+Франкмасонки
 Франкмасоны
 Франкмасонство
 Франкмасонский
 Масон
 Масонка
+Масонки
 Масоны
 Масонство
 Масонский
@@ -147860,29 +149829,34 @@ An Illusions
 Первый масон
 Фримасон
 Фримасонка
+Фримасонки
 Фримасоны
 Фримасонство
 Фримасонский
 Фримасонская мафия
 Жидомасон
 Жидомасонка
+Жидомасонки
 Жидомасоны
 Жидомасонство
 Жидомасонский
 Жидомасонская мафия
 Иудомасон
 Иудомасонка
+Иудомасонки
 Иудомасоны
 Иудомасонство
 Иудомасонский
 Иудомасонская мафия
 Вольный каменщик
 Вольная каменщица
+Вольные каменщицы
 Вольные каменщики
 Вольное каменщичество
 Братство вольных каменщиков
 Каменщик
 Каменщица
+Каменщицы
 Каменщики
 Каменщичество
 Масонский храм
@@ -147905,18 +149879,22 @@ An Illusions
 Жидомасонские организации
 Организация вольных каменщиков
 Организации вольных каменщиков
+Организация ордена вольных каменщиков
+Организации ордена вольных каменщиков
 Член масонства
 Члены масонства
 Член франкмасонства
 Члены франкмасонства
 Член фримасонства
 Члены фримасонства
+Член жидомасонства
+Члены жидомасонства
 Член вольного каменщичества
 Члены вольного каменщичества
 Член братства вольных каменщиков
 Члены братства вольных каменщиков
-Член жидомасонства
-Члены жидомасонства
+Член ордена вольных каменщиков
+Члены ордена вольных каменщиков
 Гнездо масонов
 Гнёзда масонов
 Масонское гнездо
@@ -147939,6 +149917,8 @@ An Illusions
 Гнёзда вольных каменщиков
 Гнездо братства вольных каменщиков
 Гнёзда братства вольных каменщиков
+Гнездо ордена вольных каменщиков
+Гнёзда ордена вольных каменщиков
 Гнездо жидомасонов
 Гнёзда жидомасонов
 Жидомасонское гнездо
@@ -148048,6 +150028,12 @@ An Illusions
 Служанки Ордена иезуитов
 Служанка Общества Иисуса
 Служанки Общества Иисуса
+На службе у иезуитов
+Работает на иезуитов
+На службе у Ордена иезуитов
+Работает на Орден иезуитов
+На службе у Общества Иисуса
+Работает на Общество Иисуса
 Игнатий де Лойола
 Игнатий Лойола
 Игнатий
@@ -148672,6 +150658,8 @@ An Illusions
 Русский царь
 Русские цари
 Боже царя храни
+Царская кровь
+Царский род
 ГУЛАГ
 ГУЛАГи
 Главное управление исправительно-трудовых лагерей
@@ -149473,6 +151461,8 @@ An Illusions
 Фашистко-коммунистические режимы
 Фашистко-коммунистический проект
 Фашистко-коммунистические проекты
+От сердца к солнцу
+Нацистское приветствие
 Губернатор
 Губернаторы
 Выборы
@@ -149694,6 +151684,12 @@ An Illusions
 Стресс
 Стрессы
 Стрессовый
+Огромный стресс
+Огромнын стрессы
+Большой стресс
+Большые стрессы
+Вызывает стресс
+Вызывает стрессы
 Безумие
 Безумия
 Безумный
@@ -149823,6 +151819,10 @@ An Illusions
 Полезные идиоты
 Полезная идиотка
 Полезные идиотки
+Психологический эксперимент
+Психологические эксперименты
+Психологический опыт
+Психологические опыты
 Сон
 Сны
 Сонный
@@ -150025,6 +152025,8 @@ An Illusions
 Долбоёб
 Долбоёбы
 Долбоебизм
+Сказочный долбоёб
+Сказочные долбоёбы
 Тупица
 Тупицы
 Тупой
@@ -151190,6 +153192,7 @@ An Illusions
 Обыдление
 Обыдления
 Скот
+Скоты
 Скотина
 Оскотинивание
 Оскотинивания
@@ -151218,10 +153221,17 @@ An Illusions
 Загнать в стойло
 Загон в стойло
 Загон скота в стойло
+Загон скотины в стойло
 Скотобойня
 Скотобойни
 Забой скота
 Убой скота
+Забой скотины
+Убой скотины
+Продажный скот
+Продажные скоты
+Продажная скотина
+Продажные скотины
 Зоопарк
 Зоопарки
 Примат
@@ -151595,6 +153605,13 @@ An Illusions
 Пукания
 Пердёж
 Пердежи
+Геморрой
+Геморрои
+Геморроидальный
+Геморроидальный узел
+Геморроидальные узлы
+Геморроидальная шишка
+Геморроидальные шишки
 Клетка
 Клетки
 Соматическая клетка
@@ -151775,6 +153792,28 @@ An Illusions
 Контагиозный
 Бактериальная инфекция
 Бактериальные инфекции
+Болезнь
+Болезни
+Больной
+Больной человек
+Больные люди
+Заболевание
+Заболевания
+Износ тела
+Старение тела
+Преждевременное старение
+Преждевременная старость
+Старость
+Дряхлость
+Старческий возраст
+Заразная болезнь
+Заразные болезни
+Катастрофическая инфекция
+Катастрофические инфекции
+Неизлечимая болезнь
+Неизлечимые болезни
+Наследственная болезнь
+Наследственные болезни
 Чума
 Чёрная смерть
 Мор
@@ -151785,6 +153824,8 @@ An Illusions
 Обрезанные члены
 Обрезанный половой член
 Обрезанные половые члены
+Обрезанный пенис
+Обрезанные пенисы
 Обрезание крайней плоти
 Обрезания крайней плоти
 Обряд обрезания
@@ -151927,6 +153968,9 @@ An Illusions
 Общие анестезии
 Биотехнология
 Биотехнологии
+Симбиоз
+Симбиозы
+Симбиотический
 Вакцина
 Вакцины
 Вакцинировать
@@ -152028,6 +154072,10 @@ An Illusions
 Принудительная вакцинация
 Принудительные вакцинации
 Принудительный
+Грипп
+Испанский грипп
+Вирус гриппа
+Вирусы гриппа
 Аллергия
 Аллергии
 Аллергический
@@ -152189,28 +154237,6 @@ An Illusions
 Госпитализации
 Лазарет
 Лазареты
-Болезнь
-Болезни
-Больной
-Больной человек
-Больные люди
-Заболевание
-Заболевания
-Износ тела
-Старение тела
-Преждевременное старение
-Преждевременная старость
-Старость
-Дряхлость
-Старческий возраст
-Заразная болезнь
-Заразные болезни
-Катастрофическая инфекция
-Катастрофические инфекции
-Неизлечимая болезнь
-Неизлечимые болезни
-Наследственная болезнь
-Наследственные болезни
 Антропогенез
 Искусственный антропогенез
 Естественный антропогенез
@@ -152219,6 +154245,12 @@ An Illusions
 Токсический
 Токсичное вещество
 Токсичные вещества
+Интоксикация
+Интоксикации
+Детоксикация
+Детоксикации
+Детоксикант
+Детоксиканты
 Агония
 Смертельная агония
 Предсмертное состояние
@@ -152248,7 +154280,6 @@ An Illusions
 Церкопитековая марбург-вирусная лихорадка
 Эбола
 Вирус Эбола
-Грипп
 Паралич
 Параличи
 Беспомощное состояние
@@ -152653,6 +154684,8 @@ An Illusions
 Ка-52
 Вертолёт Ка-52
 Ка-52 Аллигатор
+Бомбоубежище
+Бомбоубежища
 Истребитель
 Истребители
 Истребитель-бомбардировщик
@@ -153228,9 +155261,15 @@ An Illusions
 Раскольнический
 Мировая война
 МВ
-МВ3
+Первая мировая война
+ПМВ
+МВ1
+Вторая мировая война
+ВМВ
+МВ2
 Третья мировая война
 ТМВ
+МВ3
 Союзники по третьей мировой войне
 Союзники по мировой войне
 Союзники по ТМВ
@@ -153250,6 +155289,11 @@ An Illusions
 Бессмысленные бойни
 Побоище
 Побоища
+Побои
+Пиздюль
+Пиздюли
+Получение пиздюлей
+Получение люлей
 Военная Компания
 Военные Компании
 Частная Военная Компания
@@ -153553,6 +155597,15 @@ An Illusions
 Отсутствия мира
 Заморозка боевых действий
 Заморозки боевых действий
+Примирение
+Примирения
+Мирные переговоры
+Военная часть
+Военные части
+Боевая часть
+Боевые части
+Батальон
+Батальоны
 Пленный
 Пленная
 Пленные
@@ -153881,6 +155934,8 @@ An Illusions
 Автономные боевые системы
 Оружие богов
 Оружие Бога
+Чудо оружие
+Чудо оружия
 Контрнаступление
 Контрнаступления
 Контратака
@@ -153892,6 +155947,8 @@ An Illusions
 Харакат аль-Мукавама аль-Исламия
 Группировка ХАМАС
 Война
+Высокий риск войны
+Высокие риски войны
 Военные действия
 Боевые действия
 Квази-война
@@ -154185,6 +156242,14 @@ An Illusions
 Единый госэкзамен
 Выбор будущего
 ЕГЭ Выбор будущего
+Грант
+Гранты
+Стипендия
+Стипендии
+Задача
+Задачи
+Трудная задача
+Трудные задачи
 Школа
 Школы
 Школьный
@@ -154223,14 +156288,20 @@ An Illusions
 Образование
 Образования
 Образовательный
+Плохое образование
+Плохие образования
 Качественное образование
 Качественные образования
 Начальное образование
 Начальные образования
 Среднее образование
 Средние образования
+Школьное образование
+Школьные образования
 Высшее образование
 Высшие образования
+Университетское образование
+Университетские образования
 Преподаватель
 Преподаватели
 Преподавательница
@@ -154255,6 +156326,12 @@ An Illusions
 Репетиторши
 Репетиторский
 Репетиторство
+Былина
+Былины
+Былинный
+Эпический
+Былинный герой
+Былинные герои
 Логика
 Логический
 Логическая задача
@@ -154277,11 +156354,15 @@ An Illusions
 Учителя
 Учительница
 Учительницы
+Училка
+Училки
 Учить
 Учение
 Учения
 Тренер
 Тренеры
+Тренерша
+Тренерши
 Тренировать
 Тренировка
 Тренировки
@@ -154294,6 +156375,8 @@ An Illusions
 Тяжёлые уроки
 Трудный урок
 Трудные уроки
+Важный урок
+Важные уроки
 Знание
 Знания
 Мусорное знание
@@ -155317,6 +157400,14 @@ An Illusions
 Угрожающий
 Зона опасности
 Зоны опасности
+Смертельная опасность
+Смертельные опасности
+Опасность смерти
+Опасности смерти
+Смертельная угроза
+Смертельные угрозы
+Угроза смерти
+Угрозы смерти
 Шантаж
 Шантажист
 Шантажистка
@@ -155514,7 +157605,9 @@ An Illusions
 Яды
 Ядовитый
 Отрава
+Отравы
 Отравляющий
+Отравляющее вещество
 Отравляющие вещества
 Отравление мышьяком
 Массовое отравление
@@ -155848,6 +157941,8 @@ An Illusions
 Ядерные терроры
 Ядерный террорист
 Ядерные террористы
+Террористический режим
+Террористические режимы
 НАСА
 Национальное управление по аэронавтике и освоению космического пространства
 Символ Нибиру
@@ -156161,6 +158256,8 @@ An Illusions
 Зонды фон Неймана
 Машина фон Неймана
 Машины фон Неймана
+Орбитальная станция
+Орбитальные станции
 МКС
 Международная космическая станция
 Космический корабль
@@ -156324,6 +158421,8 @@ An Illusions
 Полные затмения луны
 Полное лунное затмение
 Полные лунные затмения
+Освоение космоса
+Освоения космоса
 Зодиак
 Знаки зодиака
 Овен
@@ -156404,6 +158503,8 @@ An Illusions
 Разведывательные спутники
 Военный спутник
 Военные спутники
+Спутниковая группировка
+Спутниковые группировки
 Обсерватория
 Обсерватории
 Звёздные ворота
@@ -156483,6 +158584,10 @@ An Illusions
 Солнечный ветер
 Два солнца
 Солнце и солнце
+Солнечный максимум
+Солнечные максимумы
+Солнечный минимум
+Солнечные минимумы
 Тёмный флот
 Солнечный хранитель
 Чужой Завет
@@ -156642,6 +158747,8 @@ An Illusions
 Этнические замещения
 Миграционный кризис
 Миграционные кризисы
+Замещение населения
+Замещение коренного населения
 Сирруш
 Сируш
 Дракон сирруш
@@ -158679,6 +160786,8 @@ An Illusions
 Сатанизм
 Скрытый сатанизм
 Тайный сатанизм
+Пропаганда сатанизма
+Сатанинская пропаганда
 Дух сатаны
 Крещёный сатанист
 Крещёные сатанисты
@@ -158691,6 +160800,8 @@ An Illusions
 Аватары сатаны
 Сатанинский аватар
 Сатанинские аватары
+Сатанинская организация
+Сатанинские организации
 Служба сатане
 Службы сатане
 Сатанинская служба
@@ -159254,15 +161365,18 @@ An Illusions
 Эвокации духа
 Эвокации духов
 Эвакатор духа
+Эвакатор духов
 Эвакаторы духа
 Эвакаторы духов
 Призыв духа
 Призывы духа
 Призывы духов
 Призывальщик духа
+Призывальщик духов
 Призывальщики духа
 Призывальщики духов
 Призыватель духа
+Призыватель духов
 Призыватели духа
 Призыватели духов
 Богоборство
@@ -159270,6 +161384,15 @@ An Illusions
 Богоборцы
 Богоборка
 Богоборки
+Экзорцизм
+Экзорцист
+Экзорцисты
+Изгнание бесов
+Изгнания бесов
+Изгнание нечистой силы
+Изгнания нечистой силы
+Изгнание злых духов
+Изгнания злых духов
 Аваддон
 Аполлион
 Ангел бездны
@@ -160003,6 +162126,12 @@ An Illusions
 Райские девы
 Джихад
 Газават
+Символ ислама
+Символы ислама
+Исламский символ
+Исламские символы
+Мусульманский символ
+Мусульманские символы
 Шахада
 Шахид
 Шахиды
@@ -161096,10 +163225,102 @@ An Illusions
 Хазарские агенты
 Агент Сиона
 Агенты Сиона
+Агент сионистов
+Агенты сионистов
 Сионский агент
 Сионские агенты
 Сионисткий агент
 Сионисткие агенты
+Шпион евреев
+Шпионы евреев
+Шпион еврейства
+Шпионы еврейства
+Еврейский шпион
+Еврейские шпионы
+Шпион иудеев
+Шпионы иудеев
+Иудейский шпион
+Иудейские шпионы
+Шпион ашкеназов
+Шпионы ашкеназов
+Ашкеназский шпион
+Ашкеназские шпионы
+Шпион евреев-ашкеназов
+Шпионы евреев-ашкеназов
+Еврейско-ашкеназский шпион
+Еврейско-ашкеназские шпионы
+Шпион хазар
+Шпионы хазар
+Хазарский шпион
+Хазарские шпионы
+Шпион Сиона
+Шпионы Сиона
+Шпион сионистов
+Шпионы сионистов
+Сионский шпион
+Сионские шпионы
+Сионисткий шпион
+Сионисткие шпионы
+Слуга евреев
+Слуги евреев
+Слуга еврейства
+Слуги еврейства
+Еврейский слуга
+Еврейские слуги
+Слуга иудеев
+Слуги иудеев
+Иудейский слуга
+Иудейские слуги
+Слуга ашкеназов
+Слуги ашкеназов
+Ашкеназский слуга
+Ашкеназские слуги
+Слуга евреев-ашкеназов
+Слуги евреев-ашкеназов
+Еврейско-ашкеназский слуга
+Еврейско-ашкеназские слуги
+Слуга хазар
+Слуги хазар
+Хазарский слуга
+Хазарские слуги
+Слуга Сиона
+Слуги Сиона
+Слуга сионистов
+Слуги сионистов
+Сионский слуга
+Сионские слуги
+Сионисткий слуга
+Сионисткие слуги
+Служанка евреев
+Служанки евреев
+Служанка еврейства
+Служанки еврейства
+Еврейская служанка
+Еврейские служанки
+Служанка иудеев
+Служанки иудеев
+Иудейская служанка
+Иудейские служанки
+Служанка ашкеназов
+Служанки ашкеназов
+Ашкеназская служанка
+Ашкеназские служанки
+Служанка евреев-ашкеназов
+Служанки евреев-ашкеназов
+Еврейско-ашкеназская служанка
+Еврейско-ашкеназские служанки
+Служанка хазар
+Служанки хазар
+Хазарская служанка
+Хазарские служанки
+Служанка Сиона
+Служанки Сиона
+Служанка сионистов
+Служанки сионистов
+Сионская служанка
+Сионские служанки
+Сионисткая служанка
+Сионисткие служанки
 Семит
 Семиты
 Семитка
@@ -161294,6 +163515,7 @@ An Illusions
 Сабра
 Галаха
 Галахический еврей
+Галахические евреи
 Галахическая еврейка
 Галахические еврейки
 Галахическое еврейство
@@ -161598,6 +163820,9 @@ An Illusions
 Красный Папа
 Далай-Лама
 Акаша
+Карма
+Очистка кармы
+Очистки кармы
 Кундалини
 Индуизм
 Санатана-дхарма
@@ -161633,7 +163858,6 @@ An Illusions
 Полу-змей
 Человек-змея
 Люди-змеи
-Карма
 Шани
 Шанешвар
 Шри Шанешвар
@@ -162970,6 +165194,12 @@ An Illusions
 Материализм
 Пещера Платона
 Платонова пещера
+Уровень жизни
+Уровни жизни
+Высокий уровень жизни
+Высокие уровни жизни
+Низкий уровень жизни
+Низкие уровни жизни
 Кремниевая жизнь
 Кремниевые жизни
 Кремниевая форма жизни
@@ -163605,6 +165835,9 @@ An Illusions
 Южный Израилъ
 Болъшой Израилъ
 Государство Израилъ
+Белъгия
+Королевство Белъгия
+Королевство Белъгии
 Соединенное Королевство
 Соединенное Королевство Великобритании и Северной Ирландии
 Бинъямин
@@ -163835,6 +166068,8 @@ An Illusions
 Игра в наперстки
 Игры в наперстки
 Цепъ
+Звенъя
+Слабые звенъя
 Мобилъные ТелеСистемы
 ПАО Мобилъные ТелеСистемы
 Публичное Акционерное Общество Мобилъные ТелеСистемы
@@ -164385,9 +166620,11 @@ An Illusions
 Горбачев
 Горбачев М. С.
 Горбачев М.
+Брежнев Леонид Илъич
+Илъич
+Леонид Илъич
 Владимир Илъич Ленин
 Владимир Илъич
-Илъич
 Владимир Илъич Улъянов
 Владимир Улъянов
 Улъянов
@@ -164582,7 +166819,7 @@ An Illusions
 Семъя
 Семъи
 Семъянин
-Семъянине
+Семъянины
 Молодая семъя
 Молодые семъи
 Многодетная семъя
@@ -164803,6 +167040,28 @@ An Illusions
 Платеж
 Цифровой платеж
 Цифровые платежи
+Партнер
+Партнеры
+Надежный партнер
+Надежные партнеры
+Ненадежный партнер
+Ненадежные партнеры
+Компанъон
+Компанъоны
+Надёжный компанъон
+Надежный компаньон
+Надежный компанъон
+Надёжные компанъоны
+Надежные компаньоны
+Надежные компанъоны
+Ненадёжный компанъон
+Ненадежный компаньон
+Ненадежный компанъон
+Ненадёжные компанъоны
+Ненадежные компаньоны
+Ненадежные компанъоны
+Партнерский
+Партнерство
 Золоченый
 Дешевое золото
 Глобалъная катастрофа
@@ -164874,6 +167133,8 @@ An Illusions
 Банкротитъ
 Ограничетелъная мера
 Ограничетелъные меры
+Прибылъ
+Прибылъный
 Задолженностъ
 Развод на денъги
 Разводы на денъги
@@ -165229,7 +167490,7 @@ An Illusions
 Ритуалъные чёрные магии
 Ритуальные черные магии
 Ритуалъные черные магии
-Церемония черная магии
+Церемония черной магии
 Церемонии черной магии
 Церемониалъная чёрная магия
 Церемониальная черная магия
@@ -165721,11 +167982,15 @@ An Illusions
 Проекты волъных каменщиков
 Проект братства волъных каменщиков
 Проекты братства волъных каменщиков
+Проект ордена волъных каменщиков
+Проекты ордена волъных каменщиков
 Моралъ и догма
 Марионетка волъных каменщиков
 Марионетки волъных каменщиков
 Марионетка братства волъных каменщиков
 Марионетки братства волъных каменщиков
+Марионетка ордена волъных каменщиков
+Марионетки ордена волъных каменщиков
 Подмастеръе
 Рыцаръ кадош
 Рыцаръ чёрно-белого орла
@@ -165737,32 +168002,52 @@ An Illusions
 Агенты волъных каменщиков
 Агент братства волъных каменщиков
 Агенты братства волъных каменщиков
+Агент ордена волъных каменщиков
+Агенты ордена волъных каменщиков
 Шпион волъных каменщиков
 Шпионы волъных каменщиков
 Шпион братства волъных каменщиков
 Шпионы братства волъных каменщиков
+Шпион ордена волъных каменщиков
+Шпионы ордена волъных каменщиков
 Слуга волъных каменщиков
 Слуги волъных каменщиков
 Слуга братства волъных каменщиков
 Слуги братства волъных каменщиков
+Слуга ордена волъных каменщиков
+Слуги ордена волъных каменщиков
 Служанка волъных каменщиков
 Служанки волъных каменщиков
 Служанка братства волъных каменщиков
 Служанки братства волъных каменщиков
+Служанка ордена волъных каменщиков
+Служанки ордена волъных каменщиков
+Работает на волъных каменщиков
+На службе у волъных каменщиков
+Работает на братство волъных каменщиков
+На службе у братства волъных каменщиков
+Работает на орден волъных каменщиков
+На службе у ордена волъных каменщиков
 Бог волъных каменщиков
 Бог братства волъных каменщиков
+Бог ордена волъных каменщиков
 Орден волъных каменщиков
 Волъный каменщик
 Волъная каменщица
+Волъные каменщицы
 Волъные каменщики
 Волъное каменщичество
 Братство волъных каменщиков
 Организация волъных каменщиков
 Организации волъных каменщиков
+Организация ордена волъных каменщиков
+Организации ордена волъных каменщиков
 Член волъного каменщичества
 Члены волъного каменщичества
 Член братства волъных каменщиков
 Члены братства волъных каменщиков
+Член ордена волъных каменщиков
+Члены ордена волъных каменщиков
 Гнезда масонов
 Масонские гнезда
 Гнезда масонства
@@ -165780,6 +168065,10 @@ An Illusions
 Гнёзда братства волъных каменщиков
 Гнезда братства вольных каменщиков
 Гнезда братства волъных каменщиков
+Гнездо ордена волъных каменщиков
+Гнёзда ордена волъных каменщиков
+Гнезда ордена вольных каменщиков
+Гнезда ордена волъных каменщиков
 Гнезда жидомасонов
 Жидомасонские гнезда
 Гнезда жидомасонства
@@ -165872,6 +168161,7 @@ An Illusions
 Царек
 Царъки
 Русский царъ
+Царская кровъ
 Главное управление исправителъно-трудовых лагерей
 Болъшевик
 Болъшевики
@@ -166206,6 +168496,8 @@ An Illusions
 Сказки в полъзу бедных
 Терпеливостъ
 Ненавистъ
+Болъшой стресс
+Болъшые стрессы
 Помешателъство
 Помешателъства
 Умопомешателъство
@@ -166286,6 +168578,8 @@ An Illusions
 Глупостъ
 Долбоеб
 Долбоебы
+Сказочный долбоеб
+Сказочные долбоебы
 Бестолочъ
 Комфортабелъный
 Моралъ
@@ -166513,6 +168807,11 @@ An Illusions
 Хуевый
 Крайняя плотъ
 Пердеж
+Геморроидалъный
+Геморроидалъный узел
+Геморроидалъные узлы
+Геморроидалъная шишка
+Геморроидалъные шишки
 Предстателъная желаза
 Предстателъные железы
 Массаж предстателъная желаза
@@ -166535,6 +168834,16 @@ An Illusions
 Царапанъе
 Бактериалъная инфекция
 Бактериалъные инфекции
+Болезнъ
+Болъной
+Болъной человек
+Болъные люди
+Преждевременная старостъ
+Старостъ
+Дряхлостъ
+Заразная болезнъ
+Неизлечимая болезнъ
+Наследственная болезнъ
 Чёрная смертъ
 Черная смерть
 Черная смертъ
@@ -166620,16 +168929,6 @@ An Illusions
 Болъницы
 Болъничный
 Госпиталъ
-Болезнъ
-Болъной
-Болъной человек
-Болъные люди
-Преждевременная старостъ
-Старостъ
-Дряхлостъ
-Заразная болезнъ
-Неизлечимая болезнъ
-Наследственная болезнъ
 Смертелъная агония
 Медико-санитарная помощъ
 Болъ
@@ -166774,6 +169073,7 @@ An Illusions
 Резатъ
 Боротъся
 Битъся
+Пиздюлъ
 Боръба
 Виток боръбы
 Витки боръбы
@@ -166831,6 +169131,10 @@ An Illusions
 Ранитъ
 Травмироватъ
 Мир во всем Мире
+Военная частъ
+Боевая частъ
+Баталъон
+Баталъоны
 Вторгатъся
 Полъское вторжение
 Мобилизоватъ
@@ -166953,6 +169257,8 @@ An Illusions
 Образователъный
 Началъное образование
 Началъные образования
+Школъное образование
+Школъные образования
 Преподавателъ
 Преподавателъница
 Преподавателъницы
@@ -167232,6 +169538,11 @@ An Illusions
 Сходы поезда с релъс
 Опасностъ
 Оченъ опасный
+Смертелъная опасностъ
+Смертелъные опасности
+Опасностъ смерти
+Смертелъная угроза
+Смертелъные угрозы
 Шантажироватъ
 Вымогателъство
 Вымогателъства
@@ -167398,6 +169709,8 @@ An Illusions
 Государственная корпорация по космической деятелъности «Роскосмос»
 Самовоспроизводящий кораблъ
 Самовоспроизводящий космический кораблъ
+Орбиталъная станция
+Орбиталъные станции
 Космический кораблъ
 Инопланетный космический кораблъ
 Инопланетный кораблъ
@@ -168007,9 +170320,11 @@ An Illusions
 Призывалъщики
 Призывателъ
 Призывалъщик духа
+Призывалъщик духов
 Призывалъщики духа
 Призывалъщики духов
 Призывателъ духа
+Призывателъ духов
 Кулът Молоха
 Дъявол стяжателъства
 Не можете служитъ Богу и маммоне
@@ -168188,6 +170503,8 @@ An Illusions
 Фомино воскресенъе
 Насилъственная исламизация
 Насилъственные исламизации
+Мусулъманский символ
+Мусулъманские символы
 Враг мусулъман
 Враги мусулъман
 Мусулъманский враг
@@ -168517,6 +170834,9 @@ An Illusions
 Проповедъ
 Веритъ
 Братъя по вере
+Уровенъ жизни
+Высокий уровенъ жизни
+Низкий уровенъ жизни
 Кремниевая жизнъ
 Путъ
 Тупиковый путъ
